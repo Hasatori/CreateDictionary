@@ -1,0 +1,58 @@
+
+/* 
+    Created on : Jun 1, 2018, 11:36:55 AM
+    Author     : hradi
+*/
+$backgroundColor:#F2F2F2;
+$mainColor:#3B5998;;
+$secondaryTextColor:#333333;
+$mainTextColor:rgba(255,255,255,0.5);
+$activeColor:white;
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color:$backgroundColor;
+    font-family: Georgia;
+    
+}
+header,footer{
+   height: 10vh;
+  text-align: center;
+  line-height: 10vh;  
+}
+.navbar,footer,.navbar-brand{
+background-color: $mainColor;
+  color:$activeColor !important;
+    font-weight: bold;
+    min-height: 2rem;
+
+}
+.navbar li{
+    border-right: 0.1rem solid $secondaryTextColor;
+    border-left: 0.1rem solid $secondaryTextColor;
+}
+.navbar li a{
+    color: $mainTextColor !important;
+     transition: all 0.5s;
+}
+.navbar li a:hover,.navbar-brand:hover{
+     color:$activeColor !important;
+     transition: all 0.5s;
+}
+.navbar .active a{
+    background-color: $mainColor !important;
+    color:$activeColor !important;
+}
+.mainContent{
+    height: 80vh;
+    text-align: center;
+  
+}
+.mainHeading{
+    margin-bottom: 10rem;
+}
+
+.progressBarContainer{
+    margin-top: 5rem;
+}
