@@ -5,7 +5,7 @@ adv/advp = adverb / adverb phrase; T/I = transitive/intransitive; C/U = countabl
 The numbers indicate the page in the unit on which the word or phrase first appears. RS indicates that the word
 or phrase appears in the recording script (a student version of the recording scripts can be found at
 www.cambridge.org/elt/completecae).
- ccelerator n [C] (50) the part of a car which you push
+accelerator n [C] (50) the part of a car which you push
 a
 with your foot to make it go faster
 acclimatise v [I] (53) to start to feel happy with the

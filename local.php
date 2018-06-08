@@ -32,7 +32,7 @@ Oddělovací znak:(může být i regulární výraz) <input type="text" id="sepa
 
         <p  id="test" >
             <?php
-           createFromLocal();
+           createFromLocal('CAE','\(.*\)');
             ?>
 
         </p>

@@ -12,7 +12,11 @@ header, footer {
   height: 10vh;
   text-align: center;
   line-height: 10vh; }
+footer{
+  bottom: 0;
+  display: block;
 
+}
 .navbar, footer, .navbar-brand {
   background-color: #3B5998;
   color: white !important;
@@ -36,7 +40,7 @@ header, footer {
   color: white !important; }
 
 .mainContent {
-  height: 80vh;
+  min-height: 80vh;
   text-align: center; }
 
 .mainHeading {
