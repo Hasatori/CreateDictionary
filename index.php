@@ -1,7 +1,6 @@
 <?php
 require_once 'backend/Libraries.php';
-session_start();
-if (isset($_POST['start']) && isset($_POST['resultFile']) && isset($_POST['sourceFile'])) {
+if (isset($_POST['startFromExternal']) && isset($_POST['resultFile']) && isset($_POST['sourceFile'])) {
     $sourceFile = $_POST['sourceFile'];
     $resultFile = $_POST['resultFile'];
     if ($sourceFile == '') {
@@ -12,8 +11,8 @@ if (isset($_POST['start']) && isset($_POST['resultFile']) && isset($_POST['sourc
         $error = json_encode(array(false, "Chybí cílový soubor"));
         echo $error;
         exit();
-    } else if ($_POST['start'] == true) {
-        $fp = fopen(__DIR__ . '/sources/' . $resultFile, 'w');
+    } else if ($_POST['startFromExternal'] == true) {
+        $fp = fopen(__DIR__ . '/sources/fromExternalDic/' . $resultFile, 'w');
         $row = array('First_value', 'Second_value', 'Part_of_Speech', 'Synonyms');
         fputcsv($fp, $row, '#');
         fclose($fp);
@@ -32,7 +31,7 @@ if (isset($_POST['result']) && isset($_POST['resultFile'])) {
         header("location:BASE");
         exit();
     } else {
-        $fp = fopen(__DIR__ . '/sources/' . $resultFile, 'a');
+        $fp = fopen(__DIR__ . '/sources/fromExternalDic/' . $resultFile, 'a');
             fputcsv($fp, $result, '#');
   fclose($fp);
         exit();
@@ -48,14 +47,26 @@ if(isset($_POST['loadFile'])&& isset($_POST['firstLanguage'])&&isset($_POST['sec
     
     }
 } 
-buildHeader("Tvorba slovníků");
-buildNavBar("Vyváření slovníků");
+buildHeader("Externí služba");
+buildNavBar("Externí služba");
 ?>
   
    
     <div class="container">
         <label class="btn btn-default">
             Zdroj: <input type="file" hidden id="sourceFile" >
+        </label>
+        <label class="btn btn-default">
+            Jazyk zdroje: <select class='selectpicker'>
+               <?php
+               $list= listDirectory('fromExternalDic');
+               foreach ($list as $fileName){
+                   echo '<option>'.$fileName.'</option>';
+               }
+
+                   ?>
+
+            </select>
         </label>
         <label class="btn btn-default">
             Uložit do souboru: <input type="file" hidden id="resultFile" >
@@ -78,7 +89,7 @@ buildNavBar("Vyváření slovníků");
         </label>
                 <br/>
 <br/>
-        <button class="btn btn-success" onclick="start()">Začít</button>  <button class="btn btn-danger" onclick="document.location.reload();">Ukončit</button>
+        <button class="btn btn-success" onclick="startFromExternal()">Začít</button>  <button class="btn btn-danger" onclick="document.location.reload();">Ukončit</button>
     </div>
 <?php
     buildeProgressBar();

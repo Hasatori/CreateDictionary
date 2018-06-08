@@ -21,6 +21,11 @@ header,footer{
   text-align: center;
   line-height: 10vh;  
 }
+footer{
+  bottom: 0;
+  display: block;
+  position: absolute;;
+}
 .navbar,footer,.navbar-brand{
 background-color: $mainColor;
   color:$activeColor !important;

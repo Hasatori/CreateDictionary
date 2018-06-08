@@ -5,11 +5,11 @@ if(isset($_POST['uploadFile'])){
    
  if ($uploadFile == '') {
         $_SESSION['error'] = "Chybí cílový soubor";
-        header("location:BASEupload.php");
+        header("location:".BASE."upload.php");
         exit();
     }else if(!checkLanguage(explode("_",$uploadFile)[1])){
             $_SESSION['error'] = "Špatný jazyk";
-        header("location:BASEupload.php");
+        header("location:".BASE."upload.php");
         exit();  
     }
     else {

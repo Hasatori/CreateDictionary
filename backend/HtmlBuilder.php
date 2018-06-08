@@ -1,6 +1,8 @@
 <?php
 function buildHeader($title){
- ?> <head>
+ ?><!DOCTYPE html>
+    <html>
+    <head>
     <meta charset="UTF-8">
     <title>ZK-API | <?= $title ?></title>
 
@@ -24,8 +26,10 @@ function buildNavBar($heading){
       <a class="navbar-brand" href="#">API zkoušení slovíček</a>
     </div>
     <ul class="nav navbar-nav">
-      <li id="index"><a href="<?= BASE ?>index.php">Vytváření</a></li>
+      <li id="index"><a href="<?= BASE ?>index.php">Externí služba</a></li>
+        <li id="local"><a href="<?= BASE ?>local.php">Ze souboru</a></li>
       <li id="upload"><a href="<?= BASE ?>upload.php">Náhávání</a></li>
+
 
     </ul>
   </div>
@@ -33,7 +37,7 @@ function buildNavBar($heading){
     <div class="mainContent">
         <h1 class="text-center text-info mainHeading"><?= $heading ?></h1>
          <h2 class="text-center text-danger" id="error" style="display:<?php echo isset($_SESSION['error']) ? "block" : "none" ?>;">
-        <?php echo isset($_SESSION['error']) ? htmlspecialchars($_SESSION['error']) : "null" ?></h2>
+        <?php echo isset($_SESSION['error']) ? htmlspecialchars($_SESSION['error'][1]) : "null" ?></h2>
     <?php
     if(isset($_SESSION['error'])){
     unset($_SESSION['error']);}
@@ -69,7 +73,7 @@ function buildFooter(){
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="index.js"></script>
+    <script src="js/index.js"></script>
 </body>
 </html>
 <?php

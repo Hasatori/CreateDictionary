@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="80c12335-47a7-4c49-841c-781fe499abc9" name="createDictionary" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\CreateDictionary" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
