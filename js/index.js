@@ -203,17 +203,19 @@ function setDuration(expectedDutation) {
 function startFromLocal(){
     var categoriesList = document.getElementById("categoriesList");
     var caregory = categoriesList.options[categoriesList.selectedIndex].text;
+    var separator =document.getElementById('separator').value;
     $.post(BASE+"/local.php", {
 
 
-            'category': resultFile
+            'category': caregory,
+        'separator':separator
 
 
         }, function (data, textStatus, jqXHR) {
 
         }
     ).done(function (data) {
-
+document.getElementById('test').innerText=data;
 
 
     });

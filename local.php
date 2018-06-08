@@ -1,13 +1,12 @@
 <?php
 require_once 'backend/Libraries.php';
 
-if (isset($_POST['caregory'])) {
-    $caregory=$_POST['caregory'];
-
-
-}
-
-
+            if (isset($_POST['category'])&&isset($_POST['separator'])) {
+                $category=$_POST['category'];
+                $separator= $_POST['separator'];
+                echo createFromLocal($category,$separator);
+                exit();
+            }
 
 buildHeader("Lokální soubor");
 buildNavBar("Lokální soubor");
@@ -22,7 +21,7 @@ buildNavBar("Lokální soubor");
     </label>
 
         <label class="btn btn-default">
-Oddělovací znak:(může být i regulární výraz) <input type="text" id="separator" >
+Oddělovací znak:(může být i regulární výraz) <input type="text" id="separator" value="\(.*\)" >
         </label>
                 <br/>
 <br/>
@@ -31,9 +30,7 @@ Oddělovací znak:(může být i regulární výraz) <input type="text" id="sepa
 
 
         <p  id="test" >
-            <?php
-           createFromLocal('CAE','\(.*\)');
-            ?>
+
 
         </p>
 
