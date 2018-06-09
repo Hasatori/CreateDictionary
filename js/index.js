@@ -215,14 +215,46 @@ function startFromLocal(){
 
         }
     ).done(function (data) {
-document.getElementById('test').innerText=data;
+let result=JSON.parse(data);
+
+let tableBody = $('#resultTableBody');
+let row;
+    for(let i=0;i<result[0].length;i++){
+         row ="<tr>" +
+            "<td>"+result[0][i]+"</td>"+
+            "<td>"+result[1][i]+"</td>"+
+            "<td>"+result[2][i]+"</td>"+
+            "<td>"+result[3][i]+"</td>"+
+            "<td>"+result[4][i]+"</td>"+
+            "</tr>";
+        tableBody.append(row)
+
+    }
+
 
 
     });
 }
+/*******************************************************************************************
+ *************************************** OXFORD API  ***************************************
+ ******************************************************************************************/
+function uploadOxfordApiWordLists(){
+    $('.loaderWrapper').attr("style","display:block;");
+    $.post(BASE+"/oxfordDicApi.php", {
+
+
+            'type': "topicWordList",
 
 
 
+        }, function (data, textStatus, jqXHR) {
+
+        }
+    ).done(function (data) {
+        $('.loaderWrapper').attr("style","display:none;");
+console.log(data);
+    });
+}
 
 /******************************************************************************************
  ***************************************** LOAD  ******************************************
@@ -247,5 +279,35 @@ function loadToDatabase() {
 
     });
 
+    let appId = "95c9ff81";
+    let appKey = "b256507eab2da91e054803e64b506b5c";
+    let language = "en";
+    let filters = "registers=Rare;domains=Art";
 
+let searchInputVal = "home";
+
+    var postRequest = {
+        host: "od-api.oxforddictionaries.com",
+        path: "/api/v1/entries/en/",
+        port: "443",
+        method: "GET",
+        rejectUnauthorized: false,
+        headers: {
+            'Content-Type': 'text/html',
+            'app_id': appId,
+            'app_key': appKey,
+            'Content-Length': Buffer.byteLength(searchInputVal)
+        }
+    };
+
+    var request = https.request(postRequest, function(response) {
+        var searchData = "";
+        response.on("data", function(data) {
+            searchData = searchData + data;
+        });
+        response.on("end", function(data) {
+            console.log("searchData" + searchData);
+            searchRes.end(searchData);
+        });
+    });
 }

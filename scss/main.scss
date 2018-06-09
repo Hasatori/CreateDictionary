@@ -4,6 +4,7 @@
     Author     : hradi
 */
 $backgroundColor:#F2F2F2;
+$backgroundColorLoader:rgba(255, 255, 255, 0.4);
 $mainColor:#3B5998;;
 $secondaryTextColor:#333333;
 $mainTextColor:rgba(255,255,255,0.5);
@@ -61,3 +62,31 @@ background-color: $mainColor;
 .progressBarContainer{
     margin-top: 5rem;
 }
+
+/*################### LOADER #########################*/
+.loaderWrapper {
+  display: none;
+  background-color: $backgroundColorLoader;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  top: 0; }
+
+.loader {
+  border: 20px solid transparent;
+  border-radius: 50%;
+  border-top: 20px solid $mainColor;
+  width: 20rem;
+  margin: auto;
+  margin-top: 30vh;
+  height: 20rem;
+  z-index: 11;
+  animation: spin 1s ease-in-out infinite; }
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg); } }
+/*###########################################################*/

@@ -29,12 +29,17 @@ function buildNavBar($heading){
       <li id="index"><a href="<?= BASE ?>index.php">Externí služba</a></li>
         <li id="local"><a href="<?= BASE ?>local.php">Ze souboru</a></li>
       <li id="upload"><a href="<?= BASE ?>upload.php">Náhávání</a></li>
-
+        <li id="oxfordDicApi"><a href="<?= BASE ?>oxfordDicApi.php">Oxford API</a></li>
 
     </ul>
   </div>
 </nav>
     <div class="mainContent">
+        <div class="loaderWrapper"
+            <?php if (@$_SESSION['error'][0]){
+                echo 'style="display:none;"';
+            } ?>
+        ><div class="loader"></div></div>
         <h1 class="text-center text-info mainHeading"><?= $heading ?></h1>
          <h2 class="text-center text-danger" id="error" style="display:<?php echo isset($_SESSION['error']) ? "block" : "none" ?>;">
         <?php echo isset($_SESSION['error']) ? htmlspecialchars($_SESSION['error'][1]) : "null" ?></h2>

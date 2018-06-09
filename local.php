@@ -29,10 +29,21 @@ Oddělovací znak:(může být i regulární výraz) <input type="text" id="sepa
 
 
 
-        <p  id="test" >
+    <table class="table table-bordered table-dark">
+        <thead>
+        <tr>
+            <th scope="col">Hodnota</th>
+            <th scope="col">Vysvětlení</th>
+            <th scope="col">Počitatelnost</th>
+            <th scope="col">Slovní druh</th>
+            <th scope="col">Typ</th>
+        </tr>
+        </thead>
+        <tbody id="resultTableBody">
 
 
-        </p>
+        </tbody>
+    </table>
 
 
     </div>

@@ -50,3 +50,60 @@ footer{
   margin-top: 5rem; }
 
 /*# sourceMappingURL=main.css.map */
+/*################### LOADER #########################*/
+.loaderWrapper {
+  display: none;
+  background-color: rgba(255, 255, 255, 0.4);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  top: 0; }
+
+.loader {
+  border: 20px solid transparent;
+  border-radius: 50%;
+  border-top: 20px solid #2574A9;
+  width: 20rem;
+  margin: auto;
+  margin-top: 30vh;
+  height: 20rem;
+  z-index: 11;
+  animation: spin 1s ease-in-out infinite; }
+
+.registrationResultMessage, .registrationResultMessage > div {
+  display: none; }
+
+.registrationResultMessage div {
+  margin: auto;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+  height: 20%;
+  z-index: 11;
+  font-size: calc(1rem + 1vw); }
+
+.registrationResultMessage div p {
+  display: inline;
+  padding: 2rem; }
+
+div[class=rerrorMessage] button {
+  border: none;
+  text-decoration: underline;
+  color: #2574A9; }
+
+.rsuccessMessage {
+  color: #5cb85c; }
+
+.rerrorMessage {
+  color: #d9534f; }
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg); } }
+/*###########################################################*/
