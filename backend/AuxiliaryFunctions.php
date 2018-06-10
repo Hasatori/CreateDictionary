@@ -91,7 +91,8 @@ function getTableNameFromLanguageAbr($language){
             return "russian";
         case "es":
             return "spanish";
-
+        case "en":
+            return "english";
         default :
             return false;
     }
