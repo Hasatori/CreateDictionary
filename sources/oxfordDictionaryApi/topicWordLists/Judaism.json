@@ -1,0 +1,903 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 223
+    },
+    "results": [
+        {
+            "id": "ab",
+            "word": "ab"
+        },
+        {
+            "id": "adar",
+            "word": "adar"
+        },
+        {
+            "id": "adonai",
+            "word": "adonai"
+        },
+        {
+            "id": "afikoman",
+            "word": "afikoman"
+        },
+        {
+            "id": "aliyah",
+            "word": "aliyah"
+        },
+        {
+            "id": "amidah",
+            "word": "amidah"
+        },
+        {
+            "id": "ark_of_the_covenant",
+            "word": "ark of the covenant"
+        },
+        {
+            "id": "ashkenazi",
+            "word": "ashkenazi"
+        },
+        {
+            "id": "azrael",
+            "word": "azrael"
+        },
+        {
+            "id": "b%27nai_b%27rith",
+            "word": "b'nai b'rith"
+        },
+        {
+            "id": "bar-cochba",
+            "word": "bar-cochba"
+        },
+        {
+            "id": "bar_mitzvah",
+            "word": "bar mitzvah"
+        },
+        {
+            "id": "bashert",
+            "word": "bashert"
+        },
+        {
+            "id": "bat_mitzvah",
+            "word": "bat mitzvah"
+        },
+        {
+            "id": "beth_din",
+            "word": "beth din"
+        },
+        {
+            "id": "bible-believing",
+            "word": "bible-believing"
+        },
+        {
+            "id": "bris",
+            "word": "bris"
+        },
+        {
+            "id": "buber%2C_martin",
+            "word": "buber, martin"
+        },
+        {
+            "id": "cantillate",
+            "word": "cantillate"
+        },
+        {
+            "id": "cantor",
+            "word": "cantor"
+        },
+        {
+            "id": "cantorial",
+            "word": "cantorial"
+        },
+        {
+            "id": "challah",
+            "word": "challah"
+        },
+        {
+            "id": "chametz",
+            "word": "chametz"
+        },
+        {
+            "id": "cheder",
+            "word": "cheder"
+        },
+        {
+            "id": "chief_rabbi",
+            "word": "chief rabbi"
+        },
+        {
+            "id": "cholent",
+            "word": "cholent"
+        },
+        {
+            "id": "chosen_people",
+            "word": "chosen people"
+        },
+        {
+            "id": "chuppah",
+            "word": "chuppah"
+        },
+        {
+            "id": "circumcise",
+            "word": "circumcise"
+        },
+        {
+            "id": "circumcision",
+            "word": "circumcision"
+        },
+        {
+            "id": "congregant",
+            "word": "congregant"
+        },
+        {
+            "id": "conservative_judaism",
+            "word": "conservative judaism"
+        },
+        {
+            "id": "daven",
+            "word": "daven"
+        },
+        {
+            "id": "dayan",
+            "word": "dayan"
+        },
+        {
+            "id": "dead_sea_scrolls",
+            "word": "dead sea scrolls"
+        },
+        {
+            "id": "diaspora",
+            "word": "diaspora"
+        },
+        {
+            "id": "elohim",
+            "word": "elohim"
+        },
+        {
+            "id": "elul",
+            "word": "elul"
+        },
+        {
+            "id": "ephod",
+            "word": "ephod"
+        },
+        {
+            "id": "eruv",
+            "word": "eruv"
+        },
+        {
+            "id": "essene",
+            "word": "essene"
+        },
+        {
+            "id": "ezra",
+            "word": "ezra"
+        },
+        {
+            "id": "falasha",
+            "word": "falasha"
+        },
+        {
+            "id": "gehenna",
+            "word": "gehenna"
+        },
+        {
+            "id": "gemara",
+            "word": "gemara"
+        },
+        {
+            "id": "gematria",
+            "word": "gematria"
+        },
+        {
+            "id": "genizah",
+            "word": "genizah"
+        },
+        {
+            "id": "gentile",
+            "word": "gentile"
+        },
+        {
+            "id": "glatt",
+            "word": "glatt"
+        },
+        {
+            "id": "golem",
+            "word": "golem"
+        },
+        {
+            "id": "habdalah",
+            "word": "habdalah"
+        },
+        {
+            "id": "haftorah",
+            "word": "haftorah"
+        },
+        {
+            "id": "haggadah",
+            "word": "haggadah"
+        },
+        {
+            "id": "hagiographa",
+            "word": "hagiographa"
+        },
+        {
+            "id": "haham",
+            "word": "haham"
+        },
+        {
+            "id": "halacha",
+            "word": "halacha"
+        },
+        {
+            "id": "hallel",
+            "word": "hallel"
+        },
+        {
+            "id": "hanukkah",
+            "word": "hanukkah"
+        },
+        {
+            "id": "haredi",
+            "word": "haredi"
+        },
+        {
+            "id": "hasid",
+            "word": "hasid"
+        },
+        {
+            "id": "hasidic",
+            "word": "hasidic"
+        },
+        {
+            "id": "hasidism",
+            "word": "hasidism"
+        },
+        {
+            "id": "hasmonean",
+            "word": "hasmonean"
+        },
+        {
+            "id": "hebraism",
+            "word": "hebraism"
+        },
+        {
+            "id": "hebraize",
+            "word": "hebraize"
+        },
+        {
+            "id": "hebrew",
+            "word": "hebrew"
+        },
+        {
+            "id": "hesvan",
+            "word": "hesvan"
+        },
+        {
+            "id": "high_holidays",
+            "word": "high holidays"
+        },
+        {
+            "id": "holy_of_holies",
+            "word": "holy of holies"
+        },
+        {
+            "id": "irgun",
+            "word": "irgun"
+        },
+        {
+            "id": "israel",
+            "word": "israel"
+        },
+        {
+            "id": "iyyar",
+            "word": "iyyar"
+        },
+        {
+            "id": "jew",
+            "word": "jew"
+        },
+        {
+            "id": "jewish",
+            "word": "jewish"
+        },
+        {
+            "id": "jewish_calendar",
+            "word": "jewish calendar"
+        },
+        {
+            "id": "jewishness",
+            "word": "jewishness"
+        },
+        {
+            "id": "jhvh",
+            "word": "jhvh"
+        },
+        {
+            "id": "josephus%2C_flavius",
+            "word": "josephus, flavius"
+        },
+        {
+            "id": "judaea",
+            "word": "judaea"
+        },
+        {
+            "id": "judaean",
+            "word": "judaean"
+        },
+        {
+            "id": "judaeo-",
+            "word": "judaeo-"
+        },
+        {
+            "id": "judaic",
+            "word": "judaic"
+        },
+        {
+            "id": "judaism",
+            "word": "judaism"
+        },
+        {
+            "id": "judaize",
+            "word": "judaize"
+        },
+        {
+            "id": "kabbalah",
+            "word": "kabbalah"
+        },
+        {
+            "id": "kabbalist",
+            "word": "kabbalist"
+        },
+        {
+            "id": "kaddish",
+            "word": "kaddish"
+        },
+        {
+            "id": "karaite",
+            "word": "karaite"
+        },
+        {
+            "id": "kashrut",
+            "word": "kashrut"
+        },
+        {
+            "id": "keep_%28or_eat%29_kosher",
+            "word": "keep (or eat) kosher"
+        },
+        {
+            "id": "kiddush",
+            "word": "kiddush"
+        },
+        {
+            "id": "kippa",
+            "word": "kippa"
+        },
+        {
+            "id": "kislev",
+            "word": "kislev"
+        },
+        {
+            "id": "kitke",
+            "word": "kitke"
+        },
+        {
+            "id": "knaidel",
+            "word": "knaidel"
+        },
+        {
+            "id": "kohen",
+            "word": "kohen"
+        },
+        {
+            "id": "kol_nidre",
+            "word": "kol nidre"
+        },
+        {
+            "id": "kosher",
+            "word": "kosher"
+        },
+        {
+            "id": "lag_b%27omer",
+            "word": "lag b'omer"
+        },
+        {
+            "id": "levite",
+            "word": "levite"
+        },
+        {
+            "id": "lilith",
+            "word": "lilith"
+        },
+        {
+            "id": "lost_tribes",
+            "word": "lost tribes"
+        },
+        {
+            "id": "lxx",
+            "word": "lxx"
+        },
+        {
+            "id": "maccabean",
+            "word": "maccabean"
+        },
+        {
+            "id": "maccabees",
+            "word": "maccabees"
+        },
+        {
+            "id": "machzor",
+            "word": "machzor"
+        },
+        {
+            "id": "magen_david",
+            "word": "magen david"
+        },
+        {
+            "id": "maggid",
+            "word": "maggid"
+        },
+        {
+            "id": "mahamad",
+            "word": "mahamad"
+        },
+        {
+            "id": "maimonides",
+            "word": "maimonides"
+        },
+        {
+            "id": "marrano",
+            "word": "marrano"
+        },
+        {
+            "id": "masada",
+            "word": "masada"
+        },
+        {
+            "id": "masorete",
+            "word": "masorete"
+        },
+        {
+            "id": "matzo",
+            "word": "matzo"
+        },
+        {
+            "id": "megillah",
+            "word": "megillah"
+        },
+        {
+            "id": "menorah",
+            "word": "menorah"
+        },
+        {
+            "id": "messiah",
+            "word": "messiah"
+        },
+        {
+            "id": "mezuzah",
+            "word": "mezuzah"
+        },
+        {
+            "id": "midrash",
+            "word": "midrash"
+        },
+        {
+            "id": "mikva",
+            "word": "mikva"
+        },
+        {
+            "id": "minhag",
+            "word": "minhag"
+        },
+        {
+            "id": "minyan",
+            "word": "minyan"
+        },
+        {
+            "id": "mishnah",
+            "word": "mishnah"
+        },
+        {
+            "id": "mitzvah",
+            "word": "mitzvah"
+        },
+        {
+            "id": "mohel",
+            "word": "mohel"
+        },
+        {
+            "id": "nazirite",
+            "word": "nazirite"
+        },
+        {
+            "id": "nisan",
+            "word": "nisan"
+        },
+        {
+            "id": "oral_law",
+            "word": "oral law"
+        },
+        {
+            "id": "orthodox_judaism",
+            "word": "orthodox judaism"
+        },
+        {
+            "id": "pareve",
+            "word": "pareve"
+        },
+        {
+            "id": "paschal_lamb",
+            "word": "paschal lamb"
+        },
+        {
+            "id": "passover",
+            "word": "passover"
+        },
+        {
+            "id": "payess",
+            "word": "payess"
+        },
+        {
+            "id": "pentateuch",
+            "word": "pentateuch"
+        },
+        {
+            "id": "pentateuchal",
+            "word": "pentateuchal"
+        },
+        {
+            "id": "pesach",
+            "word": "pesach"
+        },
+        {
+            "id": "pharisaic",
+            "word": "pharisaic"
+        },
+        {
+            "id": "pharisaism",
+            "word": "pharisaism"
+        },
+        {
+            "id": "pharisee",
+            "word": "pharisee"
+        },
+        {
+            "id": "philo_judaeus",
+            "word": "philo judaeus"
+        },
+        {
+            "id": "phylactery",
+            "word": "phylactery"
+        },
+        {
+            "id": "prayer_shawl",
+            "word": "prayer shawl"
+        },
+        {
+            "id": "precentor",
+            "word": "precentor"
+        },
+        {
+            "id": "psalm",
+            "word": "psalm"
+        },
+        {
+            "id": "purim",
+            "word": "purim"
+        },
+        {
+            "id": "qumran",
+            "word": "qumran"
+        },
+        {
+            "id": "rabbi",
+            "word": "rabbi"
+        },
+        {
+            "id": "rabbinate",
+            "word": "rabbinate"
+        },
+        {
+            "id": "rabbinic",
+            "word": "rabbinic"
+        },
+        {
+            "id": "rav",
+            "word": "rav"
+        },
+        {
+            "id": "reb",
+            "word": "reb"
+        },
+        {
+            "id": "rebbe",
+            "word": "rebbe"
+        },
+        {
+            "id": "rebbetzin",
+            "word": "rebbetzin"
+        },
+        {
+            "id": "reform_jew",
+            "word": "reform jew"
+        },
+        {
+            "id": "reform_judaism",
+            "word": "reform judaism"
+        },
+        {
+            "id": "responsum",
+            "word": "responsum"
+        },
+        {
+            "id": "rosh_hashana",
+            "word": "rosh hashana"
+        },
+        {
+            "id": "sabbath",
+            "word": "sabbath"
+        },
+        {
+            "id": "sabra",
+            "word": "sabra"
+        },
+        {
+            "id": "sadducee",
+            "word": "sadducee"
+        },
+        {
+            "id": "sanctum_sanctorum",
+            "word": "sanctum sanctorum"
+        },
+        {
+            "id": "sanhedrin",
+            "word": "sanhedrin"
+        },
+        {
+            "id": "sebat",
+            "word": "sebat"
+        },
+        {
+            "id": "seder",
+            "word": "seder"
+        },
+        {
+            "id": "sefer",
+            "word": "sefer"
+        },
+        {
+            "id": "sephardi",
+            "word": "sephardi"
+        },
+        {
+            "id": "sephira",
+            "word": "sephira"
+        },
+        {
+            "id": "shabbat",
+            "word": "shabbat"
+        },
+        {
+            "id": "shabbos",
+            "word": "shabbos"
+        },
+        {
+            "id": "shadchan",
+            "word": "shadchan"
+        },
+        {
+            "id": "shaddai",
+            "word": "shaddai"
+        },
+        {
+            "id": "shavuoth",
+            "word": "shavuoth"
+        },
+        {
+            "id": "sheitel",
+            "word": "sheitel"
+        },
+        {
+            "id": "shekinah",
+            "word": "shekinah"
+        },
+        {
+            "id": "shema",
+            "word": "shema"
+        },
+        {
+            "id": "sheol",
+            "word": "sheol"
+        },
+        {
+            "id": "shewbread",
+            "word": "shewbread"
+        },
+        {
+            "id": "shidduch",
+            "word": "shidduch"
+        },
+        {
+            "id": "shiur",
+            "word": "shiur"
+        },
+        {
+            "id": "shiva",
+            "word": "shiva"
+        },
+        {
+            "id": "shochet",
+            "word": "shochet"
+        },
+        {
+            "id": "shofar",
+            "word": "shofar"
+        },
+        {
+            "id": "shtetl",
+            "word": "shtetl"
+        },
+        {
+            "id": "shul",
+            "word": "shul"
+        },
+        {
+            "id": "siddur",
+            "word": "siddur"
+        },
+        {
+            "id": "simcha",
+            "word": "simcha"
+        },
+        {
+            "id": "sin_offering",
+            "word": "sin offering"
+        },
+        {
+            "id": "sivan",
+            "word": "sivan"
+        },
+        {
+            "id": "star_of_david",
+            "word": "star of david"
+        },
+        {
+            "id": "succah",
+            "word": "succah"
+        },
+        {
+            "id": "succoth",
+            "word": "succoth"
+        },
+        {
+            "id": "sunday_school",
+            "word": "sunday school"
+        },
+        {
+            "id": "synagogue",
+            "word": "synagogue"
+        },
+        {
+            "id": "tallith",
+            "word": "tallith"
+        },
+        {
+            "id": "talmud",
+            "word": "talmud"
+        },
+        {
+            "id": "talmud_torah",
+            "word": "talmud torah"
+        },
+        {
+            "id": "targum",
+            "word": "targum"
+        },
+        {
+            "id": "tebet",
+            "word": "tebet"
+        },
+        {
+            "id": "tefillin",
+            "word": "tefillin"
+        },
+        {
+            "id": "tetragrammaton",
+            "word": "tetragrammaton"
+        },
+        {
+            "id": "thammuz",
+            "word": "thammuz"
+        },
+        {
+            "id": "theocracy",
+            "word": "theocracy"
+        },
+        {
+            "id": "tishri",
+            "word": "tishri"
+        },
+        {
+            "id": "torah",
+            "word": "torah"
+        },
+        {
+            "id": "trefa",
+            "word": "trefa"
+        },
+        {
+            "id": "tribes_of_israel",
+            "word": "tribes of israel"
+        },
+        {
+            "id": "tsaddik",
+            "word": "tsaddik"
+        },
+        {
+            "id": "tzedakah",
+            "word": "tzedakah"
+        },
+        {
+            "id": "urim_and_thummim",
+            "word": "urim and thummim"
+        },
+        {
+            "id": "wailing_wall",
+            "word": "wailing wall"
+        },
+        {
+            "id": "yahrzeit",
+            "word": "yahrzeit"
+        },
+        {
+            "id": "yarmulke",
+            "word": "yarmulke"
+        },
+        {
+            "id": "yeshiva",
+            "word": "yeshiva"
+        },
+        {
+            "id": "yhwh",
+            "word": "yhwh"
+        },
+        {
+            "id": "yiddish",
+            "word": "yiddish"
+        },
+        {
+            "id": "yiddisher",
+            "word": "yiddisher"
+        },
+        {
+            "id": "yiddishist",
+            "word": "yiddishist"
+        },
+        {
+            "id": "yiddishkeit",
+            "word": "yiddishkeit"
+        },
+        {
+            "id": "yishuv",
+            "word": "yishuv"
+        },
+        {
+            "id": "yizkor",
+            "word": "yizkor"
+        },
+        {
+            "id": "yom_kippur",
+            "word": "yom kippur"
+        },
+        {
+            "id": "zion",
+            "word": "zion"
+        },
+        {
+            "id": "zohar",
+            "word": "zohar"
+        }
+    ]
+}

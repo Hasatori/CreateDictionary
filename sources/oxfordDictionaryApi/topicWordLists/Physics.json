@@ -1,0 +1,5279 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 1317
+    },
+    "results": [
+        {
+            "id": "absolute_temperature",
+            "word": "absolute temperature"
+        },
+        {
+            "id": "absolute_zero",
+            "word": "absolute zero"
+        },
+        {
+            "id": "absorb",
+            "word": "absorb"
+        },
+        {
+            "id": "absorbance",
+            "word": "absorbance"
+        },
+        {
+            "id": "absorbed_dose",
+            "word": "absorbed dose"
+        },
+        {
+            "id": "absorptiometer",
+            "word": "absorptiometer"
+        },
+        {
+            "id": "absorption_spectrum",
+            "word": "absorption spectrum"
+        },
+        {
+            "id": "absorptivity",
+            "word": "absorptivity"
+        },
+        {
+            "id": "accuracy",
+            "word": "accuracy"
+        },
+        {
+            "id": "acoustic",
+            "word": "acoustic"
+        },
+        {
+            "id": "acoustician",
+            "word": "acoustician"
+        },
+        {
+            "id": "acoustic_impedance",
+            "word": "acoustic impedance"
+        },
+        {
+            "id": "actinometer",
+            "word": "actinometer"
+        },
+        {
+            "id": "action_at_a_distance",
+            "word": "action at a distance"
+        },
+        {
+            "id": "adiabatic",
+            "word": "adiabatic"
+        },
+        {
+            "id": "advanced_gas-cooled_reactor",
+            "word": "advanced gas-cooled reactor"
+        },
+        {
+            "id": "aea",
+            "word": "aea"
+        },
+        {
+            "id": "aerodynamic",
+            "word": "aerodynamic"
+        },
+        {
+            "id": "aerodynamics",
+            "word": "aerodynamics"
+        },
+        {
+            "id": "aerosphere",
+            "word": "aerosphere"
+        },
+        {
+            "id": "af",
+            "word": "af"
+        },
+        {
+            "id": "airglow",
+            "word": "airglow"
+        },
+        {
+            "id": "alfv%C3%A9n%2C_hannes",
+            "word": "alfvén, hannes"
+        },
+        {
+            "id": "alfv%C3%A9n_wave",
+            "word": "alfvén wave"
+        },
+        {
+            "id": "aliasing",
+            "word": "aliasing"
+        },
+        {
+            "id": "alpha_particle",
+            "word": "alpha particle"
+        },
+        {
+            "id": "alpha_radiation",
+            "word": "alpha radiation"
+        },
+        {
+            "id": "altimetry",
+            "word": "altimetry"
+        },
+        {
+            "id": "alvarez%2C_luis_walter",
+            "word": "alvarez, luis walter"
+        },
+        {
+            "id": "amp%C3%A8re%2C_andr%C3%A9-marie",
+            "word": "ampère, andré-marie"
+        },
+        {
+            "id": "amplitude",
+            "word": "amplitude"
+        },
+        {
+            "id": "anderson%2C_carl_david",
+            "word": "anderson, carl david"
+        },
+        {
+            "id": "anechoic",
+            "word": "anechoic"
+        },
+        {
+            "id": "angle_of_incidence",
+            "word": "angle of incidence"
+        },
+        {
+            "id": "angle_of_reflection",
+            "word": "angle of reflection"
+        },
+        {
+            "id": "angle_of_refraction",
+            "word": "angle of refraction"
+        },
+        {
+            "id": "angle_of_repose",
+            "word": "angle of repose"
+        },
+        {
+            "id": "angstrom",
+            "word": "angstrom"
+        },
+        {
+            "id": "angular_frequency",
+            "word": "angular frequency"
+        },
+        {
+            "id": "angular_momentum",
+            "word": "angular momentum"
+        },
+        {
+            "id": "angular_velocity",
+            "word": "angular velocity"
+        },
+        {
+            "id": "anharmonic",
+            "word": "anharmonic"
+        },
+        {
+            "id": "anisotropic",
+            "word": "anisotropic"
+        },
+        {
+            "id": "anticathode",
+            "word": "anticathode"
+        },
+        {
+            "id": "antiferromagnetic",
+            "word": "antiferromagnetic"
+        },
+        {
+            "id": "antigravity",
+            "word": "antigravity"
+        },
+        {
+            "id": "anti-magnetic",
+            "word": "anti-magnetic"
+        },
+        {
+            "id": "antimatter",
+            "word": "antimatter"
+        },
+        {
+            "id": "antinode",
+            "word": "antinode"
+        },
+        {
+            "id": "antiparallel",
+            "word": "antiparallel"
+        },
+        {
+            "id": "antiparticle",
+            "word": "antiparticle"
+        },
+        {
+            "id": "antiproton",
+            "word": "antiproton"
+        },
+        {
+            "id": "antiquark",
+            "word": "antiquark"
+        },
+        {
+            "id": "antisymmetric",
+            "word": "antisymmetric"
+        },
+        {
+            "id": "aperiodic",
+            "word": "aperiodic"
+        },
+        {
+            "id": "aplanat",
+            "word": "aplanat"
+        },
+        {
+            "id": "appleton%2C_sir_edward_victor",
+            "word": "appleton, sir edward victor"
+        },
+        {
+            "id": "archimedes%27_principle",
+            "word": "archimedes' principle"
+        },
+        {
+            "id": "arrow_of_time_%28or_time%27s_arrow%29",
+            "word": "arrow of time (or time's arrow)"
+        },
+        {
+            "id": "astatic",
+            "word": "astatic"
+        },
+        {
+            "id": "aston%2C_francis_william",
+            "word": "aston, francis william"
+        },
+        {
+            "id": "atmosphere",
+            "word": "atmosphere"
+        },
+        {
+            "id": "atmospheric_pressure",
+            "word": "atmospheric pressure"
+        },
+        {
+            "id": "atom",
+            "word": "atom"
+        },
+        {
+            "id": "atom_bomb",
+            "word": "atom bomb"
+        },
+        {
+            "id": "atomic",
+            "word": "atomic"
+        },
+        {
+            "id": "atomic_clock",
+            "word": "atomic clock"
+        },
+        {
+            "id": "atomic_energy",
+            "word": "atomic energy"
+        },
+        {
+            "id": "atomicity",
+            "word": "atomicity"
+        },
+        {
+            "id": "atomic_mass_unit",
+            "word": "atomic mass unit"
+        },
+        {
+            "id": "atomic_number",
+            "word": "atomic number"
+        },
+        {
+            "id": "atomic_physics",
+            "word": "atomic physics"
+        },
+        {
+            "id": "atomic_spectrum",
+            "word": "atomic spectrum"
+        },
+        {
+            "id": "atomic_war",
+            "word": "atomic war"
+        },
+        {
+            "id": "atomize",
+            "word": "atomize"
+        },
+        {
+            "id": "attenuate",
+            "word": "attenuate"
+        },
+        {
+            "id": "attenuated",
+            "word": "attenuated"
+        },
+        {
+            "id": "attenuation",
+            "word": "attenuation"
+        },
+        {
+            "id": "audio-",
+            "word": "audio-"
+        },
+        {
+            "id": "audio_frequency",
+            "word": "audio frequency"
+        },
+        {
+            "id": "audiology",
+            "word": "audiology"
+        },
+        {
+            "id": "auditory",
+            "word": "auditory"
+        },
+        {
+            "id": "auger_effect",
+            "word": "auger effect"
+        },
+        {
+            "id": "autostereoscopic",
+            "word": "autostereoscopic"
+        },
+        {
+            "id": "axion",
+            "word": "axion"
+        },
+        {
+            "id": "b",
+            "word": "b"
+        },
+        {
+            "id": "backscatter",
+            "word": "backscatter"
+        },
+        {
+            "id": "balmer_series",
+            "word": "balmer series"
+        },
+        {
+            "id": "barn",
+            "word": "barn"
+        },
+        {
+            "id": "barycentric",
+            "word": "barycentric"
+        },
+        {
+            "id": "baryon",
+            "word": "baryon"
+        },
+        {
+            "id": "beam_splitter",
+            "word": "beam splitter"
+        },
+        {
+            "id": "beat_frequency",
+            "word": "beat frequency"
+        },
+        {
+            "id": "becquerel",
+            "word": "becquerel"
+        },
+        {
+            "id": "becquerel%2C_antoine-henri",
+            "word": "becquerel, antoine-henri"
+        },
+        {
+            "id": "bel",
+            "word": "bel"
+        },
+        {
+            "id": "beta_decay",
+            "word": "beta decay"
+        },
+        {
+            "id": "beta_particle",
+            "word": "beta particle"
+        },
+        {
+            "id": "betatron",
+            "word": "betatron"
+        },
+        {
+            "id": "bevatron",
+            "word": "bevatron"
+        },
+        {
+            "id": "bimetallic_strip",
+            "word": "bimetallic strip"
+        },
+        {
+            "id": "binding_energy",
+            "word": "binding energy"
+        },
+        {
+            "id": "bioacoustics",
+            "word": "bioacoustics"
+        },
+        {
+            "id": "birefringent",
+            "word": "birefringent"
+        },
+        {
+            "id": "black_body",
+            "word": "black body"
+        },
+        {
+            "id": "blackett%2C_patrick",
+            "word": "blackett, patrick"
+        },
+        {
+            "id": "black_light",
+            "word": "black light"
+        },
+        {
+            "id": "bohr%2C_niels",
+            "word": "bohr, niels"
+        },
+        {
+            "id": "boil",
+            "word": "boil"
+        },
+        {
+            "id": "boiling-water_reactor",
+            "word": "boiling-water reactor"
+        },
+        {
+            "id": "bolometer",
+            "word": "bolometer"
+        },
+        {
+            "id": "boltzmann%2C_ludwig",
+            "word": "boltzmann, ludwig"
+        },
+        {
+            "id": "bomb_calorimeter",
+            "word": "bomb calorimeter"
+        },
+        {
+            "id": "born%2C_max",
+            "word": "born, max"
+        },
+        {
+            "id": "bose%2C_satyendra_nath",
+            "word": "bose, satyendra nath"
+        },
+        {
+            "id": "boson",
+            "word": "boson"
+        },
+        {
+            "id": "bounce",
+            "word": "bounce"
+        },
+        {
+            "id": "boundary_layer",
+            "word": "boundary layer"
+        },
+        {
+            "id": "bourdon_gauge",
+            "word": "bourdon gauge"
+        },
+        {
+            "id": "boyle%2C_robert",
+            "word": "boyle, robert"
+        },
+        {
+            "id": "brachistochrone",
+            "word": "brachistochrone"
+        },
+        {
+            "id": "bragg%2C_sir_william_henry",
+            "word": "bragg, sir william henry"
+        },
+        {
+            "id": "brane",
+            "word": "brane"
+        },
+        {
+            "id": "braun%2C_karl_ferdinand",
+            "word": "braun, karl ferdinand"
+        },
+        {
+            "id": "breeder_reactor",
+            "word": "breeder reactor"
+        },
+        {
+            "id": "bremsstrahlung",
+            "word": "bremsstrahlung"
+        },
+        {
+            "id": "brewster%2C_sir_david",
+            "word": "brewster, sir david"
+        },
+        {
+            "id": "bridgman%2C_percy_williams",
+            "word": "bridgman, percy williams"
+        },
+        {
+            "id": "brownian_motion",
+            "word": "brownian motion"
+        },
+        {
+            "id": "bubble_chamber",
+            "word": "bubble chamber"
+        },
+        {
+            "id": "bulk_modulus",
+            "word": "bulk modulus"
+        },
+        {
+            "id": "buoyancy",
+            "word": "buoyancy"
+        },
+        {
+            "id": "burnout",
+            "word": "burnout"
+        },
+        {
+            "id": "c%2Fs",
+            "word": "c/s"
+        },
+        {
+            "id": "%C3%A5ngstr%C3%B6m%2C_anders_jonas",
+            "word": "ångström, anders jonas"
+        },
+        {
+            "id": "caesium_clock",
+            "word": "caesium clock"
+        },
+        {
+            "id": "caloric",
+            "word": "caloric"
+        },
+        {
+            "id": "calorie",
+            "word": "calorie"
+        },
+        {
+            "id": "calorific",
+            "word": "calorific"
+        },
+        {
+            "id": "calorific_value",
+            "word": "calorific value"
+        },
+        {
+            "id": "calorimeter",
+            "word": "calorimeter"
+        },
+        {
+            "id": "calutron",
+            "word": "calutron"
+        },
+        {
+            "id": "candela",
+            "word": "candela"
+        },
+        {
+            "id": "candlepower",
+            "word": "candlepower"
+        },
+        {
+            "id": "candu",
+            "word": "candu"
+        },
+        {
+            "id": "capacitive",
+            "word": "capacitive"
+        },
+        {
+            "id": "capillarity",
+            "word": "capillarity"
+        },
+        {
+            "id": "carnot%2C_nicolas_l%C3%A9onard_sadi",
+            "word": "carnot, nicolas léonard sadi"
+        },
+        {
+            "id": "carrier_wave",
+            "word": "carrier wave"
+        },
+        {
+            "id": "cathode_ray",
+            "word": "cathode ray"
+        },
+        {
+            "id": "cathodoluminescence",
+            "word": "cathodoluminescence"
+        },
+        {
+            "id": "catoptric",
+            "word": "catoptric"
+        },
+        {
+            "id": "catoptrics",
+            "word": "catoptrics"
+        },
+        {
+            "id": "cavitation",
+            "word": "cavitation"
+        },
+        {
+            "id": "celsius",
+            "word": "celsius"
+        },
+        {
+            "id": "centre_of_attraction",
+            "word": "centre of attraction"
+        },
+        {
+            "id": "centre_of_buoyancy",
+            "word": "centre of buoyancy"
+        },
+        {
+            "id": "centre_of_flotation",
+            "word": "centre of flotation"
+        },
+        {
+            "id": "centre_of_gravity",
+            "word": "centre of gravity"
+        },
+        {
+            "id": "centre_of_mass",
+            "word": "centre of mass"
+        },
+        {
+            "id": "centre_of_pressure",
+            "word": "centre of pressure"
+        },
+        {
+            "id": "centrifugal",
+            "word": "centrifugal"
+        },
+        {
+            "id": "centrifugal_force",
+            "word": "centrifugal force"
+        },
+        {
+            "id": "centrifuge",
+            "word": "centrifuge"
+        },
+        {
+            "id": "centripetal",
+            "word": "centripetal"
+        },
+        {
+            "id": "centripetal_force",
+            "word": "centripetal force"
+        },
+        {
+            "id": "cerenkov_radiation",
+            "word": "cerenkov radiation"
+        },
+        {
+            "id": "cern",
+            "word": "cern"
+        },
+        {
+            "id": "cgs",
+            "word": "cgs"
+        },
+        {
+            "id": "chadwick%2C_sir_james",
+            "word": "chadwick, sir james"
+        },
+        {
+            "id": "chamberlain%2C_owen",
+            "word": "chamberlain, owen"
+        },
+        {
+            "id": "chaology",
+            "word": "chaology"
+        },
+        {
+            "id": "chaos",
+            "word": "chaos"
+        },
+        {
+            "id": "chaos_theory",
+            "word": "chaos theory"
+        },
+        {
+            "id": "chaotic",
+            "word": "chaotic"
+        },
+        {
+            "id": "characteristic_radiation",
+            "word": "characteristic radiation"
+        },
+        {
+            "id": "charge_carrier",
+            "word": "charge carrier"
+        },
+        {
+            "id": "charge_conjugation",
+            "word": "charge conjugation"
+        },
+        {
+            "id": "charge_density",
+            "word": "charge density"
+        },
+        {
+            "id": "charmonium",
+            "word": "charmonium"
+        },
+        {
+            "id": "cherenkov%2C_pavel",
+            "word": "cherenkov, pavel"
+        },
+        {
+            "id": "cherwell%2C_1st_viscount",
+            "word": "cherwell, 1st viscount"
+        },
+        {
+            "id": "chroma",
+            "word": "chroma"
+        },
+        {
+            "id": "chromatic_aberration",
+            "word": "chromatic aberration"
+        },
+        {
+            "id": "chromaticity",
+            "word": "chromaticity"
+        },
+        {
+            "id": "chronometer",
+            "word": "chronometer"
+        },
+        {
+            "id": "chronometry",
+            "word": "chronometry"
+        },
+        {
+            "id": "circular_polarization",
+            "word": "circular polarization"
+        },
+        {
+            "id": "clausius%2C_rudolf",
+            "word": "clausius, rudolf"
+        },
+        {
+            "id": "cloud_chamber",
+            "word": "cloud chamber"
+        },
+        {
+            "id": "cockcroft%2C_sir_john_douglas",
+            "word": "cockcroft, sir john douglas"
+        },
+        {
+            "id": "coercive_force",
+            "word": "coercive force"
+        },
+        {
+            "id": "coercivity",
+            "word": "coercivity"
+        },
+        {
+            "id": "cohesion",
+            "word": "cohesion"
+        },
+        {
+            "id": "cold_fusion",
+            "word": "cold fusion"
+        },
+        {
+            "id": "cold_light",
+            "word": "cold light"
+        },
+        {
+            "id": "collider",
+            "word": "collider"
+        },
+        {
+            "id": "collimate",
+            "word": "collimate"
+        },
+        {
+            "id": "collimated",
+            "word": "collimated"
+        },
+        {
+            "id": "collimator",
+            "word": "collimator"
+        },
+        {
+            "id": "colorimeter",
+            "word": "colorimeter"
+        },
+        {
+            "id": "colour_temperature",
+            "word": "colour temperature"
+        },
+        {
+            "id": "comminuted",
+            "word": "comminuted"
+        },
+        {
+            "id": "compass",
+            "word": "compass"
+        },
+        {
+            "id": "compensation_pendulum",
+            "word": "compensation pendulum"
+        },
+        {
+            "id": "complementarity",
+            "word": "complementarity"
+        },
+        {
+            "id": "component",
+            "word": "component"
+        },
+        {
+            "id": "compressed_air",
+            "word": "compressed air"
+        },
+        {
+            "id": "compton%2C_arthur_holly",
+            "word": "compton, arthur holly"
+        },
+        {
+            "id": "compton_effect",
+            "word": "compton effect"
+        },
+        {
+            "id": "conductance",
+            "word": "conductance"
+        },
+        {
+            "id": "conduction",
+            "word": "conduction"
+        },
+        {
+            "id": "conduction_band",
+            "word": "conduction band"
+        },
+        {
+            "id": "conductive",
+            "word": "conductive"
+        },
+        {
+            "id": "conductivity",
+            "word": "conductivity"
+        },
+        {
+            "id": "continuous_spectrum",
+            "word": "continuous spectrum"
+        },
+        {
+            "id": "continuous_wave",
+            "word": "continuous wave"
+        },
+        {
+            "id": "control_rod",
+            "word": "control rod"
+        },
+        {
+            "id": "convect",
+            "word": "convect"
+        },
+        {
+            "id": "convected",
+            "word": "convected"
+        },
+        {
+            "id": "convecting",
+            "word": "convecting"
+        },
+        {
+            "id": "convection",
+            "word": "convection"
+        },
+        {
+            "id": "convection_cell",
+            "word": "convection cell"
+        },
+        {
+            "id": "convection_current",
+            "word": "convection current"
+        },
+        {
+            "id": "converter_reactor",
+            "word": "converter reactor"
+        },
+        {
+            "id": "cooper_pair",
+            "word": "cooper pair"
+        },
+        {
+            "id": "coplanar",
+            "word": "coplanar"
+        },
+        {
+            "id": "coriolis_effect",
+            "word": "coriolis effect"
+        },
+        {
+            "id": "correspondence_principle",
+            "word": "correspondence principle"
+        },
+        {
+            "id": "cosmological_constant",
+            "word": "cosmological constant"
+        },
+        {
+            "id": "coulomb%27s_law",
+            "word": "coulomb's law"
+        },
+        {
+            "id": "coupling_constant",
+            "word": "coupling constant"
+        },
+        {
+            "id": "critical_damping",
+            "word": "critical damping"
+        },
+        {
+            "id": "critical_mass",
+            "word": "critical mass"
+        },
+        {
+            "id": "cryogen",
+            "word": "cryogen"
+        },
+        {
+            "id": "cryogenic",
+            "word": "cryogenic"
+        },
+        {
+            "id": "cryogenics",
+            "word": "cryogenics"
+        },
+        {
+            "id": "cryostat",
+            "word": "cryostat"
+        },
+        {
+            "id": "curie",
+            "word": "curie"
+        },
+        {
+            "id": "current_density",
+            "word": "current density"
+        },
+        {
+            "id": "cybernetics",
+            "word": "cybernetics"
+        },
+        {
+            "id": "cyclotron",
+            "word": "cyclotron"
+        },
+        {
+            "id": "d%27alembert%2C_jean_le_rond",
+            "word": "d'alembert, jean le rond"
+        },
+        {
+            "id": "damping",
+            "word": "damping"
+        },
+        {
+            "id": "dark_energy",
+            "word": "dark energy"
+        },
+        {
+            "id": "dark_line",
+            "word": "dark line"
+        },
+        {
+            "id": "davisson%2C_clinton_joseph",
+            "word": "davisson, clinton joseph"
+        },
+        {
+            "id": "dead_time",
+            "word": "dead time"
+        },
+        {
+            "id": "de_broglie%2C_louis-victor",
+            "word": "de broglie, louis-victor"
+        },
+        {
+            "id": "decibel",
+            "word": "decibel"
+        },
+        {
+            "id": "deflector",
+            "word": "deflector"
+        },
+        {
+            "id": "de_forest%2C_lee",
+            "word": "de forest, lee"
+        },
+        {
+            "id": "degree_of_freedom",
+            "word": "degree of freedom"
+        },
+        {
+            "id": "delta_rays",
+            "word": "delta rays"
+        },
+        {
+            "id": "demagnetize",
+            "word": "demagnetize"
+        },
+        {
+            "id": "densitometer",
+            "word": "densitometer"
+        },
+        {
+            "id": "depleted_uranium",
+            "word": "depleted uranium"
+        },
+        {
+            "id": "depolarize",
+            "word": "depolarize"
+        },
+        {
+            "id": "depressurize",
+            "word": "depressurize"
+        },
+        {
+            "id": "deuteron",
+            "word": "deuteron"
+        },
+        {
+            "id": "dew_point",
+            "word": "dew point"
+        },
+        {
+            "id": "diamagnetic",
+            "word": "diamagnetic"
+        },
+        {
+            "id": "dielectric",
+            "word": "dielectric"
+        },
+        {
+            "id": "dielectric_constant",
+            "word": "dielectric constant"
+        },
+        {
+            "id": "dielectrophoresis",
+            "word": "dielectrophoresis"
+        },
+        {
+            "id": "diffract",
+            "word": "diffract"
+        },
+        {
+            "id": "diffraction",
+            "word": "diffraction"
+        },
+        {
+            "id": "diffraction_grating",
+            "word": "diffraction grating"
+        },
+        {
+            "id": "diffractive",
+            "word": "diffractive"
+        },
+        {
+            "id": "diffractometer",
+            "word": "diffractometer"
+        },
+        {
+            "id": "diffuse",
+            "word": "diffuse"
+        },
+        {
+            "id": "diffusive",
+            "word": "diffusive"
+        },
+        {
+            "id": "diffusivity",
+            "word": "diffusivity"
+        },
+        {
+            "id": "dioptre",
+            "word": "dioptre"
+        },
+        {
+            "id": "dioptrics",
+            "word": "dioptrics"
+        },
+        {
+            "id": "dipole",
+            "word": "dipole"
+        },
+        {
+            "id": "dipole_moment",
+            "word": "dipole moment"
+        },
+        {
+            "id": "dirac%2C_paul",
+            "word": "dirac, paul"
+        },
+        {
+            "id": "discharge_lamp",
+            "word": "discharge lamp"
+        },
+        {
+            "id": "discharge_tube",
+            "word": "discharge tube"
+        },
+        {
+            "id": "disintegrate",
+            "word": "disintegrate"
+        },
+        {
+            "id": "doppler%2C_christian",
+            "word": "doppler, christian"
+        },
+        {
+            "id": "doppler_broadening",
+            "word": "doppler broadening"
+        },
+        {
+            "id": "doppler_effect",
+            "word": "doppler effect"
+        },
+        {
+            "id": "doppler_shift",
+            "word": "doppler shift"
+        },
+        {
+            "id": "dose_equivalent",
+            "word": "dose equivalent"
+        },
+        {
+            "id": "dosimeter",
+            "word": "dosimeter"
+        },
+        {
+            "id": "double_refraction",
+            "word": "double refraction"
+        },
+        {
+            "id": "dry_bulb",
+            "word": "dry bulb"
+        },
+        {
+            "id": "du",
+            "word": "du"
+        },
+        {
+            "id": "dye_laser",
+            "word": "dye laser"
+        },
+        {
+            "id": "dynamic_equilibrium",
+            "word": "dynamic equilibrium"
+        },
+        {
+            "id": "dynamicist",
+            "word": "dynamicist"
+        },
+        {
+            "id": "dynamics",
+            "word": "dynamics"
+        },
+        {
+            "id": "dynamic_viscosity",
+            "word": "dynamic viscosity"
+        },
+        {
+            "id": "dyne",
+            "word": "dyne"
+        },
+        {
+            "id": "echo",
+            "word": "echo"
+        },
+        {
+            "id": "echoey",
+            "word": "echoey"
+        },
+        {
+            "id": "echogram",
+            "word": "echogram"
+        },
+        {
+            "id": "echograph",
+            "word": "echograph"
+        },
+        {
+            "id": "echolocation",
+            "word": "echolocation"
+        },
+        {
+            "id": "effective_temperature",
+            "word": "effective temperature"
+        },
+        {
+            "id": "eigen-",
+            "word": "eigen-"
+        },
+        {
+            "id": "eigenfrequency",
+            "word": "eigenfrequency"
+        },
+        {
+            "id": "eigenfunction",
+            "word": "eigenfunction"
+        },
+        {
+            "id": "eigenstate",
+            "word": "eigenstate"
+        },
+        {
+            "id": "eigenvalue",
+            "word": "eigenvalue"
+        },
+        {
+            "id": "eigenvector",
+            "word": "eigenvector"
+        },
+        {
+            "id": "einstein%2C_albert",
+            "word": "einstein, albert"
+        },
+        {
+            "id": "einsteinian",
+            "word": "einsteinian"
+        },
+        {
+            "id": "elasticity",
+            "word": "elasticity"
+        },
+        {
+            "id": "elastic_limit",
+            "word": "elastic limit"
+        },
+        {
+            "id": "elastic_modulus",
+            "word": "elastic modulus"
+        },
+        {
+            "id": "e-layer",
+            "word": "e-layer"
+        },
+        {
+            "id": "electret",
+            "word": "electret"
+        },
+        {
+            "id": "electric_field",
+            "word": "electric field"
+        },
+        {
+            "id": "electrode",
+            "word": "electrode"
+        },
+        {
+            "id": "electrodynamics",
+            "word": "electrodynamics"
+        },
+        {
+            "id": "electromagnet",
+            "word": "electromagnet"
+        },
+        {
+            "id": "electromagnetic",
+            "word": "electromagnetic"
+        },
+        {
+            "id": "electromagnetic_radiation",
+            "word": "electromagnetic radiation"
+        },
+        {
+            "id": "electromagnetic_spectrum",
+            "word": "electromagnetic spectrum"
+        },
+        {
+            "id": "electromagnetic_units",
+            "word": "electromagnetic units"
+        },
+        {
+            "id": "electromagnetism",
+            "word": "electromagnetism"
+        },
+        {
+            "id": "electrometer",
+            "word": "electrometer"
+        },
+        {
+            "id": "electromotive",
+            "word": "electromotive"
+        },
+        {
+            "id": "electromotive_force",
+            "word": "electromotive force"
+        },
+        {
+            "id": "electron",
+            "word": "electron"
+        },
+        {
+            "id": "electron_beam",
+            "word": "electron beam"
+        },
+        {
+            "id": "electron_diffraction",
+            "word": "electron diffraction"
+        },
+        {
+            "id": "electronegative",
+            "word": "electronegative"
+        },
+        {
+            "id": "electron_gun",
+            "word": "electron gun"
+        },
+        {
+            "id": "electron_lens",
+            "word": "electron lens"
+        },
+        {
+            "id": "electron_microscope",
+            "word": "electron microscope"
+        },
+        {
+            "id": "electron_optics",
+            "word": "electron optics"
+        },
+        {
+            "id": "electron_spin_resonance",
+            "word": "electron spin resonance"
+        },
+        {
+            "id": "electron_tube",
+            "word": "electron tube"
+        },
+        {
+            "id": "electronvolt",
+            "word": "electronvolt"
+        },
+        {
+            "id": "electro-optics",
+            "word": "electro-optics"
+        },
+        {
+            "id": "electrophorese",
+            "word": "electrophorese"
+        },
+        {
+            "id": "electrophoresis",
+            "word": "electrophoresis"
+        },
+        {
+            "id": "electrophorus",
+            "word": "electrophorus"
+        },
+        {
+            "id": "electropositive",
+            "word": "electropositive"
+        },
+        {
+            "id": "electroscope",
+            "word": "electroscope"
+        },
+        {
+            "id": "electrostatic",
+            "word": "electrostatic"
+        },
+        {
+            "id": "electrostatics",
+            "word": "electrostatics"
+        },
+        {
+            "id": "electrostatic_units",
+            "word": "electrostatic units"
+        },
+        {
+            "id": "electroweak",
+            "word": "electroweak"
+        },
+        {
+            "id": "emf",
+            "word": "emf"
+        },
+        {
+            "id": "emission",
+            "word": "emission"
+        },
+        {
+            "id": "emission_spectrum",
+            "word": "emission spectrum"
+        },
+        {
+            "id": "emissive",
+            "word": "emissive"
+        },
+        {
+            "id": "emit",
+            "word": "emit"
+        },
+        {
+            "id": "energetics",
+            "word": "energetics"
+        },
+        {
+            "id": "energize",
+            "word": "energize"
+        },
+        {
+            "id": "energy_density",
+            "word": "energy density"
+        },
+        {
+            "id": "enrichment",
+            "word": "enrichment"
+        },
+        {
+            "id": "enthalpy",
+            "word": "enthalpy"
+        },
+        {
+            "id": "entropy",
+            "word": "entropy"
+        },
+        {
+            "id": "epidiascope",
+            "word": "epidiascope"
+        },
+        {
+            "id": "epsrc",
+            "word": "epsrc"
+        },
+        {
+            "id": "equilibrium",
+            "word": "equilibrium"
+        },
+        {
+            "id": "equipartition",
+            "word": "equipartition"
+        },
+        {
+            "id": "equipotential",
+            "word": "equipotential"
+        },
+        {
+            "id": "equivalence_principle",
+            "word": "equivalence principle"
+        },
+        {
+            "id": "erg",
+            "word": "erg"
+        },
+        {
+            "id": "esaki%2C_leo",
+            "word": "esaki, leo"
+        },
+        {
+            "id": "escape_velocity",
+            "word": "escape velocity"
+        },
+        {
+            "id": "esr",
+            "word": "esr"
+        },
+        {
+            "id": "e.s.u.",
+            "word": "e.s.u."
+        },
+        {
+            "id": "etalon",
+            "word": "etalon"
+        },
+        {
+            "id": "evaporative",
+            "word": "evaporative"
+        },
+        {
+            "id": "evaporative_cooling",
+            "word": "evaporative cooling"
+        },
+        {
+            "id": "excimer",
+            "word": "excimer"
+        },
+        {
+            "id": "excitation",
+            "word": "excitation"
+        },
+        {
+            "id": "exciton",
+            "word": "exciton"
+        },
+        {
+            "id": "exosphere",
+            "word": "exosphere"
+        },
+        {
+            "id": "expand",
+            "word": "expand"
+        },
+        {
+            "id": "expansile",
+            "word": "expansile"
+        },
+        {
+            "id": "expansivity",
+            "word": "expansivity"
+        },
+        {
+            "id": "explode",
+            "word": "explode"
+        },
+        {
+            "id": "explosion",
+            "word": "explosion"
+        },
+        {
+            "id": "fabry%E2%80%93p%C3%A9rot_interferometer",
+            "word": "fabry–pérot interferometer"
+        },
+        {
+            "id": "fahrenheit",
+            "word": "fahrenheit"
+        },
+        {
+            "id": "fallout",
+            "word": "fallout"
+        },
+        {
+            "id": "faraday%27s_law",
+            "word": "faraday's law"
+        },
+        {
+            "id": "faraday%2C_michael",
+            "word": "faraday, michael"
+        },
+        {
+            "id": "faraday_cage",
+            "word": "faraday cage"
+        },
+        {
+            "id": "faraday_effect",
+            "word": "faraday effect"
+        },
+        {
+            "id": "fast_breeder",
+            "word": "fast breeder"
+        },
+        {
+            "id": "fast_neutron",
+            "word": "fast neutron"
+        },
+        {
+            "id": "fast_reactor",
+            "word": "fast reactor"
+        },
+        {
+            "id": "feedforward",
+            "word": "feedforward"
+        },
+        {
+            "id": "fermi%2C_enrico",
+            "word": "fermi, enrico"
+        },
+        {
+            "id": "fermi%E2%80%93dirac_statistics",
+            "word": "fermi–dirac statistics"
+        },
+        {
+            "id": "fermion",
+            "word": "fermion"
+        },
+        {
+            "id": "ferrimagnetic",
+            "word": "ferrimagnetic"
+        },
+        {
+            "id": "ferroelectric",
+            "word": "ferroelectric"
+        },
+        {
+            "id": "ferromagnetic",
+            "word": "ferromagnetic"
+        },
+        {
+            "id": "feynman%2C_richard_phillips",
+            "word": "feynman, richard phillips"
+        },
+        {
+            "id": "feynman_diagram",
+            "word": "feynman diagram"
+        },
+        {
+            "id": "field_emission",
+            "word": "field emission"
+        },
+        {
+            "id": "field_strength",
+            "word": "field strength"
+        },
+        {
+            "id": "field_theory",
+            "word": "field theory"
+        },
+        {
+            "id": "fine_structure",
+            "word": "fine structure"
+        },
+        {
+            "id": "fine-structure_constant",
+            "word": "fine-structure constant"
+        },
+        {
+            "id": "fissile",
+            "word": "fissile"
+        },
+        {
+            "id": "fitzgerald_contraction",
+            "word": "fitzgerald contraction"
+        },
+        {
+            "id": "fixed_point",
+            "word": "fixed point"
+        },
+        {
+            "id": "flexibility",
+            "word": "flexibility"
+        },
+        {
+            "id": "flowmeter",
+            "word": "flowmeter"
+        },
+        {
+            "id": "fluence",
+            "word": "fluence"
+        },
+        {
+            "id": "fluid",
+            "word": "fluid"
+        },
+        {
+            "id": "fluidics",
+            "word": "fluidics"
+        },
+        {
+            "id": "fluidize",
+            "word": "fluidize"
+        },
+        {
+            "id": "fluid_mechanics",
+            "word": "fluid mechanics"
+        },
+        {
+            "id": "fluoresce",
+            "word": "fluoresce"
+        },
+        {
+            "id": "fluorescence",
+            "word": "fluorescence"
+        },
+        {
+            "id": "fluorescent",
+            "word": "fluorescent"
+        },
+        {
+            "id": "fluorescent_screen",
+            "word": "fluorescent screen"
+        },
+        {
+            "id": "fluorography",
+            "word": "fluorography"
+        },
+        {
+            "id": "fluoroscope",
+            "word": "fluoroscope"
+        },
+        {
+            "id": "flux",
+            "word": "flux"
+        },
+        {
+            "id": "flux_density",
+            "word": "flux density"
+        },
+        {
+            "id": "f-number",
+            "word": "f-number"
+        },
+        {
+            "id": "focal_plane",
+            "word": "focal plane"
+        },
+        {
+            "id": "focal_point",
+            "word": "focal point"
+        },
+        {
+            "id": "foot-candle",
+            "word": "foot-candle"
+        },
+        {
+            "id": "force",
+            "word": "force"
+        },
+        {
+            "id": "forward_scattering",
+            "word": "forward scattering"
+        },
+        {
+            "id": "foucault%2C_jean_bernard_l%C3%A9on",
+            "word": "foucault, jean bernard léon"
+        },
+        {
+            "id": "fourth_dimension",
+            "word": "fourth dimension"
+        },
+        {
+            "id": "franck%2C_james",
+            "word": "franck, james"
+        },
+        {
+            "id": "free_energy",
+            "word": "free energy"
+        },
+        {
+            "id": "free_fall",
+            "word": "free fall"
+        },
+        {
+            "id": "free_space",
+            "word": "free space"
+        },
+        {
+            "id": "freeze",
+            "word": "freeze"
+        },
+        {
+            "id": "freezing_point",
+            "word": "freezing point"
+        },
+        {
+            "id": "frequency_band",
+            "word": "frequency band"
+        },
+        {
+            "id": "fresnel%2C_augustin_jean",
+            "word": "fresnel, augustin jean"
+        },
+        {
+            "id": "friction",
+            "word": "friction"
+        },
+        {
+            "id": "frictional",
+            "word": "frictional"
+        },
+        {
+            "id": "frisch%2C_otto_robert",
+            "word": "frisch, otto robert"
+        },
+        {
+            "id": "froude_number",
+            "word": "froude number"
+        },
+        {
+            "id": "fuchs%2C_klaus",
+            "word": "fuchs, klaus"
+        },
+        {
+            "id": "fuel_element",
+            "word": "fuel element"
+        },
+        {
+            "id": "fuel_rod",
+            "word": "fuel rod"
+        },
+        {
+            "id": "fundamental_frequency",
+            "word": "fundamental frequency"
+        },
+        {
+            "id": "fuse",
+            "word": "fuse"
+        },
+        {
+            "id": "fusion",
+            "word": "fusion"
+        },
+        {
+            "id": "fusion_bomb",
+            "word": "fusion bomb"
+        },
+        {
+            "id": "g",
+            "word": "g"
+        },
+        {
+            "id": "galvani%2C_luigi",
+            "word": "galvani, luigi"
+        },
+        {
+            "id": "galvanometer",
+            "word": "galvanometer"
+        },
+        {
+            "id": "gamma_radiation",
+            "word": "gamma radiation"
+        },
+        {
+            "id": "gamma_rays",
+            "word": "gamma rays"
+        },
+        {
+            "id": "gamow%2C_george",
+            "word": "gamow, george"
+        },
+        {
+            "id": "gas",
+            "word": "gas"
+        },
+        {
+            "id": "gas-cooled",
+            "word": "gas-cooled"
+        },
+        {
+            "id": "gauge_pressure",
+            "word": "gauge pressure"
+        },
+        {
+            "id": "gauge_theory",
+            "word": "gauge theory"
+        },
+        {
+            "id": "gauss",
+            "word": "gauss"
+        },
+        {
+            "id": "gauss%2C_karl_friedrich",
+            "word": "gauss, karl friedrich"
+        },
+        {
+            "id": "geiger%2C_hans_wilhelm",
+            "word": "geiger, hans wilhelm"
+        },
+        {
+            "id": "geiger_counter",
+            "word": "geiger counter"
+        },
+        {
+            "id": "geissler_tube",
+            "word": "geissler tube"
+        },
+        {
+            "id": "gell-mann%2C_murray",
+            "word": "gell-mann, murray"
+        },
+        {
+            "id": "gettering",
+            "word": "gettering"
+        },
+        {
+            "id": "gev",
+            "word": "gev"
+        },
+        {
+            "id": "g-force",
+            "word": "g-force"
+        },
+        {
+            "id": "gigaton",
+            "word": "gigaton"
+        },
+        {
+            "id": "gilbert%2C_william",
+            "word": "gilbert, william"
+        },
+        {
+            "id": "glashow%2C_sheldon_lee",
+            "word": "glashow, sheldon lee"
+        },
+        {
+            "id": "globule",
+            "word": "globule"
+        },
+        {
+            "id": "gluon",
+            "word": "gluon"
+        },
+        {
+            "id": "goddard%2C_robert_hutchings",
+            "word": "goddard, robert hutchings"
+        },
+        {
+            "id": "god_particle",
+            "word": "god particle"
+        },
+        {
+            "id": "goniometer",
+            "word": "goniometer"
+        },
+        {
+            "id": "grand_unified_theory",
+            "word": "grand unified theory"
+        },
+        {
+            "id": "graticule",
+            "word": "graticule"
+        },
+        {
+            "id": "gravimeter",
+            "word": "gravimeter"
+        },
+        {
+            "id": "gravitation",
+            "word": "gravitation"
+        },
+        {
+            "id": "gravitational",
+            "word": "gravitational"
+        },
+        {
+            "id": "gravitational_constant",
+            "word": "gravitational constant"
+        },
+        {
+            "id": "gravitational_field",
+            "word": "gravitational field"
+        },
+        {
+            "id": "gravitational_wave",
+            "word": "gravitational wave"
+        },
+        {
+            "id": "graviton",
+            "word": "graviton"
+        },
+        {
+            "id": "gravity",
+            "word": "gravity"
+        },
+        {
+            "id": "gravity_wave",
+            "word": "gravity wave"
+        },
+        {
+            "id": "gray",
+            "word": "gray"
+        },
+        {
+            "id": "ground_effect",
+            "word": "ground effect"
+        },
+        {
+            "id": "ground_state",
+            "word": "ground state"
+        },
+        {
+            "id": "group_velocity",
+            "word": "group velocity"
+        },
+        {
+            "id": "guericke%2C_otto_von",
+            "word": "guericke, otto von"
+        },
+        {
+            "id": "gy",
+            "word": "gy"
+        },
+        {
+            "id": "gyromagnetic",
+            "word": "gyromagnetic"
+        },
+        {
+            "id": "gyroscope",
+            "word": "gyroscope"
+        },
+        {
+            "id": "hadron",
+            "word": "hadron"
+        },
+        {
+            "id": "hahn%2C_otto",
+            "word": "hahn, otto"
+        },
+        {
+            "id": "half-life",
+            "word": "half-life"
+        },
+        {
+            "id": "hall_effect",
+            "word": "hall effect"
+        },
+        {
+            "id": "hamilton%2C_sir_william_rowan",
+            "word": "hamilton, sir william rowan"
+        },
+        {
+            "id": "hamiltonian",
+            "word": "hamiltonian"
+        },
+        {
+            "id": "hawking%2C_stephen",
+            "word": "hawking, stephen"
+        },
+        {
+            "id": "hawking_radiation",
+            "word": "hawking radiation"
+        },
+        {
+            "id": "health_physics",
+            "word": "health physics"
+        },
+        {
+            "id": "heat",
+            "word": "heat"
+        },
+        {
+            "id": "heat_death",
+            "word": "heat death"
+        },
+        {
+            "id": "heat_efficiency",
+            "word": "heat efficiency"
+        },
+        {
+            "id": "heatproof",
+            "word": "heatproof"
+        },
+        {
+            "id": "heat-resistant",
+            "word": "heat-resistant"
+        },
+        {
+            "id": "heat_sink",
+            "word": "heat sink"
+        },
+        {
+            "id": "heaviside%2C_oliver",
+            "word": "heaviside, oliver"
+        },
+        {
+            "id": "heavy_metal",
+            "word": "heavy metal"
+        },
+        {
+            "id": "heisenberg%2C_werner_karl",
+            "word": "heisenberg, werner karl"
+        },
+        {
+            "id": "heliograph",
+            "word": "heliograph"
+        },
+        {
+            "id": "helmholtz%2C_hermann_von",
+            "word": "helmholtz, hermann von"
+        },
+        {
+            "id": "henry",
+            "word": "henry"
+        },
+        {
+            "id": "hertz",
+            "word": "hertz"
+        },
+        {
+            "id": "hertz%2C_heinrich_rudolf",
+            "word": "hertz, heinrich rudolf"
+        },
+        {
+            "id": "hess%2C_victor_francis",
+            "word": "hess, victor francis"
+        },
+        {
+            "id": "heterochromatic",
+            "word": "heterochromatic"
+        },
+        {
+            "id": "heteropolar",
+            "word": "heteropolar"
+        },
+        {
+            "id": "higgs_boson",
+            "word": "higgs boson"
+        },
+        {
+            "id": "hodoscope",
+            "word": "hodoscope"
+        },
+        {
+            "id": "hologram",
+            "word": "hologram"
+        },
+        {
+            "id": "holographic",
+            "word": "holographic"
+        },
+        {
+            "id": "holography",
+            "word": "holography"
+        },
+        {
+            "id": "hooke%27s_law",
+            "word": "hooke's law"
+        },
+        {
+            "id": "hooke%2C_robert",
+            "word": "hooke, robert"
+        },
+        {
+            "id": "horology",
+            "word": "horology"
+        },
+        {
+            "id": "hot_cathode",
+            "word": "hot cathode"
+        },
+        {
+            "id": "hue",
+            "word": "hue"
+        },
+        {
+            "id": "hydrogen_bomb",
+            "word": "hydrogen bomb"
+        },
+        {
+            "id": "hydrometer",
+            "word": "hydrometer"
+        },
+        {
+            "id": "hydrophone",
+            "word": "hydrophone"
+        },
+        {
+            "id": "hyperbaric",
+            "word": "hyperbaric"
+        },
+        {
+            "id": "hyperon",
+            "word": "hyperon"
+        },
+        {
+            "id": "hyperspace",
+            "word": "hyperspace"
+        },
+        {
+            "id": "hypsometer",
+            "word": "hypsometer"
+        },
+        {
+            "id": "hysteresis",
+            "word": "hysteresis"
+        },
+        {
+            "id": "ignition_point",
+            "word": "ignition point"
+        },
+        {
+            "id": "illuminance",
+            "word": "illuminance"
+        },
+        {
+            "id": "imaging",
+            "word": "imaging"
+        },
+        {
+            "id": "immittance",
+            "word": "immittance"
+        },
+        {
+            "id": "impenetrable",
+            "word": "impenetrable"
+        },
+        {
+            "id": "impetus",
+            "word": "impetus"
+        },
+        {
+            "id": "incandescent",
+            "word": "incandescent"
+        },
+        {
+            "id": "inclinometer",
+            "word": "inclinometer"
+        },
+        {
+            "id": "indentation_test",
+            "word": "indentation test"
+        },
+        {
+            "id": "indenter",
+            "word": "indenter"
+        },
+        {
+            "id": "inertial",
+            "word": "inertial"
+        },
+        {
+            "id": "infrared",
+            "word": "infrared"
+        },
+        {
+            "id": "infrared_sensor",
+            "word": "infrared sensor"
+        },
+        {
+            "id": "infrasonic",
+            "word": "infrasonic"
+        },
+        {
+            "id": "infrasound",
+            "word": "infrasound"
+        },
+        {
+            "id": "inst.p.",
+            "word": "inst.p."
+        },
+        {
+            "id": "integrating",
+            "word": "integrating"
+        },
+        {
+            "id": "interatomic",
+            "word": "interatomic"
+        },
+        {
+            "id": "intercept",
+            "word": "intercept"
+        },
+        {
+            "id": "interface",
+            "word": "interface"
+        },
+        {
+            "id": "interferogram",
+            "word": "interferogram"
+        },
+        {
+            "id": "interferometer",
+            "word": "interferometer"
+        },
+        {
+            "id": "internal_energy",
+            "word": "internal energy"
+        },
+        {
+            "id": "international_atomic_energy_agency",
+            "word": "international atomic energy agency"
+        },
+        {
+            "id": "internuclear",
+            "word": "internuclear"
+        },
+        {
+            "id": "intramolecular",
+            "word": "intramolecular"
+        },
+        {
+            "id": "inverse_square_law",
+            "word": "inverse square law"
+        },
+        {
+            "id": "inversion_temperature",
+            "word": "inversion temperature"
+        },
+        {
+            "id": "inviscid",
+            "word": "inviscid"
+        },
+        {
+            "id": "ion",
+            "word": "ion"
+        },
+        {
+            "id": "ion_exchange",
+            "word": "ion exchange"
+        },
+        {
+            "id": "ionic",
+            "word": "ionic"
+        },
+        {
+            "id": "ionization_chamber",
+            "word": "ionization chamber"
+        },
+        {
+            "id": "ionize",
+            "word": "ionize"
+        },
+        {
+            "id": "ionizer",
+            "word": "ionizer"
+        },
+        {
+            "id": "ionizing_radiation",
+            "word": "ionizing radiation"
+        },
+        {
+            "id": "irradiance",
+            "word": "irradiance"
+        },
+        {
+            "id": "irradiate",
+            "word": "irradiate"
+        },
+        {
+            "id": "irradiation",
+            "word": "irradiation"
+        },
+        {
+            "id": "irrotational",
+            "word": "irrotational"
+        },
+        {
+            "id": "isentropic",
+            "word": "isentropic"
+        },
+        {
+            "id": "isoelectronic",
+            "word": "isoelectronic"
+        },
+        {
+            "id": "isophote",
+            "word": "isophote"
+        },
+        {
+            "id": "isospin",
+            "word": "isospin"
+        },
+        {
+            "id": "isotropic",
+            "word": "isotropic"
+        },
+        {
+            "id": "jet",
+            "word": "jet"
+        },
+        {
+            "id": "joliot%2C_jean-fr%C3%A9d%C3%A9ric",
+            "word": "joliot, jean-frédéric"
+        },
+        {
+            "id": "josephson_junction",
+            "word": "josephson junction"
+        },
+        {
+            "id": "joule",
+            "word": "joule"
+        },
+        {
+            "id": "joule%27s_law",
+            "word": "joule's law"
+        },
+        {
+            "id": "joule%2C_james_prescott",
+            "word": "joule, james prescott"
+        },
+        {
+            "id": "joule%E2%80%93thomson_effect",
+            "word": "joule–thomson effect"
+        },
+        {
+            "id": "joule_effect",
+            "word": "joule effect"
+        },
+        {
+            "id": "kamerlingh_onnes%2C_heike",
+            "word": "kamerlingh onnes, heike"
+        },
+        {
+            "id": "kaon",
+            "word": "kaon"
+        },
+        {
+            "id": "katharometer",
+            "word": "katharometer"
+        },
+        {
+            "id": "kc%2Fs",
+            "word": "kc/s"
+        },
+        {
+            "id": "ke",
+            "word": "ke"
+        },
+        {
+            "id": "kelvin",
+            "word": "kelvin"
+        },
+        {
+            "id": "kelvin%2C_1st_baron",
+            "word": "kelvin, 1st baron"
+        },
+        {
+            "id": "kelvin_scale",
+            "word": "kelvin scale"
+        },
+        {
+            "id": "kerr_effect",
+            "word": "kerr effect"
+        },
+        {
+            "id": "kev",
+            "word": "kev"
+        },
+        {
+            "id": "kilocycle",
+            "word": "kilocycle"
+        },
+        {
+            "id": "kilohertz",
+            "word": "kilohertz"
+        },
+        {
+            "id": "kiloton",
+            "word": "kiloton"
+        },
+        {
+            "id": "kinematics",
+            "word": "kinematics"
+        },
+        {
+            "id": "kinematic_viscosity",
+            "word": "kinematic viscosity"
+        },
+        {
+            "id": "kinetic",
+            "word": "kinetic"
+        },
+        {
+            "id": "kinetic_energy",
+            "word": "kinetic energy"
+        },
+        {
+            "id": "kirchhoff%2C_gustav_robert",
+            "word": "kirchhoff, gustav robert"
+        },
+        {
+            "id": "klystron",
+            "word": "klystron"
+        },
+        {
+            "id": "konimeter",
+            "word": "konimeter"
+        },
+        {
+            "id": "laddertron",
+            "word": "laddertron"
+        },
+        {
+            "id": "lambert",
+            "word": "lambert"
+        },
+        {
+            "id": "landau%2C_lev",
+            "word": "landau, lev"
+        },
+        {
+            "id": "large_hadron_collider",
+            "word": "large hadron collider"
+        },
+        {
+            "id": "lase",
+            "word": "lase"
+        },
+        {
+            "id": "laser",
+            "word": "laser"
+        },
+        {
+            "id": "laser_beam",
+            "word": "laser beam"
+        },
+        {
+            "id": "latent_heat",
+            "word": "latent heat"
+        },
+        {
+            "id": "lawrence%2C_ernest_orlando",
+            "word": "lawrence, ernest orlando"
+        },
+        {
+            "id": "leakage",
+            "word": "leakage"
+        },
+        {
+            "id": "lenz%27s_law",
+            "word": "lenz's law"
+        },
+        {
+            "id": "lepton",
+            "word": "lepton"
+        },
+        {
+            "id": "lepton_number",
+            "word": "lepton number"
+        },
+        {
+            "id": "leyden_jar",
+            "word": "leyden jar"
+        },
+        {
+            "id": "light_cone",
+            "word": "light cone"
+        },
+        {
+            "id": "lightproof",
+            "word": "lightproof"
+        },
+        {
+            "id": "light-sensitive",
+            "word": "light-sensitive"
+        },
+        {
+            "id": "light_wave",
+            "word": "light wave"
+        },
+        {
+            "id": "linear_accelerator",
+            "word": "linear accelerator"
+        },
+        {
+            "id": "linear_motor",
+            "word": "linear motor"
+        },
+        {
+            "id": "line_of_force",
+            "word": "line of force"
+        },
+        {
+            "id": "line_spectrum",
+            "word": "line spectrum"
+        },
+        {
+            "id": "lippmann%2C_gabriel_jonas",
+            "word": "lippmann, gabriel jonas"
+        },
+        {
+            "id": "lodge%2C_sir_oliver",
+            "word": "lodge, sir oliver"
+        },
+        {
+            "id": "longitudinal_wave",
+            "word": "longitudinal wave"
+        },
+        {
+            "id": "lorentz%2C_hendrik_antoon",
+            "word": "lorentz, hendrik antoon"
+        },
+        {
+            "id": "lorentz_contraction",
+            "word": "lorentz contraction"
+        },
+        {
+            "id": "lorentz_force",
+            "word": "lorentz force"
+        },
+        {
+            "id": "lorentz_transformation",
+            "word": "lorentz transformation"
+        },
+        {
+            "id": "lumen",
+            "word": "lumen"
+        },
+        {
+            "id": "luminance",
+            "word": "luminance"
+        },
+        {
+            "id": "luminesce",
+            "word": "luminesce"
+        },
+        {
+            "id": "luminescence",
+            "word": "luminescence"
+        },
+        {
+            "id": "luminiferous",
+            "word": "luminiferous"
+        },
+        {
+            "id": "lux",
+            "word": "lux"
+        },
+        {
+            "id": "lx",
+            "word": "lx"
+        },
+        {
+            "id": "lyman_series",
+            "word": "lyman series"
+        },
+        {
+            "id": "mach",
+            "word": "mach"
+        },
+        {
+            "id": "mach%27s_principle",
+            "word": "mach's principle"
+        },
+        {
+            "id": "mach%2C_ernst",
+            "word": "mach, ernst"
+        },
+        {
+            "id": "magdeburg_hemispheres",
+            "word": "magdeburg hemispheres"
+        },
+        {
+            "id": "magnet",
+            "word": "magnet"
+        },
+        {
+            "id": "magnetic",
+            "word": "magnetic"
+        },
+        {
+            "id": "magnetic_field",
+            "word": "magnetic field"
+        },
+        {
+            "id": "magnetic_induction",
+            "word": "magnetic induction"
+        },
+        {
+            "id": "magnetic_moment",
+            "word": "magnetic moment"
+        },
+        {
+            "id": "magnetic_needle",
+            "word": "magnetic needle"
+        },
+        {
+            "id": "magnetic_north",
+            "word": "magnetic north"
+        },
+        {
+            "id": "magnetic_resonance_imaging",
+            "word": "magnetic resonance imaging"
+        },
+        {
+            "id": "magnetic_storm",
+            "word": "magnetic storm"
+        },
+        {
+            "id": "magnetism",
+            "word": "magnetism"
+        },
+        {
+            "id": "magnetize",
+            "word": "magnetize"
+        },
+        {
+            "id": "magnetograph",
+            "word": "magnetograph"
+        },
+        {
+            "id": "magnetohydrodynamics",
+            "word": "magnetohydrodynamics"
+        },
+        {
+            "id": "magnetometer",
+            "word": "magnetometer"
+        },
+        {
+            "id": "magnetomotive_force",
+            "word": "magnetomotive force"
+        },
+        {
+            "id": "magneton",
+            "word": "magneton"
+        },
+        {
+            "id": "magneto-optical",
+            "word": "magneto-optical"
+        },
+        {
+            "id": "magnetopause",
+            "word": "magnetopause"
+        },
+        {
+            "id": "magnetoresistance",
+            "word": "magnetoresistance"
+        },
+        {
+            "id": "magnetosphere",
+            "word": "magnetosphere"
+        },
+        {
+            "id": "magnetron",
+            "word": "magnetron"
+        },
+        {
+            "id": "magnox",
+            "word": "magnox"
+        },
+        {
+            "id": "magnus_effect",
+            "word": "magnus effect"
+        },
+        {
+            "id": "manometer",
+            "word": "manometer"
+        },
+        {
+            "id": "maser",
+            "word": "maser"
+        },
+        {
+            "id": "mass_defect",
+            "word": "mass defect"
+        },
+        {
+            "id": "mass_energy",
+            "word": "mass energy"
+        },
+        {
+            "id": "mass_number",
+            "word": "mass number"
+        },
+        {
+            "id": "mass_spectrograph",
+            "word": "mass spectrograph"
+        },
+        {
+            "id": "mass_spectrometer",
+            "word": "mass spectrometer"
+        },
+        {
+            "id": "mass_spectrum",
+            "word": "mass spectrum"
+        },
+        {
+            "id": "matter",
+            "word": "matter"
+        },
+        {
+            "id": "maxwell",
+            "word": "maxwell"
+        },
+        {
+            "id": "maxwell%27s_demon",
+            "word": "maxwell's demon"
+        },
+        {
+            "id": "maxwell%27s_equations",
+            "word": "maxwell's equations"
+        },
+        {
+            "id": "maxwell%2C_james_clerk",
+            "word": "maxwell, james clerk"
+        },
+        {
+            "id": "maxwell%E2%80%93boltzmann_distribution",
+            "word": "maxwell–boltzmann distribution"
+        },
+        {
+            "id": "mci",
+            "word": "mci"
+        },
+        {
+            "id": "mean_free_path",
+            "word": "mean free path"
+        },
+        {
+            "id": "meissner_effect",
+            "word": "meissner effect"
+        },
+        {
+            "id": "meitner%2C_lise",
+            "word": "meitner, lise"
+        },
+        {
+            "id": "melt",
+            "word": "melt"
+        },
+        {
+            "id": "melting_point",
+            "word": "melting point"
+        },
+        {
+            "id": "meniscus",
+            "word": "meniscus"
+        },
+        {
+            "id": "mercury_vapour_lamp",
+            "word": "mercury vapour lamp"
+        },
+        {
+            "id": "mesic",
+            "word": "mesic"
+        },
+        {
+            "id": "meson",
+            "word": "meson"
+        },
+        {
+            "id": "mesosphere",
+            "word": "mesosphere"
+        },
+        {
+            "id": "metacentre",
+            "word": "metacentre"
+        },
+        {
+            "id": "metamaterial",
+            "word": "metamaterial"
+        },
+        {
+            "id": "metastable",
+            "word": "metastable"
+        },
+        {
+            "id": "meter",
+            "word": "meter"
+        },
+        {
+            "id": "-meter",
+            "word": "-meter"
+        },
+        {
+            "id": "metre-kilogram-second",
+            "word": "metre-kilogram-second"
+        },
+        {
+            "id": "metrology",
+            "word": "metrology"
+        },
+        {
+            "id": "mev",
+            "word": "mev"
+        },
+        {
+            "id": "michelson%2C_albert_abraham",
+            "word": "michelson, albert abraham"
+        },
+        {
+            "id": "michelson%E2%80%93morley_experiment",
+            "word": "michelson–morley experiment"
+        },
+        {
+            "id": "microparticle",
+            "word": "microparticle"
+        },
+        {
+            "id": "microphysics",
+            "word": "microphysics"
+        },
+        {
+            "id": "microstructure",
+            "word": "microstructure"
+        },
+        {
+            "id": "microwave",
+            "word": "microwave"
+        },
+        {
+            "id": "milliampere",
+            "word": "milliampere"
+        },
+        {
+            "id": "millikan%2C_robert_andrews",
+            "word": "millikan, robert andrews"
+        },
+        {
+            "id": "mirror_symmetry",
+            "word": "mirror symmetry"
+        },
+        {
+            "id": "miscible",
+            "word": "miscible"
+        },
+        {
+            "id": "molar",
+            "word": "molar"
+        },
+        {
+            "id": "molten",
+            "word": "molten"
+        },
+        {
+            "id": "moment_of_inertia",
+            "word": "moment of inertia"
+        },
+        {
+            "id": "momentum",
+            "word": "momentum"
+        },
+        {
+            "id": "monochromatic",
+            "word": "monochromatic"
+        },
+        {
+            "id": "monochromator",
+            "word": "monochromator"
+        },
+        {
+            "id": "monopole",
+            "word": "monopole"
+        },
+        {
+            "id": "morley%2C_edward_williams",
+            "word": "morley, edward williams"
+        },
+        {
+            "id": "moseley%2C_henry",
+            "word": "moseley, henry"
+        },
+        {
+            "id": "motive_power",
+            "word": "motive power"
+        },
+        {
+            "id": "mox",
+            "word": "mox"
+        },
+        {
+            "id": "m.p.",
+            "word": "m.p."
+        },
+        {
+            "id": "multiplet",
+            "word": "multiplet"
+        },
+        {
+            "id": "multipole",
+            "word": "multipole"
+        },
+        {
+            "id": "multispectral",
+            "word": "multispectral"
+        },
+        {
+            "id": "multiverse",
+            "word": "multiverse"
+        },
+        {
+            "id": "munsell",
+            "word": "munsell"
+        },
+        {
+            "id": "muon",
+            "word": "muon"
+        },
+        {
+            "id": "mushroom_cloud",
+            "word": "mushroom cloud"
+        },
+        {
+            "id": "mutual_inductance",
+            "word": "mutual inductance"
+        },
+        {
+            "id": "mutual_induction",
+            "word": "mutual induction"
+        },
+        {
+            "id": "nanocrystal",
+            "word": "nanocrystal"
+        },
+        {
+            "id": "nanofibre",
+            "word": "nanofibre"
+        },
+        {
+            "id": "nanomaterial",
+            "word": "nanomaterial"
+        },
+        {
+            "id": "nanomedicine",
+            "word": "nanomedicine"
+        },
+        {
+            "id": "nanoparticle",
+            "word": "nanoparticle"
+        },
+        {
+            "id": "nanopore",
+            "word": "nanopore"
+        },
+        {
+            "id": "nanorod",
+            "word": "nanorod"
+        },
+        {
+            "id": "nanoscale",
+            "word": "nanoscale"
+        },
+        {
+            "id": "nanoscience",
+            "word": "nanoscience"
+        },
+        {
+            "id": "nanoscopic",
+            "word": "nanoscopic"
+        },
+        {
+            "id": "nanosheet",
+            "word": "nanosheet"
+        },
+        {
+            "id": "nanosized",
+            "word": "nanosized"
+        },
+        {
+            "id": "nanosphere",
+            "word": "nanosphere"
+        },
+        {
+            "id": "nanotechnology",
+            "word": "nanotechnology"
+        },
+        {
+            "id": "narrowband",
+            "word": "narrowband"
+        },
+        {
+            "id": "natural_frequency",
+            "word": "natural frequency"
+        },
+        {
+            "id": "natural_philosophy",
+            "word": "natural philosophy"
+        },
+        {
+            "id": "negative_pole",
+            "word": "negative pole"
+        },
+        {
+            "id": "negentropic",
+            "word": "negentropic"
+        },
+        {
+            "id": "nematic",
+            "word": "nematic"
+        },
+        {
+            "id": "neper",
+            "word": "neper"
+        },
+        {
+            "id": "nephelometer",
+            "word": "nephelometer"
+        },
+        {
+            "id": "neuroimaging",
+            "word": "neuroimaging"
+        },
+        {
+            "id": "neutrino",
+            "word": "neutrino"
+        },
+        {
+            "id": "neutron",
+            "word": "neutron"
+        },
+        {
+            "id": "newton",
+            "word": "newton"
+        },
+        {
+            "id": "newton%27s_laws_of_motion",
+            "word": "newton's laws of motion"
+        },
+        {
+            "id": "newton%2C_sir_isaac",
+            "word": "newton, sir isaac"
+        },
+        {
+            "id": "newtonian",
+            "word": "newtonian"
+        },
+        {
+            "id": "newtonian_mechanics",
+            "word": "newtonian mechanics"
+        },
+        {
+            "id": "nicol_prism",
+            "word": "nicol prism"
+        },
+        {
+            "id": "nmr",
+            "word": "nmr"
+        },
+        {
+            "id": "nomothetic",
+            "word": "nomothetic"
+        },
+        {
+            "id": "non-conducting",
+            "word": "non-conducting"
+        },
+        {
+            "id": "non-conductor",
+            "word": "non-conductor"
+        },
+        {
+            "id": "non-magnetic",
+            "word": "non-magnetic"
+        },
+        {
+            "id": "non-nuclear",
+            "word": "non-nuclear"
+        },
+        {
+            "id": "non-porous",
+            "word": "non-porous"
+        },
+        {
+            "id": "non-rigid",
+            "word": "non-rigid"
+        },
+        {
+            "id": "npl",
+            "word": "npl"
+        },
+        {
+            "id": "ntp",
+            "word": "ntp"
+        },
+        {
+            "id": "nuclear",
+            "word": "nuclear"
+        },
+        {
+            "id": "nuclear_energy",
+            "word": "nuclear energy"
+        },
+        {
+            "id": "nuclear_fission",
+            "word": "nuclear fission"
+        },
+        {
+            "id": "nuclear_force",
+            "word": "nuclear force"
+        },
+        {
+            "id": "nuclear_fuel",
+            "word": "nuclear fuel"
+        },
+        {
+            "id": "nuclear_fusion",
+            "word": "nuclear fusion"
+        },
+        {
+            "id": "nuclear_magnetic_resonance",
+            "word": "nuclear magnetic resonance"
+        },
+        {
+            "id": "nuclear_physicist",
+            "word": "nuclear physicist"
+        },
+        {
+            "id": "nuclear_physics",
+            "word": "nuclear physics"
+        },
+        {
+            "id": "nuclear_power",
+            "word": "nuclear power"
+        },
+        {
+            "id": "nuclear-powered",
+            "word": "nuclear-powered"
+        },
+        {
+            "id": "nuclear_power_station",
+            "word": "nuclear power station"
+        },
+        {
+            "id": "nuclear_reprocessing_plant",
+            "word": "nuclear reprocessing plant"
+        },
+        {
+            "id": "nuclear_scientist",
+            "word": "nuclear scientist"
+        },
+        {
+            "id": "nuclear_war",
+            "word": "nuclear war"
+        },
+        {
+            "id": "nuclear_waste",
+            "word": "nuclear waste"
+        },
+        {
+            "id": "nuclear_weapon",
+            "word": "nuclear weapon"
+        },
+        {
+            "id": "nuclear_winter",
+            "word": "nuclear winter"
+        },
+        {
+            "id": "nucleon",
+            "word": "nucleon"
+        },
+        {
+            "id": "nucleonics",
+            "word": "nucleonics"
+        },
+        {
+            "id": "nucleosynthesis",
+            "word": "nucleosynthesis"
+        },
+        {
+            "id": "nucleus",
+            "word": "nucleus"
+        },
+        {
+            "id": "nuclide",
+            "word": "nuclide"
+        },
+        {
+            "id": "nusselt_number",
+            "word": "nusselt number"
+        },
+        {
+            "id": "oersted",
+            "word": "oersted"
+        },
+        {
+            "id": "oersted%2C_hans_christian",
+            "word": "oersted, hans christian"
+        },
+        {
+            "id": "ohm%2C_georg_simon",
+            "word": "ohm, georg simon"
+        },
+        {
+            "id": "-on",
+            "word": "-on"
+        },
+        {
+            "id": "oppenheimer%2C_j._robert",
+            "word": "oppenheimer, j. robert"
+        },
+        {
+            "id": "optical_density",
+            "word": "optical density"
+        },
+        {
+            "id": "optical_path",
+            "word": "optical path"
+        },
+        {
+            "id": "optic_angle",
+            "word": "optic angle"
+        },
+        {
+            "id": "optics",
+            "word": "optics"
+        },
+        {
+            "id": "orbital",
+            "word": "orbital"
+        },
+        {
+            "id": "ordinary_ray",
+            "word": "ordinary ray"
+        },
+        {
+            "id": "oscillogram",
+            "word": "oscillogram"
+        },
+        {
+            "id": "oscillograph",
+            "word": "oscillograph"
+        },
+        {
+            "id": "oscilloscope",
+            "word": "oscilloscope"
+        },
+        {
+            "id": "overdamp",
+            "word": "overdamp"
+        },
+        {
+            "id": "ozone_layer",
+            "word": "ozone layer"
+        },
+        {
+            "id": "pair_production",
+            "word": "pair production"
+        },
+        {
+            "id": "parabolic_reflector",
+            "word": "parabolic reflector"
+        },
+        {
+            "id": "parallelogram_of_forces",
+            "word": "parallelogram of forces"
+        },
+        {
+            "id": "parallel_universe",
+            "word": "parallel universe"
+        },
+        {
+            "id": "paramagnetic",
+            "word": "paramagnetic"
+        },
+        {
+            "id": "partial_pressure",
+            "word": "partial pressure"
+        },
+        {
+            "id": "particle",
+            "word": "particle"
+        },
+        {
+            "id": "particle_accelerator",
+            "word": "particle accelerator"
+        },
+        {
+            "id": "particle_physics",
+            "word": "particle physics"
+        },
+        {
+            "id": "pascal",
+            "word": "pascal"
+        },
+        {
+            "id": "paschen_series",
+            "word": "paschen series"
+        },
+        {
+            "id": "path_length",
+            "word": "path length"
+        },
+        {
+            "id": "pauli%2C_wolfgang",
+            "word": "pauli, wolfgang"
+        },
+        {
+            "id": "pauli_exclusion_principle",
+            "word": "pauli exclusion principle"
+        },
+        {
+            "id": "peltier_effect",
+            "word": "peltier effect"
+        },
+        {
+            "id": "pendular",
+            "word": "pendular"
+        },
+        {
+            "id": "pendulum",
+            "word": "pendulum"
+        },
+        {
+            "id": "penetrometer",
+            "word": "penetrometer"
+        },
+        {
+            "id": "penrose_tile",
+            "word": "penrose tile"
+        },
+        {
+            "id": "penumbra",
+            "word": "penumbra"
+        },
+        {
+            "id": "permanent_magnet",
+            "word": "permanent magnet"
+        },
+        {
+            "id": "permeance",
+            "word": "permeance"
+        },
+        {
+            "id": "permittivity",
+            "word": "permittivity"
+        },
+        {
+            "id": "perturbative",
+            "word": "perturbative"
+        },
+        {
+            "id": "phase_angle",
+            "word": "phase angle"
+        },
+        {
+            "id": "phase_shift",
+            "word": "phase shift"
+        },
+        {
+            "id": "phase_space",
+            "word": "phase space"
+        },
+        {
+            "id": "phase_velocity",
+            "word": "phase velocity"
+        },
+        {
+            "id": "phasing",
+            "word": "phasing"
+        },
+        {
+            "id": "phon",
+            "word": "phon"
+        },
+        {
+            "id": "phono-",
+            "word": "phono-"
+        },
+        {
+            "id": "phonon",
+            "word": "phonon"
+        },
+        {
+            "id": "phosphoresce",
+            "word": "phosphoresce"
+        },
+        {
+            "id": "phosphorescence",
+            "word": "phosphorescence"
+        },
+        {
+            "id": "phot",
+            "word": "phot"
+        },
+        {
+            "id": "photino",
+            "word": "photino"
+        },
+        {
+            "id": "photo-",
+            "word": "photo-"
+        },
+        {
+            "id": "photoconductivity",
+            "word": "photoconductivity"
+        },
+        {
+            "id": "photoelectric",
+            "word": "photoelectric"
+        },
+        {
+            "id": "photoelectron",
+            "word": "photoelectron"
+        },
+        {
+            "id": "photoemission",
+            "word": "photoemission"
+        },
+        {
+            "id": "photoionization",
+            "word": "photoionization"
+        },
+        {
+            "id": "photometer",
+            "word": "photometer"
+        },
+        {
+            "id": "photomultiplier",
+            "word": "photomultiplier"
+        },
+        {
+            "id": "photon",
+            "word": "photon"
+        },
+        {
+            "id": "photonics",
+            "word": "photonics"
+        },
+        {
+            "id": "physical_sciences",
+            "word": "physical sciences"
+        },
+        {
+            "id": "physicist",
+            "word": "physicist"
+        },
+        {
+            "id": "physico-",
+            "word": "physico-"
+        },
+        {
+            "id": "physico-chemical",
+            "word": "physico-chemical"
+        },
+        {
+            "id": "physics",
+            "word": "physics"
+        },
+        {
+            "id": "piezoelectric",
+            "word": "piezoelectric"
+        },
+        {
+            "id": "piezoelectricity",
+            "word": "piezoelectricity"
+        },
+        {
+            "id": "piezometer",
+            "word": "piezometer"
+        },
+        {
+            "id": "pinch_effect",
+            "word": "pinch effect"
+        },
+        {
+            "id": "pink_noise",
+            "word": "pink noise"
+        },
+        {
+            "id": "pion",
+            "word": "pion"
+        },
+        {
+            "id": "pitot_tube",
+            "word": "pitot tube"
+        },
+        {
+            "id": "planck%27s_constant",
+            "word": "planck's constant"
+        },
+        {
+            "id": "planck%27s_law",
+            "word": "planck's law"
+        },
+        {
+            "id": "planck%2C_max",
+            "word": "planck, max"
+        },
+        {
+            "id": "plane_polarization",
+            "word": "plane polarization"
+        },
+        {
+            "id": "plasmon",
+            "word": "plasmon"
+        },
+        {
+            "id": "plasticity",
+            "word": "plasticity"
+        },
+        {
+            "id": "plug_flow",
+            "word": "plug flow"
+        },
+        {
+            "id": "pndb",
+            "word": "pndb"
+        },
+        {
+            "id": "pneumatics",
+            "word": "pneumatics"
+        },
+        {
+            "id": "poincar%C3%A9_map",
+            "word": "poincaré map"
+        },
+        {
+            "id": "point_charge",
+            "word": "point charge"
+        },
+        {
+            "id": "point_source",
+            "word": "point source"
+        },
+        {
+            "id": "poiseuille_flow",
+            "word": "poiseuille flow"
+        },
+        {
+            "id": "poisson%27s_ratio",
+            "word": "poisson's ratio"
+        },
+        {
+            "id": "poisson%2C_sim%C3%A9on-denis",
+            "word": "poisson, siméon-denis"
+        },
+        {
+            "id": "polar_diagram",
+            "word": "polar diagram"
+        },
+        {
+            "id": "polarity",
+            "word": "polarity"
+        },
+        {
+            "id": "polarize",
+            "word": "polarize"
+        },
+        {
+            "id": "pole_piece",
+            "word": "pole piece"
+        },
+        {
+            "id": "poloidal",
+            "word": "poloidal"
+        },
+        {
+            "id": "polychromatic",
+            "word": "polychromatic"
+        },
+        {
+            "id": "polygon_of_forces",
+            "word": "polygon of forces"
+        },
+        {
+            "id": "positive_pole",
+            "word": "positive pole"
+        },
+        {
+            "id": "positron",
+            "word": "positron"
+        },
+        {
+            "id": "potential_barrier",
+            "word": "potential barrier"
+        },
+        {
+            "id": "potential_difference",
+            "word": "potential difference"
+        },
+        {
+            "id": "potential_energy",
+            "word": "potential energy"
+        },
+        {
+            "id": "potential_well",
+            "word": "potential well"
+        },
+        {
+            "id": "poundal",
+            "word": "poundal"
+        },
+        {
+            "id": "power_spectrum",
+            "word": "power spectrum"
+        },
+        {
+            "id": "pparc",
+            "word": "pparc"
+        },
+        {
+            "id": "prandtl%2C_ludwig",
+            "word": "prandtl, ludwig"
+        },
+        {
+            "id": "prandtl_number",
+            "word": "prandtl number"
+        },
+        {
+            "id": "precess",
+            "word": "precess"
+        },
+        {
+            "id": "precession",
+            "word": "precession"
+        },
+        {
+            "id": "pressure",
+            "word": "pressure"
+        },
+        {
+            "id": "pressurize",
+            "word": "pressurize"
+        },
+        {
+            "id": "pressurized",
+            "word": "pressurized"
+        },
+        {
+            "id": "pressurized-water_reactor",
+            "word": "pressurized-water reactor"
+        },
+        {
+            "id": "principal_axis",
+            "word": "principal axis"
+        },
+        {
+            "id": "proportional_counter",
+            "word": "proportional counter"
+        },
+        {
+            "id": "proton",
+            "word": "proton"
+        },
+        {
+            "id": "p.s.i.",
+            "word": "p.s.i."
+        },
+        {
+            "id": "psychrometer",
+            "word": "psychrometer"
+        },
+        {
+            "id": "pyroelectric",
+            "word": "pyroelectric"
+        },
+        {
+            "id": "pyrometer",
+            "word": "pyrometer"
+        },
+        {
+            "id": "q",
+            "word": "q"
+        },
+        {
+            "id": "qed",
+            "word": "qed"
+        },
+        {
+            "id": "quadrupole",
+            "word": "quadrupole"
+        },
+        {
+            "id": "quality_factor",
+            "word": "quality factor"
+        },
+        {
+            "id": "quantize",
+            "word": "quantize"
+        },
+        {
+            "id": "quantum",
+            "word": "quantum"
+        },
+        {
+            "id": "quantum_chromodynamics",
+            "word": "quantum chromodynamics"
+        },
+        {
+            "id": "quantum_computer",
+            "word": "quantum computer"
+        },
+        {
+            "id": "quantum_dot",
+            "word": "quantum dot"
+        },
+        {
+            "id": "quantum_electrodynamics",
+            "word": "quantum electrodynamics"
+        },
+        {
+            "id": "quantum_field_theory",
+            "word": "quantum field theory"
+        },
+        {
+            "id": "quantum_gravity",
+            "word": "quantum gravity"
+        },
+        {
+            "id": "quantum_jump",
+            "word": "quantum jump"
+        },
+        {
+            "id": "quantum_mechanics",
+            "word": "quantum mechanics"
+        },
+        {
+            "id": "quantum_number",
+            "word": "quantum number"
+        },
+        {
+            "id": "quantum_physics",
+            "word": "quantum physics"
+        },
+        {
+            "id": "quantum_state",
+            "word": "quantum state"
+        },
+        {
+            "id": "quantum_theory",
+            "word": "quantum theory"
+        },
+        {
+            "id": "quark",
+            "word": "quark"
+        },
+        {
+            "id": "quartz-halogen",
+            "word": "quartz-halogen"
+        },
+        {
+            "id": "quartz_lamp",
+            "word": "quartz lamp"
+        },
+        {
+            "id": "quasiparticle",
+            "word": "quasiparticle"
+        },
+        {
+            "id": "rad",
+            "word": "rad"
+        },
+        {
+            "id": "radiate",
+            "word": "radiate"
+        },
+        {
+            "id": "radiation",
+            "word": "radiation"
+        },
+        {
+            "id": "radiational",
+            "word": "radiational"
+        },
+        {
+            "id": "radiation_pattern",
+            "word": "radiation pattern"
+        },
+        {
+            "id": "radiative",
+            "word": "radiative"
+        },
+        {
+            "id": "radiator",
+            "word": "radiator"
+        },
+        {
+            "id": "radio-",
+            "word": "radio-"
+        },
+        {
+            "id": "radioactive",
+            "word": "radioactive"
+        },
+        {
+            "id": "radioactivity",
+            "word": "radioactivity"
+        },
+        {
+            "id": "radiogenic",
+            "word": "radiogenic"
+        },
+        {
+            "id": "radiological",
+            "word": "radiological"
+        },
+        {
+            "id": "radiologist",
+            "word": "radiologist"
+        },
+        {
+            "id": "radiology",
+            "word": "radiology"
+        },
+        {
+            "id": "radiolucent",
+            "word": "radiolucent"
+        },
+        {
+            "id": "radiometer",
+            "word": "radiometer"
+        },
+        {
+            "id": "radiometric",
+            "word": "radiometric"
+        },
+        {
+            "id": "radionuclide",
+            "word": "radionuclide"
+        },
+        {
+            "id": "radiopaque",
+            "word": "radiopaque"
+        },
+        {
+            "id": "radioscopy",
+            "word": "radioscopy"
+        },
+        {
+            "id": "radio_wave",
+            "word": "radio wave"
+        },
+        {
+            "id": "raman%2C_sir_c._v.",
+            "word": "raman, sir c. v."
+        },
+        {
+            "id": "raman_effect",
+            "word": "raman effect"
+        },
+        {
+            "id": "random_walk",
+            "word": "random walk"
+        },
+        {
+            "id": "rarefaction",
+            "word": "rarefaction"
+        },
+        {
+            "id": "rarefied",
+            "word": "rarefied"
+        },
+        {
+            "id": "rarefy",
+            "word": "rarefy"
+        },
+        {
+            "id": "ray",
+            "word": "ray"
+        },
+        {
+            "id": "rayleigh%2C_3rd_baron",
+            "word": "rayleigh, 3rd baron"
+        },
+        {
+            "id": "rayleigh_number",
+            "word": "rayleigh number"
+        },
+        {
+            "id": "rayleigh_scattering",
+            "word": "rayleigh scattering"
+        },
+        {
+            "id": "rayleigh_wave",
+            "word": "rayleigh wave"
+        },
+        {
+            "id": "r%C3%B6ntgen%2C_wilhelm_conrad",
+            "word": "röntgen, wilhelm conrad"
+        },
+        {
+            "id": "reactor",
+            "word": "reactor"
+        },
+        {
+            "id": "red_heat",
+            "word": "red heat"
+        },
+        {
+            "id": "reflect",
+            "word": "reflect"
+        },
+        {
+            "id": "reflectance",
+            "word": "reflectance"
+        },
+        {
+            "id": "reflection",
+            "word": "reflection"
+        },
+        {
+            "id": "reflective",
+            "word": "reflective"
+        },
+        {
+            "id": "reflectivity",
+            "word": "reflectivity"
+        },
+        {
+            "id": "reflectometer",
+            "word": "reflectometer"
+        },
+        {
+            "id": "refract",
+            "word": "refract"
+        },
+        {
+            "id": "refraction",
+            "word": "refraction"
+        },
+        {
+            "id": "refractive",
+            "word": "refractive"
+        },
+        {
+            "id": "refractive_index",
+            "word": "refractive index"
+        },
+        {
+            "id": "refractometer",
+            "word": "refractometer"
+        },
+        {
+            "id": "refrigerator",
+            "word": "refrigerator"
+        },
+        {
+            "id": "refringent",
+            "word": "refringent"
+        },
+        {
+            "id": "regelate",
+            "word": "regelate"
+        },
+        {
+            "id": "relative_density",
+            "word": "relative density"
+        },
+        {
+            "id": "relativistic",
+            "word": "relativistic"
+        },
+        {
+            "id": "rem",
+            "word": "rem"
+        },
+        {
+            "id": "remanent",
+            "word": "remanent"
+        },
+        {
+            "id": "renormalization",
+            "word": "renormalization"
+        },
+        {
+            "id": "repel",
+            "word": "repel"
+        },
+        {
+            "id": "reprocess",
+            "word": "reprocess"
+        },
+        {
+            "id": "residence_time",
+            "word": "residence time"
+        },
+        {
+            "id": "residual_stress",
+            "word": "residual stress"
+        },
+        {
+            "id": "resistance_thermometer",
+            "word": "resistance thermometer"
+        },
+        {
+            "id": "resistive",
+            "word": "resistive"
+        },
+        {
+            "id": "resonant",
+            "word": "resonant"
+        },
+        {
+            "id": "rest_frame",
+            "word": "rest frame"
+        },
+        {
+            "id": "rest_mass",
+            "word": "rest mass"
+        },
+        {
+            "id": "retentivity",
+            "word": "retentivity"
+        },
+        {
+            "id": "reynolds_number",
+            "word": "reynolds number"
+        },
+        {
+            "id": "reynolds_stress",
+            "word": "reynolds stress"
+        },
+        {
+            "id": "rheology",
+            "word": "rheology"
+        },
+        {
+            "id": "robotics",
+            "word": "robotics"
+        },
+        {
+            "id": "roentgen",
+            "word": "roentgen"
+        },
+        {
+            "id": "roentgen_rays",
+            "word": "roentgen rays"
+        },
+        {
+            "id": "rutherford%2C_sir_ernest",
+            "word": "rutherford, sir ernest"
+        },
+        {
+            "id": "rydberg_atom",
+            "word": "rydberg atom"
+        },
+        {
+            "id": "rydberg_constant",
+            "word": "rydberg constant"
+        },
+        {
+            "id": "saha%2C_meghnad",
+            "word": "saha, meghnad"
+        },
+        {
+            "id": "sakharov%2C_andrei",
+            "word": "sakharov, andrei"
+        },
+        {
+            "id": "salam%2C_abdus",
+            "word": "salam, abdus"
+        },
+        {
+            "id": "sawtooth",
+            "word": "sawtooth"
+        },
+        {
+            "id": "scalar",
+            "word": "scalar"
+        },
+        {
+            "id": "scalar_field",
+            "word": "scalar field"
+        },
+        {
+            "id": "scanning_electron_microscope",
+            "word": "scanning electron microscope"
+        },
+        {
+            "id": "scanning_tunnelling_microscope",
+            "word": "scanning tunnelling microscope"
+        },
+        {
+            "id": "scattering_angle",
+            "word": "scattering angle"
+        },
+        {
+            "id": "schlieren",
+            "word": "schlieren"
+        },
+        {
+            "id": "schr%C3%B6dinger%27s_cat",
+            "word": "schrödinger's cat"
+        },
+        {
+            "id": "schr%C3%B6dinger%2C_erwin",
+            "word": "schrödinger, erwin"
+        },
+        {
+            "id": "schr%C3%B6dinger_equation",
+            "word": "schrödinger equation"
+        },
+        {
+            "id": "schwarzschild_black_hole",
+            "word": "schwarzschild black hole"
+        },
+        {
+            "id": "scintillate",
+            "word": "scintillate"
+        },
+        {
+            "id": "scintillation_counter",
+            "word": "scintillation counter"
+        },
+        {
+            "id": "scintillator",
+            "word": "scintillator"
+        },
+        {
+            "id": "scleroscope",
+            "word": "scleroscope"
+        },
+        {
+            "id": "-scope",
+            "word": "-scope"
+        },
+        {
+            "id": "-scopy",
+            "word": "-scopy"
+        },
+        {
+            "id": "search_coil",
+            "word": "search coil"
+        },
+        {
+            "id": "selection_rule",
+            "word": "selection rule"
+        },
+        {
+            "id": "selenium_cell",
+            "word": "selenium cell"
+        },
+        {
+            "id": "semiconducting",
+            "word": "semiconducting"
+        },
+        {
+            "id": "semiconductor",
+            "word": "semiconductor"
+        },
+        {
+            "id": "semi-fluid",
+            "word": "semi-fluid"
+        },
+        {
+            "id": "sensor",
+            "word": "sensor"
+        },
+        {
+            "id": "shadowgraph",
+            "word": "shadowgraph"
+        },
+        {
+            "id": "shm",
+            "word": "shm"
+        },
+        {
+            "id": "shockley%2C_william",
+            "word": "shockley, william"
+        },
+        {
+            "id": "shock_wave",
+            "word": "shock wave"
+        },
+        {
+            "id": "sievert",
+            "word": "sievert"
+        },
+        {
+            "id": "simple_harmonic_motion",
+            "word": "simple harmonic motion"
+        },
+        {
+            "id": "skin_friction",
+            "word": "skin friction"
+        },
+        {
+            "id": "slow_neutron",
+            "word": "slow neutron"
+        },
+        {
+            "id": "slow_reactor",
+            "word": "slow reactor"
+        },
+        {
+            "id": "smectic",
+            "word": "smectic"
+        },
+        {
+            "id": "snell%27s_law",
+            "word": "snell's law"
+        },
+        {
+            "id": "soddy%2C_frederick",
+            "word": "soddy, frederick"
+        },
+        {
+            "id": "sofar",
+            "word": "sofar"
+        },
+        {
+            "id": "solar_constant",
+            "word": "solar constant"
+        },
+        {
+            "id": "solar_energy",
+            "word": "solar energy"
+        },
+        {
+            "id": "solar_panel",
+            "word": "solar panel"
+        },
+        {
+            "id": "solar_pond",
+            "word": "solar pond"
+        },
+        {
+            "id": "solar_power",
+            "word": "solar power"
+        },
+        {
+            "id": "solar-powered",
+            "word": "solar-powered"
+        },
+        {
+            "id": "solid_state",
+            "word": "solid state"
+        },
+        {
+            "id": "soliton",
+            "word": "soliton"
+        },
+        {
+            "id": "sone",
+            "word": "sone"
+        },
+        {
+            "id": "sonic",
+            "word": "sonic"
+        },
+        {
+            "id": "sonogram",
+            "word": "sonogram"
+        },
+        {
+            "id": "sonography",
+            "word": "sonography"
+        },
+        {
+            "id": "sonoluminescence",
+            "word": "sonoluminescence"
+        },
+        {
+            "id": "sound",
+            "word": "sound"
+        },
+        {
+            "id": "sound_barrier",
+            "word": "sound barrier"
+        },
+        {
+            "id": "sound_pressure",
+            "word": "sound pressure"
+        },
+        {
+            "id": "sound_spectrograph",
+            "word": "sound spectrograph"
+        },
+        {
+            "id": "sound_wave",
+            "word": "sound wave"
+        },
+        {
+            "id": "space_charge",
+            "word": "space charge"
+        },
+        {
+            "id": "space-time",
+            "word": "space-time"
+        },
+        {
+            "id": "space_warp",
+            "word": "space warp"
+        },
+        {
+            "id": "spaghettification",
+            "word": "spaghettification"
+        },
+        {
+            "id": "spallation",
+            "word": "spallation"
+        },
+        {
+            "id": "spark_chamber",
+            "word": "spark chamber"
+        },
+        {
+            "id": "sparticle",
+            "word": "sparticle"
+        },
+        {
+            "id": "spatio-temporal",
+            "word": "spatio-temporal"
+        },
+        {
+            "id": "specific_activity",
+            "word": "specific activity"
+        },
+        {
+            "id": "specific_charge",
+            "word": "specific charge"
+        },
+        {
+            "id": "specific_heat_capacity",
+            "word": "specific heat capacity"
+        },
+        {
+            "id": "spectral",
+            "word": "spectral"
+        },
+        {
+            "id": "spectrum",
+            "word": "spectrum"
+        },
+        {
+            "id": "spherical_aberration",
+            "word": "spherical aberration"
+        },
+        {
+            "id": "spinthariscope",
+            "word": "spinthariscope"
+        },
+        {
+            "id": "square_law",
+            "word": "square law"
+        },
+        {
+            "id": "squark",
+            "word": "squark"
+        },
+        {
+            "id": "stable_equilibrium",
+            "word": "stable equilibrium"
+        },
+        {
+            "id": "standard_model",
+            "word": "standard model"
+        },
+        {
+            "id": "standing_wave",
+            "word": "standing wave"
+        },
+        {
+            "id": "stark_effect",
+            "word": "stark effect"
+        },
+        {
+            "id": "state",
+            "word": "state"
+        },
+        {
+            "id": "state_function",
+            "word": "state function"
+        },
+        {
+            "id": "state_vector",
+            "word": "state vector"
+        },
+        {
+            "id": "static_pressure",
+            "word": "static pressure"
+        },
+        {
+            "id": "statics",
+            "word": "statics"
+        },
+        {
+            "id": "stationary_state",
+            "word": "stationary state"
+        },
+        {
+            "id": "stationary_wave",
+            "word": "stationary wave"
+        },
+        {
+            "id": "statistical_mechanics",
+            "word": "statistical mechanics"
+        },
+        {
+            "id": "statistical_physics",
+            "word": "statistical physics"
+        },
+        {
+            "id": "steady_state",
+            "word": "steady state"
+        },
+        {
+            "id": "steam",
+            "word": "steam"
+        },
+        {
+            "id": "stefan%E2%80%93boltzmann_law",
+            "word": "stefan–boltzmann law"
+        },
+        {
+            "id": "stellarator",
+            "word": "stellarator"
+        },
+        {
+            "id": "stiction",
+            "word": "stiction"
+        },
+        {
+            "id": "stilb",
+            "word": "stilb"
+        },
+        {
+            "id": "stokes",
+            "word": "stokes"
+        },
+        {
+            "id": "stokes%27_law",
+            "word": "stokes' law"
+        },
+        {
+            "id": "storage_ring",
+            "word": "storage ring"
+        },
+        {
+            "id": "strange_particle",
+            "word": "strange particle"
+        },
+        {
+            "id": "stress",
+            "word": "stress"
+        },
+        {
+            "id": "stroboscope",
+            "word": "stroboscope"
+        },
+        {
+            "id": "strong_interaction",
+            "word": "strong interaction"
+        },
+        {
+            "id": "subatomic",
+            "word": "subatomic"
+        },
+        {
+            "id": "subcritical",
+            "word": "subcritical"
+        },
+        {
+            "id": "subharmonic",
+            "word": "subharmonic"
+        },
+        {
+            "id": "submicroscopic",
+            "word": "submicroscopic"
+        },
+        {
+            "id": "subnuclear",
+            "word": "subnuclear"
+        },
+        {
+            "id": "suction",
+            "word": "suction"
+        },
+        {
+            "id": "sunbow",
+            "word": "sunbow"
+        },
+        {
+            "id": "supercollider",
+            "word": "supercollider"
+        },
+        {
+            "id": "superconduct",
+            "word": "superconduct"
+        },
+        {
+            "id": "superconductivity",
+            "word": "superconductivity"
+        },
+        {
+            "id": "superconductor",
+            "word": "superconductor"
+        },
+        {
+            "id": "supercritical",
+            "word": "supercritical"
+        },
+        {
+            "id": "superfluid",
+            "word": "superfluid"
+        },
+        {
+            "id": "superfluidity",
+            "word": "superfluidity"
+        },
+        {
+            "id": "supergravity",
+            "word": "supergravity"
+        },
+        {
+            "id": "superheat",
+            "word": "superheat"
+        },
+        {
+            "id": "superheavy",
+            "word": "superheavy"
+        },
+        {
+            "id": "superluminal",
+            "word": "superluminal"
+        },
+        {
+            "id": "superpartner",
+            "word": "superpartner"
+        },
+        {
+            "id": "supersonic",
+            "word": "supersonic"
+        },
+        {
+            "id": "superspace",
+            "word": "superspace"
+        },
+        {
+            "id": "superstring",
+            "word": "superstring"
+        },
+        {
+            "id": "supersymmetry",
+            "word": "supersymmetry"
+        },
+        {
+            "id": "surface_tension",
+            "word": "surface tension"
+        },
+        {
+            "id": "symmetry_breaking",
+            "word": "symmetry breaking"
+        },
+        {
+            "id": "synchrocyclotron",
+            "word": "synchrocyclotron"
+        },
+        {
+            "id": "synchrotron",
+            "word": "synchrotron"
+        },
+        {
+            "id": "synchrotron_radiation",
+            "word": "synchrotron radiation"
+        },
+        {
+            "id": "szilard%2C_leo",
+            "word": "szilard, leo"
+        },
+        {
+            "id": "tachyon",
+            "word": "tachyon"
+        },
+        {
+            "id": "tau_neutrino",
+            "word": "tau neutrino"
+        },
+        {
+            "id": "tectonophysics",
+            "word": "tectonophysics"
+        },
+        {
+            "id": "teller%2C_edward",
+            "word": "teller, edward"
+        },
+        {
+            "id": "temperature",
+            "word": "temperature"
+        },
+        {
+            "id": "temperature_coefficient",
+            "word": "temperature coefficient"
+        },
+        {
+            "id": "tensile_strength",
+            "word": "tensile strength"
+        },
+        {
+            "id": "terminal_velocity",
+            "word": "terminal velocity"
+        },
+        {
+            "id": "terrestrial_magnetism",
+            "word": "terrestrial magnetism"
+        },
+        {
+            "id": "tesla",
+            "word": "tesla"
+        },
+        {
+            "id": "theorem",
+            "word": "theorem"
+        },
+        {
+            "id": "therm",
+            "word": "therm"
+        },
+        {
+            "id": "thermal",
+            "word": "thermal"
+        },
+        {
+            "id": "thermal_capacity",
+            "word": "thermal capacity"
+        },
+        {
+            "id": "thermal_diffusivity",
+            "word": "thermal diffusivity"
+        },
+        {
+            "id": "thermal_efficiency",
+            "word": "thermal efficiency"
+        },
+        {
+            "id": "thermalize",
+            "word": "thermalize"
+        },
+        {
+            "id": "thermal_neutron",
+            "word": "thermal neutron"
+        },
+        {
+            "id": "thermal_reactor",
+            "word": "thermal reactor"
+        },
+        {
+            "id": "thermal_shock",
+            "word": "thermal shock"
+        },
+        {
+            "id": "thermal_unit",
+            "word": "thermal unit"
+        },
+        {
+            "id": "thermion",
+            "word": "thermion"
+        },
+        {
+            "id": "thermionic",
+            "word": "thermionic"
+        },
+        {
+            "id": "thermo-",
+            "word": "thermo-"
+        },
+        {
+            "id": "thermochromic",
+            "word": "thermochromic"
+        },
+        {
+            "id": "thermodynamics",
+            "word": "thermodynamics"
+        },
+        {
+            "id": "thermo-elastic",
+            "word": "thermo-elastic"
+        },
+        {
+            "id": "thermogram",
+            "word": "thermogram"
+        },
+        {
+            "id": "thermograph",
+            "word": "thermograph"
+        },
+        {
+            "id": "thermometer",
+            "word": "thermometer"
+        },
+        {
+            "id": "thermonuclear",
+            "word": "thermonuclear"
+        },
+        {
+            "id": "thermopile",
+            "word": "thermopile"
+        },
+        {
+            "id": "thomson%2C_sir_joseph_john",
+            "word": "thomson, sir joseph john"
+        },
+        {
+            "id": "time_constant",
+            "word": "time constant"
+        },
+        {
+            "id": "time_domain",
+            "word": "time domain"
+        },
+        {
+            "id": "time-of-flight",
+            "word": "time-of-flight"
+        },
+        {
+            "id": "time-resolved",
+            "word": "time-resolved"
+        },
+        {
+            "id": "time_reversal",
+            "word": "time reversal"
+        },
+        {
+            "id": "tokamak",
+            "word": "tokamak"
+        },
+        {
+            "id": "torque",
+            "word": "torque"
+        },
+        {
+            "id": "torricelli%2C_evangelista",
+            "word": "torricelli, evangelista"
+        },
+        {
+            "id": "torricellian_vacuum",
+            "word": "torricellian vacuum"
+        },
+        {
+            "id": "torsion",
+            "word": "torsion"
+        },
+        {
+            "id": "torsional",
+            "word": "torsional"
+        },
+        {
+            "id": "torsion_balance",
+            "word": "torsion balance"
+        },
+        {
+            "id": "total_internal_reflection",
+            "word": "total internal reflection"
+        },
+        {
+            "id": "townes%2C_charles_hard",
+            "word": "townes, charles hard"
+        },
+        {
+            "id": "transition_probability",
+            "word": "transition probability"
+        },
+        {
+            "id": "transition_temperature",
+            "word": "transition temperature"
+        },
+        {
+            "id": "transmission_electron_microscope",
+            "word": "transmission electron microscope"
+        },
+        {
+            "id": "transmissivity",
+            "word": "transmissivity"
+        },
+        {
+            "id": "transmittance",
+            "word": "transmittance"
+        },
+        {
+            "id": "transmutation",
+            "word": "transmutation"
+        },
+        {
+            "id": "transverse_magnet",
+            "word": "transverse magnet"
+        },
+        {
+            "id": "transverse_wave",
+            "word": "transverse wave"
+        },
+        {
+            "id": "travelling_wave",
+            "word": "travelling wave"
+        },
+        {
+            "id": "triangle_of_forces",
+            "word": "triangle of forces"
+        },
+        {
+            "id": "triboelectricity",
+            "word": "triboelectricity"
+        },
+        {
+            "id": "tribology",
+            "word": "tribology"
+        },
+        {
+            "id": "triboluminescence",
+            "word": "triboluminescence"
+        },
+        {
+            "id": "tribometer",
+            "word": "tribometer"
+        },
+        {
+            "id": "triton",
+            "word": "triton"
+        },
+        {
+            "id": "-tron",
+            "word": "-tron"
+        },
+        {
+            "id": "turbulence",
+            "word": "turbulence"
+        },
+        {
+            "id": "twin_paradox",
+            "word": "twin paradox"
+        },
+        {
+            "id": "twistor",
+            "word": "twistor"
+        },
+        {
+            "id": "tyndall%2C_john",
+            "word": "tyndall, john"
+        },
+        {
+            "id": "u",
+            "word": "u"
+        },
+        {
+            "id": "ukaea",
+            "word": "ukaea"
+        },
+        {
+            "id": "ultracold",
+            "word": "ultracold"
+        },
+        {
+            "id": "ultrashort",
+            "word": "ultrashort"
+        },
+        {
+            "id": "ultrasonic",
+            "word": "ultrasonic"
+        },
+        {
+            "id": "ultrasonics",
+            "word": "ultrasonics"
+        },
+        {
+            "id": "ultrasound",
+            "word": "ultrasound"
+        },
+        {
+            "id": "ultraviolet",
+            "word": "ultraviolet"
+        },
+        {
+            "id": "umbra",
+            "word": "umbra"
+        },
+        {
+            "id": "uncertainty_principle",
+            "word": "uncertainty principle"
+        },
+        {
+            "id": "uncharged",
+            "word": "uncharged"
+        },
+        {
+            "id": "underdamp",
+            "word": "underdamp"
+        },
+        {
+            "id": "unified_field_theory",
+            "word": "unified field theory"
+        },
+        {
+            "id": "unipolar",
+            "word": "unipolar"
+        },
+        {
+            "id": "unpressurized",
+            "word": "unpressurized"
+        },
+        {
+            "id": "unstable_equilibrium",
+            "word": "unstable equilibrium"
+        },
+        {
+            "id": "upthrust",
+            "word": "upthrust"
+        },
+        {
+            "id": "uv",
+            "word": "uv"
+        },
+        {
+            "id": "uva",
+            "word": "uva"
+        },
+        {
+            "id": "uvb",
+            "word": "uvb"
+        },
+        {
+            "id": "uvc",
+            "word": "uvc"
+        },
+        {
+            "id": "vacuum",
+            "word": "vacuum"
+        },
+        {
+            "id": "van_allen%2C_james_alfred",
+            "word": "van allen, james alfred"
+        },
+        {
+            "id": "van_allen_belt",
+            "word": "van allen belt"
+        },
+        {
+            "id": "van_de_graaff_generator",
+            "word": "van de graaff generator"
+        },
+        {
+            "id": "vaporize",
+            "word": "vaporize"
+        },
+        {
+            "id": "vapour",
+            "word": "vapour"
+        },
+        {
+            "id": "varifocal",
+            "word": "varifocal"
+        },
+        {
+            "id": "vector",
+            "word": "vector"
+        },
+        {
+            "id": "vectorial",
+            "word": "vectorial"
+        },
+        {
+            "id": "vectorize",
+            "word": "vectorize"
+        },
+        {
+            "id": "velocimeter",
+            "word": "velocimeter"
+        },
+        {
+            "id": "velocity",
+            "word": "velocity"
+        },
+        {
+            "id": "velocity_profile",
+            "word": "velocity profile"
+        },
+        {
+            "id": "venturi",
+            "word": "venturi"
+        },
+        {
+            "id": "vernier",
+            "word": "vernier"
+        },
+        {
+            "id": "vibration",
+            "word": "vibration"
+        },
+        {
+            "id": "viscoelastic",
+            "word": "viscoelastic"
+        },
+        {
+            "id": "viscoelasticity",
+            "word": "viscoelasticity"
+        },
+        {
+            "id": "viscometer",
+            "word": "viscometer"
+        },
+        {
+            "id": "viscosity",
+            "word": "viscosity"
+        },
+        {
+            "id": "viscous",
+            "word": "viscous"
+        },
+        {
+            "id": "visible",
+            "word": "visible"
+        },
+        {
+            "id": "vol.",
+            "word": "vol."
+        },
+        {
+            "id": "volta%2C_alessandro",
+            "word": "volta, alessandro"
+        },
+        {
+            "id": "vortex",
+            "word": "vortex"
+        },
+        {
+            "id": "vortical",
+            "word": "vortical"
+        },
+        {
+            "id": "vorticity",
+            "word": "vorticity"
+        },
+        {
+            "id": "walton%2C_ernest",
+            "word": "walton, ernest"
+        },
+        {
+            "id": "watson-watt%2C_sir_robert",
+            "word": "watson-watt, sir robert"
+        },
+        {
+            "id": "watt",
+            "word": "watt"
+        },
+        {
+            "id": "waveform",
+            "word": "waveform"
+        },
+        {
+            "id": "wavefront",
+            "word": "wavefront"
+        },
+        {
+            "id": "wave_function",
+            "word": "wave function"
+        },
+        {
+            "id": "wavelength",
+            "word": "wavelength"
+        },
+        {
+            "id": "wave_mechanics",
+            "word": "wave mechanics"
+        },
+        {
+            "id": "wave_number",
+            "word": "wave number"
+        },
+        {
+            "id": "wave_packet",
+            "word": "wave packet"
+        },
+        {
+            "id": "wave_power",
+            "word": "wave power"
+        },
+        {
+            "id": "wave_theory",
+            "word": "wave theory"
+        },
+        {
+            "id": "wave_train",
+            "word": "wave train"
+        },
+        {
+            "id": "wavicle",
+            "word": "wavicle"
+        },
+        {
+            "id": "weak_interaction",
+            "word": "weak interaction"
+        },
+        {
+            "id": "weber",
+            "word": "weber"
+        },
+        {
+            "id": "weber%2C_wilhelm_eduard",
+            "word": "weber, wilhelm eduard"
+        },
+        {
+            "id": "weight",
+            "word": "weight"
+        },
+        {
+            "id": "weightless",
+            "word": "weightless"
+        },
+        {
+            "id": "weightlessness",
+            "word": "weightlessness"
+        },
+        {
+            "id": "weinberg%2C_steven",
+            "word": "weinberg, steven"
+        },
+        {
+            "id": "wet_bulb",
+            "word": "wet bulb"
+        },
+        {
+            "id": "wheatstone_bridge",
+            "word": "wheatstone bridge"
+        },
+        {
+            "id": "wheeler%2C_john_archibald",
+            "word": "wheeler, john archibald"
+        },
+        {
+            "id": "whistler",
+            "word": "whistler"
+        },
+        {
+            "id": "white_heat",
+            "word": "white heat"
+        },
+        {
+            "id": "white_light",
+            "word": "white light"
+        },
+        {
+            "id": "white_noise",
+            "word": "white noise"
+        },
+        {
+            "id": "wilson%2C_charles_thomson_rees",
+            "word": "wilson, charles thomson rees"
+        },
+        {
+            "id": "wimp",
+            "word": "wimp"
+        },
+        {
+            "id": "wimshurst_machine",
+            "word": "wimshurst machine"
+        },
+        {
+            "id": "windage",
+            "word": "windage"
+        },
+        {
+            "id": "wind_power",
+            "word": "wind power"
+        },
+        {
+            "id": "work_function",
+            "word": "work function"
+        },
+        {
+            "id": "world_line",
+            "word": "world line"
+        },
+        {
+            "id": "w_particle",
+            "word": "w particle"
+        },
+        {
+            "id": "x-ray",
+            "word": "x-ray"
+        },
+        {
+            "id": "x-ray_tube",
+            "word": "x-ray tube"
+        },
+        {
+            "id": "yield_point",
+            "word": "yield point"
+        },
+        {
+            "id": "yield_strength",
+            "word": "yield strength"
+        },
+        {
+            "id": "yield_stress",
+            "word": "yield stress"
+        },
+        {
+            "id": "young%27s_modulus",
+            "word": "young's modulus"
+        },
+        {
+            "id": "young%2C_thomas",
+            "word": "young, thomas"
+        },
+        {
+            "id": "zeeman_effect",
+            "word": "zeeman effect"
+        },
+        {
+            "id": "zero_crossing",
+            "word": "zero crossing"
+        },
+        {
+            "id": "zero_gravity",
+            "word": "zero gravity"
+        },
+        {
+            "id": "zero-point",
+            "word": "zero-point"
+        },
+        {
+            "id": "zeroth",
+            "word": "zeroth"
+        },
+        {
+            "id": "z_particle",
+            "word": "z particle"
+        },
+        {
+            "id": "zworykin%2C_vladimir",
+            "word": "zworykin, vladimir"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 31,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "bind_off",
+            "word": "bind off"
+        },
+        {
+            "id": "cable-knit",
+            "word": "cable-knit"
+        },
+        {
+            "id": "cable_stitch",
+            "word": "cable stitch"
+        },
+        {
+            "id": "cast_off_%28or_cast_something_off%29",
+            "word": "cast off (or cast something off)"
+        },
+        {
+            "id": "cast_on_%28or_cast_something_on%29",
+            "word": "cast on (or cast something on)"
+        },
+        {
+            "id": "double_knitting",
+            "word": "double knitting"
+        },
+        {
+            "id": "drop_a_stitch",
+            "word": "drop a stitch"
+        },
+        {
+            "id": "drop-stitch",
+            "word": "drop-stitch"
+        },
+        {
+            "id": "fingering",
+            "word": "fingering"
+        },
+        {
+            "id": "fisherman%27s_rib",
+            "word": "fisherman's rib"
+        },
+        {
+            "id": "garter_stitch",
+            "word": "garter stitch"
+        },
+        {
+            "id": "guerrilla_knitting",
+            "word": "guerrilla knitting"
+        },
+        {
+            "id": "hand-knit",
+            "word": "hand-knit"
+        },
+        {
+            "id": "heavy-knit",
+            "word": "heavy-knit"
+        },
+        {
+            "id": "honeycomb_stitch",
+            "word": "honeycomb stitch"
+        },
+        {
+            "id": "intarsia",
+            "word": "intarsia"
+        },
+        {
+            "id": "knit",
+            "word": "knit"
+        },
+        {
+            "id": "knitting",
+            "word": "knitting"
+        },
+        {
+            "id": "knitting_needle",
+            "word": "knitting needle"
+        },
+        {
+            "id": "loop_stitch",
+            "word": "loop stitch"
+        },
+        {
+            "id": "moss_stitch",
+            "word": "moss stitch"
+        },
+        {
+            "id": "peggy_square",
+            "word": "peggy square"
+        },
+        {
+            "id": "pointelle",
+            "word": "pointelle"
+        },
+        {
+            "id": "ribber",
+            "word": "ribber"
+        },
+        {
+            "id": "ribbing",
+            "word": "ribbing"
+        },
+        {
+            "id": "stitch",
+            "word": "stitch"
+        },
+        {
+            "id": "stitch_and_bitch",
+            "word": "stitch and bitch"
+        },
+        {
+            "id": "stocking_stitch",
+            "word": "stocking stitch"
+        },
+        {
+            "id": "yarn-bomb",
+            "word": "yarn-bomb"
+        },
+        {
+            "id": "yarn-bombed",
+            "word": "yarn-bombed"
+        },
+        {
+            "id": "yarn_bombing",
+            "word": "yarn bombing"
+        }
+    ]
+}

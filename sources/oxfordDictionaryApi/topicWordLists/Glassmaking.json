@@ -1,0 +1,195 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 46
+    },
+    "results": [
+        {
+            "id": "aventurine",
+            "word": "aventurine"
+        },
+        {
+            "id": "borosilicate",
+            "word": "borosilicate"
+        },
+        {
+            "id": "cameo_glass",
+            "word": "cameo glass"
+        },
+        {
+            "id": "crown_glass",
+            "word": "crown glass"
+        },
+        {
+            "id": "cullet",
+            "word": "cullet"
+        },
+        {
+            "id": "cut_glass",
+            "word": "cut glass"
+        },
+        {
+            "id": "devitrify",
+            "word": "devitrify"
+        },
+        {
+            "id": "didymium",
+            "word": "didymium"
+        },
+        {
+            "id": "favrile_glass",
+            "word": "favrile glass"
+        },
+        {
+            "id": "flint_glass",
+            "word": "flint glass"
+        },
+        {
+            "id": "float_glass",
+            "word": "float glass"
+        },
+        {
+            "id": "founder",
+            "word": "founder"
+        },
+        {
+            "id": "frit",
+            "word": "frit"
+        },
+        {
+            "id": "frosted",
+            "word": "frosted"
+        },
+        {
+            "id": "glass",
+            "word": "glass"
+        },
+        {
+            "id": "glass-blowing",
+            "word": "glass-blowing"
+        },
+        {
+            "id": "glass_cutter",
+            "word": "glass cutter"
+        },
+        {
+            "id": "glassmaking",
+            "word": "glassmaking"
+        },
+        {
+            "id": "glasswort",
+            "word": "glasswort"
+        },
+        {
+            "id": "ground_glass",
+            "word": "ground glass"
+        },
+        {
+            "id": "grozing_iron",
+            "word": "grozing iron"
+        },
+        {
+            "id": "kick",
+            "word": "kick"
+        },
+        {
+            "id": "lace_glass",
+            "word": "lace glass"
+        },
+        {
+            "id": "laminate",
+            "word": "laminate"
+        },
+        {
+            "id": "latticinio",
+            "word": "latticinio"
+        },
+        {
+            "id": "lead_glass",
+            "word": "lead glass"
+        },
+        {
+            "id": "lehr",
+            "word": "lehr"
+        },
+        {
+            "id": "milk-glass",
+            "word": "milk-glass"
+        },
+        {
+            "id": "millefiori",
+            "word": "millefiori"
+        },
+        {
+            "id": "mirror_glass",
+            "word": "mirror glass"
+        },
+        {
+            "id": "murano_glass",
+            "word": "murano glass"
+        },
+        {
+            "id": "opacify",
+            "word": "opacify"
+        },
+        {
+            "id": "opaline",
+            "word": "opaline"
+        },
+        {
+            "id": "orthoclase",
+            "word": "orthoclase"
+        },
+        {
+            "id": "parison",
+            "word": "parison"
+        },
+        {
+            "id": "plate_glass",
+            "word": "plate glass"
+        },
+        {
+            "id": "pontil",
+            "word": "pontil"
+        },
+        {
+            "id": "pyrex",
+            "word": "pyrex"
+        },
+        {
+            "id": "ruby_glass",
+            "word": "ruby glass"
+        },
+        {
+            "id": "safety_glass",
+            "word": "safety glass"
+        },
+        {
+            "id": "sandiver",
+            "word": "sandiver"
+        },
+        {
+            "id": "smalt",
+            "word": "smalt"
+        },
+        {
+            "id": "stemware",
+            "word": "stemware"
+        },
+        {
+            "id": "triplex",
+            "word": "triplex"
+        },
+        {
+            "id": "verre_%C3%A9glomis%C3%A9",
+            "word": "verre églomisé"
+        },
+        {
+            "id": "waterford_glass",
+            "word": "waterford glass"
+        }
+    ]
+}

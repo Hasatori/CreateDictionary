@@ -1,0 +1,95 @@
+{
+    "results": [
+        {
+            "id": "asana",
+            "word": "asana"
+        },
+        {
+            "id": "ashtanga",
+            "word": "ashtanga"
+        },
+        {
+            "id": "backbend",
+            "word": "backbend"
+        },
+        {
+            "id": "bikram_yoga",
+            "word": "bikram yoga"
+        },
+        {
+            "id": "child%27s_pose",
+            "word": "child's pose"
+        },
+        {
+            "id": "corpse_pose",
+            "word": "corpse pose"
+        },
+        {
+            "id": "dhyana",
+            "word": "dhyana"
+        },
+        {
+            "id": "downward_dog",
+            "word": "downward dog"
+        },
+        {
+            "id": "hatha_yoga",
+            "word": "hatha yoga"
+        },
+        {
+            "id": "hot_yoga",
+            "word": "hot yoga"
+        },
+        {
+            "id": "iyengar",
+            "word": "iyengar"
+        },
+        {
+            "id": "kundalini",
+            "word": "kundalini"
+        },
+        {
+            "id": "pranayama",
+            "word": "pranayama"
+        },
+        {
+            "id": "raja_yoga",
+            "word": "raja yoga"
+        },
+        {
+            "id": "samadhi",
+            "word": "samadhi"
+        },
+        {
+            "id": "sun_salutation",
+            "word": "sun salutation"
+        },
+        {
+            "id": "vinyasa",
+            "word": "vinyasa"
+        },
+        {
+            "id": "yoga",
+            "word": "yoga"
+        },
+        {
+            "id": "yogalates",
+            "word": "yogalates"
+        },
+        {
+            "id": "yogi",
+            "word": "yogi"
+        },
+        {
+            "id": "yogini",
+            "word": "yogini"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 21,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

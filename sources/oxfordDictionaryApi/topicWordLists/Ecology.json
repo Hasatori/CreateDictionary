@@ -1,0 +1,1191 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 295,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "abyssal",
+            "word": "abyssal"
+        },
+        {
+            "id": "acclimatization_society",
+            "word": "acclimatization society"
+        },
+        {
+            "id": "agroecological",
+            "word": "agroecological"
+        },
+        {
+            "id": "agroecologist",
+            "word": "agroecologist"
+        },
+        {
+            "id": "agroecology",
+            "word": "agroecology"
+        },
+        {
+            "id": "agroecosystem",
+            "word": "agroecosystem"
+        },
+        {
+            "id": "air_pollution",
+            "word": "air pollution"
+        },
+        {
+            "id": "allelochemical",
+            "word": "allelochemical"
+        },
+        {
+            "id": "allelopathy",
+            "word": "allelopathy"
+        },
+        {
+            "id": "alternative_energy",
+            "word": "alternative energy"
+        },
+        {
+            "id": "anthropogenic",
+            "word": "anthropogenic"
+        },
+        {
+            "id": "aonb",
+            "word": "aonb"
+        },
+        {
+            "id": "arboreal",
+            "word": "arboreal"
+        },
+        {
+            "id": "arcology",
+            "word": "arcology"
+        },
+        {
+            "id": "area_of_outstanding_natural_beauty",
+            "word": "area of outstanding natural beauty"
+        },
+        {
+            "id": "association",
+            "word": "association"
+        },
+        {
+            "id": "autecology",
+            "word": "autecology"
+        },
+        {
+            "id": "bathypelagic",
+            "word": "bathypelagic"
+        },
+        {
+            "id": "benthos",
+            "word": "benthos"
+        },
+        {
+            "id": "bioclimatic",
+            "word": "bioclimatic"
+        },
+        {
+            "id": "biocoenosis",
+            "word": "biocoenosis"
+        },
+        {
+            "id": "biocompatible",
+            "word": "biocompatible"
+        },
+        {
+            "id": "bioconversion",
+            "word": "bioconversion"
+        },
+        {
+            "id": "biodegradable",
+            "word": "biodegradable"
+        },
+        {
+            "id": "biodiversity",
+            "word": "biodiversity"
+        },
+        {
+            "id": "biogas",
+            "word": "biogas"
+        },
+        {
+            "id": "biogeochemical",
+            "word": "biogeochemical"
+        },
+        {
+            "id": "biome",
+            "word": "biome"
+        },
+        {
+            "id": "biomethane",
+            "word": "biomethane"
+        },
+        {
+            "id": "bionomics",
+            "word": "bionomics"
+        },
+        {
+            "id": "biopiracy",
+            "word": "biopiracy"
+        },
+        {
+            "id": "bioregion",
+            "word": "bioregion"
+        },
+        {
+            "id": "bioregionalism",
+            "word": "bioregionalism"
+        },
+        {
+            "id": "bioremediation",
+            "word": "bioremediation"
+        },
+        {
+            "id": "biosphere",
+            "word": "biosphere"
+        },
+        {
+            "id": "biotope",
+            "word": "biotope"
+        },
+        {
+            "id": "blanket_bog",
+            "word": "blanket bog"
+        },
+        {
+            "id": "bog",
+            "word": "bog"
+        },
+        {
+            "id": "borlaug%2C_norman",
+            "word": "borlaug, norman"
+        },
+        {
+            "id": "bush-clad",
+            "word": "bush-clad"
+        },
+        {
+            "id": "bushline",
+            "word": "bushline"
+        },
+        {
+            "id": "caatinga",
+            "word": "caatinga"
+        },
+        {
+            "id": "calcareous",
+            "word": "calcareous"
+        },
+        {
+            "id": "campo",
+            "word": "campo"
+        },
+        {
+            "id": "canebrake",
+            "word": "canebrake"
+        },
+        {
+            "id": "cap_and_trade",
+            "word": "cap and trade"
+        },
+        {
+            "id": "carbon_credit",
+            "word": "carbon credit"
+        },
+        {
+            "id": "carbon_cycle",
+            "word": "carbon cycle"
+        },
+        {
+            "id": "carbon_debt",
+            "word": "carbon debt"
+        },
+        {
+            "id": "carbon_fixation",
+            "word": "carbon fixation"
+        },
+        {
+            "id": "carbon_footprint",
+            "word": "carbon footprint"
+        },
+        {
+            "id": "carbon-neutral",
+            "word": "carbon-neutral"
+        },
+        {
+            "id": "carbon_offset",
+            "word": "carbon offset"
+        },
+        {
+            "id": "carbon_offsetting",
+            "word": "carbon offsetting"
+        },
+        {
+            "id": "carbon_sequestration",
+            "word": "carbon sequestration"
+        },
+        {
+            "id": "carbon_sink",
+            "word": "carbon sink"
+        },
+        {
+            "id": "carbon_trading",
+            "word": "carbon trading"
+        },
+        {
+            "id": "carr",
+            "word": "carr"
+        },
+        {
+            "id": "carrying_capacity",
+            "word": "carrying capacity"
+        },
+        {
+            "id": "carson%2C_rachel",
+            "word": "carson, rachel"
+        },
+        {
+            "id": "ccs",
+            "word": "ccs"
+        },
+        {
+            "id": "chaparral",
+            "word": "chaparral"
+        },
+        {
+            "id": "cites",
+            "word": "cites"
+        },
+        {
+            "id": "climate_denial",
+            "word": "climate denial"
+        },
+        {
+            "id": "climate_denialism",
+            "word": "climate denialism"
+        },
+        {
+            "id": "climate_denialist",
+            "word": "climate denialist"
+        },
+        {
+            "id": "climate_denier",
+            "word": "climate denier"
+        },
+        {
+            "id": "competitive_exclusion",
+            "word": "competitive exclusion"
+        },
+        {
+            "id": "conservancy",
+            "word": "conservancy"
+        },
+        {
+            "id": "conservation",
+            "word": "conservation"
+        },
+        {
+            "id": "conservation_area",
+            "word": "conservation area"
+        },
+        {
+            "id": "conservationist",
+            "word": "conservationist"
+        },
+        {
+            "id": "conservation_park",
+            "word": "conservation park"
+        },
+        {
+            "id": "cryptozoic",
+            "word": "cryptozoic"
+        },
+        {
+            "id": "cull",
+            "word": "cull"
+        },
+        {
+            "id": "dark-sky",
+            "word": "dark-sky"
+        },
+        {
+            "id": "dead_zone",
+            "word": "dead zone"
+        },
+        {
+            "id": "deep_ecology",
+            "word": "deep ecology"
+        },
+        {
+            "id": "deforest",
+            "word": "deforest"
+        },
+        {
+            "id": "deforestation",
+            "word": "deforestation"
+        },
+        {
+            "id": "defra",
+            "word": "defra"
+        },
+        {
+            "id": "depollute",
+            "word": "depollute"
+        },
+        {
+            "id": "desertification",
+            "word": "desertification"
+        },
+        {
+            "id": "discharger",
+            "word": "discharger"
+        },
+        {
+            "id": "district_plan",
+            "word": "district plan"
+        },
+        {
+            "id": "ecad",
+            "word": "ecad"
+        },
+        {
+            "id": "eco-activist",
+            "word": "eco-activist"
+        },
+        {
+            "id": "eco-chic",
+            "word": "eco-chic"
+        },
+        {
+            "id": "ecocide",
+            "word": "ecocide"
+        },
+        {
+            "id": "ecocline",
+            "word": "ecocline"
+        },
+        {
+            "id": "eco-driving",
+            "word": "eco-driving"
+        },
+        {
+            "id": "eco-fashion",
+            "word": "eco-fashion"
+        },
+        {
+            "id": "eco-friendly",
+            "word": "eco-friendly"
+        },
+        {
+            "id": "ecohouse",
+            "word": "ecohouse"
+        },
+        {
+            "id": "eco-label",
+            "word": "eco-label"
+        },
+        {
+            "id": "eco-labelling",
+            "word": "eco-labelling"
+        },
+        {
+            "id": "ecolodge",
+            "word": "ecolodge"
+        },
+        {
+            "id": "ecological_footprint",
+            "word": "ecological footprint"
+        },
+        {
+            "id": "ecologically",
+            "word": "ecologically"
+        },
+        {
+            "id": "ecologist",
+            "word": "ecologist"
+        },
+        {
+            "id": "ecology",
+            "word": "ecology"
+        },
+        {
+            "id": "ecoregion",
+            "word": "ecoregion"
+        },
+        {
+            "id": "eco-resort",
+            "word": "eco-resort"
+        },
+        {
+            "id": "ecosphere",
+            "word": "ecosphere"
+        },
+        {
+            "id": "ecosystem",
+            "word": "ecosystem"
+        },
+        {
+            "id": "ecotage",
+            "word": "ecotage"
+        },
+        {
+            "id": "eco-tax",
+            "word": "eco-tax"
+        },
+        {
+            "id": "ecoterrorism",
+            "word": "ecoterrorism"
+        },
+        {
+            "id": "ecotone",
+            "word": "ecotone"
+        },
+        {
+            "id": "ecotour",
+            "word": "ecotour"
+        },
+        {
+            "id": "ecotourism",
+            "word": "ecotourism"
+        },
+        {
+            "id": "ecotown",
+            "word": "ecotown"
+        },
+        {
+            "id": "ecotoxicology",
+            "word": "ecotoxicology"
+        },
+        {
+            "id": "ecovillage",
+            "word": "ecovillage"
+        },
+        {
+            "id": "eco-warrior",
+            "word": "eco-warrior"
+        },
+        {
+            "id": "edaphic",
+            "word": "edaphic"
+        },
+        {
+            "id": "emissions_trading",
+            "word": "emissions trading"
+        },
+        {
+            "id": "energy_conservation",
+            "word": "energy conservation"
+        },
+        {
+            "id": "environment",
+            "word": "environment"
+        },
+        {
+            "id": "environmentalism",
+            "word": "environmentalism"
+        },
+        {
+            "id": "environmentalist",
+            "word": "environmentalist"
+        },
+        {
+            "id": "environmentally_sensitive_area",
+            "word": "environmentally sensitive area"
+        },
+        {
+            "id": "epa",
+            "word": "epa"
+        },
+        {
+            "id": "epibenthos",
+            "word": "epibenthos"
+        },
+        {
+            "id": "epifauna",
+            "word": "epifauna"
+        },
+        {
+            "id": "euryhaline",
+            "word": "euryhaline"
+        },
+        {
+            "id": "eurythermal",
+            "word": "eurythermal"
+        },
+        {
+            "id": "eurytopic",
+            "word": "eurytopic"
+        },
+        {
+            "id": "eutrophic",
+            "word": "eutrophic"
+        },
+        {
+            "id": "eutrophicate",
+            "word": "eutrophicate"
+        },
+        {
+            "id": "eutrophication",
+            "word": "eutrophication"
+        },
+        {
+            "id": "evapotranspiration",
+            "word": "evapotranspiration"
+        },
+        {
+            "id": "e-waste",
+            "word": "e-waste"
+        },
+        {
+            "id": "fieldwork",
+            "word": "fieldwork"
+        },
+        {
+            "id": "flush",
+            "word": "flush"
+        },
+        {
+            "id": "food_chain",
+            "word": "food chain"
+        },
+        {
+            "id": "food_web",
+            "word": "food web"
+        },
+        {
+            "id": "footprint",
+            "word": "footprint"
+        },
+        {
+            "id": "foredune",
+            "word": "foredune"
+        },
+        {
+            "id": "forest_floor",
+            "word": "forest floor"
+        },
+        {
+            "id": "freegan",
+            "word": "freegan"
+        },
+        {
+            "id": "friends_of_the_earth",
+            "word": "friends of the earth"
+        },
+        {
+            "id": "fynbos",
+            "word": "fynbos"
+        },
+        {
+            "id": "gaia_hypothesis",
+            "word": "gaia hypothesis"
+        },
+        {
+            "id": "gaian",
+            "word": "gaian"
+        },
+        {
+            "id": "game_park",
+            "word": "game park"
+        },
+        {
+            "id": "game_reserve",
+            "word": "game reserve"
+        },
+        {
+            "id": "gef",
+            "word": "gef"
+        },
+        {
+            "id": "geoengineering",
+            "word": "geoengineering"
+        },
+        {
+            "id": "geopark",
+            "word": "geopark"
+        },
+        {
+            "id": "global_distillation",
+            "word": "global distillation"
+        },
+        {
+            "id": "green_audit",
+            "word": "green audit"
+        },
+        {
+            "id": "green_belt",
+            "word": "green belt"
+        },
+        {
+            "id": "green_drought",
+            "word": "green drought"
+        },
+        {
+            "id": "greenfield",
+            "word": "greenfield"
+        },
+        {
+            "id": "greenie",
+            "word": "greenie"
+        },
+        {
+            "id": "green_technology",
+            "word": "green technology"
+        },
+        {
+            "id": "greenwash",
+            "word": "greenwash"
+        },
+        {
+            "id": "gum_country",
+            "word": "gum country"
+        },
+        {
+            "id": "gumland",
+            "word": "gumland"
+        },
+        {
+            "id": "habitat",
+            "word": "habitat"
+        },
+        {
+            "id": "halophile",
+            "word": "halophile"
+        },
+        {
+            "id": "hydric",
+            "word": "hydric"
+        },
+        {
+            "id": "indicator",
+            "word": "indicator"
+        },
+        {
+            "id": "infauna",
+            "word": "infauna"
+        },
+        {
+            "id": "intertidal",
+            "word": "intertidal"
+        },
+        {
+            "id": "iucn",
+            "word": "iucn"
+        },
+        {
+            "id": "krummholz",
+            "word": "krummholz"
+        },
+        {
+            "id": "kwongan",
+            "word": "kwongan"
+        },
+        {
+            "id": "lacustrine",
+            "word": "lacustrine"
+        },
+        {
+            "id": "landcare",
+            "word": "landcare"
+        },
+        {
+            "id": "lentic",
+            "word": "lentic"
+        },
+        {
+            "id": "limnology",
+            "word": "limnology"
+        },
+        {
+            "id": "locavore",
+            "word": "locavore"
+        },
+        {
+            "id": "lotic",
+            "word": "lotic"
+        },
+        {
+            "id": "lotka%E2%80%93volterra",
+            "word": "lotka–volterra"
+        },
+        {
+            "id": "lovelock%2C_james",
+            "word": "lovelock, james"
+        },
+        {
+            "id": "low-flow",
+            "word": "low-flow"
+        },
+        {
+            "id": "meiofauna",
+            "word": "meiofauna"
+        },
+        {
+            "id": "mesic",
+            "word": "mesic"
+        },
+        {
+            "id": "mesofauna",
+            "word": "mesofauna"
+        },
+        {
+            "id": "mesopelagic",
+            "word": "mesopelagic"
+        },
+        {
+            "id": "microbiome",
+            "word": "microbiome"
+        },
+        {
+            "id": "micro-environment",
+            "word": "micro-environment"
+        },
+        {
+            "id": "microfauna",
+            "word": "microfauna"
+        },
+        {
+            "id": "microhabitat",
+            "word": "microhabitat"
+        },
+        {
+            "id": "microplastic",
+            "word": "microplastic"
+        },
+        {
+            "id": "muir%2C_john",
+            "word": "muir, john"
+        },
+        {
+            "id": "national_park",
+            "word": "national park"
+        },
+        {
+            "id": "national_trust",
+            "word": "national trust"
+        },
+        {
+            "id": "nature_reserve",
+            "word": "nature reserve"
+        },
+        {
+            "id": "nerc",
+            "word": "nerc"
+        },
+        {
+            "id": "nirex",
+            "word": "nirex"
+        },
+        {
+            "id": "nitrogen_cycle",
+            "word": "nitrogen cycle"
+        },
+        {
+            "id": "nitrogen_fixation",
+            "word": "nitrogen fixation"
+        },
+        {
+            "id": "non-point_source",
+            "word": "non-point source"
+        },
+        {
+            "id": "nuclear-free",
+            "word": "nuclear-free"
+        },
+        {
+            "id": "nuclear_winter",
+            "word": "nuclear winter"
+        },
+        {
+            "id": "nurdle",
+            "word": "nurdle"
+        },
+        {
+            "id": "oil_pollution",
+            "word": "oil pollution"
+        },
+        {
+            "id": "oil_spill",
+            "word": "oil spill"
+        },
+        {
+            "id": "oligotrophic",
+            "word": "oligotrophic"
+        },
+        {
+            "id": "ombro-",
+            "word": "ombro-"
+        },
+        {
+            "id": "ombrogenous",
+            "word": "ombrogenous"
+        },
+        {
+            "id": "ombrotrophic",
+            "word": "ombrotrophic"
+        },
+        {
+            "id": "opportunistic",
+            "word": "opportunistic"
+        },
+        {
+            "id": "overfish",
+            "word": "overfish"
+        },
+        {
+            "id": "overgraze",
+            "word": "overgraze"
+        },
+        {
+            "id": "overgrazing",
+            "word": "overgrazing"
+        },
+        {
+            "id": "overstorey",
+            "word": "overstorey"
+        },
+        {
+            "id": "ozone_hole",
+            "word": "ozone hole"
+        },
+        {
+            "id": "ozone_layer",
+            "word": "ozone layer"
+        },
+        {
+            "id": "palaeoecology",
+            "word": "palaeoecology"
+        },
+        {
+            "id": "paludal",
+            "word": "paludal"
+        },
+        {
+            "id": "peat",
+            "word": "peat"
+        },
+        {
+            "id": "peatland",
+            "word": "peatland"
+        },
+        {
+            "id": "periphyton",
+            "word": "periphyton"
+        },
+        {
+            "id": "permaculture",
+            "word": "permaculture"
+        },
+        {
+            "id": "persistent_organic_pollutant",
+            "word": "persistent organic pollutant"
+        },
+        {
+            "id": "phenology",
+            "word": "phenology"
+        },
+        {
+            "id": "plant_life",
+            "word": "plant life"
+        },
+        {
+            "id": "pollutant",
+            "word": "pollutant"
+        },
+        {
+            "id": "pollute",
+            "word": "pollute"
+        },
+        {
+            "id": "polluted",
+            "word": "polluted"
+        },
+        {
+            "id": "polluter",
+            "word": "polluter"
+        },
+        {
+            "id": "pollution",
+            "word": "pollution"
+        },
+        {
+            "id": "pop",
+            "word": "pop"
+        },
+        {
+            "id": "post-consumer",
+            "word": "post-consumer"
+        },
+        {
+            "id": "precycling",
+            "word": "precycling"
+        },
+        {
+            "id": "preservationist",
+            "word": "preservationist"
+        },
+        {
+            "id": "quadrat",
+            "word": "quadrat"
+        },
+        {
+            "id": "ranker",
+            "word": "ranker"
+        },
+        {
+            "id": "recolonize",
+            "word": "recolonize"
+        },
+        {
+            "id": "recyclable",
+            "word": "recyclable"
+        },
+        {
+            "id": "recycle",
+            "word": "recycle"
+        },
+        {
+            "id": "recycling",
+            "word": "recycling"
+        },
+        {
+            "id": "red_tide",
+            "word": "red tide"
+        },
+        {
+            "id": "reef-builder",
+            "word": "reef-builder"
+        },
+        {
+            "id": "remediate",
+            "word": "remediate"
+        },
+        {
+            "id": "remediation",
+            "word": "remediation"
+        },
+        {
+            "id": "renewable_energy",
+            "word": "renewable energy"
+        },
+        {
+            "id": "revegetate",
+            "word": "revegetate"
+        },
+        {
+            "id": "rewild",
+            "word": "rewild"
+        },
+        {
+            "id": "rhizosphere",
+            "word": "rhizosphere"
+        },
+        {
+            "id": "rsnc",
+            "word": "rsnc"
+        },
+        {
+            "id": "scenic_reserve",
+            "word": "scenic reserve"
+        },
+        {
+            "id": "scott%2C_sir_peter",
+            "word": "scott, sir peter"
+        },
+        {
+            "id": "seastead",
+            "word": "seastead"
+        },
+        {
+            "id": "seasteading",
+            "word": "seasteading"
+        },
+        {
+            "id": "sere",
+            "word": "sere"
+        },
+        {
+            "id": "sierra_club",
+            "word": "sierra club"
+        },
+        {
+            "id": "small_is_beautiful",
+            "word": "small is beautiful"
+        },
+        {
+            "id": "socioecology",
+            "word": "socioecology"
+        },
+        {
+            "id": "soil_science",
+            "word": "soil science"
+        },
+        {
+            "id": "solar_farm",
+            "word": "solar farm"
+        },
+        {
+            "id": "solar_gain",
+            "word": "solar gain"
+        },
+        {
+            "id": "sssi",
+            "word": "sssi"
+        },
+        {
+            "id": "stenohaline",
+            "word": "stenohaline"
+        },
+        {
+            "id": "stenothermal",
+            "word": "stenothermal"
+        },
+        {
+            "id": "stenotopic",
+            "word": "stenotopic"
+        },
+        {
+            "id": "sublittoral",
+            "word": "sublittoral"
+        },
+        {
+            "id": "sustainability",
+            "word": "sustainability"
+        },
+        {
+            "id": "sustainable",
+            "word": "sustainable"
+        },
+        {
+            "id": "sustainable_development",
+            "word": "sustainable development"
+        },
+        {
+            "id": "sustainably",
+            "word": "sustainably"
+        },
+        {
+            "id": "sustained_yield",
+            "word": "sustained yield"
+        },
+        {
+            "id": "synecology",
+            "word": "synecology"
+        },
+        {
+            "id": "taiga",
+            "word": "taiga"
+        },
+        {
+            "id": "tar_ball",
+            "word": "tar ball"
+        },
+        {
+            "id": "throughfall",
+            "word": "throughfall"
+        },
+        {
+            "id": "tod",
+            "word": "tod"
+        },
+        {
+            "id": "town_belt",
+            "word": "town belt"
+        },
+        {
+            "id": "treeline",
+            "word": "treeline"
+        },
+        {
+            "id": "trophic",
+            "word": "trophic"
+        },
+        {
+            "id": "-trophic",
+            "word": "-trophic"
+        },
+        {
+            "id": "trophic_level",
+            "word": "trophic level"
+        },
+        {
+            "id": "uncolonized",
+            "word": "uncolonized"
+        },
+        {
+            "id": "understorey",
+            "word": "understorey"
+        },
+        {
+            "id": "unforested",
+            "word": "unforested"
+        },
+        {
+            "id": "ungreen",
+            "word": "ungreen"
+        },
+        {
+            "id": "unsustainable",
+            "word": "unsustainable"
+        },
+        {
+            "id": "upcycle",
+            "word": "upcycle"
+        },
+        {
+            "id": "upcycled",
+            "word": "upcycled"
+        },
+        {
+            "id": "waldsterben",
+            "word": "waldsterben"
+        },
+        {
+            "id": "warmist",
+            "word": "warmist"
+        },
+        {
+            "id": "water_cycle",
+            "word": "water cycle"
+        },
+        {
+            "id": "water_footprint",
+            "word": "water footprint"
+        },
+        {
+            "id": "water_stress",
+            "word": "water stress"
+        },
+        {
+            "id": "wave_farm",
+            "word": "wave farm"
+        },
+        {
+            "id": "wildlife_corridor",
+            "word": "wildlife corridor"
+        },
+        {
+            "id": "wind_farm",
+            "word": "wind farm"
+        },
+        {
+            "id": "world_wide_fund_for_nature",
+            "word": "world wide fund for nature"
+        },
+        {
+            "id": "xeric",
+            "word": "xeric"
+        },
+        {
+            "id": "zero-carbon",
+            "word": "zero-carbon"
+        },
+        {
+            "id": "zonation",
+            "word": "zonation"
+        }
+    ]
+}

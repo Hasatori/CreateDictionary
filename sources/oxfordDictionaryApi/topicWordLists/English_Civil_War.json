@@ -1,0 +1,99 @@
+{
+    "results": [
+        {
+            "id": "cavalier",
+            "word": "cavalier"
+        },
+        {
+            "id": "charles",
+            "word": "charles"
+        },
+        {
+            "id": "clarendon%2C_earl_of",
+            "word": "clarendon, earl of"
+        },
+        {
+            "id": "cromwell%2C_oliver",
+            "word": "cromwell, oliver"
+        },
+        {
+            "id": "cromwellian",
+            "word": "cromwellian"
+        },
+        {
+            "id": "edgehill%2C_battle_of",
+            "word": "edgehill, battle of"
+        },
+        {
+            "id": "english_civil_war",
+            "word": "english civil war"
+        },
+        {
+            "id": "fairfax%2C_thomas",
+            "word": "fairfax, thomas"
+        },
+        {
+            "id": "great_rebellion",
+            "word": "great rebellion"
+        },
+        {
+            "id": "ironside",
+            "word": "ironside"
+        },
+        {
+            "id": "long_parliament",
+            "word": "long parliament"
+        },
+        {
+            "id": "marston_moor%2C_battle_of",
+            "word": "marston moor, battle of"
+        },
+        {
+            "id": "monck%2C_george",
+            "word": "monck, george"
+        },
+        {
+            "id": "montrose%2C_james_graham",
+            "word": "montrose, james graham"
+        },
+        {
+            "id": "naseby%2C_battle_of",
+            "word": "naseby, battle of"
+        },
+        {
+            "id": "new_model_army",
+            "word": "new model army"
+        },
+        {
+            "id": "pride%27s_purge",
+            "word": "pride's purge"
+        },
+        {
+            "id": "roundhead",
+            "word": "roundhead"
+        },
+        {
+            "id": "rump_parliament",
+            "word": "rump parliament"
+        },
+        {
+            "id": "rupert%2C_prince",
+            "word": "rupert, prince"
+        },
+        {
+            "id": "self-denying_ordinance",
+            "word": "self-denying ordinance"
+        },
+        {
+            "id": "solemn_league_and_covenant",
+            "word": "solemn league and covenant"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 22,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

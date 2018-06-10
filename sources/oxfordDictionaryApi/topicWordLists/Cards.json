@@ -1,0 +1,443 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 108
+    },
+    "results": [
+        {
+            "id": "ace",
+            "word": "ace"
+        },
+        {
+            "id": "ace_%28or_king_or_queen_etc.%29_high",
+            "word": "ace (or king or queen etc.) high"
+        },
+        {
+            "id": "ante",
+            "word": "ante"
+        },
+        {
+            "id": "baccarat",
+            "word": "baccarat"
+        },
+        {
+            "id": "banco",
+            "word": "banco"
+        },
+        {
+            "id": "beggar-my-neighbour",
+            "word": "beggar-my-neighbour"
+        },
+        {
+            "id": "bezique",
+            "word": "bezique"
+        },
+        {
+            "id": "blackjack",
+            "word": "blackjack"
+        },
+        {
+            "id": "boston",
+            "word": "boston"
+        },
+        {
+            "id": "buck",
+            "word": "buck"
+        },
+        {
+            "id": "busted_flush",
+            "word": "busted flush"
+        },
+        {
+            "id": "%C3%A9cart%C3%A9",
+            "word": "écarté"
+        },
+        {
+            "id": "canasta",
+            "word": "canasta"
+        },
+        {
+            "id": "canfield",
+            "word": "canfield"
+        },
+        {
+            "id": "capot",
+            "word": "capot"
+        },
+        {
+            "id": "card_game",
+            "word": "card game"
+        },
+        {
+            "id": "card_playing",
+            "word": "card playing"
+        },
+        {
+            "id": "card_room",
+            "word": "card room"
+        },
+        {
+            "id": "card_sharp",
+            "word": "card sharp"
+        },
+        {
+            "id": "card_table",
+            "word": "card table"
+        },
+        {
+            "id": "chemin_de_fer",
+            "word": "chemin de fer"
+        },
+        {
+            "id": "community_card",
+            "word": "community card"
+        },
+        {
+            "id": "cooncan",
+            "word": "cooncan"
+        },
+        {
+            "id": "court_card",
+            "word": "court card"
+        },
+        {
+            "id": "crazy_eights",
+            "word": "crazy eights"
+        },
+        {
+            "id": "cribbage",
+            "word": "cribbage"
+        },
+        {
+            "id": "cribbage_board",
+            "word": "cribbage board"
+        },
+        {
+            "id": "deal",
+            "word": "deal"
+        },
+        {
+            "id": "deuce",
+            "word": "deuce"
+        },
+        {
+            "id": "double_down",
+            "word": "double down"
+        },
+        {
+            "id": "elder_hand",
+            "word": "elder hand"
+        },
+        {
+            "id": "eldest_hand",
+            "word": "eldest hand"
+        },
+        {
+            "id": "euchre",
+            "word": "euchre"
+        },
+        {
+            "id": "faro",
+            "word": "faro"
+        },
+        {
+            "id": "five_hundred",
+            "word": "five hundred"
+        },
+        {
+            "id": "flush",
+            "word": "flush"
+        },
+        {
+            "id": "follow_suit",
+            "word": "follow suit"
+        },
+        {
+            "id": "four_flush",
+            "word": "four flush"
+        },
+        {
+            "id": "happy_families",
+            "word": "happy families"
+        },
+        {
+            "id": "hole_card",
+            "word": "hole card"
+        },
+        {
+            "id": "house_of_cards",
+            "word": "house of cards"
+        },
+        {
+            "id": "j",
+            "word": "j"
+        },
+        {
+            "id": "kibitz",
+            "word": "kibitz"
+        },
+        {
+            "id": "kitty",
+            "word": "kitty"
+        },
+        {
+            "id": "lansquenet",
+            "word": "lansquenet"
+        },
+        {
+            "id": "lone_hand",
+            "word": "lone hand"
+        },
+        {
+            "id": "loo",
+            "word": "loo"
+        },
+        {
+            "id": "loo_table",
+            "word": "loo table"
+        },
+        {
+            "id": "manille",
+            "word": "manille"
+        },
+        {
+            "id": "meld",
+            "word": "meld"
+        },
+        {
+            "id": "mis%C3%A8re",
+            "word": "misère"
+        },
+        {
+            "id": "mis%C3%A8re_ouverte",
+            "word": "misère ouverte"
+        },
+        {
+            "id": "misdeal",
+            "word": "misdeal"
+        },
+        {
+            "id": "monte",
+            "word": "monte"
+        },
+        {
+            "id": "nap",
+            "word": "nap"
+        },
+        {
+            "id": "newmarket",
+            "word": "newmarket"
+        },
+        {
+            "id": "ombre",
+            "word": "ombre"
+        },
+        {
+            "id": "one_for_his_nob",
+            "word": "one for his nob"
+        },
+        {
+            "id": "overplay_one%27s_hand",
+            "word": "overplay one's hand"
+        },
+        {
+            "id": "pack",
+            "word": "pack"
+        },
+        {
+            "id": "penny_ante",
+            "word": "penny ante"
+        },
+        {
+            "id": "pinochle",
+            "word": "pinochle"
+        },
+        {
+            "id": "pique",
+            "word": "pique"
+        },
+        {
+            "id": "piquet",
+            "word": "piquet"
+        },
+        {
+            "id": "plain_card",
+            "word": "plain card"
+        },
+        {
+            "id": "plain_suit",
+            "word": "plain suit"
+        },
+        {
+            "id": "playing_card",
+            "word": "playing card"
+        },
+        {
+            "id": "poker",
+            "word": "poker"
+        },
+        {
+            "id": "pontoon",
+            "word": "pontoon"
+        },
+        {
+            "id": "prial",
+            "word": "prial"
+        },
+        {
+            "id": "punt",
+            "word": "punt"
+        },
+        {
+            "id": "quadrille",
+            "word": "quadrille"
+        },
+        {
+            "id": "quatorze",
+            "word": "quatorze"
+        },
+        {
+            "id": "quint",
+            "word": "quint"
+        },
+        {
+            "id": "racing_demon",
+            "word": "racing demon"
+        },
+        {
+            "id": "renounce",
+            "word": "renounce"
+        },
+        {
+            "id": "repique",
+            "word": "repique"
+        },
+        {
+            "id": "rouge_et_noir",
+            "word": "rouge et noir"
+        },
+        {
+            "id": "royal_flush",
+            "word": "royal flush"
+        },
+        {
+            "id": "rubber",
+            "word": "rubber"
+        },
+        {
+            "id": "rubicon",
+            "word": "rubicon"
+        },
+        {
+            "id": "ruff",
+            "word": "ruff"
+        },
+        {
+            "id": "rummy",
+            "word": "rummy"
+        },
+        {
+            "id": "sharper",
+            "word": "sharper"
+        },
+        {
+            "id": "show_one%27s_hand",
+            "word": "show one's hand"
+        },
+        {
+            "id": "side_bet",
+            "word": "side bet"
+        },
+        {
+            "id": "skat",
+            "word": "skat"
+        },
+        {
+            "id": "spade",
+            "word": "spade"
+        },
+        {
+            "id": "spadille",
+            "word": "spadille"
+        },
+        {
+            "id": "straight_flush",
+            "word": "straight flush"
+        },
+        {
+            "id": "strip_poker",
+            "word": "strip poker"
+        },
+        {
+            "id": "strong_suit",
+            "word": "strong suit"
+        },
+        {
+            "id": "tenace",
+            "word": "tenace"
+        },
+        {
+            "id": "texas_hold_%27em",
+            "word": "texas hold 'em"
+        },
+        {
+            "id": "three-card_trick",
+            "word": "three-card trick"
+        },
+        {
+            "id": "throw_one%27s_hand_in",
+            "word": "throw one's hand in"
+        },
+        {
+            "id": "throw_something_away",
+            "word": "throw something away"
+        },
+        {
+            "id": "trente_et_quarante",
+            "word": "trente et quarante"
+        },
+        {
+            "id": "trey",
+            "word": "trey"
+        },
+        {
+            "id": "trump",
+            "word": "trump"
+        },
+        {
+            "id": "twenty-one",
+            "word": "twenty-one"
+        },
+        {
+            "id": "two_%28or_three%2C_four%2C_etc.%29_of_a_kind",
+            "word": "two (or three, four, etc.) of a kind"
+        },
+        {
+            "id": "unguard",
+            "word": "unguard"
+        },
+        {
+            "id": "up_card",
+            "word": "up card"
+        },
+        {
+            "id": "vingt-et-un",
+            "word": "vingt-et-un"
+        },
+        {
+            "id": "whist",
+            "word": "whist"
+        },
+        {
+            "id": "wild_card",
+            "word": "wild card"
+        },
+        {
+            "id": "younger_hand",
+            "word": "younger hand"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "results": [
+        {
+            "id": "bastille",
+            "word": "bastille"
+        },
+        {
+            "id": "brumaire",
+            "word": "brumaire"
+        },
+        {
+            "id": "committee_of_public_safety",
+            "word": "committee of public safety"
+        },
+        {
+            "id": "corday%2C_charlotte",
+            "word": "corday, charlotte"
+        },
+        {
+            "id": "danton%2C_georges",
+            "word": "danton, georges"
+        },
+        {
+            "id": "du_barry%2C_comtesse",
+            "word": "du barry, comtesse"
+        },
+        {
+            "id": "first_consul",
+            "word": "first consul"
+        },
+        {
+            "id": "first_republic",
+            "word": "first republic"
+        },
+        {
+            "id": "flor%C3%A9al",
+            "word": "floréal"
+        },
+        {
+            "id": "french_republican_calendar",
+            "word": "french republican calendar"
+        },
+        {
+            "id": "french_revolution",
+            "word": "french revolution"
+        },
+        {
+            "id": "frimaire",
+            "word": "frimaire"
+        },
+        {
+            "id": "fructidor",
+            "word": "fructidor"
+        },
+        {
+            "id": "girondist",
+            "word": "girondist"
+        },
+        {
+            "id": "guillotine",
+            "word": "guillotine"
+        },
+        {
+            "id": "jacobin",
+            "word": "jacobin"
+        },
+        {
+            "id": "lafayette%2C_marquis_de",
+            "word": "lafayette, marquis de"
+        },
+        {
+            "id": "marat%2C_jean_paul",
+            "word": "marat, jean paul"
+        },
+        {
+            "id": "marie_antoinette",
+            "word": "marie antoinette"
+        },
+        {
+            "id": "messidor",
+            "word": "messidor"
+        },
+        {
+            "id": "mirabeau%2C_comte_de",
+            "word": "mirabeau, comte de"
+        },
+        {
+            "id": "necker%2C_jacques",
+            "word": "necker, jacques"
+        },
+        {
+            "id": "nivose",
+            "word": "nivose"
+        },
+        {
+            "id": "pluviose",
+            "word": "pluviose"
+        },
+        {
+            "id": "prairial",
+            "word": "prairial"
+        },
+        {
+            "id": "reign_of_terror",
+            "word": "reign of terror"
+        },
+        {
+            "id": "revolutionary_tribunal",
+            "word": "revolutionary tribunal"
+        },
+        {
+            "id": "rights_of_man",
+            "word": "rights of man"
+        },
+        {
+            "id": "robespierre%2C_maximilien_de",
+            "word": "robespierre, maximilien de"
+        },
+        {
+            "id": "sans-culotte",
+            "word": "sans-culotte"
+        },
+        {
+            "id": "thermidor",
+            "word": "thermidor"
+        },
+        {
+            "id": "tricoteuse",
+            "word": "tricoteuse"
+        },
+        {
+            "id": "tumbril",
+            "word": "tumbril"
+        },
+        {
+            "id": "vendemiaire",
+            "word": "vendemiaire"
+        },
+        {
+            "id": "ventose",
+            "word": "ventose"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 35,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

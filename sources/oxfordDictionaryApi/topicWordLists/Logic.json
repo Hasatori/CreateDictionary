@@ -1,0 +1,475 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 116
+    },
+    "results": [
+        {
+            "id": "affirmative",
+            "word": "affirmative"
+        },
+        {
+            "id": "analytic",
+            "word": "analytic"
+        },
+        {
+            "id": "a_posteriori",
+            "word": "a posteriori"
+        },
+        {
+            "id": "a_priori",
+            "word": "a priori"
+        },
+        {
+            "id": "arational",
+            "word": "arational"
+        },
+        {
+            "id": "assume",
+            "word": "assume"
+        },
+        {
+            "id": "assuming",
+            "word": "assuming"
+        },
+        {
+            "id": "axiomatize",
+            "word": "axiomatize"
+        },
+        {
+            "id": "boole%2C_george",
+            "word": "boole, george"
+        },
+        {
+            "id": "bridge_of_asses",
+            "word": "bridge of asses"
+        },
+        {
+            "id": "category_mistake",
+            "word": "category mistake"
+        },
+        {
+            "id": "causal",
+            "word": "causal"
+        },
+        {
+            "id": "conjectural",
+            "word": "conjectural"
+        },
+        {
+            "id": "conjecture",
+            "word": "conjecture"
+        },
+        {
+            "id": "conjunctive",
+            "word": "conjunctive"
+        },
+        {
+            "id": "consequent",
+            "word": "consequent"
+        },
+        {
+            "id": "contraposition",
+            "word": "contraposition"
+        },
+        {
+            "id": "contrariety",
+            "word": "contrariety"
+        },
+        {
+            "id": "copula",
+            "word": "copula"
+        },
+        {
+            "id": "corollary",
+            "word": "corollary"
+        },
+        {
+            "id": "correlative",
+            "word": "correlative"
+        },
+        {
+            "id": "decision_problem",
+            "word": "decision problem"
+        },
+        {
+            "id": "deduce",
+            "word": "deduce"
+        },
+        {
+            "id": "deductive",
+            "word": "deductive"
+        },
+        {
+            "id": "definiendum",
+            "word": "definiendum"
+        },
+        {
+            "id": "definiens",
+            "word": "definiens"
+        },
+        {
+            "id": "divine",
+            "word": "divine"
+        },
+        {
+            "id": "elenchus",
+            "word": "elenchus"
+        },
+        {
+            "id": "entail",
+            "word": "entail"
+        },
+        {
+            "id": "enthymeme",
+            "word": "enthymeme"
+        },
+        {
+            "id": "equipollent",
+            "word": "equipollent"
+        },
+        {
+            "id": "equiprobable",
+            "word": "equiprobable"
+        },
+        {
+            "id": "equivalence_class",
+            "word": "equivalence class"
+        },
+        {
+            "id": "equivalence_relation",
+            "word": "equivalence relation"
+        },
+        {
+            "id": "ex_hypothesi",
+            "word": "ex hypothesi"
+        },
+        {
+            "id": "existential_quantifier",
+            "word": "existential quantifier"
+        },
+        {
+            "id": "fallacy",
+            "word": "fallacy"
+        },
+        {
+            "id": "frege%2C_gottlob",
+            "word": "frege, gottlob"
+        },
+        {
+            "id": "guesswork",
+            "word": "guesswork"
+        },
+        {
+            "id": "heuristic",
+            "word": "heuristic"
+        },
+        {
+            "id": "hypothesis",
+            "word": "hypothesis"
+        },
+        {
+            "id": "iff",
+            "word": "iff"
+        },
+        {
+            "id": "illative",
+            "word": "illative"
+        },
+        {
+            "id": "incompleteness_theorem",
+            "word": "incompleteness theorem"
+        },
+        {
+            "id": "inductive",
+            "word": "inductive"
+        },
+        {
+            "id": "infer",
+            "word": "infer"
+        },
+        {
+            "id": "inference",
+            "word": "inference"
+        },
+        {
+            "id": "inferential",
+            "word": "inferential"
+        },
+        {
+            "id": "infinite_regress",
+            "word": "infinite regress"
+        },
+        {
+            "id": "intension",
+            "word": "intension"
+        },
+        {
+            "id": "irreflexive",
+            "word": "irreflexive"
+        },
+        {
+            "id": "law_%28or_principle%29_of_the_excluded_middle",
+            "word": "law (or principle) of the excluded middle"
+        },
+        {
+            "id": "lemma",
+            "word": "lemma"
+        },
+        {
+            "id": "logic",
+            "word": "logic"
+        },
+        {
+            "id": "logical",
+            "word": "logical"
+        },
+        {
+            "id": "logical_form",
+            "word": "logical form"
+        },
+        {
+            "id": "logically",
+            "word": "logically"
+        },
+        {
+            "id": "logical_operation",
+            "word": "logical operation"
+        },
+        {
+            "id": "logician",
+            "word": "logician"
+        },
+        {
+            "id": "logic_problem",
+            "word": "logic problem"
+        },
+        {
+            "id": "middle_term",
+            "word": "middle term"
+        },
+        {
+            "id": "negative_evidence",
+            "word": "negative evidence"
+        },
+        {
+            "id": "nominal_definition",
+            "word": "nominal definition"
+        },
+        {
+            "id": "non-empty",
+            "word": "non-empty"
+        },
+        {
+            "id": "non-logical",
+            "word": "non-logical"
+        },
+        {
+            "id": "non_sequitur",
+            "word": "non sequitur"
+        },
+        {
+            "id": "non-validity",
+            "word": "non-validity"
+        },
+        {
+            "id": "obvert",
+            "word": "obvert"
+        },
+        {
+            "id": "occam%27s_razor",
+            "word": "occam's razor"
+        },
+        {
+            "id": "paradox",
+            "word": "paradox"
+        },
+        {
+            "id": "paralogical",
+            "word": "paralogical"
+        },
+        {
+            "id": "paralogism",
+            "word": "paralogism"
+        },
+        {
+            "id": "particular",
+            "word": "particular"
+        },
+        {
+            "id": "peirce%2C_charles_sanders",
+            "word": "peirce, charles sanders"
+        },
+        {
+            "id": "petitio_principii",
+            "word": "petitio principii"
+        },
+        {
+            "id": "polish_notation",
+            "word": "polish notation"
+        },
+        {
+            "id": "pons_asinorum",
+            "word": "pons asinorum"
+        },
+        {
+            "id": "predicable",
+            "word": "predicable"
+        },
+        {
+            "id": "predicate_calculus",
+            "word": "predicate calculus"
+        },
+        {
+            "id": "premise",
+            "word": "premise"
+        },
+        {
+            "id": "presume",
+            "word": "presume"
+        },
+        {
+            "id": "presupposition",
+            "word": "presupposition"
+        },
+        {
+            "id": "proposition",
+            "word": "proposition"
+        },
+        {
+            "id": "propositional",
+            "word": "propositional"
+        },
+        {
+            "id": "propositional_calculus",
+            "word": "propositional calculus"
+        },
+        {
+            "id": "pure_science",
+            "word": "pure science"
+        },
+        {
+            "id": "quantifier",
+            "word": "quantifier"
+        },
+        {
+            "id": "quine%2C_willard_van_orman",
+            "word": "quine, willard van orman"
+        },
+        {
+            "id": "ratiocinate",
+            "word": "ratiocinate"
+        },
+        {
+            "id": "recursive",
+            "word": "recursive"
+        },
+        {
+            "id": "reductio_ad_absurdum",
+            "word": "reductio ad absurdum"
+        },
+        {
+            "id": "russell%2C_bertrand",
+            "word": "russell, bertrand"
+        },
+        {
+            "id": "second_cause",
+            "word": "second cause"
+        },
+        {
+            "id": "sentential",
+            "word": "sentential"
+        },
+        {
+            "id": "sophism",
+            "word": "sophism"
+        },
+        {
+            "id": "subcontrary",
+            "word": "subcontrary"
+        },
+        {
+            "id": "suppose",
+            "word": "suppose"
+        },
+        {
+            "id": "supposition",
+            "word": "supposition"
+        },
+        {
+            "id": "surmise",
+            "word": "surmise"
+        },
+        {
+            "id": "suspect",
+            "word": "suspect"
+        },
+        {
+            "id": "syllogism",
+            "word": "syllogism"
+        },
+        {
+            "id": "syllogize",
+            "word": "syllogize"
+        },
+        {
+            "id": "symbolic_logic",
+            "word": "symbolic logic"
+        },
+        {
+            "id": "thesis",
+            "word": "thesis"
+        },
+        {
+            "id": "truism",
+            "word": "truism"
+        },
+        {
+            "id": "truth_condition",
+            "word": "truth condition"
+        },
+        {
+            "id": "truth_function",
+            "word": "truth function"
+        },
+        {
+            "id": "truth_table",
+            "word": "truth table"
+        },
+        {
+            "id": "truth_value",
+            "word": "truth value"
+        },
+        {
+            "id": "undecidable",
+            "word": "undecidable"
+        },
+        {
+            "id": "undistributed_middle",
+            "word": "undistributed middle"
+        },
+        {
+            "id": "universal",
+            "word": "universal"
+        },
+        {
+            "id": "universal_quantifier",
+            "word": "universal quantifier"
+        },
+        {
+            "id": "universal_set",
+            "word": "universal set"
+        },
+        {
+            "id": "validity",
+            "word": "validity"
+        },
+        {
+            "id": "venn_diagram",
+            "word": "venn diagram"
+        }
+    ]
+}

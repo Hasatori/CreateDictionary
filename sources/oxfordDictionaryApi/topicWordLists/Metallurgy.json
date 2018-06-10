@@ -1,0 +1,939 @@
+{
+    "results": [
+        {
+            "id": "age_hardening",
+            "word": "age hardening"
+        },
+        {
+            "id": "alclad",
+            "word": "alclad"
+        },
+        {
+            "id": "alloy",
+            "word": "alloy"
+        },
+        {
+            "id": "aluminium_bronze",
+            "word": "aluminium bronze"
+        },
+        {
+            "id": "aluminize",
+            "word": "aluminize"
+        },
+        {
+            "id": "amalgam",
+            "word": "amalgam"
+        },
+        {
+            "id": "anneal",
+            "word": "anneal"
+        },
+        {
+            "id": "armco",
+            "word": "armco"
+        },
+        {
+            "id": "assay",
+            "word": "assay"
+        },
+        {
+            "id": "assay_office",
+            "word": "assay office"
+        },
+        {
+            "id": "austenite",
+            "word": "austenite"
+        },
+        {
+            "id": "autogenous",
+            "word": "autogenous"
+        },
+        {
+            "id": "babbitt_metal",
+            "word": "babbitt metal"
+        },
+        {
+            "id": "base_metal",
+            "word": "base metal"
+        },
+        {
+            "id": "basic_oxygen_process",
+            "word": "basic oxygen process"
+        },
+        {
+            "id": "basic_slag",
+            "word": "basic slag"
+        },
+        {
+            "id": "beater",
+            "word": "beater"
+        },
+        {
+            "id": "bell_metal",
+            "word": "bell metal"
+        },
+        {
+            "id": "bessemer%2C_sir_henry",
+            "word": "bessemer, sir henry"
+        },
+        {
+            "id": "bessemer_process",
+            "word": "bessemer process"
+        },
+        {
+            "id": "bidri",
+            "word": "bidri"
+        },
+        {
+            "id": "billon",
+            "word": "billon"
+        },
+        {
+            "id": "bimetallic",
+            "word": "bimetallic"
+        },
+        {
+            "id": "bimetallic_strip",
+            "word": "bimetallic strip"
+        },
+        {
+            "id": "blast_furnace",
+            "word": "blast furnace"
+        },
+        {
+            "id": "blister_copper",
+            "word": "blister copper"
+        },
+        {
+            "id": "bloom",
+            "word": "bloom"
+        },
+        {
+            "id": "bloomery",
+            "word": "bloomery"
+        },
+        {
+            "id": "brass",
+            "word": "brass"
+        },
+        {
+            "id": "braze",
+            "word": "braze"
+        },
+        {
+            "id": "brazier",
+            "word": "brazier"
+        },
+        {
+            "id": "britannia_metal",
+            "word": "britannia metal"
+        },
+        {
+            "id": "britannia_silver",
+            "word": "britannia silver"
+        },
+        {
+            "id": "brittle_fracture",
+            "word": "brittle fracture"
+        },
+        {
+            "id": "bronze",
+            "word": "bronze"
+        },
+        {
+            "id": "bullion",
+            "word": "bullion"
+        },
+        {
+            "id": "carbon_steel",
+            "word": "carbon steel"
+        },
+        {
+            "id": "carburize",
+            "word": "carburize"
+        },
+        {
+            "id": "case-harden",
+            "word": "case-harden"
+        },
+        {
+            "id": "case-hardened",
+            "word": "case-hardened"
+        },
+        {
+            "id": "casting",
+            "word": "casting"
+        },
+        {
+            "id": "cast_iron",
+            "word": "cast iron"
+        },
+        {
+            "id": "cast_steel",
+            "word": "cast steel"
+        },
+        {
+            "id": "cathodic_protection",
+            "word": "cathodic protection"
+        },
+        {
+            "id": "cementite",
+            "word": "cementite"
+        },
+        {
+            "id": "cermet",
+            "word": "cermet"
+        },
+        {
+            "id": "chill-cast",
+            "word": "chill-cast"
+        },
+        {
+            "id": "chrome_steel",
+            "word": "chrome steel"
+        },
+        {
+            "id": "chromium_plate",
+            "word": "chromium plate"
+        },
+        {
+            "id": "chromoly",
+            "word": "chromoly"
+        },
+        {
+            "id": "cold-drawn",
+            "word": "cold-drawn"
+        },
+        {
+            "id": "cold-rolled",
+            "word": "cold-rolled"
+        },
+        {
+            "id": "cold-short",
+            "word": "cold-short"
+        },
+        {
+            "id": "cold-work",
+            "word": "cold-work"
+        },
+        {
+            "id": "constantan",
+            "word": "constantan"
+        },
+        {
+            "id": "coppersmith",
+            "word": "coppersmith"
+        },
+        {
+            "id": "corrugated_iron",
+            "word": "corrugated iron"
+        },
+        {
+            "id": "cort%2C_henry",
+            "word": "cort, henry"
+        },
+        {
+            "id": "crucible",
+            "word": "crucible"
+        },
+        {
+            "id": "crystallite",
+            "word": "crystallite"
+        },
+        {
+            "id": "cupel",
+            "word": "cupel"
+        },
+        {
+            "id": "cupro-nickel",
+            "word": "cupro-nickel"
+        },
+        {
+            "id": "damascened",
+            "word": "damascened"
+        },
+        {
+            "id": "damascus_steel",
+            "word": "damascus steel"
+        },
+        {
+            "id": "decarburize",
+            "word": "decarburize"
+        },
+        {
+            "id": "deep-drawn",
+            "word": "deep-drawn"
+        },
+        {
+            "id": "deoxidize",
+            "word": "deoxidize"
+        },
+        {
+            "id": "desolder",
+            "word": "desolder"
+        },
+        {
+            "id": "die-cast",
+            "word": "die-cast"
+        },
+        {
+            "id": "drop-forged",
+            "word": "drop-forged"
+        },
+        {
+            "id": "ductile",
+            "word": "ductile"
+        },
+        {
+            "id": "duralumin",
+            "word": "duralumin"
+        },
+        {
+            "id": "dutch_metal",
+            "word": "dutch metal"
+        },
+        {
+            "id": "electric-arc_furnace",
+            "word": "electric-arc furnace"
+        },
+        {
+            "id": "electroless",
+            "word": "electroless"
+        },
+        {
+            "id": "electroplate",
+            "word": "electroplate"
+        },
+        {
+            "id": "electropolish",
+            "word": "electropolish"
+        },
+        {
+            "id": "electrum",
+            "word": "electrum"
+        },
+        {
+            "id": "engine_turning",
+            "word": "engine turning"
+        },
+        {
+            "id": "ep",
+            "word": "ep"
+        },
+        {
+            "id": "epns",
+            "word": "epns"
+        },
+        {
+            "id": "eutectic",
+            "word": "eutectic"
+        },
+        {
+            "id": "eutectoid",
+            "word": "eutectoid"
+        },
+        {
+            "id": "extensometer",
+            "word": "extensometer"
+        },
+        {
+            "id": "ferritic",
+            "word": "ferritic"
+        },
+        {
+            "id": "ferrous",
+            "word": "ferrous"
+        },
+        {
+            "id": "finery",
+            "word": "finery"
+        },
+        {
+            "id": "foil",
+            "word": "foil"
+        },
+        {
+            "id": "forge",
+            "word": "forge"
+        },
+        {
+            "id": "found",
+            "word": "found"
+        },
+        {
+            "id": "founder",
+            "word": "founder"
+        },
+        {
+            "id": "foundry",
+            "word": "foundry"
+        },
+        {
+            "id": "furnace",
+            "word": "furnace"
+        },
+        {
+            "id": "galvo",
+            "word": "galvo"
+        },
+        {
+            "id": "german_silver",
+            "word": "german silver"
+        },
+        {
+            "id": "gild",
+            "word": "gild"
+        },
+        {
+            "id": "gilding",
+            "word": "gilding"
+        },
+        {
+            "id": "gilt",
+            "word": "gilt"
+        },
+        {
+            "id": "gold_dust",
+            "word": "gold dust"
+        },
+        {
+            "id": "gold_leaf",
+            "word": "gold leaf"
+        },
+        {
+            "id": "gold_plate",
+            "word": "gold plate"
+        },
+        {
+            "id": "gunmetal",
+            "word": "gunmetal"
+        },
+        {
+            "id": "hallmark",
+            "word": "hallmark"
+        },
+        {
+            "id": "heat-treat",
+            "word": "heat-treat"
+        },
+        {
+            "id": "heat_treatment",
+            "word": "heat treatment"
+        },
+        {
+            "id": "high-tensile",
+            "word": "high-tensile"
+        },
+        {
+            "id": "hot-short",
+            "word": "hot-short"
+        },
+        {
+            "id": "inconel",
+            "word": "inconel"
+        },
+        {
+            "id": "induction_hardening",
+            "word": "induction hardening"
+        },
+        {
+            "id": "ingot",
+            "word": "ingot"
+        },
+        {
+            "id": "invar",
+            "word": "invar"
+        },
+        {
+            "id": "iron_foundry",
+            "word": "iron foundry"
+        },
+        {
+            "id": "iron_oxide",
+            "word": "iron oxide"
+        },
+        {
+            "id": "kish",
+            "word": "kish"
+        },
+        {
+            "id": "lap-weld",
+            "word": "lap-weld"
+        },
+        {
+            "id": "latten",
+            "word": "latten"
+        },
+        {
+            "id": "liquate",
+            "word": "liquate"
+        },
+        {
+            "id": "malleable",
+            "word": "malleable"
+        },
+        {
+            "id": "manganese_bronze",
+            "word": "manganese bronze"
+        },
+        {
+            "id": "manganin",
+            "word": "manganin"
+        },
+        {
+            "id": "maraging_steel",
+            "word": "maraging steel"
+        },
+        {
+            "id": "martensite",
+            "word": "martensite"
+        },
+        {
+            "id": "metal",
+            "word": "metal"
+        },
+        {
+            "id": "metal_fatigue",
+            "word": "metal fatigue"
+        },
+        {
+            "id": "metallic",
+            "word": "metallic"
+        },
+        {
+            "id": "metallography",
+            "word": "metallography"
+        },
+        {
+            "id": "metallurgy",
+            "word": "metallurgy"
+        },
+        {
+            "id": "microstructure",
+            "word": "microstructure"
+        },
+        {
+            "id": "mild_steel",
+            "word": "mild steel"
+        },
+        {
+            "id": "mirror_finish",
+            "word": "mirror finish"
+        },
+        {
+            "id": "misch_metal",
+            "word": "misch metal"
+        },
+        {
+            "id": "monel",
+            "word": "monel"
+        },
+        {
+            "id": "mould",
+            "word": "mould"
+        },
+        {
+            "id": "muntz_metal",
+            "word": "muntz metal"
+        },
+        {
+            "id": "nichrome",
+            "word": "nichrome"
+        },
+        {
+            "id": "nickel_brass",
+            "word": "nickel brass"
+        },
+        {
+            "id": "nickel_steel",
+            "word": "nickel steel"
+        },
+        {
+            "id": "niello",
+            "word": "niello"
+        },
+        {
+            "id": "nitinol",
+            "word": "nitinol"
+        },
+        {
+            "id": "non-ferrous",
+            "word": "non-ferrous"
+        },
+        {
+            "id": "open-hearth_process",
+            "word": "open-hearth process"
+        },
+        {
+            "id": "orichalc",
+            "word": "orichalc"
+        },
+        {
+            "id": "ormolu",
+            "word": "ormolu"
+        },
+        {
+            "id": "oxyacetylene",
+            "word": "oxyacetylene"
+        },
+        {
+            "id": "parkerizing",
+            "word": "parkerizing"
+        },
+        {
+            "id": "passivate",
+            "word": "passivate"
+        },
+        {
+            "id": "patina",
+            "word": "patina"
+        },
+        {
+            "id": "patinated",
+            "word": "patinated"
+        },
+        {
+            "id": "patination",
+            "word": "patination"
+        },
+        {
+            "id": "pearlite",
+            "word": "pearlite"
+        },
+        {
+            "id": "permalloy",
+            "word": "permalloy"
+        },
+        {
+            "id": "pewter",
+            "word": "pewter"
+        },
+        {
+            "id": "phosphor_bronze",
+            "word": "phosphor bronze"
+        },
+        {
+            "id": "pig_iron",
+            "word": "pig iron"
+        },
+        {
+            "id": "planish",
+            "word": "planish"
+        },
+        {
+            "id": "platinize",
+            "word": "platinize"
+        },
+        {
+            "id": "platinoid",
+            "word": "platinoid"
+        },
+        {
+            "id": "powder_metallurgy",
+            "word": "powder metallurgy"
+        },
+        {
+            "id": "precious_metals",
+            "word": "precious metals"
+        },
+        {
+            "id": "presswork",
+            "word": "presswork"
+        },
+        {
+            "id": "pyrometallurgy",
+            "word": "pyrometallurgy"
+        },
+        {
+            "id": "recalescence",
+            "word": "recalescence"
+        },
+        {
+            "id": "recast",
+            "word": "recast"
+        },
+        {
+            "id": "red_gold",
+            "word": "red gold"
+        },
+        {
+            "id": "reforge",
+            "word": "reforge"
+        },
+        {
+            "id": "regild",
+            "word": "regild"
+        },
+        {
+            "id": "reverberatory_furnace",
+            "word": "reverberatory furnace"
+        },
+        {
+            "id": "rolled_gold",
+            "word": "rolled gold"
+        },
+        {
+            "id": "rolling_mill",
+            "word": "rolling mill"
+        },
+        {
+            "id": "rust",
+            "word": "rust"
+        },
+        {
+            "id": "rustproof",
+            "word": "rustproof"
+        },
+        {
+            "id": "shakudo",
+            "word": "shakudo"
+        },
+        {
+            "id": "shape_memory",
+            "word": "shape memory"
+        },
+        {
+            "id": "sheet_metal",
+            "word": "sheet metal"
+        },
+        {
+            "id": "sheffield_plate",
+            "word": "sheffield plate"
+        },
+        {
+            "id": "sherardize",
+            "word": "sherardize"
+        },
+        {
+            "id": "shot-blast",
+            "word": "shot-blast"
+        },
+        {
+            "id": "shot-peen",
+            "word": "shot-peen"
+        },
+        {
+            "id": "silver_gilt",
+            "word": "silver gilt"
+        },
+        {
+            "id": "silver_paper",
+            "word": "silver paper"
+        },
+        {
+            "id": "silver_plate",
+            "word": "silver plate"
+        },
+        {
+            "id": "silversmith",
+            "word": "silversmith"
+        },
+        {
+            "id": "silver_solder",
+            "word": "silver solder"
+        },
+        {
+            "id": "silverware",
+            "word": "silverware"
+        },
+        {
+            "id": "sintered",
+            "word": "sintered"
+        },
+        {
+            "id": "slag",
+            "word": "slag"
+        },
+        {
+            "id": "smelt",
+            "word": "smelt"
+        },
+        {
+            "id": "smelter",
+            "word": "smelter"
+        },
+        {
+            "id": "snarling_iron",
+            "word": "snarling iron"
+        },
+        {
+            "id": "soft_iron",
+            "word": "soft iron"
+        },
+        {
+            "id": "solder",
+            "word": "solder"
+        },
+        {
+            "id": "speculum_metal",
+            "word": "speculum metal"
+        },
+        {
+            "id": "spelter",
+            "word": "spelter"
+        },
+        {
+            "id": "spiegeleisen",
+            "word": "spiegeleisen"
+        },
+        {
+            "id": "spongy",
+            "word": "spongy"
+        },
+        {
+            "id": "spot-weld",
+            "word": "spot-weld"
+        },
+        {
+            "id": "stainless_steel",
+            "word": "stainless steel"
+        },
+        {
+            "id": "steel",
+            "word": "steel"
+        },
+        {
+            "id": "steel-plated",
+            "word": "steel-plated"
+        },
+        {
+            "id": "steelwork",
+            "word": "steelwork"
+        },
+        {
+            "id": "steelworker",
+            "word": "steelworker"
+        },
+        {
+            "id": "steelworks",
+            "word": "steelworks"
+        },
+        {
+            "id": "sterling_silver",
+            "word": "sterling silver"
+        },
+        {
+            "id": "structural_steel",
+            "word": "structural steel"
+        },
+        {
+            "id": "superalloy",
+            "word": "superalloy"
+        },
+        {
+            "id": "superlattice",
+            "word": "superlattice"
+        },
+        {
+            "id": "superplastic",
+            "word": "superplastic"
+        },
+        {
+            "id": "swage",
+            "word": "swage"
+        },
+        {
+            "id": "swage_block",
+            "word": "swage block"
+        },
+        {
+            "id": "tarnish",
+            "word": "tarnish"
+        },
+        {
+            "id": "terne",
+            "word": "terne"
+        },
+        {
+            "id": "thermic_lance",
+            "word": "thermic lance"
+        },
+        {
+            "id": "tilt_hammer",
+            "word": "tilt hammer"
+        },
+        {
+            "id": "tinner",
+            "word": "tinner"
+        },
+        {
+            "id": "tinplate",
+            "word": "tinplate"
+        },
+        {
+            "id": "tinsmith",
+            "word": "tinsmith"
+        },
+        {
+            "id": "tool_steel",
+            "word": "tool steel"
+        },
+        {
+            "id": "torrefy",
+            "word": "torrefy"
+        },
+        {
+            "id": "touch_needles",
+            "word": "touch needles"
+        },
+        {
+            "id": "touchstone",
+            "word": "touchstone"
+        },
+        {
+            "id": "tundish",
+            "word": "tundish"
+        },
+        {
+            "id": "tuy%C3%A8re",
+            "word": "tuyère"
+        },
+        {
+            "id": "unalloyed",
+            "word": "unalloyed"
+        },
+        {
+            "id": "unwrought",
+            "word": "unwrought"
+        },
+        {
+            "id": "white_gold",
+            "word": "white gold"
+        },
+        {
+            "id": "white_metal",
+            "word": "white metal"
+        },
+        {
+            "id": "whitesmith",
+            "word": "whitesmith"
+        },
+        {
+            "id": "work-harden",
+            "word": "work-harden"
+        },
+        {
+            "id": "wrought",
+            "word": "wrought"
+        },
+        {
+            "id": "wrought_iron",
+            "word": "wrought iron"
+        },
+        {
+            "id": "yellow_metal",
+            "word": "yellow metal"
+        },
+        {
+            "id": "zircaloy",
+            "word": "zircaloy"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 232,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

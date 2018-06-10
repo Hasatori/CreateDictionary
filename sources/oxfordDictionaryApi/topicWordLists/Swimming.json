@@ -1,0 +1,359 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 87,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "aquacade",
+            "word": "aquacade"
+        },
+        {
+            "id": "aqualung",
+            "word": "aqualung"
+        },
+        {
+            "id": "aquanaut",
+            "word": "aquanaut"
+        },
+        {
+            "id": "aquarobics",
+            "word": "aquarobics"
+        },
+        {
+            "id": "backstroke",
+            "word": "backstroke"
+        },
+        {
+            "id": "backstroker",
+            "word": "backstroker"
+        },
+        {
+            "id": "bather",
+            "word": "bather"
+        },
+        {
+            "id": "bathing_machine",
+            "word": "bathing machine"
+        },
+        {
+            "id": "beach_inspector",
+            "word": "beach inspector"
+        },
+        {
+            "id": "belly_flop",
+            "word": "belly flop"
+        },
+        {
+            "id": "bogey",
+            "word": "bogey"
+        },
+        {
+            "id": "breaststroke",
+            "word": "breaststroke"
+        },
+        {
+            "id": "dive",
+            "word": "dive"
+        },
+        {
+            "id": "divemaster",
+            "word": "divemaster"
+        },
+        {
+            "id": "diver",
+            "word": "diver"
+        },
+        {
+            "id": "diving",
+            "word": "diving"
+        },
+        {
+            "id": "diving_board",
+            "word": "diving board"
+        },
+        {
+            "id": "doggy-paddle",
+            "word": "doggy-paddle"
+        },
+        {
+            "id": "duck-dive",
+            "word": "duck-dive"
+        },
+        {
+            "id": "elementary_backstroke",
+            "word": "elementary backstroke"
+        },
+        {
+            "id": "figure_floating",
+            "word": "figure floating"
+        },
+        {
+            "id": "fraser%2C_dawn",
+            "word": "fraser, dawn"
+        },
+        {
+            "id": "freediver",
+            "word": "freediver"
+        },
+        {
+            "id": "freediving",
+            "word": "freediving"
+        },
+        {
+            "id": "frog_kick",
+            "word": "frog kick"
+        },
+        {
+            "id": "frogman",
+            "word": "frogman"
+        },
+        {
+            "id": "high_diver",
+            "word": "high diver"
+        },
+        {
+            "id": "high_diving",
+            "word": "high diving"
+        },
+        {
+            "id": "iceberger",
+            "word": "iceberger"
+        },
+        {
+            "id": "infinity_pool",
+            "word": "infinity pool"
+        },
+        {
+            "id": "lido",
+            "word": "lido"
+        },
+        {
+            "id": "lifeguard",
+            "word": "lifeguard"
+        },
+        {
+            "id": "lifeguarding",
+            "word": "lifeguarding"
+        },
+        {
+            "id": "natation",
+            "word": "natation"
+        },
+        {
+            "id": "natatorium",
+            "word": "natatorium"
+        },
+        {
+            "id": "nitrox",
+            "word": "nitrox"
+        },
+        {
+            "id": "non-swimmer",
+            "word": "non-swimmer"
+        },
+        {
+            "id": "overarm",
+            "word": "overarm"
+        },
+        {
+            "id": "overstroke",
+            "word": "overstroke"
+        },
+        {
+            "id": "pike",
+            "word": "pike"
+        },
+        {
+            "id": "rebreather",
+            "word": "rebreather"
+        },
+        {
+            "id": "reelman",
+            "word": "reelman"
+        },
+        {
+            "id": "scissor_kick",
+            "word": "scissor kick"
+        },
+        {
+            "id": "scuba",
+            "word": "scuba"
+        },
+        {
+            "id": "scuba-dive",
+            "word": "scuba-dive"
+        },
+        {
+            "id": "scuba_diving",
+            "word": "scuba diving"
+        },
+        {
+            "id": "shark_net",
+            "word": "shark net"
+        },
+        {
+            "id": "shark_patrol",
+            "word": "shark patrol"
+        },
+        {
+            "id": "sidestroke",
+            "word": "sidestroke"
+        },
+        {
+            "id": "skin-dive",
+            "word": "skin-dive"
+        },
+        {
+            "id": "skin_diving",
+            "word": "skin diving"
+        },
+        {
+            "id": "snorkel",
+            "word": "snorkel"
+        },
+        {
+            "id": "spitz%2C_mark",
+            "word": "spitz, mark"
+        },
+        {
+            "id": "springboard",
+            "word": "springboard"
+        },
+        {
+            "id": "stinger_enclosure",
+            "word": "stinger enclosure"
+        },
+        {
+            "id": "stinger_net",
+            "word": "stinger net"
+        },
+        {
+            "id": "stinger_season",
+            "word": "stinger season"
+        },
+        {
+            "id": "stinger_suit",
+            "word": "stinger suit"
+        },
+        {
+            "id": "sub-aqua",
+            "word": "sub-aqua"
+        },
+        {
+            "id": "surf_carnival",
+            "word": "surf carnival"
+        },
+        {
+            "id": "surf_lifesaving_club",
+            "word": "surf lifesaving club"
+        },
+        {
+            "id": "surf_patrol",
+            "word": "surf patrol"
+        },
+        {
+            "id": "swallow_dive",
+            "word": "swallow dive"
+        },
+        {
+            "id": "swan_dive",
+            "word": "swan dive"
+        },
+        {
+            "id": "swim",
+            "word": "swim"
+        },
+        {
+            "id": "swimmer",
+            "word": "swimmer"
+        },
+        {
+            "id": "swimmers",
+            "word": "swimmers"
+        },
+        {
+            "id": "swimming",
+            "word": "swimming"
+        },
+        {
+            "id": "swimming_bath",
+            "word": "swimming bath"
+        },
+        {
+            "id": "swimming_costume",
+            "word": "swimming costume"
+        },
+        {
+            "id": "swimming_hole",
+            "word": "swimming hole"
+        },
+        {
+            "id": "swimming_pool",
+            "word": "swimming pool"
+        },
+        {
+            "id": "swimming_trunks",
+            "word": "swimming trunks"
+        },
+        {
+            "id": "swimsuit",
+            "word": "swimsuit"
+        },
+        {
+            "id": "swimwear",
+            "word": "swimwear"
+        },
+        {
+            "id": "synchronized_swimming",
+            "word": "synchronized swimming"
+        },
+        {
+            "id": "the_deep_end",
+            "word": "the deep end"
+        },
+        {
+            "id": "thorpe%2C_ian",
+            "word": "thorpe, ian"
+        },
+        {
+            "id": "tread_water",
+            "word": "tread water"
+        },
+        {
+            "id": "trudgen",
+            "word": "trudgen"
+        },
+        {
+            "id": "tumble_turn",
+            "word": "tumble turn"
+        },
+        {
+            "id": "water_slide",
+            "word": "water slide"
+        },
+        {
+            "id": "wave_machine",
+            "word": "wave machine"
+        },
+        {
+            "id": "weight_belt",
+            "word": "weight belt"
+        },
+        {
+            "id": "weissmuller%2C_johnny",
+            "word": "weissmuller, johnny"
+        },
+        {
+            "id": "wetsuit",
+            "word": "wetsuit"
+        },
+        {
+            "id": "wild_swimming",
+            "word": "wild swimming"
+        }
+    ]
+}

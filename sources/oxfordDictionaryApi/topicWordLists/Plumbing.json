@@ -1,0 +1,247 @@
+{
+    "results": [
+        {
+            "id": "ball_float",
+            "word": "ball float"
+        },
+        {
+            "id": "bibcock",
+            "word": "bibcock"
+        },
+        {
+            "id": "black_water",
+            "word": "black water"
+        },
+        {
+            "id": "boilermaker",
+            "word": "boilermaker"
+        },
+        {
+            "id": "capillary_joint",
+            "word": "capillary joint"
+        },
+        {
+            "id": "cesspool",
+            "word": "cesspool"
+        },
+        {
+            "id": "cistern",
+            "word": "cistern"
+        },
+        {
+            "id": "compression_joint",
+            "word": "compression joint"
+        },
+        {
+            "id": "dezincification",
+            "word": "dezincification"
+        },
+        {
+            "id": "downcomer",
+            "word": "downcomer"
+        },
+        {
+            "id": "downpipe",
+            "word": "downpipe"
+        },
+        {
+            "id": "draincock",
+            "word": "draincock"
+        },
+        {
+            "id": "drainpipe",
+            "word": "drainpipe"
+        },
+        {
+            "id": "draw-off",
+            "word": "draw-off"
+        },
+        {
+            "id": "faucet",
+            "word": "faucet"
+        },
+        {
+            "id": "float_arm",
+            "word": "float arm"
+        },
+        {
+            "id": "float_valve",
+            "word": "float valve"
+        },
+        {
+            "id": "garbage_disposal",
+            "word": "garbage disposal"
+        },
+        {
+            "id": "gas_main",
+            "word": "gas main"
+        },
+        {
+            "id": "grey_water",
+            "word": "grey water"
+        },
+        {
+            "id": "gurgler",
+            "word": "gurgler"
+        },
+        {
+            "id": "heating_engineer",
+            "word": "heating engineer"
+        },
+        {
+            "id": "house_trap",
+            "word": "house trap"
+        },
+        {
+            "id": "lavatory_bowl",
+            "word": "lavatory bowl"
+        },
+        {
+            "id": "mixer_tap",
+            "word": "mixer tap"
+        },
+        {
+            "id": "outfall_pipe",
+            "word": "outfall pipe"
+        },
+        {
+            "id": "pipework",
+            "word": "pipework"
+        },
+        {
+            "id": "plughole",
+            "word": "plughole"
+        },
+        {
+            "id": "plumb",
+            "word": "plumb"
+        },
+        {
+            "id": "plumber",
+            "word": "plumber"
+        },
+        {
+            "id": "plumbing",
+            "word": "plumbing"
+        },
+        {
+            "id": "plunger",
+            "word": "plunger"
+        },
+        {
+            "id": "polybutylene",
+            "word": "polybutylene"
+        },
+        {
+            "id": "p-trap",
+            "word": "p-trap"
+        },
+        {
+            "id": "puff_pipe",
+            "word": "puff pipe"
+        },
+        {
+            "id": "revent",
+            "word": "revent"
+        },
+        {
+            "id": "rising_main",
+            "word": "rising main"
+        },
+        {
+            "id": "roundway",
+            "word": "roundway"
+        },
+        {
+            "id": "running_trap",
+            "word": "running trap"
+        },
+        {
+            "id": "soakaway",
+            "word": "soakaway"
+        },
+        {
+            "id": "soil_pipe",
+            "word": "soil pipe"
+        },
+        {
+            "id": "soil_stack",
+            "word": "soil stack"
+        },
+        {
+            "id": "standpipe",
+            "word": "standpipe"
+        },
+        {
+            "id": "tap_water",
+            "word": "tap water"
+        },
+        {
+            "id": "tundish",
+            "word": "tundish"
+        },
+        {
+            "id": "turncock",
+            "word": "turncock"
+        },
+        {
+            "id": "u-bend",
+            "word": "u-bend"
+        },
+        {
+            "id": "vanity_unit",
+            "word": "vanity unit"
+        },
+        {
+            "id": "wall-mounted",
+            "word": "wall-mounted"
+        },
+        {
+            "id": "washbasin",
+            "word": "washbasin"
+        },
+        {
+            "id": "washdown",
+            "word": "washdown"
+        },
+        {
+            "id": "waste_disposal_unit",
+            "word": "waste disposal unit"
+        },
+        {
+            "id": "waste_pipe",
+            "word": "waste pipe"
+        },
+        {
+            "id": "water_closet",
+            "word": "water closet"
+        },
+        {
+            "id": "water_hammer",
+            "word": "water hammer"
+        },
+        {
+            "id": "water_heater",
+            "word": "water heater"
+        },
+        {
+            "id": "water_main",
+            "word": "water main"
+        },
+        {
+            "id": "water_pipe",
+            "word": "water pipe"
+        },
+        {
+            "id": "wc",
+            "word": "wc"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 59,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

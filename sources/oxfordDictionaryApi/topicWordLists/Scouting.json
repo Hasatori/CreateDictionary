@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 20,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "akela",
+            "word": "akela"
+        },
+        {
+            "id": "boy_scout",
+            "word": "boy scout"
+        },
+        {
+            "id": "brownie_guider",
+            "word": "brownie guider"
+        },
+        {
+            "id": "camporee",
+            "word": "camporee"
+        },
+        {
+            "id": "cub_scout",
+            "word": "cub scout"
+        },
+        {
+            "id": "den_mother",
+            "word": "den mother"
+        },
+        {
+            "id": "girl_guide_biscuits",
+            "word": "girl guide biscuits"
+        },
+        {
+            "id": "girl_scout",
+            "word": "girl scout"
+        },
+        {
+            "id": "guide_association",
+            "word": "guide association"
+        },
+        {
+            "id": "guider",
+            "word": "guider"
+        },
+        {
+            "id": "merit_badge",
+            "word": "merit badge"
+        },
+        {
+            "id": "proficiency_badge",
+            "word": "proficiency badge"
+        },
+        {
+            "id": "queen%27s_guide",
+            "word": "queen's guide"
+        },
+        {
+            "id": "queen%27s_scout",
+            "word": "queen's scout"
+        },
+        {
+            "id": "scout%27s_honour",
+            "word": "scout's honour"
+        },
+        {
+            "id": "scout_association",
+            "word": "scout association"
+        },
+        {
+            "id": "scouter",
+            "word": "scouter"
+        },
+        {
+            "id": "scoutmaster",
+            "word": "scoutmaster"
+        },
+        {
+            "id": "sea_scout",
+            "word": "sea scout"
+        },
+        {
+            "id": "venture_scout",
+            "word": "venture scout"
+        }
+    ]
+}

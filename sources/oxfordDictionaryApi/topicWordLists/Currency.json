@@ -1,0 +1,815 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 201
+    },
+    "results": [
+        {
+            "id": "afghani",
+            "word": "afghani"
+        },
+        {
+            "id": "agora",
+            "word": "agora"
+        },
+        {
+            "id": "anna",
+            "word": "anna"
+        },
+        {
+            "id": "ariary",
+            "word": "ariary"
+        },
+        {
+            "id": "at",
+            "word": "at"
+        },
+        {
+            "id": "avo",
+            "word": "avo"
+        },
+        {
+            "id": "baht",
+            "word": "baht"
+        },
+        {
+            "id": "baiza",
+            "word": "baiza"
+        },
+        {
+            "id": "balboa",
+            "word": "balboa"
+        },
+        {
+            "id": "ban",
+            "word": "ban"
+        },
+        {
+            "id": "birr",
+            "word": "birr"
+        },
+        {
+            "id": "bitcoin",
+            "word": "bitcoin"
+        },
+        {
+            "id": "bitcoiner",
+            "word": "bitcoiner"
+        },
+        {
+            "id": "blockchain",
+            "word": "blockchain"
+        },
+        {
+            "id": "bob",
+            "word": "bob"
+        },
+        {
+            "id": "bolivar",
+            "word": "bolivar"
+        },
+        {
+            "id": "boliviano",
+            "word": "boliviano"
+        },
+        {
+            "id": "btc",
+            "word": "btc"
+        },
+        {
+            "id": "buck",
+            "word": "buck"
+        },
+        {
+            "id": "butut",
+            "word": "butut"
+        },
+        {
+            "id": "%C3%B6re",
+            "word": "öre"
+        },
+        {
+            "id": "%C3%B8re",
+            "word": "øre"
+        },
+        {
+            "id": "cedi",
+            "word": "cedi"
+        },
+        {
+            "id": "cent",
+            "word": "cent"
+        },
+        {
+            "id": "centas",
+            "word": "centas"
+        },
+        {
+            "id": "centavo",
+            "word": "centavo"
+        },
+        {
+            "id": "cent%C3%A9simo",
+            "word": "centésimo"
+        },
+        {
+            "id": "centesimo",
+            "word": "centesimo"
+        },
+        {
+            "id": "centime",
+            "word": "centime"
+        },
+        {
+            "id": "centimo",
+            "word": "centimo"
+        },
+        {
+            "id": "cfa",
+            "word": "cfa"
+        },
+        {
+            "id": "cfp",
+            "word": "cfp"
+        },
+        {
+            "id": "chetrum",
+            "word": "chetrum"
+        },
+        {
+            "id": "col%C3%B3n",
+            "word": "colón"
+        },
+        {
+            "id": "cordoba",
+            "word": "cordoba"
+        },
+        {
+            "id": "crore",
+            "word": "crore"
+        },
+        {
+            "id": "cruzado",
+            "word": "cruzado"
+        },
+        {
+            "id": "cruzeiro",
+            "word": "cruzeiro"
+        },
+        {
+            "id": "dalasi",
+            "word": "dalasi"
+        },
+        {
+            "id": "denar",
+            "word": "denar"
+        },
+        {
+            "id": "deni",
+            "word": "deni"
+        },
+        {
+            "id": "deutschmark",
+            "word": "deutschmark"
+        },
+        {
+            "id": "dinar",
+            "word": "dinar"
+        },
+        {
+            "id": "diram",
+            "word": "diram"
+        },
+        {
+            "id": "dirham",
+            "word": "dirham"
+        },
+        {
+            "id": "distributed_ledger",
+            "word": "distributed ledger"
+        },
+        {
+            "id": "dobra",
+            "word": "dobra"
+        },
+        {
+            "id": "dollar",
+            "word": "dollar"
+        },
+        {
+            "id": "dong",
+            "word": "dong"
+        },
+        {
+            "id": "drachma",
+            "word": "drachma"
+        },
+        {
+            "id": "dram",
+            "word": "dram"
+        },
+        {
+            "id": "e",
+            "word": "e"
+        },
+        {
+            "id": "escudo",
+            "word": "escudo"
+        },
+        {
+            "id": "euro",
+            "word": "euro"
+        },
+        {
+            "id": "eyrir",
+            "word": "eyrir"
+        },
+        {
+            "id": "fen",
+            "word": "fen"
+        },
+        {
+            "id": "fening",
+            "word": "fening"
+        },
+        {
+            "id": "filler",
+            "word": "filler"
+        },
+        {
+            "id": "fils",
+            "word": "fils"
+        },
+        {
+            "id": "forint",
+            "word": "forint"
+        },
+        {
+            "id": "franc",
+            "word": "franc"
+        },
+        {
+            "id": "gee",
+            "word": "gee"
+        },
+        {
+            "id": "gopik",
+            "word": "gopik"
+        },
+        {
+            "id": "gourde",
+            "word": "gourde"
+        },
+        {
+            "id": "groschen",
+            "word": "groschen"
+        },
+        {
+            "id": "grosz",
+            "word": "grosz"
+        },
+        {
+            "id": "guilder",
+            "word": "guilder"
+        },
+        {
+            "id": "guinea",
+            "word": "guinea"
+        },
+        {
+            "id": "halala",
+            "word": "halala"
+        },
+        {
+            "id": "haler",
+            "word": "haler"
+        },
+        {
+            "id": "halier",
+            "word": "halier"
+        },
+        {
+            "id": "hryvna",
+            "word": "hryvna"
+        },
+        {
+            "id": "inti",
+            "word": "inti"
+        },
+        {
+            "id": "iraimbilanja",
+            "word": "iraimbilanja"
+        },
+        {
+            "id": "jeon",
+            "word": "jeon"
+        },
+        {
+            "id": "jiao",
+            "word": "jiao"
+        },
+        {
+            "id": "jun",
+            "word": "jun"
+        },
+        {
+            "id": "khoum",
+            "word": "khoum"
+        },
+        {
+            "id": "kina",
+            "word": "kina"
+        },
+        {
+            "id": "kip",
+            "word": "kip"
+        },
+        {
+            "id": "kobo",
+            "word": "kobo"
+        },
+        {
+            "id": "kopek",
+            "word": "kopek"
+        },
+        {
+            "id": "kopiyka",
+            "word": "kopiyka"
+        },
+        {
+            "id": "koruna",
+            "word": "koruna"
+        },
+        {
+            "id": "krona",
+            "word": "krona"
+        },
+        {
+            "id": "krone",
+            "word": "krone"
+        },
+        {
+            "id": "kroon",
+            "word": "kroon"
+        },
+        {
+            "id": "kuna",
+            "word": "kuna"
+        },
+        {
+            "id": "kurus",
+            "word": "kurus"
+        },
+        {
+            "id": "kwacha",
+            "word": "kwacha"
+        },
+        {
+            "id": "kwanza",
+            "word": "kwanza"
+        },
+        {
+            "id": "kyat",
+            "word": "kyat"
+        },
+        {
+            "id": "lari",
+            "word": "lari"
+        },
+        {
+            "id": "lat",
+            "word": "lat"
+        },
+        {
+            "id": "lek",
+            "word": "lek"
+        },
+        {
+            "id": "lempira",
+            "word": "lempira"
+        },
+        {
+            "id": "leone",
+            "word": "leone"
+        },
+        {
+            "id": "lepton",
+            "word": "lepton"
+        },
+        {
+            "id": "leu",
+            "word": "leu"
+        },
+        {
+            "id": "lev",
+            "word": "lev"
+        },
+        {
+            "id": "likuta",
+            "word": "likuta"
+        },
+        {
+            "id": "lilangeni",
+            "word": "lilangeni"
+        },
+        {
+            "id": "lipa",
+            "word": "lipa"
+        },
+        {
+            "id": "lira",
+            "word": "lira"
+        },
+        {
+            "id": "litas",
+            "word": "litas"
+        },
+        {
+            "id": "loti",
+            "word": "loti"
+        },
+        {
+            "id": "luma",
+            "word": "luma"
+        },
+        {
+            "id": "lwei",
+            "word": "lwei"
+        },
+        {
+            "id": "manat",
+            "word": "manat"
+        },
+        {
+            "id": "manilla",
+            "word": "manilla"
+        },
+        {
+            "id": "mark",
+            "word": "mark"
+        },
+        {
+            "id": "markka",
+            "word": "markka"
+        },
+        {
+            "id": "metical",
+            "word": "metical"
+        },
+        {
+            "id": "mill",
+            "word": "mill"
+        },
+        {
+            "id": "millieme",
+            "word": "millieme"
+        },
+        {
+            "id": "milreis",
+            "word": "milreis"
+        },
+        {
+            "id": "mk",
+            "word": "mk"
+        },
+        {
+            "id": "mongo",
+            "word": "mongo"
+        },
+        {
+            "id": "naira",
+            "word": "naira"
+        },
+        {
+            "id": "nakfa",
+            "word": "nakfa"
+        },
+        {
+            "id": "ngultrum",
+            "word": "ngultrum"
+        },
+        {
+            "id": "ngwee",
+            "word": "ngwee"
+        },
+        {
+            "id": "nicker",
+            "word": "nicker"
+        },
+        {
+            "id": "ostmark",
+            "word": "ostmark"
+        },
+        {
+            "id": "ouguiya",
+            "word": "ouguiya"
+        },
+        {
+            "id": "pa%27anga",
+            "word": "pa'anga"
+        },
+        {
+            "id": "paisa",
+            "word": "paisa"
+        },
+        {
+            "id": "paper_currency",
+            "word": "paper currency"
+        },
+        {
+            "id": "paper_money",
+            "word": "paper money"
+        },
+        {
+            "id": "para",
+            "word": "para"
+        },
+        {
+            "id": "pataca",
+            "word": "pataca"
+        },
+        {
+            "id": "peng%C3%B6",
+            "word": "pengö"
+        },
+        {
+            "id": "penni",
+            "word": "penni"
+        },
+        {
+            "id": "penny",
+            "word": "penny"
+        },
+        {
+            "id": "peseta",
+            "word": "peseta"
+        },
+        {
+            "id": "pesewa",
+            "word": "pesewa"
+        },
+        {
+            "id": "peso",
+            "word": "peso"
+        },
+        {
+            "id": "pfennig",
+            "word": "pfennig"
+        },
+        {
+            "id": "piastre",
+            "word": "piastre"
+        },
+        {
+            "id": "pice",
+            "word": "pice"
+        },
+        {
+            "id": "pie",
+            "word": "pie"
+        },
+        {
+            "id": "poisha",
+            "word": "poisha"
+        },
+        {
+            "id": "pul",
+            "word": "pul"
+        },
+        {
+            "id": "pula",
+            "word": "pula"
+        },
+        {
+            "id": "punt",
+            "word": "punt"
+        },
+        {
+            "id": "pya",
+            "word": "pya"
+        },
+        {
+            "id": "qintar",
+            "word": "qintar"
+        },
+        {
+            "id": "qursh",
+            "word": "qursh"
+        },
+        {
+            "id": "r",
+            "word": "r"
+        },
+        {
+            "id": "rand",
+            "word": "rand"
+        },
+        {
+            "id": "rappen",
+            "word": "rappen"
+        },
+        {
+            "id": "real",
+            "word": "real"
+        },
+        {
+            "id": "reichsmark",
+            "word": "reichsmark"
+        },
+        {
+            "id": "renminbi",
+            "word": "renminbi"
+        },
+        {
+            "id": "rial",
+            "word": "rial"
+        },
+        {
+            "id": "riel",
+            "word": "riel"
+        },
+        {
+            "id": "ringgit",
+            "word": "ringgit"
+        },
+        {
+            "id": "rouble",
+            "word": "rouble"
+        },
+        {
+            "id": "rufiyaa",
+            "word": "rufiyaa"
+        },
+        {
+            "id": "rupee",
+            "word": "rupee"
+        },
+        {
+            "id": "rupiah",
+            "word": "rupiah"
+        },
+        {
+            "id": "santim",
+            "word": "santim"
+        },
+        {
+            "id": "satang",
+            "word": "satang"
+        },
+        {
+            "id": "schilling",
+            "word": "schilling"
+        },
+        {
+            "id": "scudo",
+            "word": "scudo"
+        },
+        {
+            "id": "sen",
+            "word": "sen"
+        },
+        {
+            "id": "sene",
+            "word": "sene"
+        },
+        {
+            "id": "seniti",
+            "word": "seniti"
+        },
+        {
+            "id": "sent",
+            "word": "sent"
+        },
+        {
+            "id": "sente",
+            "word": "sente"
+        },
+        {
+            "id": "shekel",
+            "word": "shekel"
+        },
+        {
+            "id": "shell_money",
+            "word": "shell money"
+        },
+        {
+            "id": "shilling",
+            "word": "shilling"
+        },
+        {
+            "id": "shinplaster",
+            "word": "shinplaster"
+        },
+        {
+            "id": "simoleon",
+            "word": "simoleon"
+        },
+        {
+            "id": "sol",
+            "word": "sol"
+        },
+        {
+            "id": "soldo",
+            "word": "soldo"
+        },
+        {
+            "id": "som",
+            "word": "som"
+        },
+        {
+            "id": "somoni",
+            "word": "somoni"
+        },
+        {
+            "id": "stotin",
+            "word": "stotin"
+        },
+        {
+            "id": "stotinka",
+            "word": "stotinka"
+        },
+        {
+            "id": "sucre",
+            "word": "sucre"
+        },
+        {
+            "id": "taka",
+            "word": "taka"
+        },
+        {
+            "id": "tala",
+            "word": "tala"
+        },
+        {
+            "id": "tambala",
+            "word": "tambala"
+        },
+        {
+            "id": "tein",
+            "word": "tein"
+        },
+        {
+            "id": "tenge",
+            "word": "tenge"
+        },
+        {
+            "id": "thebe",
+            "word": "thebe"
+        },
+        {
+            "id": "tiyin",
+            "word": "tiyin"
+        },
+        {
+            "id": "toea",
+            "word": "toea"
+        },
+        {
+            "id": "tolar",
+            "word": "tolar"
+        },
+        {
+            "id": "tugrik",
+            "word": "tugrik"
+        },
+        {
+            "id": "vatu",
+            "word": "vatu"
+        },
+        {
+            "id": "wampum",
+            "word": "wampum"
+        },
+        {
+            "id": "won",
+            "word": "won"
+        },
+        {
+            "id": "xu",
+            "word": "xu"
+        },
+        {
+            "id": "y",
+            "word": "y"
+        },
+        {
+            "id": "yen",
+            "word": "yen"
+        },
+        {
+            "id": "yuan",
+            "word": "yuan"
+        },
+        {
+            "id": "zaire",
+            "word": "zaire"
+        },
+        {
+            "id": "zloty",
+            "word": "zloty"
+        }
+    ]
+}

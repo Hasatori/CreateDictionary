@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 33,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "aggresteyne",
+            "word": "aggresteyne"
+        },
+        {
+            "id": "bate",
+            "word": "bate"
+        },
+        {
+            "id": "creance",
+            "word": "creance"
+        },
+        {
+            "id": "eyas",
+            "word": "eyas"
+        },
+        {
+            "id": "falconer",
+            "word": "falconer"
+        },
+        {
+            "id": "falconry",
+            "word": "falconry"
+        },
+        {
+            "id": "frounce",
+            "word": "frounce"
+        },
+        {
+            "id": "hack",
+            "word": "hack"
+        },
+        {
+            "id": "hack_bell",
+            "word": "hack bell"
+        },
+        {
+            "id": "hack_board",
+            "word": "hack board"
+        },
+        {
+            "id": "hack_hawk",
+            "word": "hack hawk"
+        },
+        {
+            "id": "hack_place",
+            "word": "hack place"
+        },
+        {
+            "id": "harris_hawk",
+            "word": "harris hawk"
+        },
+        {
+            "id": "hawk",
+            "word": "hawk"
+        },
+        {
+            "id": "hawker",
+            "word": "hawker"
+        },
+        {
+            "id": "jess",
+            "word": "jess"
+        },
+        {
+            "id": "lanneret",
+            "word": "lanneret"
+        },
+        {
+            "id": "leash",
+            "word": "leash"
+        },
+        {
+            "id": "long-winged_hawk",
+            "word": "long-winged hawk"
+        },
+        {
+            "id": "mew",
+            "word": "mew"
+        },
+        {
+            "id": "pantas",
+            "word": "pantas"
+        },
+        {
+            "id": "passage_hawk",
+            "word": "passage hawk"
+        },
+        {
+            "id": "passager",
+            "word": "passager"
+        },
+        {
+            "id": "peregrine",
+            "word": "peregrine"
+        },
+        {
+            "id": "quarry",
+            "word": "quarry"
+        },
+        {
+            "id": "rangle",
+            "word": "rangle"
+        },
+        {
+            "id": "rook_hawk",
+            "word": "rook hawk"
+        },
+        {
+            "id": "round-winged",
+            "word": "round-winged"
+        },
+        {
+            "id": "rufter-hood",
+            "word": "rufter-hood"
+        },
+        {
+            "id": "saker",
+            "word": "saker"
+        },
+        {
+            "id": "tercel",
+            "word": "tercel"
+        },
+        {
+            "id": "unhood",
+            "word": "unhood"
+        },
+        {
+            "id": "yarak",
+            "word": "yarak"
+        }
+    ]
+}

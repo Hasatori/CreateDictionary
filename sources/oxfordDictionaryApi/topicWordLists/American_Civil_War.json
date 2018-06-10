@@ -1,0 +1,79 @@
+{
+    "results": [
+        {
+            "id": "american_civil_war",
+            "word": "american civil war"
+        },
+        {
+            "id": "bull_run",
+            "word": "bull run"
+        },
+        {
+            "id": "confederate_states_of_america",
+            "word": "confederate states of america"
+        },
+        {
+            "id": "custer%2C_george_armstrong",
+            "word": "custer, george armstrong"
+        },
+        {
+            "id": "emancipation_proclamation",
+            "word": "emancipation proclamation"
+        },
+        {
+            "id": "gettysburg%2C_battle_of",
+            "word": "gettysburg, battle of"
+        },
+        {
+            "id": "grant%2C_ulysses_s.",
+            "word": "grant, ulysses s."
+        },
+        {
+            "id": "jackson%2C_thomas_jonathan",
+            "word": "jackson, thomas jonathan"
+        },
+        {
+            "id": "lee%2C_robert_e.",
+            "word": "lee, robert e."
+        },
+        {
+            "id": "lincoln%2C_abraham",
+            "word": "lincoln, abraham"
+        },
+        {
+            "id": "old_south",
+            "word": "old south"
+        },
+        {
+            "id": "post-bellum",
+            "word": "post-bellum"
+        },
+        {
+            "id": "reb",
+            "word": "reb"
+        },
+        {
+            "id": "rebel_yell",
+            "word": "rebel yell"
+        },
+        {
+            "id": "sherman%2C_william_tecumseh",
+            "word": "sherman, william tecumseh"
+        },
+        {
+            "id": "stars_and_bars",
+            "word": "stars and bars"
+        },
+        {
+            "id": "vicksburg",
+            "word": "vicksburg"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 17,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

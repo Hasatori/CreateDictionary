@@ -1,0 +1,1331 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 330,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "a%2Fd",
+            "word": "a/d"
+        },
+        {
+            "id": "active_matrix",
+            "word": "active matrix"
+        },
+        {
+            "id": "adder",
+            "word": "adder"
+        },
+        {
+            "id": "adsl",
+            "word": "adsl"
+        },
+        {
+            "id": "agc",
+            "word": "agc"
+        },
+        {
+            "id": "airplane_mode",
+            "word": "airplane mode"
+        },
+        {
+            "id": "ambience",
+            "word": "ambience"
+        },
+        {
+            "id": "ambisonic",
+            "word": "ambisonic"
+        },
+        {
+            "id": "amplification",
+            "word": "amplification"
+        },
+        {
+            "id": "amplified",
+            "word": "amplified"
+        },
+        {
+            "id": "amplifier",
+            "word": "amplifier"
+        },
+        {
+            "id": "amplify",
+            "word": "amplify"
+        },
+        {
+            "id": "analogue",
+            "word": "analogue"
+        },
+        {
+            "id": "analogue-to-digital_converter",
+            "word": "analogue-to-digital converter"
+        },
+        {
+            "id": "asic",
+            "word": "asic"
+        },
+        {
+            "id": "astable",
+            "word": "astable"
+        },
+        {
+            "id": "audio_cassette",
+            "word": "audio cassette"
+        },
+        {
+            "id": "audio_tape",
+            "word": "audio tape"
+        },
+        {
+            "id": "automatic_gain_control",
+            "word": "automatic gain control"
+        },
+        {
+            "id": "banana_plug",
+            "word": "banana plug"
+        },
+        {
+            "id": "bandpass",
+            "word": "bandpass"
+        },
+        {
+            "id": "betacam",
+            "word": "betacam"
+        },
+        {
+            "id": "betamax",
+            "word": "betamax"
+        },
+        {
+            "id": "bidirectional",
+            "word": "bidirectional"
+        },
+        {
+            "id": "binary_code",
+            "word": "binary code"
+        },
+        {
+            "id": "binary_coded_decimal",
+            "word": "binary coded decimal"
+        },
+        {
+            "id": "binary_digit",
+            "word": "binary digit"
+        },
+        {
+            "id": "binary_system",
+            "word": "binary system"
+        },
+        {
+            "id": "binaural",
+            "word": "binaural"
+        },
+        {
+            "id": "binding_post",
+            "word": "binding post"
+        },
+        {
+            "id": "biochip",
+            "word": "biochip"
+        },
+        {
+            "id": "biocircuit",
+            "word": "biocircuit"
+        },
+        {
+            "id": "bioelectronics",
+            "word": "bioelectronics"
+        },
+        {
+            "id": "bionic",
+            "word": "bionic"
+        },
+        {
+            "id": "bionics",
+            "word": "bionics"
+        },
+        {
+            "id": "bistable",
+            "word": "bistable"
+        },
+        {
+            "id": "bit_error_rate",
+            "word": "bit error rate"
+        },
+        {
+            "id": "bit_rate",
+            "word": "bit rate"
+        },
+        {
+            "id": "bitstream",
+            "word": "bitstream"
+        },
+        {
+            "id": "card_reader",
+            "word": "card reader"
+        },
+        {
+            "id": "card_swipe",
+            "word": "card swipe"
+        },
+        {
+            "id": "cassette_deck",
+            "word": "cassette deck"
+        },
+        {
+            "id": "cassette_player",
+            "word": "cassette player"
+        },
+        {
+            "id": "ccd",
+            "word": "ccd"
+        },
+        {
+            "id": "cell_phone",
+            "word": "cell phone"
+        },
+        {
+            "id": "checksum",
+            "word": "checksum"
+        },
+        {
+            "id": "chipmaker",
+            "word": "chipmaker"
+        },
+        {
+            "id": "chipset",
+            "word": "chipset"
+        },
+        {
+            "id": "clean_room",
+            "word": "clean room"
+        },
+        {
+            "id": "cmos",
+            "word": "cmos"
+        },
+        {
+            "id": "codec",
+            "word": "codec"
+        },
+        {
+            "id": "cold_cathode",
+            "word": "cold cathode"
+        },
+        {
+            "id": "combinational_circuit",
+            "word": "combinational circuit"
+        },
+        {
+            "id": "compact_disc",
+            "word": "compact disc"
+        },
+        {
+            "id": "comparator",
+            "word": "comparator"
+        },
+        {
+            "id": "converter",
+            "word": "converter"
+        },
+        {
+            "id": "cordless",
+            "word": "cordless"
+        },
+        {
+            "id": "cross-colour",
+            "word": "cross-colour"
+        },
+        {
+            "id": "crossover_distortion",
+            "word": "crossover distortion"
+        },
+        {
+            "id": "crystal_set",
+            "word": "crystal set"
+        },
+        {
+            "id": "d%2Fa",
+            "word": "d/a"
+        },
+        {
+            "id": "dac",
+            "word": "dac"
+        },
+        {
+            "id": "daughterboard",
+            "word": "daughterboard"
+        },
+        {
+            "id": "dbx",
+            "word": "dbx"
+        },
+        {
+            "id": "decibel",
+            "word": "decibel"
+        },
+        {
+            "id": "degauss",
+            "word": "degauss"
+        },
+        {
+            "id": "delay_line",
+            "word": "delay line"
+        },
+        {
+            "id": "demodulate",
+            "word": "demodulate"
+        },
+        {
+            "id": "de_morgan%27s_laws",
+            "word": "de morgan's laws"
+        },
+        {
+            "id": "descramble",
+            "word": "descramble"
+        },
+        {
+            "id": "digital",
+            "word": "digital"
+        },
+        {
+            "id": "digital_audiotape",
+            "word": "digital audiotape"
+        },
+        {
+            "id": "digitally",
+            "word": "digitally"
+        },
+        {
+            "id": "digital-to-analogue_converter",
+            "word": "digital-to-analogue converter"
+        },
+        {
+            "id": "digital_video_recorder",
+            "word": "digital video recorder"
+        },
+        {
+            "id": "dil",
+            "word": "dil"
+        },
+        {
+            "id": "diode",
+            "word": "diode"
+        },
+        {
+            "id": "distortion",
+            "word": "distortion"
+        },
+        {
+            "id": "dopant",
+            "word": "dopant"
+        },
+        {
+            "id": "dram",
+            "word": "dram"
+        },
+        {
+            "id": "dual_in-line_package",
+            "word": "dual in-line package"
+        },
+        {
+            "id": "dynode",
+            "word": "dynode"
+        },
+        {
+            "id": "eeprom",
+            "word": "eeprom"
+        },
+        {
+            "id": "electric_eye",
+            "word": "electric eye"
+        },
+        {
+            "id": "electronic",
+            "word": "electronic"
+        },
+        {
+            "id": "electronically",
+            "word": "electronically"
+        },
+        {
+            "id": "electronics",
+            "word": "electronics"
+        },
+        {
+            "id": "electronic_skin",
+            "word": "electronic skin"
+        },
+        {
+            "id": "emitter",
+            "word": "emitter"
+        },
+        {
+            "id": "etchant",
+            "word": "etchant"
+        },
+        {
+            "id": "e-waste",
+            "word": "e-waste"
+        },
+        {
+            "id": "fab",
+            "word": "fab"
+        },
+        {
+            "id": "fan-in",
+            "word": "fan-in"
+        },
+        {
+            "id": "fan-out",
+            "word": "fan-out"
+        },
+        {
+            "id": "fastext",
+            "word": "fastext"
+        },
+        {
+            "id": "fembot",
+            "word": "fembot"
+        },
+        {
+            "id": "field-effect_transistor",
+            "word": "field-effect transistor"
+        },
+        {
+            "id": "fleming%2C_sir_john_ambrose",
+            "word": "fleming, sir john ambrose"
+        },
+        {
+            "id": "flight_mode",
+            "word": "flight mode"
+        },
+        {
+            "id": "flyback",
+            "word": "flyback"
+        },
+        {
+            "id": "frequency_response",
+            "word": "frequency response"
+        },
+        {
+            "id": "fst",
+            "word": "fst"
+        },
+        {
+            "id": "gabor%2C_dennis",
+            "word": "gabor, dennis"
+        },
+        {
+            "id": "gettering",
+            "word": "gettering"
+        },
+        {
+            "id": "ghost_image",
+            "word": "ghost image"
+        },
+        {
+            "id": "ghosting",
+            "word": "ghosting"
+        },
+        {
+            "id": "gigahertz",
+            "word": "gigahertz"
+        },
+        {
+            "id": "gps",
+            "word": "gps"
+        },
+        {
+            "id": "gray_code",
+            "word": "gray code"
+        },
+        {
+            "id": "grid_bias",
+            "word": "grid bias"
+        },
+        {
+            "id": "guard_ring",
+            "word": "guard ring"
+        },
+        {
+            "id": "halation",
+            "word": "halation"
+        },
+        {
+            "id": "hd",
+            "word": "hd"
+        },
+        {
+            "id": "headphones",
+            "word": "headphones"
+        },
+        {
+            "id": "heater",
+            "word": "heater"
+        },
+        {
+            "id": "heterodyne",
+            "word": "heterodyne"
+        },
+        {
+            "id": "hi-fi",
+            "word": "hi-fi"
+        },
+        {
+            "id": "high-pass",
+            "word": "high-pass"
+        },
+        {
+            "id": "home_screen",
+            "word": "home screen"
+        },
+        {
+            "id": "i%2Fo",
+            "word": "i/o"
+        },
+        {
+            "id": "ic",
+            "word": "ic"
+        },
+        {
+            "id": "ieee",
+            "word": "ieee"
+        },
+        {
+            "id": "image_intensifier",
+            "word": "image intensifier"
+        },
+        {
+            "id": "input-output",
+            "word": "input-output"
+        },
+        {
+            "id": "integrated_circuit",
+            "word": "integrated circuit"
+        },
+        {
+            "id": "interactive",
+            "word": "interactive"
+        },
+        {
+            "id": "interactivity",
+            "word": "interactivity"
+        },
+        {
+            "id": "karnaugh_map",
+            "word": "karnaugh map"
+        },
+        {
+            "id": "keitai",
+            "word": "keitai"
+        },
+        {
+            "id": "keytar",
+            "word": "keytar"
+        },
+        {
+            "id": "krytron",
+            "word": "krytron"
+        },
+        {
+            "id": "laser_gun",
+            "word": "laser gun"
+        },
+        {
+            "id": "lidar",
+            "word": "lidar"
+        },
+        {
+            "id": "limiter",
+            "word": "limiter"
+        },
+        {
+            "id": "line-in",
+            "word": "line-in"
+        },
+        {
+            "id": "liquid_crystal_display",
+            "word": "liquid crystal display"
+        },
+        {
+            "id": "logic_circuit",
+            "word": "logic circuit"
+        },
+        {
+            "id": "lo-res",
+            "word": "lo-res"
+        },
+        {
+            "id": "loudhailer",
+            "word": "loudhailer"
+        },
+        {
+            "id": "magic_eye",
+            "word": "magic eye"
+        },
+        {
+            "id": "master_copy",
+            "word": "master copy"
+        },
+        {
+            "id": "master_tape",
+            "word": "master tape"
+        },
+        {
+            "id": "mechatronics",
+            "word": "mechatronics"
+        },
+        {
+            "id": "memory_chip",
+            "word": "memory chip"
+        },
+        {
+            "id": "mems",
+            "word": "mems"
+        },
+        {
+            "id": "metal_detector",
+            "word": "metal detector"
+        },
+        {
+            "id": "microchip",
+            "word": "microchip"
+        },
+        {
+            "id": "microcircuit",
+            "word": "microcircuit"
+        },
+        {
+            "id": "microcomputer",
+            "word": "microcomputer"
+        },
+        {
+            "id": "microcontroller",
+            "word": "microcontroller"
+        },
+        {
+            "id": "microelectronics",
+            "word": "microelectronics"
+        },
+        {
+            "id": "microgroove",
+            "word": "microgroove"
+        },
+        {
+            "id": "microminiaturization",
+            "word": "microminiaturization"
+        },
+        {
+            "id": "microphone",
+            "word": "microphone"
+        },
+        {
+            "id": "microtechnology",
+            "word": "microtechnology"
+        },
+        {
+            "id": "minidisc",
+            "word": "minidisc"
+        },
+        {
+            "id": "molecular_electronics",
+            "word": "molecular electronics"
+        },
+        {
+            "id": "monostable",
+            "word": "monostable"
+        },
+        {
+            "id": "moore%27s_law",
+            "word": "moore's law"
+        },
+        {
+            "id": "mosfet",
+            "word": "mosfet"
+        },
+        {
+            "id": "mtbf",
+            "word": "mtbf"
+        },
+        {
+            "id": "multichannel",
+            "word": "multichannel"
+        },
+        {
+            "id": "multicore",
+            "word": "multicore"
+        },
+        {
+            "id": "multiplex",
+            "word": "multiplex"
+        },
+        {
+            "id": "multitrack",
+            "word": "multitrack"
+        },
+        {
+            "id": "multitracked",
+            "word": "multitracked"
+        },
+        {
+            "id": "multivibrator",
+            "word": "multivibrator"
+        },
+        {
+            "id": "mutual_conductance",
+            "word": "mutual conductance"
+        },
+        {
+            "id": "mux",
+            "word": "mux"
+        },
+        {
+            "id": "nanobot",
+            "word": "nanobot"
+        },
+        {
+            "id": "nanofibre",
+            "word": "nanofibre"
+        },
+        {
+            "id": "nanomaterial",
+            "word": "nanomaterial"
+        },
+        {
+            "id": "nanorobot",
+            "word": "nanorobot"
+        },
+        {
+            "id": "nanostructure",
+            "word": "nanostructure"
+        },
+        {
+            "id": "nanowire",
+            "word": "nanowire"
+        },
+        {
+            "id": "navigation_system",
+            "word": "navigation system"
+        },
+        {
+            "id": "nfc",
+            "word": "nfc"
+        },
+        {
+            "id": "noise-cancelling",
+            "word": "noise-cancelling"
+        },
+        {
+            "id": "notch_filter",
+            "word": "notch filter"
+        },
+        {
+            "id": "npn",
+            "word": "npn"
+        },
+        {
+            "id": "n-type",
+            "word": "n-type"
+        },
+        {
+            "id": "nyquist_criterion",
+            "word": "nyquist criterion"
+        },
+        {
+            "id": "nyquist_diagram",
+            "word": "nyquist diagram"
+        },
+        {
+            "id": "nyquist_frequency",
+            "word": "nyquist frequency"
+        },
+        {
+            "id": "oled",
+            "word": "oled"
+        },
+        {
+            "id": "on-chip",
+            "word": "on-chip"
+        },
+        {
+            "id": "open-reel",
+            "word": "open-reel"
+        },
+        {
+            "id": "operational_amplifier",
+            "word": "operational amplifier"
+        },
+        {
+            "id": "optical_scanner",
+            "word": "optical scanner"
+        },
+        {
+            "id": "optocoupler",
+            "word": "optocoupler"
+        },
+        {
+            "id": "optoelectronics",
+            "word": "optoelectronics"
+        },
+        {
+            "id": "overdub",
+            "word": "overdub"
+        },
+        {
+            "id": "oversampling",
+            "word": "oversampling"
+        },
+        {
+            "id": "overscan",
+            "word": "overscan"
+        },
+        {
+            "id": "passive_matrix",
+            "word": "passive matrix"
+        },
+        {
+            "id": "pause",
+            "word": "pause"
+        },
+        {
+            "id": "pcb",
+            "word": "pcb"
+        },
+        {
+            "id": "p%E2%80%93n_junction",
+            "word": "p–n junction"
+        },
+        {
+            "id": "pentode",
+            "word": "pentode"
+        },
+        {
+            "id": "phase-lock",
+            "word": "phase-lock"
+        },
+        {
+            "id": "phase_modulation",
+            "word": "phase modulation"
+        },
+        {
+            "id": "photodiode",
+            "word": "photodiode"
+        },
+        {
+            "id": "photoelectric_cell",
+            "word": "photoelectric cell"
+        },
+        {
+            "id": "photomask",
+            "word": "photomask"
+        },
+        {
+            "id": "photonics",
+            "word": "photonics"
+        },
+        {
+            "id": "photoresist",
+            "word": "photoresist"
+        },
+        {
+            "id": "phototransistor",
+            "word": "phototransistor"
+        },
+        {
+            "id": "phototube",
+            "word": "phototube"
+        },
+        {
+            "id": "picture_tube",
+            "word": "picture tube"
+        },
+        {
+            "id": "pinout",
+            "word": "pinout"
+        },
+        {
+            "id": "pixel",
+            "word": "pixel"
+        },
+        {
+            "id": "pixelate",
+            "word": "pixelate"
+        },
+        {
+            "id": "pnp",
+            "word": "pnp"
+        },
+        {
+            "id": "point_contact",
+            "word": "point contact"
+        },
+        {
+            "id": "portastudio",
+            "word": "portastudio"
+        },
+        {
+            "id": "positive_logic",
+            "word": "positive logic"
+        },
+        {
+            "id": "preamplifier",
+            "word": "preamplifier"
+        },
+        {
+            "id": "preamplify",
+            "word": "preamplify"
+        },
+        {
+            "id": "pre-echo",
+            "word": "pre-echo"
+        },
+        {
+            "id": "printed_circuit",
+            "word": "printed circuit"
+        },
+        {
+            "id": "projection_television",
+            "word": "projection television"
+        },
+        {
+            "id": "p-type",
+            "word": "p-type"
+        },
+        {
+            "id": "pulse_code_modulation",
+            "word": "pulse code modulation"
+        },
+        {
+            "id": "pulse_modulation",
+            "word": "pulse modulation"
+        },
+        {
+            "id": "push-pull",
+            "word": "push-pull"
+        },
+        {
+            "id": "quadraphonic",
+            "word": "quadraphonic"
+        },
+        {
+            "id": "quantizer",
+            "word": "quantizer"
+        },
+        {
+            "id": "rabbit_ears",
+            "word": "rabbit ears"
+        },
+        {
+            "id": "radar",
+            "word": "radar"
+        },
+        {
+            "id": "radio-controlled",
+            "word": "radio-controlled"
+        },
+        {
+            "id": "radiogoniometer",
+            "word": "radiogoniometer"
+        },
+        {
+            "id": "radiogram",
+            "word": "radiogram"
+        },
+        {
+            "id": "radiophonic",
+            "word": "radiophonic"
+        },
+        {
+            "id": "radio-telegram",
+            "word": "radio-telegram"
+        },
+        {
+            "id": "raster",
+            "word": "raster"
+        },
+        {
+            "id": "reference_electrode",
+            "word": "reference electrode"
+        },
+        {
+            "id": "relaxation_oscillator",
+            "word": "relaxation oscillator"
+        },
+        {
+            "id": "remaster",
+            "word": "remaster"
+        },
+        {
+            "id": "remix",
+            "word": "remix"
+        },
+        {
+            "id": "remote",
+            "word": "remote"
+        },
+        {
+            "id": "remote_control",
+            "word": "remote control"
+        },
+        {
+            "id": "remote-controlled",
+            "word": "remote-controlled"
+        },
+        {
+            "id": "remote_locking",
+            "word": "remote locking"
+        },
+        {
+            "id": "rerecord",
+            "word": "rerecord"
+        },
+        {
+            "id": "reset",
+            "word": "reset"
+        },
+        {
+            "id": "response_time",
+            "word": "response time"
+        },
+        {
+            "id": "rewind",
+            "word": "rewind"
+        },
+        {
+            "id": "ribbon_cable",
+            "word": "ribbon cable"
+        },
+        {
+            "id": "ring_modulator",
+            "word": "ring modulator"
+        },
+        {
+            "id": "rise_time",
+            "word": "rise time"
+        },
+        {
+            "id": "robot",
+            "word": "robot"
+        },
+        {
+            "id": "sawtooth",
+            "word": "sawtooth"
+        },
+        {
+            "id": "schmitt_trigger",
+            "word": "schmitt trigger"
+        },
+        {
+            "id": "schottky_barrier",
+            "word": "schottky barrier"
+        },
+        {
+            "id": "schottky_diode",
+            "word": "schottky diode"
+        },
+        {
+            "id": "schottky_effect",
+            "word": "schottky effect"
+        },
+        {
+            "id": "sequencer",
+            "word": "sequencer"
+        },
+        {
+            "id": "sequential_circuit",
+            "word": "sequential circuit"
+        },
+        {
+            "id": "silicon_chip",
+            "word": "silicon chip"
+        },
+        {
+            "id": "silicon_valley",
+            "word": "silicon valley"
+        },
+        {
+            "id": "single-ended",
+            "word": "single-ended"
+        },
+        {
+            "id": "sleep_mode",
+            "word": "sleep mode"
+        },
+        {
+            "id": "slewing",
+            "word": "slewing"
+        },
+        {
+            "id": "slew_rate",
+            "word": "slew rate"
+        },
+        {
+            "id": "slider",
+            "word": "slider"
+        },
+        {
+            "id": "smart_card",
+            "word": "smart card"
+        },
+        {
+            "id": "smart_home",
+            "word": "smart home"
+        },
+        {
+            "id": "smart_tag",
+            "word": "smart tag"
+        },
+        {
+            "id": "smectic",
+            "word": "smectic"
+        },
+        {
+            "id": "sound_system",
+            "word": "sound system"
+        },
+        {
+            "id": "speakerphone",
+            "word": "speakerphone"
+        },
+        {
+            "id": "spectrum_analyser",
+            "word": "spectrum analyser"
+        },
+        {
+            "id": "speed_dial",
+            "word": "speed dial"
+        },
+        {
+            "id": "square_wave",
+            "word": "square wave"
+        },
+        {
+            "id": "sram",
+            "word": "sram"
+        },
+        {
+            "id": "state_machine",
+            "word": "state machine"
+        },
+        {
+            "id": "step_function",
+            "word": "step function"
+        },
+        {
+            "id": "step_response",
+            "word": "step response"
+        },
+        {
+            "id": "strobing",
+            "word": "strobing"
+        },
+        {
+            "id": "subwoofer",
+            "word": "subwoofer"
+        },
+        {
+            "id": "superheterodyne",
+            "word": "superheterodyne"
+        },
+        {
+            "id": "supertwist",
+            "word": "supertwist"
+        },
+        {
+            "id": "surface-mount",
+            "word": "surface-mount"
+        },
+        {
+            "id": "sync",
+            "word": "sync"
+        },
+        {
+            "id": "synthesizer",
+            "word": "synthesizer"
+        },
+        {
+            "id": "tag",
+            "word": "tag"
+        },
+        {
+            "id": "tagging",
+            "word": "tagging"
+        },
+        {
+            "id": "tape_deck",
+            "word": "tape deck"
+        },
+        {
+            "id": "tape-record",
+            "word": "tape-record"
+        },
+        {
+            "id": "tape_recorder",
+            "word": "tape recorder"
+        },
+        {
+            "id": "tetrode",
+            "word": "tetrode"
+        },
+        {
+            "id": "tft",
+            "word": "tft"
+        },
+        {
+            "id": "thermal_noise",
+            "word": "thermal noise"
+        },
+        {
+            "id": "thermionic_emission",
+            "word": "thermionic emission"
+        },
+        {
+            "id": "thermionics",
+            "word": "thermionics"
+        },
+        {
+            "id": "thermionic_valve",
+            "word": "thermionic valve"
+        },
+        {
+            "id": "thick-film",
+            "word": "thick-film"
+        },
+        {
+            "id": "thin-film",
+            "word": "thin-film"
+        },
+        {
+            "id": "through-hole",
+            "word": "through-hole"
+        },
+        {
+            "id": "thyristor",
+            "word": "thyristor"
+        },
+        {
+            "id": "time_base",
+            "word": "time base"
+        },
+        {
+            "id": "toneburst",
+            "word": "toneburst"
+        },
+        {
+            "id": "tracking",
+            "word": "tracking"
+        },
+        {
+            "id": "transconductance",
+            "word": "transconductance"
+        },
+        {
+            "id": "transfer_function",
+            "word": "transfer function"
+        },
+        {
+            "id": "transistor",
+            "word": "transistor"
+        },
+        {
+            "id": "transistorize",
+            "word": "transistorize"
+        },
+        {
+            "id": "transponder",
+            "word": "transponder"
+        },
+        {
+            "id": "transputer",
+            "word": "transputer"
+        },
+        {
+            "id": "triac",
+            "word": "triac"
+        },
+        {
+            "id": "trimpot",
+            "word": "trimpot"
+        },
+        {
+            "id": "triode",
+            "word": "triode"
+        },
+        {
+            "id": "ttl",
+            "word": "ttl"
+        },
+        {
+            "id": "tunnel_diode",
+            "word": "tunnel diode"
+        },
+        {
+            "id": "twisted_pair",
+            "word": "twisted pair"
+        },
+        {
+            "id": "unamplified",
+            "word": "unamplified"
+        },
+        {
+            "id": "unijunction",
+            "word": "unijunction"
+        },
+        {
+            "id": "varactor",
+            "word": "varactor"
+        },
+        {
+            "id": "varistor",
+            "word": "varistor"
+        },
+        {
+            "id": "vero_board",
+            "word": "vero board"
+        },
+        {
+            "id": "vidicon",
+            "word": "vidicon"
+        },
+        {
+            "id": "viewscreen",
+            "word": "viewscreen"
+        },
+        {
+            "id": "vlsi",
+            "word": "vlsi"
+        },
+        {
+            "id": "vocoder",
+            "word": "vocoder"
+        },
+        {
+            "id": "vram",
+            "word": "vram"
+        },
+        {
+            "id": "walkie-talkie",
+            "word": "walkie-talkie"
+        },
+        {
+            "id": "walkman",
+            "word": "walkman"
+        },
+        {
+            "id": "zapper",
+            "word": "zapper"
+        },
+        {
+            "id": "zener",
+            "word": "zener"
+        },
+        {
+            "id": "zif_socket",
+            "word": "zif socket"
+        }
+    ]
+}

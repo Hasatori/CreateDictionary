@@ -1,0 +1,15 @@
+{
+    "results": [
+        {
+            "id": "moa-hunter",
+            "word": "moa-hunter"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 1,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

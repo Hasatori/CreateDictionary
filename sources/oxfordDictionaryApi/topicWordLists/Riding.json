@@ -1,0 +1,1079 @@
+{
+    "results": [
+        {
+            "id": "above_the_bit",
+            "word": "above the bit"
+        },
+        {
+            "id": "aged",
+            "word": "aged"
+        },
+        {
+            "id": "at_livery",
+            "word": "at livery"
+        },
+        {
+            "id": "bangtail",
+            "word": "bangtail"
+        },
+        {
+            "id": "bareback",
+            "word": "bareback"
+        },
+        {
+            "id": "barrel_race",
+            "word": "barrel race"
+        },
+        {
+            "id": "bay",
+            "word": "bay"
+        },
+        {
+            "id": "bearing_rein",
+            "word": "bearing rein"
+        },
+        {
+            "id": "behind_the_bit",
+            "word": "behind the bit"
+        },
+        {
+            "id": "bellyband",
+            "word": "bellyband"
+        },
+        {
+            "id": "bit",
+            "word": "bit"
+        },
+        {
+            "id": "blinker",
+            "word": "blinker"
+        },
+        {
+            "id": "blood_horse",
+            "word": "blood horse"
+        },
+        {
+            "id": "blue_roan",
+            "word": "blue roan"
+        },
+        {
+            "id": "bolt",
+            "word": "bolt"
+        },
+        {
+            "id": "breaking_cart",
+            "word": "breaking cart"
+        },
+        {
+            "id": "breast_collar",
+            "word": "breast collar"
+        },
+        {
+            "id": "breeching",
+            "word": "breeching"
+        },
+        {
+            "id": "bridle",
+            "word": "bridle"
+        },
+        {
+            "id": "bridleway",
+            "word": "bridleway"
+        },
+        {
+            "id": "bridoon",
+            "word": "bridoon"
+        },
+        {
+            "id": "britzka",
+            "word": "britzka"
+        },
+        {
+            "id": "bronco",
+            "word": "bronco"
+        },
+        {
+            "id": "brougham",
+            "word": "brougham"
+        },
+        {
+            "id": "brow_band",
+            "word": "brow band"
+        },
+        {
+            "id": "brumby",
+            "word": "brumby"
+        },
+        {
+            "id": "buckjump",
+            "word": "buckjump"
+        },
+        {
+            "id": "buckjumping",
+            "word": "buckjumping"
+        },
+        {
+            "id": "bull_riding",
+            "word": "bull riding"
+        },
+        {
+            "id": "campdraft",
+            "word": "campdraft"
+        },
+        {
+            "id": "campdrafter",
+            "word": "campdrafter"
+        },
+        {
+            "id": "campdrafting",
+            "word": "campdrafting"
+        },
+        {
+            "id": "cannon_bone",
+            "word": "cannon bone"
+        },
+        {
+            "id": "canter",
+            "word": "canter"
+        },
+        {
+            "id": "cantle",
+            "word": "cantle"
+        },
+        {
+            "id": "caparison",
+            "word": "caparison"
+        },
+        {
+            "id": "capriole",
+            "word": "capriole"
+        },
+        {
+            "id": "caracole",
+            "word": "caracole"
+        },
+        {
+            "id": "cavesson",
+            "word": "cavesson"
+        },
+        {
+            "id": "champ",
+            "word": "champ"
+        },
+        {
+            "id": "check_rein",
+            "word": "check rein"
+        },
+        {
+            "id": "collar",
+            "word": "collar"
+        },
+        {
+            "id": "colt",
+            "word": "colt"
+        },
+        {
+            "id": "courbette",
+            "word": "courbette"
+        },
+        {
+            "id": "covert_coat",
+            "word": "covert coat"
+        },
+        {
+            "id": "crib-biting",
+            "word": "crib-biting"
+        },
+        {
+            "id": "croup",
+            "word": "croup"
+        },
+        {
+            "id": "croupade",
+            "word": "croupade"
+        },
+        {
+            "id": "crow_hop",
+            "word": "crow hop"
+        },
+        {
+            "id": "crupper",
+            "word": "crupper"
+        },
+        {
+            "id": "curb_chain",
+            "word": "curb chain"
+        },
+        {
+            "id": "curry",
+            "word": "curry"
+        },
+        {
+            "id": "curry_comb",
+            "word": "curry comb"
+        },
+        {
+            "id": "curvet",
+            "word": "curvet"
+        },
+        {
+            "id": "cutting_horse",
+            "word": "cutting horse"
+        },
+        {
+            "id": "dandy_brush",
+            "word": "dandy brush"
+        },
+        {
+            "id": "dapple_grey",
+            "word": "dapple grey"
+        },
+        {
+            "id": "double-bank",
+            "word": "double-bank"
+        },
+        {
+            "id": "double_bridle",
+            "word": "double bridle"
+        },
+        {
+            "id": "draw_rein",
+            "word": "draw rein"
+        },
+        {
+            "id": "draw_reins",
+            "word": "draw reins"
+        },
+        {
+            "id": "dressage",
+            "word": "dressage"
+        },
+        {
+            "id": "enclosure",
+            "word": "enclosure"
+        },
+        {
+            "id": "equestrian",
+            "word": "equestrian"
+        },
+        {
+            "id": "equestrianism",
+            "word": "equestrianism"
+        },
+        {
+            "id": "equitation",
+            "word": "equitation"
+        },
+        {
+            "id": "eventer",
+            "word": "eventer"
+        },
+        {
+            "id": "eventing",
+            "word": "eventing"
+        },
+        {
+            "id": "ewe_neck",
+            "word": "ewe neck"
+        },
+        {
+            "id": "farrier",
+            "word": "farrier"
+        },
+        {
+            "id": "fence",
+            "word": "fence"
+        },
+        {
+            "id": "fetlock",
+            "word": "fetlock"
+        },
+        {
+            "id": "filly",
+            "word": "filly"
+        },
+        {
+            "id": "flat_jockey",
+            "word": "flat jockey"
+        },
+        {
+            "id": "flying_change",
+            "word": "flying change"
+        },
+        {
+            "id": "forelock",
+            "word": "forelock"
+        },
+        {
+            "id": "frog",
+            "word": "frog"
+        },
+        {
+            "id": "gait",
+            "word": "gait"
+        },
+        {
+            "id": "gallop",
+            "word": "gallop"
+        },
+        {
+            "id": "galloping",
+            "word": "galloping"
+        },
+        {
+            "id": "gambado",
+            "word": "gambado"
+        },
+        {
+            "id": "gaskin",
+            "word": "gaskin"
+        },
+        {
+            "id": "gee",
+            "word": "gee"
+        },
+        {
+            "id": "gee-gee",
+            "word": "gee-gee"
+        },
+        {
+            "id": "gelding",
+            "word": "gelding"
+        },
+        {
+            "id": "gig",
+            "word": "gig"
+        },
+        {
+            "id": "gymkhana",
+            "word": "gymkhana"
+        },
+        {
+            "id": "h",
+            "word": "h"
+        },
+        {
+            "id": "hackamore",
+            "word": "hackamore"
+        },
+        {
+            "id": "hackney",
+            "word": "hackney"
+        },
+        {
+            "id": "halter",
+            "word": "halter"
+        },
+        {
+            "id": "halter-break",
+            "word": "halter-break"
+        },
+        {
+            "id": "hand_gallop",
+            "word": "hand gallop"
+        },
+        {
+            "id": "harness",
+            "word": "harness"
+        },
+        {
+            "id": "haute_%C3%A9cole",
+            "word": "haute école"
+        },
+        {
+            "id": "headstall",
+            "word": "headstall"
+        },
+        {
+            "id": "heavy_horse",
+            "word": "heavy horse"
+        },
+        {
+            "id": "hh.",
+            "word": "hh."
+        },
+        {
+            "id": "hippotherapy",
+            "word": "hippotherapy"
+        },
+        {
+            "id": "hopple",
+            "word": "hopple"
+        },
+        {
+            "id": "horseback",
+            "word": "horseback"
+        },
+        {
+            "id": "horseback_rider",
+            "word": "horseback rider"
+        },
+        {
+            "id": "horseback_riding",
+            "word": "horseback riding"
+        },
+        {
+            "id": "horse-block",
+            "word": "horse-block"
+        },
+        {
+            "id": "horsebox",
+            "word": "horsebox"
+        },
+        {
+            "id": "horsebreaker",
+            "word": "horsebreaker"
+        },
+        {
+            "id": "horse_collar",
+            "word": "horse collar"
+        },
+        {
+            "id": "horseflesh",
+            "word": "horseflesh"
+        },
+        {
+            "id": "horse_float",
+            "word": "horse float"
+        },
+        {
+            "id": "horseman",
+            "word": "horseman"
+        },
+        {
+            "id": "horsemanship",
+            "word": "horsemanship"
+        },
+        {
+            "id": "horse_rider",
+            "word": "horse rider"
+        },
+        {
+            "id": "horse_riding",
+            "word": "horse riding"
+        },
+        {
+            "id": "horseshoe",
+            "word": "horseshoe"
+        },
+        {
+            "id": "horse_show",
+            "word": "horse show"
+        },
+        {
+            "id": "horsetailer",
+            "word": "horsetailer"
+        },
+        {
+            "id": "horse_trials",
+            "word": "horse trials"
+        },
+        {
+            "id": "horse_walker",
+            "word": "horse walker"
+        },
+        {
+            "id": "horsewhip",
+            "word": "horsewhip"
+        },
+        {
+            "id": "horsewoman",
+            "word": "horsewoman"
+        },
+        {
+            "id": "horsiness",
+            "word": "horsiness"
+        },
+        {
+            "id": "housing",
+            "word": "housing"
+        },
+        {
+            "id": "hunting_crop",
+            "word": "hunting crop"
+        },
+        {
+            "id": "in_the_saddle",
+            "word": "in the saddle"
+        },
+        {
+            "id": "iron_grey",
+            "word": "iron grey"
+        },
+        {
+            "id": "jib",
+            "word": "jib"
+        },
+        {
+            "id": "jockey",
+            "word": "jockey"
+        },
+        {
+            "id": "jodhpurs",
+            "word": "jodhpurs"
+        },
+        {
+            "id": "jumper",
+            "word": "jumper"
+        },
+        {
+            "id": "jump_jockey",
+            "word": "jump jockey"
+        },
+        {
+            "id": "jump-off",
+            "word": "jump-off"
+        },
+        {
+            "id": "kicking_strap",
+            "word": "kicking strap"
+        },
+        {
+            "id": "landau",
+            "word": "landau"
+        },
+        {
+            "id": "landaulet",
+            "word": "landaulet"
+        },
+        {
+            "id": "lather",
+            "word": "lather"
+        },
+        {
+            "id": "leading_rein",
+            "word": "leading rein"
+        },
+        {
+            "id": "levade",
+            "word": "levade"
+        },
+        {
+            "id": "lipizzaner",
+            "word": "lipizzaner"
+        },
+        {
+            "id": "liver_chestnut",
+            "word": "liver chestnut"
+        },
+        {
+            "id": "livery_stable",
+            "word": "livery stable"
+        },
+        {
+            "id": "long_reins",
+            "word": "long reins"
+        },
+        {
+            "id": "loose_box",
+            "word": "loose box"
+        },
+        {
+            "id": "loose_rein",
+            "word": "loose rein"
+        },
+        {
+            "id": "loriner",
+            "word": "loriner"
+        },
+        {
+            "id": "lunge",
+            "word": "lunge"
+        },
+        {
+            "id": "m",
+            "word": "m"
+        },
+        {
+            "id": "man%C3%A8ge",
+            "word": "manège"
+        },
+        {
+            "id": "martingale",
+            "word": "martingale"
+        },
+        {
+            "id": "mounting_block",
+            "word": "mounting block"
+        },
+        {
+            "id": "nag",
+            "word": "nag"
+        },
+        {
+            "id": "nap",
+            "word": "nap"
+        },
+        {
+            "id": "new_zealand_rug",
+            "word": "new zealand rug"
+        },
+        {
+            "id": "nicher",
+            "word": "nicher"
+        },
+        {
+            "id": "nicker",
+            "word": "nicker"
+        },
+        {
+            "id": "noseband",
+            "word": "noseband"
+        },
+        {
+            "id": "numnah",
+            "word": "numnah"
+        },
+        {
+            "id": "off_the_bit_%28or_bridle%29",
+            "word": "off the bit (or bridle)"
+        },
+        {
+            "id": "on_the_bit_%28or_bridle%29",
+            "word": "on the bit (or bridle)"
+        },
+        {
+            "id": "overcheck",
+            "word": "overcheck"
+        },
+        {
+            "id": "oxer",
+            "word": "oxer"
+        },
+        {
+            "id": "packsaddle",
+            "word": "packsaddle"
+        },
+        {
+            "id": "paddock",
+            "word": "paddock"
+        },
+        {
+            "id": "palfrey",
+            "word": "palfrey"
+        },
+        {
+            "id": "passade",
+            "word": "passade"
+        },
+        {
+            "id": "passage",
+            "word": "passage"
+        },
+        {
+            "id": "pastern",
+            "word": "pastern"
+        },
+        {
+            "id": "peck",
+            "word": "peck"
+        },
+        {
+            "id": "pelham",
+            "word": "pelham"
+        },
+        {
+            "id": "piaffe",
+            "word": "piaffe"
+        },
+        {
+            "id": "pig-jump",
+            "word": "pig-jump"
+        },
+        {
+            "id": "polo_pony",
+            "word": "polo pony"
+        },
+        {
+            "id": "pony-trekking",
+            "word": "pony-trekking"
+        },
+        {
+            "id": "postilion",
+            "word": "postilion"
+        },
+        {
+            "id": "potrero",
+            "word": "potrero"
+        },
+        {
+            "id": "prance",
+            "word": "prance"
+        },
+        {
+            "id": "puissance",
+            "word": "puissance"
+        },
+        {
+            "id": "quirt",
+            "word": "quirt"
+        },
+        {
+            "id": "rack",
+            "word": "rack"
+        },
+        {
+            "id": "red_roan",
+            "word": "red roan"
+        },
+        {
+            "id": "rein",
+            "word": "rein"
+        },
+        {
+            "id": "reinsman",
+            "word": "reinsman"
+        },
+        {
+            "id": "renvers",
+            "word": "renvers"
+        },
+        {
+            "id": "restive",
+            "word": "restive"
+        },
+        {
+            "id": "ride",
+            "word": "ride"
+        },
+        {
+            "id": "ride-off",
+            "word": "ride-off"
+        },
+        {
+            "id": "rider",
+            "word": "rider"
+        },
+        {
+            "id": "riding",
+            "word": "riding"
+        },
+        {
+            "id": "riding_crop",
+            "word": "riding crop"
+        },
+        {
+            "id": "riding_habit",
+            "word": "riding habit"
+        },
+        {
+            "id": "riding_school",
+            "word": "riding school"
+        },
+        {
+            "id": "rising_trot",
+            "word": "rising trot"
+        },
+        {
+            "id": "roan",
+            "word": "roan"
+        },
+        {
+            "id": "rodeo",
+            "word": "rodeo"
+        },
+        {
+            "id": "rough-rider",
+            "word": "rough-rider"
+        },
+        {
+            "id": "roughshod",
+            "word": "roughshod"
+        },
+        {
+            "id": "rowel",
+            "word": "rowel"
+        },
+        {
+            "id": "rub_something_down",
+            "word": "rub something down"
+        },
+        {
+            "id": "saddle",
+            "word": "saddle"
+        },
+        {
+            "id": "saddlebag",
+            "word": "saddlebag"
+        },
+        {
+            "id": "saddle-bow",
+            "word": "saddle-bow"
+        },
+        {
+            "id": "saddlecloth",
+            "word": "saddlecloth"
+        },
+        {
+            "id": "saddler",
+            "word": "saddler"
+        },
+        {
+            "id": "saddlery",
+            "word": "saddlery"
+        },
+        {
+            "id": "saddle-sore",
+            "word": "saddle-sore"
+        },
+        {
+            "id": "saddle_track",
+            "word": "saddle track"
+        },
+        {
+            "id": "saddle_tree",
+            "word": "saddle tree"
+        },
+        {
+            "id": "shabrack",
+            "word": "shabrack"
+        },
+        {
+            "id": "shoulder-in",
+            "word": "shoulder-in"
+        },
+        {
+            "id": "showjump",
+            "word": "showjump"
+        },
+        {
+            "id": "showjumper",
+            "word": "showjumper"
+        },
+        {
+            "id": "showjumping",
+            "word": "showjumping"
+        },
+        {
+            "id": "side-saddle",
+            "word": "side-saddle"
+        },
+        {
+            "id": "single-foot",
+            "word": "single-foot"
+        },
+        {
+            "id": "sitting_trot",
+            "word": "sitting trot"
+        },
+        {
+            "id": "skittish",
+            "word": "skittish"
+        },
+        {
+            "id": "snaffle",
+            "word": "snaffle"
+        },
+        {
+            "id": "spanking",
+            "word": "spanking"
+        },
+        {
+            "id": "spur",
+            "word": "spur"
+        },
+        {
+            "id": "spurred",
+            "word": "spurred"
+        },
+        {
+            "id": "spurrier",
+            "word": "spurrier"
+        },
+        {
+            "id": "stable",
+            "word": "stable"
+        },
+        {
+            "id": "stable_boy",
+            "word": "stable boy"
+        },
+        {
+            "id": "stable_girl",
+            "word": "stable girl"
+        },
+        {
+            "id": "stable_lad",
+            "word": "stable lad"
+        },
+        {
+            "id": "stableman",
+            "word": "stableman"
+        },
+        {
+            "id": "stablemate",
+            "word": "stablemate"
+        },
+        {
+            "id": "stabling",
+            "word": "stabling"
+        },
+        {
+            "id": "stale",
+            "word": "stale"
+        },
+        {
+            "id": "steer_wrestling",
+            "word": "steer wrestling"
+        },
+        {
+            "id": "stirrup",
+            "word": "stirrup"
+        },
+        {
+            "id": "stirrup_iron",
+            "word": "stirrup iron"
+        },
+        {
+            "id": "stirrup_leather",
+            "word": "stirrup leather"
+        },
+        {
+            "id": "stockman%27s_boot",
+            "word": "stockman's boot"
+        },
+        {
+            "id": "stock_saddle",
+            "word": "stock saddle"
+        },
+        {
+            "id": "stud",
+            "word": "stud"
+        },
+        {
+            "id": "stud_book",
+            "word": "stud book"
+        },
+        {
+            "id": "surcingle",
+            "word": "surcingle"
+        },
+        {
+            "id": "syce",
+            "word": "syce"
+        },
+        {
+            "id": "tack",
+            "word": "tack"
+        },
+        {
+            "id": "tack_room",
+            "word": "tack room"
+        },
+        {
+            "id": "take_a_toss",
+            "word": "take a toss"
+        },
+        {
+            "id": "tantivy",
+            "word": "tantivy"
+        },
+        {
+            "id": "tattersalls",
+            "word": "tattersalls"
+        },
+        {
+            "id": "terret",
+            "word": "terret"
+        },
+        {
+            "id": "throatlatch",
+            "word": "throatlatch"
+        },
+        {
+            "id": "tittup",
+            "word": "tittup"
+        },
+        {
+            "id": "toss",
+            "word": "toss"
+        },
+        {
+            "id": "trace",
+            "word": "trace"
+        },
+        {
+            "id": "travers",
+            "word": "travers"
+        },
+        {
+            "id": "tripple",
+            "word": "tripple"
+        },
+        {
+            "id": "trot",
+            "word": "trot"
+        },
+        {
+            "id": "tush",
+            "word": "tush"
+        },
+        {
+            "id": "unharness",
+            "word": "unharness"
+        },
+        {
+            "id": "unhorse",
+            "word": "unhorse"
+        },
+        {
+            "id": "unridden",
+            "word": "unridden"
+        },
+        {
+            "id": "unrideable",
+            "word": "unrideable"
+        },
+        {
+            "id": "unsaddle",
+            "word": "unsaddle"
+        },
+        {
+            "id": "unseat",
+            "word": "unseat"
+        },
+        {
+            "id": "untack",
+            "word": "untack"
+        },
+        {
+            "id": "water_jump",
+            "word": "water jump"
+        },
+        {
+            "id": "western_saddle",
+            "word": "western saddle"
+        },
+        {
+            "id": "weymouth",
+            "word": "weymouth"
+        },
+        {
+            "id": "whicker",
+            "word": "whicker"
+        },
+        {
+            "id": "whinny",
+            "word": "whinny"
+        },
+        {
+            "id": "wind-sucking",
+            "word": "wind-sucking"
+        },
+        {
+            "id": "wisp",
+            "word": "wisp"
+        },
+        {
+            "id": "withers",
+            "word": "withers"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 267,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

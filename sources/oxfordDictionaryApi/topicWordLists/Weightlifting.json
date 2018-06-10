@@ -1,0 +1,67 @@
+{
+    "results": [
+        {
+            "id": "barbell",
+            "word": "barbell"
+        },
+        {
+            "id": "bench_press",
+            "word": "bench press"
+        },
+        {
+            "id": "clean_and_jerk",
+            "word": "clean and jerk"
+        },
+        {
+            "id": "dead_lift",
+            "word": "dead lift"
+        },
+        {
+            "id": "kettlebell",
+            "word": "kettlebell"
+        },
+        {
+            "id": "lateral_raise",
+            "word": "lateral raise"
+        },
+        {
+            "id": "military_press",
+            "word": "military press"
+        },
+        {
+            "id": "multigym",
+            "word": "multigym"
+        },
+        {
+            "id": "olympic_lift",
+            "word": "olympic lift"
+        },
+        {
+            "id": "olympic_weightlifting",
+            "word": "olympic weightlifting"
+        },
+        {
+            "id": "powerlifting",
+            "word": "powerlifting"
+        },
+        {
+            "id": "preacher_bench",
+            "word": "preacher bench"
+        },
+        {
+            "id": "weightlifting",
+            "word": "weightlifting"
+        },
+        {
+            "id": "weight_training",
+            "word": "weight training"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 14,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

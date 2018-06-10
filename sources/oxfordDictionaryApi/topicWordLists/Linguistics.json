@@ -1,0 +1,1891 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 470,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "ablaut",
+            "word": "ablaut"
+        },
+        {
+            "id": "acad%C3%A9mie_fran%C3%A7aise",
+            "word": "académie française"
+        },
+        {
+            "id": "acceptation",
+            "word": "acceptation"
+        },
+        {
+            "id": "acrolect",
+            "word": "acrolect"
+        },
+        {
+            "id": "acronym",
+            "word": "acronym"
+        },
+        {
+            "id": "acute_accent",
+            "word": "acute accent"
+        },
+        {
+            "id": "adstratum",
+            "word": "adstratum"
+        },
+        {
+            "id": "agglutinative",
+            "word": "agglutinative"
+        },
+        {
+            "id": "agrammatism",
+            "word": "agrammatism"
+        },
+        {
+            "id": "aitch",
+            "word": "aitch"
+        },
+        {
+            "id": "aleph",
+            "word": "aleph"
+        },
+        {
+            "id": "allograph",
+            "word": "allograph"
+        },
+        {
+            "id": "allomorph",
+            "word": "allomorph"
+        },
+        {
+            "id": "allophone",
+            "word": "allophone"
+        },
+        {
+            "id": "alphabet",
+            "word": "alphabet"
+        },
+        {
+            "id": "alternant",
+            "word": "alternant"
+        },
+        {
+            "id": "americanism",
+            "word": "americanism"
+        },
+        {
+            "id": "anacronym",
+            "word": "anacronym"
+        },
+        {
+            "id": "analphabetic",
+            "word": "analphabetic"
+        },
+        {
+            "id": "anaphor",
+            "word": "anaphor"
+        },
+        {
+            "id": "anglophone",
+            "word": "anglophone"
+        },
+        {
+            "id": "antepenult",
+            "word": "antepenult"
+        },
+        {
+            "id": "antonomasia",
+            "word": "antonomasia"
+        },
+        {
+            "id": "antonym",
+            "word": "antonym"
+        },
+        {
+            "id": "aphesis",
+            "word": "aphesis"
+        },
+        {
+            "id": "applied_linguistics",
+            "word": "applied linguistics"
+        },
+        {
+            "id": "appropriacy",
+            "word": "appropriacy"
+        },
+        {
+            "id": "archaic",
+            "word": "archaic"
+        },
+        {
+            "id": "argot",
+            "word": "argot"
+        },
+        {
+            "id": "assonance",
+            "word": "assonance"
+        },
+        {
+            "id": "assonate",
+            "word": "assonate"
+        },
+        {
+            "id": "atticism",
+            "word": "atticism"
+        },
+        {
+            "id": "augmented_transition_network",
+            "word": "augmented transition network"
+        },
+        {
+            "id": "baby_talk",
+            "word": "baby talk"
+        },
+        {
+            "id": "back-formation",
+            "word": "back-formation"
+        },
+        {
+            "id": "backronym",
+            "word": "backronym"
+        },
+        {
+            "id": "back_slang",
+            "word": "back slang"
+        },
+        {
+            "id": "barbarism",
+            "word": "barbarism"
+        },
+        {
+            "id": "basic_english",
+            "word": "basic english"
+        },
+        {
+            "id": "basilect",
+            "word": "basilect"
+        },
+        {
+            "id": "bigram",
+            "word": "bigram"
+        },
+        {
+            "id": "bilingualism",
+            "word": "bilingualism"
+        },
+        {
+            "id": "black_english",
+            "word": "black english"
+        },
+        {
+            "id": "bloomfield%2C_leonard",
+            "word": "bloomfield, leonard"
+        },
+        {
+            "id": "bloomfieldian",
+            "word": "bloomfieldian"
+        },
+        {
+            "id": "boustrophedon",
+            "word": "boustrophedon"
+        },
+        {
+            "id": "briticism",
+            "word": "briticism"
+        },
+        {
+            "id": "by-form",
+            "word": "by-form"
+        },
+        {
+            "id": "%C3%A6",
+            "word": "æ"
+        },
+        {
+            "id": "canadianism",
+            "word": "canadianism"
+        },
+        {
+            "id": "case_grammar",
+            "word": "case grammar"
+        },
+        {
+            "id": "catachresis",
+            "word": "catachresis"
+        },
+        {
+            "id": "catchphrase",
+            "word": "catchphrase"
+        },
+        {
+            "id": "cedilla",
+            "word": "cedilla"
+        },
+        {
+            "id": "chomsky%2C_noam",
+            "word": "chomsky, noam"
+        },
+        {
+            "id": "chomskyan",
+            "word": "chomskyan"
+        },
+        {
+            "id": "circumflex",
+            "word": "circumflex"
+        },
+        {
+            "id": "classifier",
+            "word": "classifier"
+        },
+        {
+            "id": "code-switch",
+            "word": "code-switch"
+        },
+        {
+            "id": "code-switching",
+            "word": "code-switching"
+        },
+        {
+            "id": "cognate",
+            "word": "cognate"
+        },
+        {
+            "id": "cognitive_grammar",
+            "word": "cognitive grammar"
+        },
+        {
+            "id": "cognitivist",
+            "word": "cognitivist"
+        },
+        {
+            "id": "colligate",
+            "word": "colligate"
+        },
+        {
+            "id": "collocate",
+            "word": "collocate"
+        },
+        {
+            "id": "collocation",
+            "word": "collocation"
+        },
+        {
+            "id": "colloquialism",
+            "word": "colloquialism"
+        },
+        {
+            "id": "comparative_linguistics",
+            "word": "comparative linguistics"
+        },
+        {
+            "id": "complementary_distribution",
+            "word": "complementary distribution"
+        },
+        {
+            "id": "componential_analysis",
+            "word": "componential analysis"
+        },
+        {
+            "id": "computational_linguistics",
+            "word": "computational linguistics"
+        },
+        {
+            "id": "concatenate",
+            "word": "concatenate"
+        },
+        {
+            "id": "concatenation",
+            "word": "concatenation"
+        },
+        {
+            "id": "concordance",
+            "word": "concordance"
+        },
+        {
+            "id": "conlang",
+            "word": "conlang"
+        },
+        {
+            "id": "conlanger",
+            "word": "conlanger"
+        },
+        {
+            "id": "connotation",
+            "word": "connotation"
+        },
+        {
+            "id": "connote",
+            "word": "connote"
+        },
+        {
+            "id": "constructed_language",
+            "word": "constructed language"
+        },
+        {
+            "id": "continuative",
+            "word": "continuative"
+        },
+        {
+            "id": "contrafactive",
+            "word": "contrafactive"
+        },
+        {
+            "id": "contronym",
+            "word": "contronym"
+        },
+        {
+            "id": "coreferential",
+            "word": "coreferential"
+        },
+        {
+            "id": "corpus",
+            "word": "corpus"
+        },
+        {
+            "id": "creolize",
+            "word": "creolize"
+        },
+        {
+            "id": "creolized",
+            "word": "creolized"
+        },
+        {
+            "id": "cuneiform",
+            "word": "cuneiform"
+        },
+        {
+            "id": "cyrillic",
+            "word": "cyrillic"
+        },
+        {
+            "id": "dead_language",
+            "word": "dead language"
+        },
+        {
+            "id": "deep_structure",
+            "word": "deep structure"
+        },
+        {
+            "id": "definiendum",
+            "word": "definiendum"
+        },
+        {
+            "id": "definiens",
+            "word": "definiens"
+        },
+        {
+            "id": "deixis",
+            "word": "deixis"
+        },
+        {
+            "id": "delexical",
+            "word": "delexical"
+        },
+        {
+            "id": "demonym",
+            "word": "demonym"
+        },
+        {
+            "id": "demotic",
+            "word": "demotic"
+        },
+        {
+            "id": "denominal",
+            "word": "denominal"
+        },
+        {
+            "id": "denotation",
+            "word": "denotation"
+        },
+        {
+            "id": "derivation",
+            "word": "derivation"
+        },
+        {
+            "id": "descriptor",
+            "word": "descriptor"
+        },
+        {
+            "id": "devanagari",
+            "word": "devanagari"
+        },
+        {
+            "id": "deverbal",
+            "word": "deverbal"
+        },
+        {
+            "id": "diachronic",
+            "word": "diachronic"
+        },
+        {
+            "id": "dialect",
+            "word": "dialect"
+        },
+        {
+            "id": "dialectal",
+            "word": "dialectal"
+        },
+        {
+            "id": "dialectology",
+            "word": "dialectology"
+        },
+        {
+            "id": "diglossia",
+            "word": "diglossia"
+        },
+        {
+            "id": "digraph",
+            "word": "digraph"
+        },
+        {
+            "id": "disambiguate",
+            "word": "disambiguate"
+        },
+        {
+            "id": "dissimilate",
+            "word": "dissimilate"
+        },
+        {
+            "id": "disyllable",
+            "word": "disyllable"
+        },
+        {
+            "id": "double_u",
+            "word": "double u"
+        },
+        {
+            "id": "dyslalia",
+            "word": "dyslalia"
+        },
+        {
+            "id": "dysphasia",
+            "word": "dysphasia"
+        },
+        {
+            "id": "echoic",
+            "word": "echoic"
+        },
+        {
+            "id": "eggcorn",
+            "word": "eggcorn"
+        },
+        {
+            "id": "elision",
+            "word": "elision"
+        },
+        {
+            "id": "ellipsis",
+            "word": "ellipsis"
+        },
+        {
+            "id": "elliptical",
+            "word": "elliptical"
+        },
+        {
+            "id": "embedded",
+            "word": "embedded"
+        },
+        {
+            "id": "-eme",
+            "word": "-eme"
+        },
+        {
+            "id": "emic",
+            "word": "emic"
+        },
+        {
+            "id": "enchorial",
+            "word": "enchorial"
+        },
+        {
+            "id": "enclitic",
+            "word": "enclitic"
+        },
+        {
+            "id": "encyclopedic",
+            "word": "encyclopedic"
+        },
+        {
+            "id": "endocentric",
+            "word": "endocentric"
+        },
+        {
+            "id": "endoglossic",
+            "word": "endoglossic"
+        },
+        {
+            "id": "endophora",
+            "word": "endophora"
+        },
+        {
+            "id": "epexegesis",
+            "word": "epexegesis"
+        },
+        {
+            "id": "epithet",
+            "word": "epithet"
+        },
+        {
+            "id": "eponym",
+            "word": "eponym"
+        },
+        {
+            "id": "equative",
+            "word": "equative"
+        },
+        {
+            "id": "eth",
+            "word": "eth"
+        },
+        {
+            "id": "ethnolinguistics",
+            "word": "ethnolinguistics"
+        },
+        {
+            "id": "ethnomethodology",
+            "word": "ethnomethodology"
+        },
+        {
+            "id": "etic",
+            "word": "etic"
+        },
+        {
+            "id": "etymological",
+            "word": "etymological"
+        },
+        {
+            "id": "etymologize",
+            "word": "etymologize"
+        },
+        {
+            "id": "etymology",
+            "word": "etymology"
+        },
+        {
+            "id": "etymon",
+            "word": "etymon"
+        },
+        {
+            "id": "eventive",
+            "word": "eventive"
+        },
+        {
+            "id": "exocentric",
+            "word": "exocentric"
+        },
+        {
+            "id": "exoglossic",
+            "word": "exoglossic"
+        },
+        {
+            "id": "exophora",
+            "word": "exophora"
+        },
+        {
+            "id": "experiential",
+            "word": "experiential"
+        },
+        {
+            "id": "factitive",
+            "word": "factitive"
+        },
+        {
+            "id": "false_friend",
+            "word": "false friend"
+        },
+        {
+            "id": "finger_alphabet",
+            "word": "finger alphabet"
+        },
+        {
+            "id": "finger_language",
+            "word": "finger language"
+        },
+        {
+            "id": "finite_state_grammar",
+            "word": "finite state grammar"
+        },
+        {
+            "id": "first_language",
+            "word": "first language"
+        },
+        {
+            "id": "firth%2C_j._r.",
+            "word": "firth, j. r."
+        },
+        {
+            "id": "folk_etymology",
+            "word": "folk etymology"
+        },
+        {
+            "id": "formant",
+            "word": "formant"
+        },
+        {
+            "id": "form_class",
+            "word": "form class"
+        },
+        {
+            "id": "francophone",
+            "word": "francophone"
+        },
+        {
+            "id": "french-speaking",
+            "word": "french-speaking"
+        },
+        {
+            "id": "functional_grammar",
+            "word": "functional grammar"
+        },
+        {
+            "id": "function_word",
+            "word": "function word"
+        },
+        {
+            "id": "futhark",
+            "word": "futhark"
+        },
+        {
+            "id": "gallicism",
+            "word": "gallicism"
+        },
+        {
+            "id": "general_american",
+            "word": "general american"
+        },
+        {
+            "id": "general_australian",
+            "word": "general australian"
+        },
+        {
+            "id": "genteelism",
+            "word": "genteelism"
+        },
+        {
+            "id": "gloss",
+            "word": "gloss"
+        },
+        {
+            "id": "glossary",
+            "word": "glossary"
+        },
+        {
+            "id": "glottal",
+            "word": "glottal"
+        },
+        {
+            "id": "glottochronology",
+            "word": "glottochronology"
+        },
+        {
+            "id": "glyph",
+            "word": "glyph"
+        },
+        {
+            "id": "goidelic",
+            "word": "goidelic"
+        },
+        {
+            "id": "gradience",
+            "word": "gradience"
+        },
+        {
+            "id": "graecism",
+            "word": "graecism"
+        },
+        {
+            "id": "graecize",
+            "word": "graecize"
+        },
+        {
+            "id": "grammalogue",
+            "word": "grammalogue"
+        },
+        {
+            "id": "grammarian",
+            "word": "grammarian"
+        },
+        {
+            "id": "grammaticalize",
+            "word": "grammaticalize"
+        },
+        {
+            "id": "graph",
+            "word": "graph"
+        },
+        {
+            "id": "grapheme",
+            "word": "grapheme"
+        },
+        {
+            "id": "grave_accent",
+            "word": "grave accent"
+        },
+        {
+            "id": "greek_alphabet",
+            "word": "greek alphabet"
+        },
+        {
+            "id": "grimm",
+            "word": "grimm"
+        },
+        {
+            "id": "grimm%27s_law",
+            "word": "grimm's law"
+        },
+        {
+            "id": "halliday%2C_michael_a._k.",
+            "word": "halliday, michael a. k."
+        },
+        {
+            "id": "hapax_legomenon",
+            "word": "hapax legomenon"
+        },
+        {
+            "id": "haplography",
+            "word": "haplography"
+        },
+        {
+            "id": "h%C3%A1%C4%8Dek",
+            "word": "háček"
+        },
+        {
+            "id": "hebraism",
+            "word": "hebraism"
+        },
+        {
+            "id": "hebraist",
+            "word": "hebraist"
+        },
+        {
+            "id": "hebraize",
+            "word": "hebraize"
+        },
+        {
+            "id": "heteronym",
+            "word": "heteronym"
+        },
+        {
+            "id": "hibernianism",
+            "word": "hibernianism"
+        },
+        {
+            "id": "hieroglyph",
+            "word": "hieroglyph"
+        },
+        {
+            "id": "hieroglyphic",
+            "word": "hieroglyphic"
+        },
+        {
+            "id": "hiragana",
+            "word": "hiragana"
+        },
+        {
+            "id": "historical_linguistics",
+            "word": "historical linguistics"
+        },
+        {
+            "id": "holophrasis",
+            "word": "holophrasis"
+        },
+        {
+            "id": "homograph",
+            "word": "homograph"
+        },
+        {
+            "id": "homonym",
+            "word": "homonym"
+        },
+        {
+            "id": "homophone",
+            "word": "homophone"
+        },
+        {
+            "id": "honorific",
+            "word": "honorific"
+        },
+        {
+            "id": "hypercorrection",
+            "word": "hypercorrection"
+        },
+        {
+            "id": "hypernym",
+            "word": "hypernym"
+        },
+        {
+            "id": "hypocoristic",
+            "word": "hypocoristic"
+        },
+        {
+            "id": "hyponym",
+            "word": "hyponym"
+        },
+        {
+            "id": "ideogram",
+            "word": "ideogram"
+        },
+        {
+            "id": "idiolect",
+            "word": "idiolect"
+        },
+        {
+            "id": "idiom",
+            "word": "idiom"
+        },
+        {
+            "id": "idiomatic",
+            "word": "idiomatic"
+        },
+        {
+            "id": "illocution",
+            "word": "illocution"
+        },
+        {
+            "id": "immediate_constituent",
+            "word": "immediate constituent"
+        },
+        {
+            "id": "implicature",
+            "word": "implicature"
+        },
+        {
+            "id": "indexical",
+            "word": "indexical"
+        },
+        {
+            "id": "-ing_form",
+            "word": "-ing form"
+        },
+        {
+            "id": "interlanguage",
+            "word": "interlanguage"
+        },
+        {
+            "id": "interlingua",
+            "word": "interlingua"
+        },
+        {
+            "id": "interlingual",
+            "word": "interlingual"
+        },
+        {
+            "id": "intersegmental",
+            "word": "intersegmental"
+        },
+        {
+            "id": "irreversible_binomial",
+            "word": "irreversible binomial"
+        },
+        {
+            "id": "isogloss",
+            "word": "isogloss"
+        },
+        {
+            "id": "isolating",
+            "word": "isolating"
+        },
+        {
+            "id": "jakobson%2C_roman",
+            "word": "jakobson, roman"
+        },
+        {
+            "id": "jargon",
+            "word": "jargon"
+        },
+        {
+            "id": "jargonistic",
+            "word": "jargonistic"
+        },
+        {
+            "id": "jespersen%2C_otto",
+            "word": "jespersen, otto"
+        },
+        {
+            "id": "joual",
+            "word": "joual"
+        },
+        {
+            "id": "kana",
+            "word": "kana"
+        },
+        {
+            "id": "kanji",
+            "word": "kanji"
+        },
+        {
+            "id": "katakana",
+            "word": "katakana"
+        },
+        {
+            "id": "kenning",
+            "word": "kenning"
+        },
+        {
+            "id": "language",
+            "word": "language"
+        },
+        {
+            "id": "language_area",
+            "word": "language area"
+        },
+        {
+            "id": "language_engineering",
+            "word": "language engineering"
+        },
+        {
+            "id": "language_laboratory",
+            "word": "language laboratory"
+        },
+        {
+            "id": "langue",
+            "word": "langue"
+        },
+        {
+            "id": "legalese",
+            "word": "legalese"
+        },
+        {
+            "id": "lenition",
+            "word": "lenition"
+        },
+        {
+            "id": "letter",
+            "word": "letter"
+        },
+        {
+            "id": "lexeme",
+            "word": "lexeme"
+        },
+        {
+            "id": "lexical",
+            "word": "lexical"
+        },
+        {
+            "id": "lexicalize",
+            "word": "lexicalize"
+        },
+        {
+            "id": "lexical_meaning",
+            "word": "lexical meaning"
+        },
+        {
+            "id": "lexicography",
+            "word": "lexicography"
+        },
+        {
+            "id": "lexicology",
+            "word": "lexicology"
+        },
+        {
+            "id": "lexicon",
+            "word": "lexicon"
+        },
+        {
+            "id": "lexigram",
+            "word": "lexigram"
+        },
+        {
+            "id": "lexis",
+            "word": "lexis"
+        },
+        {
+            "id": "lingo",
+            "word": "lingo"
+        },
+        {
+            "id": "lingua_franca",
+            "word": "lingua franca"
+        },
+        {
+            "id": "linguist",
+            "word": "linguist"
+        },
+        {
+            "id": "linguistic",
+            "word": "linguistic"
+        },
+        {
+            "id": "linguistically",
+            "word": "linguistically"
+        },
+        {
+            "id": "linguistician",
+            "word": "linguistician"
+        },
+        {
+            "id": "linguistics",
+            "word": "linguistics"
+        },
+        {
+            "id": "lipography",
+            "word": "lipography"
+        },
+        {
+            "id": "loan_translation",
+            "word": "loan translation"
+        },
+        {
+            "id": "loanword",
+            "word": "loanword"
+        },
+        {
+            "id": "locution",
+            "word": "locution"
+        },
+        {
+            "id": "macrostructure",
+            "word": "macrostructure"
+        },
+        {
+            "id": "mapping",
+            "word": "mapping"
+        },
+        {
+            "id": "m%C3%BCller%2C_max",
+            "word": "müller, max"
+        },
+        {
+            "id": "meronym",
+            "word": "meronym"
+        },
+        {
+            "id": "metalanguage",
+            "word": "metalanguage"
+        },
+        {
+            "id": "metalinguistics",
+            "word": "metalinguistics"
+        },
+        {
+            "id": "metaphor",
+            "word": "metaphor"
+        },
+        {
+            "id": "metaphrase",
+            "word": "metaphrase"
+        },
+        {
+            "id": "metonym",
+            "word": "metonym"
+        },
+        {
+            "id": "metonymy",
+            "word": "metonymy"
+        },
+        {
+            "id": "miscue",
+            "word": "miscue"
+        },
+        {
+            "id": "mixed_metaphor",
+            "word": "mixed metaphor"
+        },
+        {
+            "id": "mondegreen",
+            "word": "mondegreen"
+        },
+        {
+            "id": "monoglot",
+            "word": "monoglot"
+        },
+        {
+            "id": "monolingual",
+            "word": "monolingual"
+        },
+        {
+            "id": "monomorphemic",
+            "word": "monomorphemic"
+        },
+        {
+            "id": "monosemy",
+            "word": "monosemy"
+        },
+        {
+            "id": "monosyllabic",
+            "word": "monosyllabic"
+        },
+        {
+            "id": "monosyllable",
+            "word": "monosyllable"
+        },
+        {
+            "id": "morph",
+            "word": "morph"
+        },
+        {
+            "id": "morpheme",
+            "word": "morpheme"
+        },
+        {
+            "id": "morphemics",
+            "word": "morphemics"
+        },
+        {
+            "id": "morphosyntactic",
+            "word": "morphosyntactic"
+        },
+        {
+            "id": "mother_tongue",
+            "word": "mother tongue"
+        },
+        {
+            "id": "multilingual",
+            "word": "multilingual"
+        },
+        {
+            "id": "native_speaker",
+            "word": "native speaker"
+        },
+        {
+            "id": "natural_language",
+            "word": "natural language"
+        },
+        {
+            "id": "natural_language_processing",
+            "word": "natural language processing"
+        },
+        {
+            "id": "neogrammarian",
+            "word": "neogrammarian"
+        },
+        {
+            "id": "neologism",
+            "word": "neologism"
+        },
+        {
+            "id": "neologize",
+            "word": "neologize"
+        },
+        {
+            "id": "nested",
+            "word": "nested"
+        },
+        {
+            "id": "neurolinguistics",
+            "word": "neurolinguistics"
+        },
+        {
+            "id": "new_zealandism",
+            "word": "new zealandism"
+        },
+        {
+            "id": "n-gram",
+            "word": "n-gram"
+        },
+        {
+            "id": "nlp",
+            "word": "nlp"
+        },
+        {
+            "id": "nominalize",
+            "word": "nominalize"
+        },
+        {
+            "id": "nonce_word",
+            "word": "nonce word"
+        },
+        {
+            "id": "non-inflected",
+            "word": "non-inflected"
+        },
+        {
+            "id": "non-inherent",
+            "word": "non-inherent"
+        },
+        {
+            "id": "nonsense_word",
+            "word": "nonsense word"
+        },
+        {
+            "id": "non-standard",
+            "word": "non-standard"
+        },
+        {
+            "id": "non-word",
+            "word": "non-word"
+        },
+        {
+            "id": "object_language",
+            "word": "object language"
+        },
+        {
+            "id": "officialese",
+            "word": "officialese"
+        },
+        {
+            "id": "ogham",
+            "word": "ogham"
+        },
+        {
+            "id": "ogonek",
+            "word": "ogonek"
+        },
+        {
+            "id": "onomasiology",
+            "word": "onomasiology"
+        },
+        {
+            "id": "onomast",
+            "word": "onomast"
+        },
+        {
+            "id": "onomastic",
+            "word": "onomastic"
+        },
+        {
+            "id": "onomastics",
+            "word": "onomastics"
+        },
+        {
+            "id": "onomatopoeia",
+            "word": "onomatopoeia"
+        },
+        {
+            "id": "-onym",
+            "word": "-onym"
+        },
+        {
+            "id": "oracy",
+            "word": "oracy"
+        },
+        {
+            "id": "orthographer",
+            "word": "orthographer"
+        },
+        {
+            "id": "orthography",
+            "word": "orthography"
+        },
+        {
+            "id": "ostensive",
+            "word": "ostensive"
+        },
+        {
+            "id": "paragoge",
+            "word": "paragoge"
+        },
+        {
+            "id": "paralanguage",
+            "word": "paralanguage"
+        },
+        {
+            "id": "paralinguistic",
+            "word": "paralinguistic"
+        },
+        {
+            "id": "paraphrase",
+            "word": "paraphrase"
+        },
+        {
+            "id": "parasynthesis",
+            "word": "parasynthesis"
+        },
+        {
+            "id": "paronym",
+            "word": "paronym"
+        },
+        {
+            "id": "parse_tree",
+            "word": "parse tree"
+        },
+        {
+            "id": "patois",
+            "word": "patois"
+        },
+        {
+            "id": "pattern_practice",
+            "word": "pattern practice"
+        },
+        {
+            "id": "penult",
+            "word": "penult"
+        },
+        {
+            "id": "perissology",
+            "word": "perissology"
+        },
+        {
+            "id": "perlocution",
+            "word": "perlocution"
+        },
+        {
+            "id": "phatic",
+            "word": "phatic"
+        },
+        {
+            "id": "philology",
+            "word": "philology"
+        },
+        {
+            "id": "phonematic",
+            "word": "phonematic"
+        },
+        {
+            "id": "phonotactics",
+            "word": "phonotactics"
+        },
+        {
+            "id": "pictograph",
+            "word": "pictograph"
+        },
+        {
+            "id": "pidgin",
+            "word": "pidgin"
+        },
+        {
+            "id": "pinyin",
+            "word": "pinyin"
+        },
+        {
+            "id": "pleonasm",
+            "word": "pleonasm"
+        },
+        {
+            "id": "polari",
+            "word": "polari"
+        },
+        {
+            "id": "polygenetic",
+            "word": "polygenetic"
+        },
+        {
+            "id": "polysemy",
+            "word": "polysemy"
+        },
+        {
+            "id": "polysyllabic",
+            "word": "polysyllabic"
+        },
+        {
+            "id": "polysyllable",
+            "word": "polysyllable"
+        },
+        {
+            "id": "polysynthetic",
+            "word": "polysynthetic"
+        },
+        {
+            "id": "pragmatics",
+            "word": "pragmatics"
+        },
+        {
+            "id": "prague_school",
+            "word": "prague school"
+        },
+        {
+            "id": "preliterate",
+            "word": "preliterate"
+        },
+        {
+            "id": "prepose",
+            "word": "prepose"
+        },
+        {
+            "id": "prescriptive",
+            "word": "prescriptive"
+        },
+        {
+            "id": "probabilistic",
+            "word": "probabilistic"
+        },
+        {
+            "id": "proclitic",
+            "word": "proclitic"
+        },
+        {
+            "id": "pro-form",
+            "word": "pro-form"
+        },
+        {
+            "id": "propositional_attitude",
+            "word": "propositional attitude"
+        },
+        {
+            "id": "prosodic_analysis",
+            "word": "prosodic analysis"
+        },
+        {
+            "id": "protolanguage",
+            "word": "protolanguage"
+        },
+        {
+            "id": "psycholinguist",
+            "word": "psycholinguist"
+        },
+        {
+            "id": "psycholinguistics",
+            "word": "psycholinguistics"
+        },
+        {
+            "id": "quantitative_linguistics",
+            "word": "quantitative linguistics"
+        },
+        {
+            "id": "quotative",
+            "word": "quotative"
+        },
+        {
+            "id": "rankshift",
+            "word": "rankshift"
+        },
+        {
+            "id": "reanalysis",
+            "word": "reanalysis"
+        },
+        {
+            "id": "recursive",
+            "word": "recursive"
+        },
+        {
+            "id": "reduplicate",
+            "word": "reduplicate"
+        },
+        {
+            "id": "referent",
+            "word": "referent"
+        },
+        {
+            "id": "relativize",
+            "word": "relativize"
+        },
+        {
+            "id": "retronym",
+            "word": "retronym"
+        },
+        {
+            "id": "rheme",
+            "word": "rheme"
+        },
+        {
+            "id": "rhyming_slang",
+            "word": "rhyming slang"
+        },
+        {
+            "id": "romaji",
+            "word": "romaji"
+        },
+        {
+            "id": "rune",
+            "word": "rune"
+        },
+        {
+            "id": "run-on",
+            "word": "run-on"
+        },
+        {
+            "id": "sapir%2C_edward",
+            "word": "sapir, edward"
+        },
+        {
+            "id": "sapir%E2%80%93whorf_hypothesis",
+            "word": "sapir–whorf hypothesis"
+        },
+        {
+            "id": "saussure%2C_ferdinand_de",
+            "word": "saussure, ferdinand de"
+        },
+        {
+            "id": "schlegel%2C_august_wilhelm_von",
+            "word": "schlegel, august wilhelm von"
+        },
+        {
+            "id": "selectional",
+            "word": "selectional"
+        },
+        {
+            "id": "semanteme",
+            "word": "semanteme"
+        },
+        {
+            "id": "semantic",
+            "word": "semantic"
+        },
+        {
+            "id": "semantic_field",
+            "word": "semantic field"
+        },
+        {
+            "id": "semanticity",
+            "word": "semanticity"
+        },
+        {
+            "id": "semantics",
+            "word": "semantics"
+        },
+        {
+            "id": "semasiology",
+            "word": "semasiology"
+        },
+        {
+            "id": "sememe",
+            "word": "sememe"
+        },
+        {
+            "id": "semiosis",
+            "word": "semiosis"
+        },
+        {
+            "id": "semiotics",
+            "word": "semiotics"
+        },
+        {
+            "id": "semitic",
+            "word": "semitic"
+        },
+        {
+            "id": "sentiment_analysis",
+            "word": "sentiment analysis"
+        },
+        {
+            "id": "set_phrase",
+            "word": "set phrase"
+        },
+        {
+            "id": "signary",
+            "word": "signary"
+        },
+        {
+            "id": "signified",
+            "word": "signified"
+        },
+        {
+            "id": "signifier",
+            "word": "signifier"
+        },
+        {
+            "id": "simile",
+            "word": "simile"
+        },
+        {
+            "id": "slang",
+            "word": "slang"
+        },
+        {
+            "id": "slangy",
+            "word": "slangy"
+        },
+        {
+            "id": "small_clause",
+            "word": "small clause"
+        },
+        {
+            "id": "sociolect",
+            "word": "sociolect"
+        },
+        {
+            "id": "sociolinguist",
+            "word": "sociolinguist"
+        },
+        {
+            "id": "sociolinguistics",
+            "word": "sociolinguistics"
+        },
+        {
+            "id": "sortal",
+            "word": "sortal"
+        },
+        {
+            "id": "sound_shift",
+            "word": "sound shift"
+        },
+        {
+            "id": "sound_symbolism",
+            "word": "sound symbolism"
+        },
+        {
+            "id": "speech_act",
+            "word": "speech act"
+        },
+        {
+            "id": "speech_community",
+            "word": "speech community"
+        },
+        {
+            "id": "speech_synthesis",
+            "word": "speech synthesis"
+        },
+        {
+            "id": "speech_synthesizer",
+            "word": "speech synthesizer"
+        },
+        {
+            "id": "sprachgef%C3%BChl",
+            "word": "sprachgefühl"
+        },
+        {
+            "id": "statistical_linguistics",
+            "word": "statistical linguistics"
+        },
+        {
+            "id": "stopword",
+            "word": "stopword"
+        },
+        {
+            "id": "stress-timed",
+            "word": "stress-timed"
+        },
+        {
+            "id": "structuralism",
+            "word": "structuralism"
+        },
+        {
+            "id": "structural_linguistics",
+            "word": "structural linguistics"
+        },
+        {
+            "id": "subaudition",
+            "word": "subaudition"
+        },
+        {
+            "id": "sublanguage",
+            "word": "sublanguage"
+        },
+        {
+            "id": "superordinate",
+            "word": "superordinate"
+        },
+        {
+            "id": "suppletion",
+            "word": "suppletion"
+        },
+        {
+            "id": "suprasegmental",
+            "word": "suprasegmental"
+        },
+        {
+            "id": "surface_structure",
+            "word": "surface structure"
+        },
+        {
+            "id": "syllabary",
+            "word": "syllabary"
+        },
+        {
+            "id": "syllabic",
+            "word": "syllabic"
+        },
+        {
+            "id": "syllabification",
+            "word": "syllabification"
+        },
+        {
+            "id": "syllabify",
+            "word": "syllabify"
+        },
+        {
+            "id": "syllabize",
+            "word": "syllabize"
+        },
+        {
+            "id": "syllable",
+            "word": "syllable"
+        },
+        {
+            "id": "synchronic",
+            "word": "synchronic"
+        },
+        {
+            "id": "synonym",
+            "word": "synonym"
+        },
+        {
+            "id": "synonymous",
+            "word": "synonymous"
+        },
+        {
+            "id": "synonymy",
+            "word": "synonymy"
+        },
+        {
+            "id": "syntagm",
+            "word": "syntagm"
+        },
+        {
+            "id": "syntagmatic",
+            "word": "syntagmatic"
+        },
+        {
+            "id": "systemic_grammar",
+            "word": "systemic grammar"
+        },
+        {
+            "id": "tagmeme",
+            "word": "tagmeme"
+        },
+        {
+            "id": "tagmemics",
+            "word": "tagmemics"
+        },
+        {
+            "id": "target_language",
+            "word": "target language"
+        },
+        {
+            "id": "term",
+            "word": "term"
+        },
+        {
+            "id": "term_of_art",
+            "word": "term of art"
+        },
+        {
+            "id": "thematic_role",
+            "word": "thematic role"
+        },
+        {
+            "id": "thematize",
+            "word": "thematize"
+        },
+        {
+            "id": "theme",
+            "word": "theme"
+        },
+        {
+            "id": "tilde",
+            "word": "tilde"
+        },
+        {
+            "id": "tone_language",
+            "word": "tone language"
+        },
+        {
+            "id": "topic",
+            "word": "topic"
+        },
+        {
+            "id": "topicalize",
+            "word": "topicalize"
+        },
+        {
+            "id": "toponym",
+            "word": "toponym"
+        },
+        {
+            "id": "toponymy",
+            "word": "toponymy"
+        },
+        {
+            "id": "transformational",
+            "word": "transformational"
+        },
+        {
+            "id": "transformational_grammar",
+            "word": "transformational grammar"
+        },
+        {
+            "id": "trigraph",
+            "word": "trigraph"
+        },
+        {
+            "id": "trilingual",
+            "word": "trilingual"
+        },
+        {
+            "id": "umlaut",
+            "word": "umlaut"
+        },
+        {
+            "id": "unilingual",
+            "word": "unilingual"
+        },
+        {
+            "id": "univocal",
+            "word": "univocal"
+        },
+        {
+            "id": "unmarked",
+            "word": "unmarked"
+        },
+        {
+            "id": "ural-altaic",
+            "word": "ural-altaic"
+        },
+        {
+            "id": "usage",
+            "word": "usage"
+        },
+        {
+            "id": "variationist",
+            "word": "variationist"
+        },
+        {
+            "id": "vernacular",
+            "word": "vernacular"
+        },
+        {
+            "id": "vernacularize",
+            "word": "vernacularize"
+        },
+        {
+            "id": "verner%27s_law",
+            "word": "verner's law"
+        },
+        {
+            "id": "vocable",
+            "word": "vocable"
+        },
+        {
+            "id": "vocabulary",
+            "word": "vocabulary"
+        },
+        {
+            "id": "vowel_harmony",
+            "word": "vowel harmony"
+        },
+        {
+            "id": "vowelize",
+            "word": "vowelize"
+        },
+        {
+            "id": "vowel_point",
+            "word": "vowel point"
+        },
+        {
+            "id": "vulgarism",
+            "word": "vulgarism"
+        },
+        {
+            "id": "whorf%2C_benjamin_lee",
+            "word": "whorf, benjamin lee"
+        },
+        {
+            "id": "wh-question",
+            "word": "wh-question"
+        },
+        {
+            "id": "word",
+            "word": "word"
+        },
+        {
+            "id": "word_class",
+            "word": "word class"
+        },
+        {
+            "id": "word_order",
+            "word": "word order"
+        },
+        {
+            "id": "world_language",
+            "word": "world language"
+        },
+        {
+            "id": "wynn",
+            "word": "wynn"
+        },
+        {
+            "id": "yiddishism",
+            "word": "yiddishism"
+        },
+        {
+            "id": "yod",
+            "word": "yod"
+        },
+        {
+            "id": "yogh",
+            "word": "yogh"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 29
+    },
+    "results": [
+        {
+            "id": "bindery",
+            "word": "bindery"
+        },
+        {
+            "id": "binding",
+            "word": "binding"
+        },
+        {
+            "id": "bookbinder",
+            "word": "bookbinder"
+        },
+        {
+            "id": "casebound",
+            "word": "casebound"
+        },
+        {
+            "id": "dentelle",
+            "word": "dentelle"
+        },
+        {
+            "id": "disbound",
+            "word": "disbound"
+        },
+        {
+            "id": "dos-%C3%A0-dos",
+            "word": "dos-à-dos"
+        },
+        {
+            "id": "glair",
+            "word": "glair"
+        },
+        {
+            "id": "half_binding",
+            "word": "half binding"
+        },
+        {
+            "id": "interleaf",
+            "word": "interleaf"
+        },
+        {
+            "id": "interleave",
+            "word": "interleave"
+        },
+        {
+            "id": "levant_morocco",
+            "word": "levant morocco"
+        },
+        {
+            "id": "millboard",
+            "word": "millboard"
+        },
+        {
+            "id": "paste-down",
+            "word": "paste-down"
+        },
+        {
+            "id": "perfect_binding",
+            "word": "perfect binding"
+        },
+        {
+            "id": "quarter_binding",
+            "word": "quarter binding"
+        },
+        {
+            "id": "quire",
+            "word": "quire"
+        },
+        {
+            "id": "rebind",
+            "word": "rebind"
+        },
+        {
+            "id": "recto",
+            "word": "recto"
+        },
+        {
+            "id": "rexine",
+            "word": "rexine"
+        },
+        {
+            "id": "roan",
+            "word": "roan"
+        },
+        {
+            "id": "russia_leather",
+            "word": "russia leather"
+        },
+        {
+            "id": "saddle_stitch",
+            "word": "saddle stitch"
+        },
+        {
+            "id": "slipcase",
+            "word": "slipcase"
+        },
+        {
+            "id": "spiral-bound",
+            "word": "spiral-bound"
+        },
+        {
+            "id": "strawboard",
+            "word": "strawboard"
+        },
+        {
+            "id": "tree_calf",
+            "word": "tree calf"
+        },
+        {
+            "id": "unbound",
+            "word": "unbound"
+        },
+        {
+            "id": "yapp",
+            "word": "yapp"
+        }
+    ]
+}

@@ -1,0 +1,559 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 137
+    },
+    "results": [
+        {
+            "id": "anova",
+            "word": "anova"
+        },
+        {
+            "id": "autocorrelation",
+            "word": "autocorrelation"
+        },
+        {
+            "id": "baseline",
+            "word": "baseline"
+        },
+        {
+            "id": "bayes%27_theorem",
+            "word": "bayes' theorem"
+        },
+        {
+            "id": "bayesian",
+            "word": "bayesian"
+        },
+        {
+            "id": "bimodal",
+            "word": "bimodal"
+        },
+        {
+            "id": "binomial_distribution",
+            "word": "binomial distribution"
+        },
+        {
+            "id": "bivariate",
+            "word": "bivariate"
+        },
+        {
+            "id": "box_plot",
+            "word": "box plot"
+        },
+        {
+            "id": "central_tendency",
+            "word": "central tendency"
+        },
+        {
+            "id": "chi-square_test",
+            "word": "chi-square test"
+        },
+        {
+            "id": "class_interval",
+            "word": "class interval"
+        },
+        {
+            "id": "cliometrics",
+            "word": "cliometrics"
+        },
+        {
+            "id": "complementary_distribution",
+            "word": "complementary distribution"
+        },
+        {
+            "id": "conditional_probability",
+            "word": "conditional probability"
+        },
+        {
+            "id": "confidence_interval",
+            "word": "confidence interval"
+        },
+        {
+            "id": "confidence_level",
+            "word": "confidence level"
+        },
+        {
+            "id": "confidence_limit",
+            "word": "confidence limit"
+        },
+        {
+            "id": "contingency_table",
+            "word": "contingency table"
+        },
+        {
+            "id": "correlation_coefficient",
+            "word": "correlation coefficient"
+        },
+        {
+            "id": "cross-correlate",
+            "word": "cross-correlate"
+        },
+        {
+            "id": "cumulative_distribution_function",
+            "word": "cumulative distribution function"
+        },
+        {
+            "id": "cumulative_error",
+            "word": "cumulative error"
+        },
+        {
+            "id": "decile",
+            "word": "decile"
+        },
+        {
+            "id": "demo",
+            "word": "demo"
+        },
+        {
+            "id": "demographer",
+            "word": "demographer"
+        },
+        {
+            "id": "demographic",
+            "word": "demographic"
+        },
+        {
+            "id": "demographically",
+            "word": "demographically"
+        },
+        {
+            "id": "demographics",
+            "word": "demographics"
+        },
+        {
+            "id": "demography",
+            "word": "demography"
+        },
+        {
+            "id": "dependence",
+            "word": "dependence"
+        },
+        {
+            "id": "discrete",
+            "word": "discrete"
+        },
+        {
+            "id": "discriminant_analysis",
+            "word": "discriminant analysis"
+        },
+        {
+            "id": "discriminant_function",
+            "word": "discriminant function"
+        },
+        {
+            "id": "estimator",
+            "word": "estimator"
+        },
+        {
+            "id": "expected_value",
+            "word": "expected value"
+        },
+        {
+            "id": "factor_analysis",
+            "word": "factor analysis"
+        },
+        {
+            "id": "frequency_distribution",
+            "word": "frequency distribution"
+        },
+        {
+            "id": "gaussian_distribution",
+            "word": "gaussian distribution"
+        },
+        {
+            "id": "goodness_of_fit",
+            "word": "goodness of fit"
+        },
+        {
+            "id": "graph",
+            "word": "graph"
+        },
+        {
+            "id": "graphical",
+            "word": "graphical"
+        },
+        {
+            "id": "histogram",
+            "word": "histogram"
+        },
+        {
+            "id": "hypothesis_testing",
+            "word": "hypothesis testing"
+        },
+        {
+            "id": "-ile",
+            "word": "-ile"
+        },
+        {
+            "id": "index_number",
+            "word": "index number"
+        },
+        {
+            "id": "interquartile",
+            "word": "interquartile"
+        },
+        {
+            "id": "interval_estimate",
+            "word": "interval estimate"
+        },
+        {
+            "id": "kurtosis",
+            "word": "kurtosis"
+        },
+        {
+            "id": "latin_square",
+            "word": "latin square"
+        },
+        {
+            "id": "least_squares",
+            "word": "least squares"
+        },
+        {
+            "id": "leptokurtic",
+            "word": "leptokurtic"
+        },
+        {
+            "id": "logistic_curve",
+            "word": "logistic curve"
+        },
+        {
+            "id": "log-normal",
+            "word": "log-normal"
+        },
+        {
+            "id": "lotka%E2%80%93volterra",
+            "word": "lotka–volterra"
+        },
+        {
+            "id": "markov_model",
+            "word": "markov model"
+        },
+        {
+            "id": "median",
+            "word": "median"
+        },
+        {
+            "id": "mesokurtic",
+            "word": "mesokurtic"
+        },
+        {
+            "id": "meta-analysis",
+            "word": "meta-analysis"
+        },
+        {
+            "id": "metadata",
+            "word": "metadata"
+        },
+        {
+            "id": "mid_range",
+            "word": "mid range"
+        },
+        {
+            "id": "monte_carlo_method",
+            "word": "monte carlo method"
+        },
+        {
+            "id": "moving_average",
+            "word": "moving average"
+        },
+        {
+            "id": "multivariable",
+            "word": "multivariable"
+        },
+        {
+            "id": "multivariate",
+            "word": "multivariate"
+        },
+        {
+            "id": "newman%E2%80%93keuls_test",
+            "word": "newman–keuls test"
+        },
+        {
+            "id": "non-parametric",
+            "word": "non-parametric"
+        },
+        {
+            "id": "normal_distribution",
+            "word": "normal distribution"
+        },
+        {
+            "id": "null_hypothesis",
+            "word": "null hypothesis"
+        },
+        {
+            "id": "one-tailed",
+            "word": "one-tailed"
+        },
+        {
+            "id": "over-represent",
+            "word": "over-represent"
+        },
+        {
+            "id": "pearson%27s_correlation_coefficient",
+            "word": "pearson's correlation coefficient"
+        },
+        {
+            "id": "percentile",
+            "word": "percentile"
+        },
+        {
+            "id": "pie_chart",
+            "word": "pie chart"
+        },
+        {
+            "id": "platykurtic",
+            "word": "platykurtic"
+        },
+        {
+            "id": "point_estimate",
+            "word": "point estimate"
+        },
+        {
+            "id": "poisson_distribution",
+            "word": "poisson distribution"
+        },
+        {
+            "id": "posterior_probability",
+            "word": "posterior probability"
+        },
+        {
+            "id": "preferentially",
+            "word": "preferentially"
+        },
+        {
+            "id": "principal_component_analysis",
+            "word": "principal component analysis"
+        },
+        {
+            "id": "prior_probability",
+            "word": "prior probability"
+        },
+        {
+            "id": "probability_density_function",
+            "word": "probability density function"
+        },
+        {
+            "id": "probability_distribution",
+            "word": "probability distribution"
+        },
+        {
+            "id": "probit",
+            "word": "probit"
+        },
+        {
+            "id": "pseudorandom",
+            "word": "pseudorandom"
+        },
+        {
+            "id": "qualitative",
+            "word": "qualitative"
+        },
+        {
+            "id": "qualitatively",
+            "word": "qualitatively"
+        },
+        {
+            "id": "quantile",
+            "word": "quantile"
+        },
+        {
+            "id": "quantitative",
+            "word": "quantitative"
+        },
+        {
+            "id": "quantitatively",
+            "word": "quantitatively"
+        },
+        {
+            "id": "quartile",
+            "word": "quartile"
+        },
+        {
+            "id": "questionnaire",
+            "word": "questionnaire"
+        },
+        {
+            "id": "quintile",
+            "word": "quintile"
+        },
+        {
+            "id": "quota_sample",
+            "word": "quota sample"
+        },
+        {
+            "id": "random",
+            "word": "random"
+        },
+        {
+            "id": "random_error",
+            "word": "random error"
+        },
+        {
+            "id": "randomize",
+            "word": "randomize"
+        },
+        {
+            "id": "randomly",
+            "word": "randomly"
+        },
+        {
+            "id": "rank_correlation",
+            "word": "rank correlation"
+        },
+        {
+            "id": "rate",
+            "word": "rate"
+        },
+        {
+            "id": "sample_point",
+            "word": "sample point"
+        },
+        {
+            "id": "sample_space",
+            "word": "sample space"
+        },
+        {
+            "id": "sampling_error",
+            "word": "sampling error"
+        },
+        {
+            "id": "sampling_frame",
+            "word": "sampling frame"
+        },
+        {
+            "id": "scatter_diagram",
+            "word": "scatter diagram"
+        },
+        {
+            "id": "signed-rank_test",
+            "word": "signed-rank test"
+        },
+        {
+            "id": "smoothen",
+            "word": "smoothen"
+        },
+        {
+            "id": "spearman%27s_rank_correlation",
+            "word": "spearman's rank correlation"
+        },
+        {
+            "id": "split-half",
+            "word": "split-half"
+        },
+        {
+            "id": "standard_deviation",
+            "word": "standard deviation"
+        },
+        {
+            "id": "standard_error",
+            "word": "standard error"
+        },
+        {
+            "id": "statistic",
+            "word": "statistic"
+        },
+        {
+            "id": "statistical",
+            "word": "statistical"
+        },
+        {
+            "id": "statistical_inference",
+            "word": "statistical inference"
+        },
+        {
+            "id": "statistically",
+            "word": "statistically"
+        },
+        {
+            "id": "statistical_tables",
+            "word": "statistical tables"
+        },
+        {
+            "id": "statistician",
+            "word": "statistician"
+        },
+        {
+            "id": "statistics",
+            "word": "statistics"
+        },
+        {
+            "id": "stochastic",
+            "word": "stochastic"
+        },
+        {
+            "id": "stratified_sample",
+            "word": "stratified sample"
+        },
+        {
+            "id": "student%27s_t-test",
+            "word": "student's t-test"
+        },
+        {
+            "id": "survival_curve",
+            "word": "survival curve"
+        },
+        {
+            "id": "systematic_error",
+            "word": "systematic error"
+        },
+        {
+            "id": "tabular",
+            "word": "tabular"
+        },
+        {
+            "id": "time_series",
+            "word": "time series"
+        },
+        {
+            "id": "two-tailed",
+            "word": "two-tailed"
+        },
+        {
+            "id": "unadjusted",
+            "word": "unadjusted"
+        },
+        {
+            "id": "uncorrelated",
+            "word": "uncorrelated"
+        },
+        {
+            "id": "undercount",
+            "word": "undercount"
+        },
+        {
+            "id": "under-report",
+            "word": "under-report"
+        },
+        {
+            "id": "unimodal",
+            "word": "unimodal"
+        },
+        {
+            "id": "univariate",
+            "word": "univariate"
+        },
+        {
+            "id": "variate",
+            "word": "variate"
+        },
+        {
+            "id": "varimax",
+            "word": "varimax"
+        },
+        {
+            "id": "weighted_average",
+            "word": "weighted average"
+        },
+        {
+            "id": "weighting",
+            "word": "weighting"
+        },
+        {
+            "id": "yates%27s_correction",
+            "word": "yates's correction"
+        }
+    ]
+}

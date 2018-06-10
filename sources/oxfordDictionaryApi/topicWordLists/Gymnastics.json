@@ -1,0 +1,159 @@
+{
+    "results": [
+        {
+            "id": "asymmetric_bars",
+            "word": "asymmetric bars"
+        },
+        {
+            "id": "backbend",
+            "word": "backbend"
+        },
+        {
+            "id": "backflip",
+            "word": "backflip"
+        },
+        {
+            "id": "backward_roll",
+            "word": "backward roll"
+        },
+        {
+            "id": "comaneci%2C_nadia",
+            "word": "comaneci, nadia"
+        },
+        {
+            "id": "floor_exercise",
+            "word": "floor exercise"
+        },
+        {
+            "id": "forward_roll",
+            "word": "forward roll"
+        },
+        {
+            "id": "gymnast",
+            "word": "gymnast"
+        },
+        {
+            "id": "gymnastic",
+            "word": "gymnastic"
+        },
+        {
+            "id": "gymnastics",
+            "word": "gymnastics"
+        },
+        {
+            "id": "handspring",
+            "word": "handspring"
+        },
+        {
+            "id": "handstand",
+            "word": "handstand"
+        },
+        {
+            "id": "headstand",
+            "word": "headstand"
+        },
+        {
+            "id": "horizontal_bar",
+            "word": "horizontal bar"
+        },
+        {
+            "id": "indian_club",
+            "word": "indian club"
+        },
+        {
+            "id": "korbut%2C_olga",
+            "word": "korbut, olga"
+        },
+        {
+            "id": "maillot",
+            "word": "maillot"
+        },
+        {
+            "id": "neck-roll",
+            "word": "neck-roll"
+        },
+        {
+            "id": "neckspring",
+            "word": "neckspring"
+        },
+        {
+            "id": "parallel_bars",
+            "word": "parallel bars"
+        },
+        {
+            "id": "pike",
+            "word": "pike"
+        },
+        {
+            "id": "planche",
+            "word": "planche"
+        },
+        {
+            "id": "pommel_horse",
+            "word": "pommel horse"
+        },
+        {
+            "id": "pommel_vault",
+            "word": "pommel vault"
+        },
+        {
+            "id": "rebounder",
+            "word": "rebounder"
+        },
+        {
+            "id": "rhythmic_gymnast",
+            "word": "rhythmic gymnast"
+        },
+        {
+            "id": "rhythmic_gymnastics",
+            "word": "rhythmic gymnastics"
+        },
+        {
+            "id": "shoulder_stand",
+            "word": "shoulder stand"
+        },
+        {
+            "id": "sokol",
+            "word": "sokol"
+        },
+        {
+            "id": "somersault",
+            "word": "somersault"
+        },
+        {
+            "id": "springboard",
+            "word": "springboard"
+        },
+        {
+            "id": "stick_the_%28or_one%27s%29_landing",
+            "word": "stick the (or one's) landing"
+        },
+        {
+            "id": "trampoline",
+            "word": "trampoline"
+        },
+        {
+            "id": "trapeze",
+            "word": "trapeze"
+        },
+        {
+            "id": "unicycle",
+            "word": "unicycle"
+        },
+        {
+            "id": "vaulting_horse",
+            "word": "vaulting horse"
+        },
+        {
+            "id": "wall_bar",
+            "word": "wall bar"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 37,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

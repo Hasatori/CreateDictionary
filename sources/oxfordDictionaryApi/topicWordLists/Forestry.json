@@ -1,0 +1,171 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 40,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "advance_growth",
+            "word": "advance growth"
+        },
+        {
+            "id": "carbon_sequestration",
+            "word": "carbon sequestration"
+        },
+        {
+            "id": "coppice_with_standards",
+            "word": "coppice with standards"
+        },
+        {
+            "id": "crown_fire",
+            "word": "crown fire"
+        },
+        {
+            "id": "diffuse-porous",
+            "word": "diffuse-porous"
+        },
+        {
+            "id": "even-aged",
+            "word": "even-aged"
+        },
+        {
+            "id": "exclosure",
+            "word": "exclosure"
+        },
+        {
+            "id": "face_cut",
+            "word": "face cut"
+        },
+        {
+            "id": "firebreak",
+            "word": "firebreak"
+        },
+        {
+            "id": "fire_line",
+            "word": "fire line"
+        },
+        {
+            "id": "fire_trail",
+            "word": "fire trail"
+        },
+        {
+            "id": "forest_management",
+            "word": "forest management"
+        },
+        {
+            "id": "forest_ranger",
+            "word": "forest ranger"
+        },
+        {
+            "id": "forestry",
+            "word": "forestry"
+        },
+        {
+            "id": "forestry_commission",
+            "word": "forestry commission"
+        },
+        {
+            "id": "forestry_worker",
+            "word": "forestry worker"
+        },
+        {
+            "id": "high_lead",
+            "word": "high lead"
+        },
+        {
+            "id": "high-lining",
+            "word": "high-lining"
+        },
+        {
+            "id": "logging",
+            "word": "logging"
+        },
+        {
+            "id": "maximum_sustainable_yield",
+            "word": "maximum sustainable yield"
+        },
+        {
+            "id": "native_logging",
+            "word": "native logging"
+        },
+        {
+            "id": "natural_regeneration",
+            "word": "natural regeneration"
+        },
+        {
+            "id": "notch-girdle",
+            "word": "notch-girdle"
+        },
+        {
+            "id": "notch-girdling",
+            "word": "notch-girdling"
+        },
+        {
+            "id": "nurse-tree",
+            "word": "nurse-tree"
+        },
+        {
+            "id": "open-grown",
+            "word": "open-grown"
+        },
+        {
+            "id": "over-bark",
+            "word": "over-bark"
+        },
+        {
+            "id": "radial_sawed",
+            "word": "radial sawed"
+        },
+        {
+            "id": "radial_sawn",
+            "word": "radial sawn"
+        },
+        {
+            "id": "reboise",
+            "word": "reboise"
+        },
+        {
+            "id": "remnant_bushland",
+            "word": "remnant bushland"
+        },
+        {
+            "id": "ring-porous",
+            "word": "ring-porous"
+        },
+        {
+            "id": "ring_shake",
+            "word": "ring shake"
+        },
+        {
+            "id": "sawlog",
+            "word": "sawlog"
+        },
+        {
+            "id": "sawyer",
+            "word": "sawyer"
+        },
+        {
+            "id": "shelterwood",
+            "word": "shelterwood"
+        },
+        {
+            "id": "skid_road",
+            "word": "skid road"
+        },
+        {
+            "id": "spar_tree",
+            "word": "spar tree"
+        },
+        {
+            "id": "timberland",
+            "word": "timberland"
+        },
+        {
+            "id": "unforested",
+            "word": "unforested"
+        }
+    ]
+}

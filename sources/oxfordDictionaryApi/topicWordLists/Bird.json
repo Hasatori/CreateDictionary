@@ -1,0 +1,3451 @@
+{
+    "results": [
+        {
+            "id": "aasvoel",
+            "word": "aasvoel"
+        },
+        {
+            "id": "accentor",
+            "word": "accentor"
+        },
+        {
+            "id": "accipiter",
+            "word": "accipiter"
+        },
+        {
+            "id": "ad%C3%A9lie_penguin",
+            "word": "adélie penguin"
+        },
+        {
+            "id": "alarm_bird",
+            "word": "alarm bird"
+        },
+        {
+            "id": "albatross",
+            "word": "albatross"
+        },
+        {
+            "id": "alcid",
+            "word": "alcid"
+        },
+        {
+            "id": "ani",
+            "word": "ani"
+        },
+        {
+            "id": "anna%27s_hummingbird",
+            "word": "anna's hummingbird"
+        },
+        {
+            "id": "antbird",
+            "word": "antbird"
+        },
+        {
+            "id": "ant-thrush",
+            "word": "ant-thrush"
+        },
+        {
+            "id": "apostlebird",
+            "word": "apostlebird"
+        },
+        {
+            "id": "aracari",
+            "word": "aracari"
+        },
+        {
+            "id": "arctic_tern",
+            "word": "arctic tern"
+        },
+        {
+            "id": "argus",
+            "word": "argus"
+        },
+        {
+            "id": "asity",
+            "word": "asity"
+        },
+        {
+            "id": "auk",
+            "word": "auk"
+        },
+        {
+            "id": "auklet",
+            "word": "auklet"
+        },
+        {
+            "id": "avadavat",
+            "word": "avadavat"
+        },
+        {
+            "id": "avocet",
+            "word": "avocet"
+        },
+        {
+            "id": "babbler",
+            "word": "babbler"
+        },
+        {
+            "id": "bald_crow",
+            "word": "bald crow"
+        },
+        {
+            "id": "bald_eagle",
+            "word": "bald eagle"
+        },
+        {
+            "id": "baldpate",
+            "word": "baldpate"
+        },
+        {
+            "id": "bananaquit",
+            "word": "bananaquit"
+        },
+        {
+            "id": "bank_swallow",
+            "word": "bank swallow"
+        },
+        {
+            "id": "barbet",
+            "word": "barbet"
+        },
+        {
+            "id": "barnacle_goose",
+            "word": "barnacle goose"
+        },
+        {
+            "id": "barn_owl",
+            "word": "barn owl"
+        },
+        {
+            "id": "barwing",
+            "word": "barwing"
+        },
+        {
+            "id": "bateleur",
+            "word": "bateleur"
+        },
+        {
+            "id": "baya",
+            "word": "baya"
+        },
+        {
+            "id": "baza",
+            "word": "baza"
+        },
+        {
+            "id": "bean_goose",
+            "word": "bean goose"
+        },
+        {
+            "id": "bearded_tit",
+            "word": "bearded tit"
+        },
+        {
+            "id": "becard",
+            "word": "becard"
+        },
+        {
+            "id": "bee-eater",
+            "word": "bee-eater"
+        },
+        {
+            "id": "bellbird",
+            "word": "bellbird"
+        },
+        {
+            "id": "bell_magpie",
+            "word": "bell magpie"
+        },
+        {
+            "id": "bewick%27s_swan",
+            "word": "bewick's swan"
+        },
+        {
+            "id": "birdie",
+            "word": "birdie"
+        },
+        {
+            "id": "birdling",
+            "word": "birdling"
+        },
+        {
+            "id": "bird_of_paradise",
+            "word": "bird of paradise"
+        },
+        {
+            "id": "bird_of_passage",
+            "word": "bird of passage"
+        },
+        {
+            "id": "bird_of_prey",
+            "word": "bird of prey"
+        },
+        {
+            "id": "bittern",
+            "word": "bittern"
+        },
+        {
+            "id": "blackbird",
+            "word": "blackbird"
+        },
+        {
+            "id": "blackcap",
+            "word": "blackcap"
+        },
+        {
+            "id": "blackcock",
+            "word": "blackcock"
+        },
+        {
+            "id": "black_grouse",
+            "word": "black grouse"
+        },
+        {
+            "id": "black_guillemot",
+            "word": "black guillemot"
+        },
+        {
+            "id": "black_kite",
+            "word": "black kite"
+        },
+        {
+            "id": "blackpoll",
+            "word": "blackpoll"
+        },
+        {
+            "id": "black_swan",
+            "word": "black swan"
+        },
+        {
+            "id": "black_vulture",
+            "word": "black vulture"
+        },
+        {
+            "id": "blueback",
+            "word": "blueback"
+        },
+        {
+            "id": "bluebill",
+            "word": "bluebill"
+        },
+        {
+            "id": "bluebird",
+            "word": "bluebird"
+        },
+        {
+            "id": "blue_bonnet",
+            "word": "blue bonnet"
+        },
+        {
+            "id": "blue_crane",
+            "word": "blue crane"
+        },
+        {
+            "id": "blue_jay",
+            "word": "blue jay"
+        },
+        {
+            "id": "bluethroat",
+            "word": "bluethroat"
+        },
+        {
+            "id": "blue_tit",
+            "word": "blue tit"
+        },
+        {
+            "id": "boatbill",
+            "word": "boatbill"
+        },
+        {
+            "id": "bobolink",
+            "word": "bobolink"
+        },
+        {
+            "id": "bobwhite",
+            "word": "bobwhite"
+        },
+        {
+            "id": "bokmakierie",
+            "word": "bokmakierie"
+        },
+        {
+            "id": "bonxie",
+            "word": "bonxie"
+        },
+        {
+            "id": "boobook",
+            "word": "boobook"
+        },
+        {
+            "id": "boubou",
+            "word": "boubou"
+        },
+        {
+            "id": "bowerbird",
+            "word": "bowerbird"
+        },
+        {
+            "id": "brainfever_bird",
+            "word": "brainfever bird"
+        },
+        {
+            "id": "brambling",
+            "word": "brambling"
+        },
+        {
+            "id": "brent_goose",
+            "word": "brent goose"
+        },
+        {
+            "id": "bristlebird",
+            "word": "bristlebird"
+        },
+        {
+            "id": "broadbill",
+            "word": "broadbill"
+        },
+        {
+            "id": "broiler",
+            "word": "broiler"
+        },
+        {
+            "id": "brolga",
+            "word": "brolga"
+        },
+        {
+            "id": "bronzewing",
+            "word": "bronzewing"
+        },
+        {
+            "id": "broodling",
+            "word": "broodling"
+        },
+        {
+            "id": "brubru",
+            "word": "brubru"
+        },
+        {
+            "id": "brush-turkey",
+            "word": "brush-turkey"
+        },
+        {
+            "id": "budgerigar",
+            "word": "budgerigar"
+        },
+        {
+            "id": "buffalo_weaver",
+            "word": "buffalo weaver"
+        },
+        {
+            "id": "bufflehead",
+            "word": "bufflehead"
+        },
+        {
+            "id": "bulbul",
+            "word": "bulbul"
+        },
+        {
+            "id": "bullfinch",
+            "word": "bullfinch"
+        },
+        {
+            "id": "bunting",
+            "word": "bunting"
+        },
+        {
+            "id": "bushchat",
+            "word": "bushchat"
+        },
+        {
+            "id": "bush-hen",
+            "word": "bush-hen"
+        },
+        {
+            "id": "bushtit",
+            "word": "bushtit"
+        },
+        {
+            "id": "bustard",
+            "word": "bustard"
+        },
+        {
+            "id": "bustard_quail",
+            "word": "bustard quail"
+        },
+        {
+            "id": "butcher-bird",
+            "word": "butcher-bird"
+        },
+        {
+            "id": "buteo",
+            "word": "buteo"
+        },
+        {
+            "id": "butterball",
+            "word": "butterball"
+        },
+        {
+            "id": "button-quail",
+            "word": "button-quail"
+        },
+        {
+            "id": "buzzard",
+            "word": "buzzard"
+        },
+        {
+            "id": "cage_bird",
+            "word": "cage bird"
+        },
+        {
+            "id": "cahow",
+            "word": "cahow"
+        },
+        {
+            "id": "calandra",
+            "word": "calandra"
+        },
+        {
+            "id": "canada_goose",
+            "word": "canada goose"
+        },
+        {
+            "id": "canary",
+            "word": "canary"
+        },
+        {
+            "id": "canvasback",
+            "word": "canvasback"
+        },
+        {
+            "id": "cape_barren_goose",
+            "word": "cape barren goose"
+        },
+        {
+            "id": "cape_hen",
+            "word": "cape hen"
+        },
+        {
+            "id": "capercaillie",
+            "word": "capercaillie"
+        },
+        {
+            "id": "cape_sparrow",
+            "word": "cape sparrow"
+        },
+        {
+            "id": "caracara",
+            "word": "caracara"
+        },
+        {
+            "id": "carolina_parakeet",
+            "word": "carolina parakeet"
+        },
+        {
+            "id": "carrion_crow",
+            "word": "carrion crow"
+        },
+        {
+            "id": "cassowary",
+            "word": "cassowary"
+        },
+        {
+            "id": "catbird",
+            "word": "catbird"
+        },
+        {
+            "id": "cattle_egret",
+            "word": "cattle egret"
+        },
+        {
+            "id": "cetti%27s_warbler",
+            "word": "cetti's warbler"
+        },
+        {
+            "id": "chachalaca",
+            "word": "chachalaca"
+        },
+        {
+            "id": "chaffinch",
+            "word": "chaffinch"
+        },
+        {
+            "id": "chanticleer",
+            "word": "chanticleer"
+        },
+        {
+            "id": "chanting_goshawk",
+            "word": "chanting goshawk"
+        },
+        {
+            "id": "chat",
+            "word": "chat"
+        },
+        {
+            "id": "chicken_hawk",
+            "word": "chicken hawk"
+        },
+        {
+            "id": "chiffchaff",
+            "word": "chiffchaff"
+        },
+        {
+            "id": "chimney_swift",
+            "word": "chimney swift"
+        },
+        {
+            "id": "chipping_sparrow",
+            "word": "chipping sparrow"
+        },
+        {
+            "id": "chook",
+            "word": "chook"
+        },
+        {
+            "id": "chough",
+            "word": "chough"
+        },
+        {
+            "id": "chuck-will%27s-widow",
+            "word": "chuck-will's-widow"
+        },
+        {
+            "id": "chukar",
+            "word": "chukar"
+        },
+        {
+            "id": "cirl_bunting",
+            "word": "cirl bunting"
+        },
+        {
+            "id": "cisticola",
+            "word": "cisticola"
+        },
+        {
+            "id": "citril",
+            "word": "citril"
+        },
+        {
+            "id": "clapper_rail",
+            "word": "clapper rail"
+        },
+        {
+            "id": "coal_tit",
+            "word": "coal tit"
+        },
+        {
+            "id": "cochoa",
+            "word": "cochoa"
+        },
+        {
+            "id": "cock",
+            "word": "cock"
+        },
+        {
+            "id": "cockatiel",
+            "word": "cockatiel"
+        },
+        {
+            "id": "cockatoo",
+            "word": "cockatoo"
+        },
+        {
+            "id": "cock-of-the-rock",
+            "word": "cock-of-the-rock"
+        },
+        {
+            "id": "collared_dove",
+            "word": "collared dove"
+        },
+        {
+            "id": "common_gull",
+            "word": "common gull"
+        },
+        {
+            "id": "condor",
+            "word": "condor"
+        },
+        {
+            "id": "conure",
+            "word": "conure"
+        },
+        {
+            "id": "cooper%27s_hawk",
+            "word": "cooper's hawk"
+        },
+        {
+            "id": "coot",
+            "word": "coot"
+        },
+        {
+            "id": "corbie",
+            "word": "corbie"
+        },
+        {
+            "id": "corella",
+            "word": "corella"
+        },
+        {
+            "id": "cormorant",
+            "word": "cormorant"
+        },
+        {
+            "id": "corn_bunting",
+            "word": "corn bunting"
+        },
+        {
+            "id": "corncrake",
+            "word": "corncrake"
+        },
+        {
+            "id": "corvid",
+            "word": "corvid"
+        },
+        {
+            "id": "coscoroba_swan",
+            "word": "coscoroba swan"
+        },
+        {
+            "id": "cotinga",
+            "word": "cotinga"
+        },
+        {
+            "id": "coucal",
+            "word": "coucal"
+        },
+        {
+            "id": "courser",
+            "word": "courser"
+        },
+        {
+            "id": "cowbird",
+            "word": "cowbird"
+        },
+        {
+            "id": "crake",
+            "word": "crake"
+        },
+        {
+            "id": "crane",
+            "word": "crane"
+        },
+        {
+            "id": "crested_tit",
+            "word": "crested tit"
+        },
+        {
+            "id": "crissal_thrasher",
+            "word": "crissal thrasher"
+        },
+        {
+            "id": "crocodile_bird",
+            "word": "crocodile bird"
+        },
+        {
+            "id": "crombec",
+            "word": "crombec"
+        },
+        {
+            "id": "crossbill",
+            "word": "crossbill"
+        },
+        {
+            "id": "crow",
+            "word": "crow"
+        },
+        {
+            "id": "crowned_crane",
+            "word": "crowned crane"
+        },
+        {
+            "id": "crowned_pigeon",
+            "word": "crowned pigeon"
+        },
+        {
+            "id": "crow-pheasant",
+            "word": "crow-pheasant"
+        },
+        {
+            "id": "cuckoo",
+            "word": "cuckoo"
+        },
+        {
+            "id": "cuckoo-roller",
+            "word": "cuckoo-roller"
+        },
+        {
+            "id": "cuckoo-shrike",
+            "word": "cuckoo-shrike"
+        },
+        {
+            "id": "curassow",
+            "word": "curassow"
+        },
+        {
+            "id": "curlew",
+            "word": "curlew"
+        },
+        {
+            "id": "currawong",
+            "word": "currawong"
+        },
+        {
+            "id": "cushat",
+            "word": "cushat"
+        },
+        {
+            "id": "cut-throat_weaver",
+            "word": "cut-throat weaver"
+        },
+        {
+            "id": "dabbling_duck",
+            "word": "dabbling duck"
+        },
+        {
+            "id": "dabchick",
+            "word": "dabchick"
+        },
+        {
+            "id": "darter",
+            "word": "darter"
+        },
+        {
+            "id": "dartford_warbler",
+            "word": "dartford warbler"
+        },
+        {
+            "id": "darwin%27s_finches",
+            "word": "darwin's finches"
+        },
+        {
+            "id": "demoiselle",
+            "word": "demoiselle"
+        },
+        {
+            "id": "diamond-bird",
+            "word": "diamond-bird"
+        },
+        {
+            "id": "dickcissel",
+            "word": "dickcissel"
+        },
+        {
+            "id": "dicky_bird",
+            "word": "dicky bird"
+        },
+        {
+            "id": "dikkop",
+            "word": "dikkop"
+        },
+        {
+            "id": "dioch",
+            "word": "dioch"
+        },
+        {
+            "id": "dipper",
+            "word": "dipper"
+        },
+        {
+            "id": "diving_duck",
+            "word": "diving duck"
+        },
+        {
+            "id": "diving_petrel",
+            "word": "diving petrel"
+        },
+        {
+            "id": "dodo",
+            "word": "dodo"
+        },
+        {
+            "id": "dollarbird",
+            "word": "dollarbird"
+        },
+        {
+            "id": "dotterel",
+            "word": "dotterel"
+        },
+        {
+            "id": "dove",
+            "word": "dove"
+        },
+        {
+            "id": "dowitcher",
+            "word": "dowitcher"
+        },
+        {
+            "id": "drongo",
+            "word": "drongo"
+        },
+        {
+            "id": "duck",
+            "word": "duck"
+        },
+        {
+            "id": "duck_hawk",
+            "word": "duck hawk"
+        },
+        {
+            "id": "duckling",
+            "word": "duckling"
+        },
+        {
+            "id": "duiker",
+            "word": "duiker"
+        },
+        {
+            "id": "dunlin",
+            "word": "dunlin"
+        },
+        {
+            "id": "dunnock",
+            "word": "dunnock"
+        },
+        {
+            "id": "eagle",
+            "word": "eagle"
+        },
+        {
+            "id": "eagle_owl",
+            "word": "eagle owl"
+        },
+        {
+            "id": "edible-nest_swiftlet",
+            "word": "edible-nest swiftlet"
+        },
+        {
+            "id": "egret",
+            "word": "egret"
+        },
+        {
+            "id": "egyptian_goose",
+            "word": "egyptian goose"
+        },
+        {
+            "id": "egyptian_plover",
+            "word": "egyptian plover"
+        },
+        {
+            "id": "egyptian_vulture",
+            "word": "egyptian vulture"
+        },
+        {
+            "id": "eider",
+            "word": "eider"
+        },
+        {
+            "id": "eleonora%27s_falcon",
+            "word": "eleonora's falcon"
+        },
+        {
+            "id": "elephant_bird",
+            "word": "elephant bird"
+        },
+        {
+            "id": "elf_owl",
+            "word": "elf owl"
+        },
+        {
+            "id": "emperor_penguin",
+            "word": "emperor penguin"
+        },
+        {
+            "id": "emu",
+            "word": "emu"
+        },
+        {
+            "id": "emu-wren",
+            "word": "emu-wren"
+        },
+        {
+            "id": "erne",
+            "word": "erne"
+        },
+        {
+            "id": "eskimo_curlew",
+            "word": "eskimo curlew"
+        },
+        {
+            "id": "evening_grosbeak",
+            "word": "evening grosbeak"
+        },
+        {
+            "id": "fairy_bluebird",
+            "word": "fairy bluebird"
+        },
+        {
+            "id": "fairy_penguin",
+            "word": "fairy penguin"
+        },
+        {
+            "id": "fairy_tern",
+            "word": "fairy tern"
+        },
+        {
+            "id": "fairy_wren",
+            "word": "fairy wren"
+        },
+        {
+            "id": "falcated_teal",
+            "word": "falcated teal"
+        },
+        {
+            "id": "falcon",
+            "word": "falcon"
+        },
+        {
+            "id": "false_sunbird",
+            "word": "false sunbird"
+        },
+        {
+            "id": "fan-tailed_warbler",
+            "word": "fan-tailed warbler"
+        },
+        {
+            "id": "feathered_friend",
+            "word": "feathered friend"
+        },
+        {
+            "id": "fernbird",
+            "word": "fernbird"
+        },
+        {
+            "id": "ferruginous_duck",
+            "word": "ferruginous duck"
+        },
+        {
+            "id": "fieldfare",
+            "word": "fieldfare"
+        },
+        {
+            "id": "figbird",
+            "word": "figbird"
+        },
+        {
+            "id": "fig_parrot",
+            "word": "fig parrot"
+        },
+        {
+            "id": "finch",
+            "word": "finch"
+        },
+        {
+            "id": "finfoot",
+            "word": "finfoot"
+        },
+        {
+            "id": "firecrest",
+            "word": "firecrest"
+        },
+        {
+            "id": "firefinch",
+            "word": "firefinch"
+        },
+        {
+            "id": "fish_eagle",
+            "word": "fish eagle"
+        },
+        {
+            "id": "flamingo",
+            "word": "flamingo"
+        },
+        {
+            "id": "flammulated_owl",
+            "word": "flammulated owl"
+        },
+        {
+            "id": "flatbill",
+            "word": "flatbill"
+        },
+        {
+            "id": "flicker",
+            "word": "flicker"
+        },
+        {
+            "id": "florican",
+            "word": "florican"
+        },
+        {
+            "id": "flowerpecker",
+            "word": "flowerpecker"
+        },
+        {
+            "id": "flycatcher",
+            "word": "flycatcher"
+        },
+        {
+            "id": "flying_cane_toad",
+            "word": "flying cane toad"
+        },
+        {
+            "id": "fody",
+            "word": "fody"
+        },
+        {
+            "id": "forktail",
+            "word": "forktail"
+        },
+        {
+            "id": "fowl",
+            "word": "fowl"
+        },
+        {
+            "id": "francolin",
+            "word": "francolin"
+        },
+        {
+            "id": "friarbird",
+            "word": "friarbird"
+        },
+        {
+            "id": "frigate_bird",
+            "word": "frigate bird"
+        },
+        {
+            "id": "frogmouth",
+            "word": "frogmouth"
+        },
+        {
+            "id": "fruitcrow",
+            "word": "fruitcrow"
+        },
+        {
+            "id": "fruit_dove",
+            "word": "fruit dove"
+        },
+        {
+            "id": "fruit_pigeon",
+            "word": "fruit pigeon"
+        },
+        {
+            "id": "fulmar",
+            "word": "fulmar"
+        },
+        {
+            "id": "gadwall",
+            "word": "gadwall"
+        },
+        {
+            "id": "galah",
+            "word": "galah"
+        },
+        {
+            "id": "gallinule",
+            "word": "gallinule"
+        },
+        {
+            "id": "gannet",
+            "word": "gannet"
+        },
+        {
+            "id": "gardener_bowerbird",
+            "word": "gardener bowerbird"
+        },
+        {
+            "id": "garden_warbler",
+            "word": "garden warbler"
+        },
+        {
+            "id": "garganey",
+            "word": "garganey"
+        },
+        {
+            "id": "gentoo",
+            "word": "gentoo"
+        },
+        {
+            "id": "giant_petrel",
+            "word": "giant petrel"
+        },
+        {
+            "id": "gibberbird",
+            "word": "gibberbird"
+        },
+        {
+            "id": "glaucous_gull",
+            "word": "glaucous gull"
+        },
+        {
+            "id": "glossy_starling",
+            "word": "glossy starling"
+        },
+        {
+            "id": "gnatcatcher",
+            "word": "gnatcatcher"
+        },
+        {
+            "id": "go-away_bird",
+            "word": "go-away bird"
+        },
+        {
+            "id": "godwit",
+            "word": "godwit"
+        },
+        {
+            "id": "goldcrest",
+            "word": "goldcrest"
+        },
+        {
+            "id": "golden_eagle",
+            "word": "golden eagle"
+        },
+        {
+            "id": "goldeneye",
+            "word": "goldeneye"
+        },
+        {
+            "id": "golden_oriole",
+            "word": "golden oriole"
+        },
+        {
+            "id": "golden_plover",
+            "word": "golden plover"
+        },
+        {
+            "id": "goldfinch",
+            "word": "goldfinch"
+        },
+        {
+            "id": "gonolek",
+            "word": "gonolek"
+        },
+        {
+            "id": "gooney_bird",
+            "word": "gooney bird"
+        },
+        {
+            "id": "goosander",
+            "word": "goosander"
+        },
+        {
+            "id": "goose",
+            "word": "goose"
+        },
+        {
+            "id": "gorcock",
+            "word": "gorcock"
+        },
+        {
+            "id": "goshawk",
+            "word": "goshawk"
+        },
+        {
+            "id": "grackle",
+            "word": "grackle"
+        },
+        {
+            "id": "grassbird",
+            "word": "grassbird"
+        },
+        {
+            "id": "grasshopper_warbler",
+            "word": "grasshopper warbler"
+        },
+        {
+            "id": "grass_parrot",
+            "word": "grass parrot"
+        },
+        {
+            "id": "grassquit",
+            "word": "grassquit"
+        },
+        {
+            "id": "great_auk",
+            "word": "great auk"
+        },
+        {
+            "id": "great_crested_grebe",
+            "word": "great crested grebe"
+        },
+        {
+            "id": "great_northern_diver",
+            "word": "great northern diver"
+        },
+        {
+            "id": "great_skua",
+            "word": "great skua"
+        },
+        {
+            "id": "great_tit",
+            "word": "great tit"
+        },
+        {
+            "id": "grebe",
+            "word": "grebe"
+        },
+        {
+            "id": "greenbul",
+            "word": "greenbul"
+        },
+        {
+            "id": "greenfinch",
+            "word": "greenfinch"
+        },
+        {
+            "id": "green_leek",
+            "word": "green leek"
+        },
+        {
+            "id": "greenlet",
+            "word": "greenlet"
+        },
+        {
+            "id": "green_pigeon",
+            "word": "green pigeon"
+        },
+        {
+            "id": "green_plover",
+            "word": "green plover"
+        },
+        {
+            "id": "greenshank",
+            "word": "greenshank"
+        },
+        {
+            "id": "green_woodpecker",
+            "word": "green woodpecker"
+        },
+        {
+            "id": "grey_goose",
+            "word": "grey goose"
+        },
+        {
+            "id": "greyhen",
+            "word": "greyhen"
+        },
+        {
+            "id": "grey_jay",
+            "word": "grey jay"
+        },
+        {
+            "id": "greylag",
+            "word": "greylag"
+        },
+        {
+            "id": "grey_parrot",
+            "word": "grey parrot"
+        },
+        {
+            "id": "grosbeak",
+            "word": "grosbeak"
+        },
+        {
+            "id": "ground_dove",
+            "word": "ground dove"
+        },
+        {
+            "id": "grouse",
+            "word": "grouse"
+        },
+        {
+            "id": "guan",
+            "word": "guan"
+        },
+        {
+            "id": "guillemot",
+            "word": "guillemot"
+        },
+        {
+            "id": "guinea_fowl",
+            "word": "guinea fowl"
+        },
+        {
+            "id": "guinea_hen",
+            "word": "guinea hen"
+        },
+        {
+            "id": "gull",
+            "word": "gull"
+        },
+        {
+            "id": "gymnogene",
+            "word": "gymnogene"
+        },
+        {
+            "id": "gyrfalcon",
+            "word": "gyrfalcon"
+        },
+        {
+            "id": "hadada",
+            "word": "hadada"
+        },
+        {
+            "id": "hamerkop",
+            "word": "hamerkop"
+        },
+        {
+            "id": "hardhead",
+            "word": "hardhead"
+        },
+        {
+            "id": "harpy_eagle",
+            "word": "harpy eagle"
+        },
+        {
+            "id": "harrier",
+            "word": "harrier"
+        },
+        {
+            "id": "harrier_hawk",
+            "word": "harrier hawk"
+        },
+        {
+            "id": "harris_hawk",
+            "word": "harris hawk"
+        },
+        {
+            "id": "hawaiian_goose",
+            "word": "hawaiian goose"
+        },
+        {
+            "id": "hawfinch",
+            "word": "hawfinch"
+        },
+        {
+            "id": "hawk",
+            "word": "hawk"
+        },
+        {
+            "id": "hawk_eagle",
+            "word": "hawk eagle"
+        },
+        {
+            "id": "hawk_owl",
+            "word": "hawk owl"
+        },
+        {
+            "id": "hazel_grouse",
+            "word": "hazel grouse"
+        },
+        {
+            "id": "hen",
+            "word": "hen"
+        },
+        {
+            "id": "hen_harrier",
+            "word": "hen harrier"
+        },
+        {
+            "id": "hermit_thrush",
+            "word": "hermit thrush"
+        },
+        {
+            "id": "heron",
+            "word": "heron"
+        },
+        {
+            "id": "herring_gull",
+            "word": "herring gull"
+        },
+        {
+            "id": "hillstar",
+            "word": "hillstar"
+        },
+        {
+            "id": "hoatzin",
+            "word": "hoatzin"
+        },
+        {
+            "id": "hobby",
+            "word": "hobby"
+        },
+        {
+            "id": "homing_pigeon",
+            "word": "homing pigeon"
+        },
+        {
+            "id": "honeybird",
+            "word": "honeybird"
+        },
+        {
+            "id": "honey_buzzard",
+            "word": "honey buzzard"
+        },
+        {
+            "id": "honeycreeper",
+            "word": "honeycreeper"
+        },
+        {
+            "id": "honeyeater",
+            "word": "honeyeater"
+        },
+        {
+            "id": "honeyguide",
+            "word": "honeyguide"
+        },
+        {
+            "id": "honey_parrot",
+            "word": "honey parrot"
+        },
+        {
+            "id": "honeysucker",
+            "word": "honeysucker"
+        },
+        {
+            "id": "honker",
+            "word": "honker"
+        },
+        {
+            "id": "hooded_crow",
+            "word": "hooded crow"
+        },
+        {
+            "id": "hoodie",
+            "word": "hoodie"
+        },
+        {
+            "id": "hoopoe",
+            "word": "hoopoe"
+        },
+        {
+            "id": "hornbill",
+            "word": "hornbill"
+        },
+        {
+            "id": "horned_owl",
+            "word": "horned owl"
+        },
+        {
+            "id": "hornero",
+            "word": "hornero"
+        },
+        {
+            "id": "houbara",
+            "word": "houbara"
+        },
+        {
+            "id": "house_finch",
+            "word": "house finch"
+        },
+        {
+            "id": "house_martin",
+            "word": "house martin"
+        },
+        {
+            "id": "house_sparrow",
+            "word": "house sparrow"
+        },
+        {
+            "id": "howlet",
+            "word": "howlet"
+        },
+        {
+            "id": "huia",
+            "word": "huia"
+        },
+        {
+            "id": "hummingbird",
+            "word": "hummingbird"
+        },
+        {
+            "id": "ibis",
+            "word": "ibis"
+        },
+        {
+            "id": "ibisbill",
+            "word": "ibisbill"
+        },
+        {
+            "id": "icterine_warbler",
+            "word": "icterine warbler"
+        },
+        {
+            "id": "iiwi",
+            "word": "iiwi"
+        },
+        {
+            "id": "imperial_pigeon",
+            "word": "imperial pigeon"
+        },
+        {
+            "id": "inca",
+            "word": "inca"
+        },
+        {
+            "id": "indigobird",
+            "word": "indigobird"
+        },
+        {
+            "id": "iora",
+            "word": "iora"
+        },
+        {
+            "id": "jabiru",
+            "word": "jabiru"
+        },
+        {
+            "id": "jacamar",
+            "word": "jacamar"
+        },
+        {
+            "id": "jacana",
+            "word": "jacana"
+        },
+        {
+            "id": "jackdaw",
+            "word": "jackdaw"
+        },
+        {
+            "id": "jackie_hangman",
+            "word": "jackie hangman"
+        },
+        {
+            "id": "jack_snipe",
+            "word": "jack snipe"
+        },
+        {
+            "id": "jacky_winter",
+            "word": "jacky winter"
+        },
+        {
+            "id": "jaeger",
+            "word": "jaeger"
+        },
+        {
+            "id": "java_sparrow",
+            "word": "java sparrow"
+        },
+        {
+            "id": "jay",
+            "word": "jay"
+        },
+        {
+            "id": "jenny_wren",
+            "word": "jenny wren"
+        },
+        {
+            "id": "john_crow",
+            "word": "john crow"
+        },
+        {
+            "id": "jumbie_bird",
+            "word": "jumbie bird"
+        },
+        {
+            "id": "junco",
+            "word": "junco"
+        },
+        {
+            "id": "junglefowl",
+            "word": "junglefowl"
+        },
+        {
+            "id": "kagu",
+            "word": "kagu"
+        },
+        {
+            "id": "kaka",
+            "word": "kaka"
+        },
+        {
+            "id": "kakapo",
+            "word": "kakapo"
+        },
+        {
+            "id": "kea",
+            "word": "kea"
+        },
+        {
+            "id": "keelie",
+            "word": "keelie"
+        },
+        {
+            "id": "kentish_plover",
+            "word": "kentish plover"
+        },
+        {
+            "id": "kereru",
+            "word": "kereru"
+        },
+        {
+            "id": "kestrel",
+            "word": "kestrel"
+        },
+        {
+            "id": "killdeer",
+            "word": "killdeer"
+        },
+        {
+            "id": "kingbird",
+            "word": "kingbird"
+        },
+        {
+            "id": "king_eider",
+            "word": "king eider"
+        },
+        {
+            "id": "kingfisher",
+            "word": "kingfisher"
+        },
+        {
+            "id": "king_of_birds",
+            "word": "king of birds"
+        },
+        {
+            "id": "king_penguin",
+            "word": "king penguin"
+        },
+        {
+            "id": "kiskadee",
+            "word": "kiskadee"
+        },
+        {
+            "id": "kittiwake",
+            "word": "kittiwake"
+        },
+        {
+            "id": "kiwi",
+            "word": "kiwi"
+        },
+        {
+            "id": "knot",
+            "word": "knot"
+        },
+        {
+            "id": "koel",
+            "word": "koel"
+        },
+        {
+            "id": "kokako",
+            "word": "kokako"
+        },
+        {
+            "id": "kookaburra",
+            "word": "kookaburra"
+        },
+        {
+            "id": "korhaan",
+            "word": "korhaan"
+        },
+        {
+            "id": "kori",
+            "word": "kori"
+        },
+        {
+            "id": "lammergeier",
+            "word": "lammergeier"
+        },
+        {
+            "id": "lanner",
+            "word": "lanner"
+        },
+        {
+            "id": "lapwing",
+            "word": "lapwing"
+        },
+        {
+            "id": "lark",
+            "word": "lark"
+        },
+        {
+            "id": "laughing_jackass",
+            "word": "laughing jackass"
+        },
+        {
+            "id": "laughing_thrush",
+            "word": "laughing thrush"
+        },
+        {
+            "id": "leafbird",
+            "word": "leafbird"
+        },
+        {
+            "id": "leaflove",
+            "word": "leaflove"
+        },
+        {
+            "id": "leaf_warbler",
+            "word": "leaf warbler"
+        },
+        {
+            "id": "leiothrix",
+            "word": "leiothrix"
+        },
+        {
+            "id": "lily-trotter",
+            "word": "lily-trotter"
+        },
+        {
+            "id": "limpkin",
+            "word": "limpkin"
+        },
+        {
+            "id": "linnet",
+            "word": "linnet"
+        },
+        {
+            "id": "little_auk",
+            "word": "little auk"
+        },
+        {
+            "id": "little_grebe",
+            "word": "little grebe"
+        },
+        {
+            "id": "little_owl",
+            "word": "little owl"
+        },
+        {
+            "id": "logrunner",
+            "word": "logrunner"
+        },
+        {
+            "id": "longspur",
+            "word": "longspur"
+        },
+        {
+            "id": "long-tailed_duck",
+            "word": "long-tailed duck"
+        },
+        {
+            "id": "long-tailed_tit",
+            "word": "long-tailed tit"
+        },
+        {
+            "id": "lorikeet",
+            "word": "lorikeet"
+        },
+        {
+            "id": "lory",
+            "word": "lory"
+        },
+        {
+            "id": "lotusbird",
+            "word": "lotusbird"
+        },
+        {
+            "id": "lovebird",
+            "word": "lovebird"
+        },
+        {
+            "id": "lyrebird",
+            "word": "lyrebird"
+        },
+        {
+            "id": "macaroni_penguin",
+            "word": "macaroni penguin"
+        },
+        {
+            "id": "macaw",
+            "word": "macaw"
+        },
+        {
+            "id": "maggie",
+            "word": "maggie"
+        },
+        {
+            "id": "magpie",
+            "word": "magpie"
+        },
+        {
+            "id": "magpie_lark",
+            "word": "magpie lark"
+        },
+        {
+            "id": "maleo",
+            "word": "maleo"
+        },
+        {
+            "id": "malimbe",
+            "word": "malimbe"
+        },
+        {
+            "id": "malkoha",
+            "word": "malkoha"
+        },
+        {
+            "id": "mallard",
+            "word": "mallard"
+        },
+        {
+            "id": "malleefowl",
+            "word": "malleefowl"
+        },
+        {
+            "id": "manakin",
+            "word": "manakin"
+        },
+        {
+            "id": "mandarin_duck",
+            "word": "mandarin duck"
+        },
+        {
+            "id": "mannikin",
+            "word": "mannikin"
+        },
+        {
+            "id": "manucode",
+            "word": "manucode"
+        },
+        {
+            "id": "manx_shearwater",
+            "word": "manx shearwater"
+        },
+        {
+            "id": "marabou",
+            "word": "marabou"
+        },
+        {
+            "id": "marshbird",
+            "word": "marshbird"
+        },
+        {
+            "id": "marsh_harrier",
+            "word": "marsh harrier"
+        },
+        {
+            "id": "marsh_tit",
+            "word": "marsh tit"
+        },
+        {
+            "id": "martial_eagle",
+            "word": "martial eagle"
+        },
+        {
+            "id": "martin",
+            "word": "martin"
+        },
+        {
+            "id": "mavis",
+            "word": "mavis"
+        },
+        {
+            "id": "meadowlark",
+            "word": "meadowlark"
+        },
+        {
+            "id": "meadow_pipit",
+            "word": "meadow pipit"
+        },
+        {
+            "id": "megapode",
+            "word": "megapode"
+        },
+        {
+            "id": "merganser",
+            "word": "merganser"
+        },
+        {
+            "id": "merle",
+            "word": "merle"
+        },
+        {
+            "id": "merlin",
+            "word": "merlin"
+        },
+        {
+            "id": "mesia",
+            "word": "mesia"
+        },
+        {
+            "id": "miner",
+            "word": "miner"
+        },
+        {
+            "id": "minivet",
+            "word": "minivet"
+        },
+        {
+            "id": "mistle_thrush",
+            "word": "mistle thrush"
+        },
+        {
+            "id": "mistletoebird",
+            "word": "mistletoebird"
+        },
+        {
+            "id": "moa",
+            "word": "moa"
+        },
+        {
+            "id": "mockingbird",
+            "word": "mockingbird"
+        },
+        {
+            "id": "mollymawk",
+            "word": "mollymawk"
+        },
+        {
+            "id": "monal",
+            "word": "monal"
+        },
+        {
+            "id": "montagu%27s_harrier",
+            "word": "montagu's harrier"
+        },
+        {
+            "id": "moorcock",
+            "word": "moorcock"
+        },
+        {
+            "id": "moorhen",
+            "word": "moorhen"
+        },
+        {
+            "id": "mopoke",
+            "word": "mopoke"
+        },
+        {
+            "id": "mossie",
+            "word": "mossie"
+        },
+        {
+            "id": "motmot",
+            "word": "motmot"
+        },
+        {
+            "id": "mountain_gem",
+            "word": "mountain gem"
+        },
+        {
+            "id": "mourning_dove",
+            "word": "mourning dove"
+        },
+        {
+            "id": "mousebird",
+            "word": "mousebird"
+        },
+        {
+            "id": "mud-nester",
+            "word": "mud-nester"
+        },
+        {
+            "id": "munia",
+            "word": "munia"
+        },
+        {
+            "id": "murre",
+            "word": "murre"
+        },
+        {
+            "id": "murrelet",
+            "word": "murrelet"
+        },
+        {
+            "id": "muscovy_duck",
+            "word": "muscovy duck"
+        },
+        {
+            "id": "musk_duck",
+            "word": "musk duck"
+        },
+        {
+            "id": "mute_swan",
+            "word": "mute swan"
+        },
+        {
+            "id": "mutton_bird",
+            "word": "mutton bird"
+        },
+        {
+            "id": "mynah",
+            "word": "mynah"
+        },
+        {
+            "id": "native_hen",
+            "word": "native hen"
+        },
+        {
+            "id": "needletail",
+            "word": "needletail"
+        },
+        {
+            "id": "nester",
+            "word": "nester"
+        },
+        {
+            "id": "nestling",
+            "word": "nestling"
+        },
+        {
+            "id": "nighthawk",
+            "word": "nighthawk"
+        },
+        {
+            "id": "night_heron",
+            "word": "night heron"
+        },
+        {
+            "id": "nightingale",
+            "word": "nightingale"
+        },
+        {
+            "id": "nightjar",
+            "word": "nightjar"
+        },
+        {
+            "id": "noisy_miner",
+            "word": "noisy miner"
+        },
+        {
+            "id": "northern_harrier",
+            "word": "northern harrier"
+        },
+        {
+            "id": "nunbird",
+            "word": "nunbird"
+        },
+        {
+            "id": "nuthatch",
+            "word": "nuthatch"
+        },
+        {
+            "id": "oilbird",
+            "word": "oilbird"
+        },
+        {
+            "id": "o-o",
+            "word": "o-o"
+        },
+        {
+            "id": "orangequit",
+            "word": "orangequit"
+        },
+        {
+            "id": "oriole",
+            "word": "oriole"
+        },
+        {
+            "id": "oropendola",
+            "word": "oropendola"
+        },
+        {
+            "id": "ortolan",
+            "word": "ortolan"
+        },
+        {
+            "id": "osprey",
+            "word": "osprey"
+        },
+        {
+            "id": "ostrich",
+            "word": "ostrich"
+        },
+        {
+            "id": "ou",
+            "word": "ou"
+        },
+        {
+            "id": "ouzel",
+            "word": "ouzel"
+        },
+        {
+            "id": "ovenbird",
+            "word": "ovenbird"
+        },
+        {
+            "id": "owl",
+            "word": "owl"
+        },
+        {
+            "id": "owlet",
+            "word": "owlet"
+        },
+        {
+            "id": "owlet-nightjar",
+            "word": "owlet-nightjar"
+        },
+        {
+            "id": "oxpecker",
+            "word": "oxpecker"
+        },
+        {
+            "id": "oystercatcher",
+            "word": "oystercatcher"
+        },
+        {
+            "id": "painted_snipe",
+            "word": "painted snipe"
+        },
+        {
+            "id": "paradise_duck",
+            "word": "paradise duck"
+        },
+        {
+            "id": "paradise_flycatcher",
+            "word": "paradise flycatcher"
+        },
+        {
+            "id": "parakeet",
+            "word": "parakeet"
+        },
+        {
+            "id": "pardalote",
+            "word": "pardalote"
+        },
+        {
+            "id": "parrie",
+            "word": "parrie"
+        },
+        {
+            "id": "parrot",
+            "word": "parrot"
+        },
+        {
+            "id": "parrotbill",
+            "word": "parrotbill"
+        },
+        {
+            "id": "parrotlet",
+            "word": "parrotlet"
+        },
+        {
+            "id": "partridge",
+            "word": "partridge"
+        },
+        {
+            "id": "passenger_pigeon",
+            "word": "passenger pigeon"
+        },
+        {
+            "id": "pauraque",
+            "word": "pauraque"
+        },
+        {
+            "id": "peachick",
+            "word": "peachick"
+        },
+        {
+            "id": "peacock",
+            "word": "peacock"
+        },
+        {
+            "id": "peafowl",
+            "word": "peafowl"
+        },
+        {
+            "id": "peahen",
+            "word": "peahen"
+        },
+        {
+            "id": "pectoral_sandpiper",
+            "word": "pectoral sandpiper"
+        },
+        {
+            "id": "peewee",
+            "word": "peewee"
+        },
+        {
+            "id": "peewit",
+            "word": "peewit"
+        },
+        {
+            "id": "pelican",
+            "word": "pelican"
+        },
+        {
+            "id": "penduline_tit",
+            "word": "penduline tit"
+        },
+        {
+            "id": "penguin",
+            "word": "penguin"
+        },
+        {
+            "id": "pepper-shrike",
+            "word": "pepper-shrike"
+        },
+        {
+            "id": "peregrine",
+            "word": "peregrine"
+        },
+        {
+            "id": "petrel",
+            "word": "petrel"
+        },
+        {
+            "id": "pewee",
+            "word": "pewee"
+        },
+        {
+            "id": "phalarope",
+            "word": "phalarope"
+        },
+        {
+            "id": "pheasant",
+            "word": "pheasant"
+        },
+        {
+            "id": "phoebe",
+            "word": "phoebe"
+        },
+        {
+            "id": "piapiac",
+            "word": "piapiac"
+        },
+        {
+            "id": "piculet",
+            "word": "piculet"
+        },
+        {
+            "id": "pie",
+            "word": "pie"
+        },
+        {
+            "id": "pied_wagtail",
+            "word": "pied wagtail"
+        },
+        {
+            "id": "piet-my-vrou",
+            "word": "piet-my-vrou"
+        },
+        {
+            "id": "pigeon",
+            "word": "pigeon"
+        },
+        {
+            "id": "pileated_woodpecker",
+            "word": "pileated woodpecker"
+        },
+        {
+            "id": "pilot_bird",
+            "word": "pilot bird"
+        },
+        {
+            "id": "pintado_petrel",
+            "word": "pintado petrel"
+        },
+        {
+            "id": "pintail",
+            "word": "pintail"
+        },
+        {
+            "id": "piping_plover",
+            "word": "piping plover"
+        },
+        {
+            "id": "pipit",
+            "word": "pipit"
+        },
+        {
+            "id": "pitta",
+            "word": "pitta"
+        },
+        {
+            "id": "plains-wanderer",
+            "word": "plains-wanderer"
+        },
+        {
+            "id": "plantain-eater",
+            "word": "plantain-eater"
+        },
+        {
+            "id": "plover",
+            "word": "plover"
+        },
+        {
+            "id": "pochard",
+            "word": "pochard"
+        },
+        {
+            "id": "pomarine_skua",
+            "word": "pomarine skua"
+        },
+        {
+            "id": "poor-me-one",
+            "word": "poor-me-one"
+        },
+        {
+            "id": "poorwill",
+            "word": "poorwill"
+        },
+        {
+            "id": "potoo",
+            "word": "potoo"
+        },
+        {
+            "id": "prairie_chicken",
+            "word": "prairie chicken"
+        },
+        {
+            "id": "pratincole",
+            "word": "pratincole"
+        },
+        {
+            "id": "prion",
+            "word": "prion"
+        },
+        {
+            "id": "prothonotary_warbler",
+            "word": "prothonotary warbler"
+        },
+        {
+            "id": "ptarmigan",
+            "word": "ptarmigan"
+        },
+        {
+            "id": "puffback",
+            "word": "puffback"
+        },
+        {
+            "id": "puffbird",
+            "word": "puffbird"
+        },
+        {
+            "id": "puffin",
+            "word": "puffin"
+        },
+        {
+            "id": "pullus",
+            "word": "pullus"
+        },
+        {
+            "id": "purple_martin",
+            "word": "purple martin"
+        },
+        {
+            "id": "pyet",
+            "word": "pyet"
+        },
+        {
+            "id": "pygmy_owl",
+            "word": "pygmy owl"
+        },
+        {
+            "id": "quail",
+            "word": "quail"
+        },
+        {
+            "id": "quelea",
+            "word": "quelea"
+        },
+        {
+            "id": "quetzal",
+            "word": "quetzal"
+        },
+        {
+            "id": "quit",
+            "word": "quit"
+        },
+        {
+            "id": "racket-tail",
+            "word": "racket-tail"
+        },
+        {
+            "id": "rail",
+            "word": "rail"
+        },
+        {
+            "id": "rail-babbler",
+            "word": "rail-babbler"
+        },
+        {
+            "id": "rainbird",
+            "word": "rainbird"
+        },
+        {
+            "id": "rainbow_lorikeet",
+            "word": "rainbow lorikeet"
+        },
+        {
+            "id": "raptor",
+            "word": "raptor"
+        },
+        {
+            "id": "raven",
+            "word": "raven"
+        },
+        {
+            "id": "razorbill",
+            "word": "razorbill"
+        },
+        {
+            "id": "redbreast",
+            "word": "redbreast"
+        },
+        {
+            "id": "red_grouse",
+            "word": "red grouse"
+        },
+        {
+            "id": "red_kite",
+            "word": "red kite"
+        },
+        {
+            "id": "redpoll",
+            "word": "redpoll"
+        },
+        {
+            "id": "redshank",
+            "word": "redshank"
+        },
+        {
+            "id": "red-shouldered_hawk",
+            "word": "red-shouldered hawk"
+        },
+        {
+            "id": "redstart",
+            "word": "redstart"
+        },
+        {
+            "id": "red-tailed_hawk",
+            "word": "red-tailed hawk"
+        },
+        {
+            "id": "redwing",
+            "word": "redwing"
+        },
+        {
+            "id": "reed_bunting",
+            "word": "reed bunting"
+        },
+        {
+            "id": "reed_warbler",
+            "word": "reed warbler"
+        },
+        {
+            "id": "reeve",
+            "word": "reeve"
+        },
+        {
+            "id": "rhea",
+            "word": "rhea"
+        },
+        {
+            "id": "rhinoceros_hornbill",
+            "word": "rhinoceros hornbill"
+        },
+        {
+            "id": "rifle_bird",
+            "word": "rifle bird"
+        },
+        {
+            "id": "ringdove",
+            "word": "ringdove"
+        },
+        {
+            "id": "ringed_plover",
+            "word": "ringed plover"
+        },
+        {
+            "id": "ringneck",
+            "word": "ringneck"
+        },
+        {
+            "id": "ring_ouzel",
+            "word": "ring ouzel"
+        },
+        {
+            "id": "roadrunner",
+            "word": "roadrunner"
+        },
+        {
+            "id": "robin",
+            "word": "robin"
+        },
+        {
+            "id": "robin-chat",
+            "word": "robin-chat"
+        },
+        {
+            "id": "rock_dove",
+            "word": "rock dove"
+        },
+        {
+            "id": "rockfowl",
+            "word": "rockfowl"
+        },
+        {
+            "id": "rockhopper",
+            "word": "rockhopper"
+        },
+        {
+            "id": "rock_pipit",
+            "word": "rock pipit"
+        },
+        {
+            "id": "rock_thrush",
+            "word": "rock thrush"
+        },
+        {
+            "id": "rook",
+            "word": "rook"
+        },
+        {
+            "id": "rose-breasted_grosbeak",
+            "word": "rose-breasted grosbeak"
+        },
+        {
+            "id": "rose-coloured_starling",
+            "word": "rose-coloured starling"
+        },
+        {
+            "id": "rosefinch",
+            "word": "rosefinch"
+        },
+        {
+            "id": "rosella",
+            "word": "rosella"
+        },
+        {
+            "id": "rosy_finch",
+            "word": "rosy finch"
+        },
+        {
+            "id": "rubythroat",
+            "word": "rubythroat"
+        },
+        {
+            "id": "ruddy_duck",
+            "word": "ruddy duck"
+        },
+        {
+            "id": "ruffed_grouse",
+            "word": "ruffed grouse"
+        },
+        {
+            "id": "sabrewing",
+            "word": "sabrewing"
+        },
+        {
+            "id": "sacred_ibis",
+            "word": "sacred ibis"
+        },
+        {
+            "id": "sage_grouse",
+            "word": "sage grouse"
+        },
+        {
+            "id": "sakabula",
+            "word": "sakabula"
+        },
+        {
+            "id": "saker",
+            "word": "saker"
+        },
+        {
+            "id": "sanderling",
+            "word": "sanderling"
+        },
+        {
+            "id": "sandgrouse",
+            "word": "sandgrouse"
+        },
+        {
+            "id": "sandhill_crane",
+            "word": "sandhill crane"
+        },
+        {
+            "id": "sand_martin",
+            "word": "sand martin"
+        },
+        {
+            "id": "sandpiper",
+            "word": "sandpiper"
+        },
+        {
+            "id": "sand_plover",
+            "word": "sand plover"
+        },
+        {
+            "id": "sandwich_tern",
+            "word": "sandwich tern"
+        },
+        {
+            "id": "sapsucker",
+            "word": "sapsucker"
+        },
+        {
+            "id": "sarus_crane",
+            "word": "sarus crane"
+        },
+        {
+            "id": "savannah_sparrow",
+            "word": "savannah sparrow"
+        },
+        {
+            "id": "saw-whet_owl",
+            "word": "saw-whet owl"
+        },
+        {
+            "id": "scarlet_tanager",
+            "word": "scarlet tanager"
+        },
+        {
+            "id": "scaup",
+            "word": "scaup"
+        },
+        {
+            "id": "scimitarbill",
+            "word": "scimitarbill"
+        },
+        {
+            "id": "scissortail",
+            "word": "scissortail"
+        },
+        {
+            "id": "scops_owl",
+            "word": "scops owl"
+        },
+        {
+            "id": "scoter",
+            "word": "scoter"
+        },
+        {
+            "id": "screech_owl",
+            "word": "screech owl"
+        },
+        {
+            "id": "scrub-bird",
+            "word": "scrub-bird"
+        },
+        {
+            "id": "scrubfowl",
+            "word": "scrubfowl"
+        },
+        {
+            "id": "scrub_jay",
+            "word": "scrub jay"
+        },
+        {
+            "id": "seabird",
+            "word": "seabird"
+        },
+        {
+            "id": "sea_duck",
+            "word": "sea duck"
+        },
+        {
+            "id": "sea_eagle",
+            "word": "sea eagle"
+        },
+        {
+            "id": "seagull",
+            "word": "seagull"
+        },
+        {
+            "id": "seaside_sparrow",
+            "word": "seaside sparrow"
+        },
+        {
+            "id": "secretary_bird",
+            "word": "secretary bird"
+        },
+        {
+            "id": "sedge_warbler",
+            "word": "sedge warbler"
+        },
+        {
+            "id": "seedeater",
+            "word": "seedeater"
+        },
+        {
+            "id": "seed_snipe",
+            "word": "seed snipe"
+        },
+        {
+            "id": "seriema",
+            "word": "seriema"
+        },
+        {
+            "id": "serin",
+            "word": "serin"
+        },
+        {
+            "id": "settler%27s_clock",
+            "word": "settler's clock"
+        },
+        {
+            "id": "shag",
+            "word": "shag"
+        },
+        {
+            "id": "shama",
+            "word": "shama"
+        },
+        {
+            "id": "shearwater",
+            "word": "shearwater"
+        },
+        {
+            "id": "sheathbill",
+            "word": "sheathbill"
+        },
+        {
+            "id": "shelduck",
+            "word": "shelduck"
+        },
+        {
+            "id": "shikra",
+            "word": "shikra"
+        },
+        {
+            "id": "shitehawk",
+            "word": "shitehawk"
+        },
+        {
+            "id": "shitepoke",
+            "word": "shitepoke"
+        },
+        {
+            "id": "shorebird",
+            "word": "shorebird"
+        },
+        {
+            "id": "shorelark",
+            "word": "shorelark"
+        },
+        {
+            "id": "short-eared_owl",
+            "word": "short-eared owl"
+        },
+        {
+            "id": "shoveler",
+            "word": "shoveler"
+        },
+        {
+            "id": "shrike",
+            "word": "shrike"
+        },
+        {
+            "id": "sibia",
+            "word": "sibia"
+        },
+        {
+            "id": "sicklebill",
+            "word": "sicklebill"
+        },
+        {
+            "id": "silvereye",
+            "word": "silvereye"
+        },
+        {
+            "id": "siskin",
+            "word": "siskin"
+        },
+        {
+            "id": "sittella",
+            "word": "sittella"
+        },
+        {
+            "id": "skua",
+            "word": "skua"
+        },
+        {
+            "id": "skylark",
+            "word": "skylark"
+        },
+        {
+            "id": "slavonian_grebe",
+            "word": "slavonian grebe"
+        },
+        {
+            "id": "smew",
+            "word": "smew"
+        },
+        {
+            "id": "snipe",
+            "word": "snipe"
+        },
+        {
+            "id": "snow_bunting",
+            "word": "snow bunting"
+        },
+        {
+            "id": "snowcock",
+            "word": "snowcock"
+        },
+        {
+            "id": "snow_goose",
+            "word": "snow goose"
+        },
+        {
+            "id": "snowy_owl",
+            "word": "snowy owl"
+        },
+        {
+            "id": "solan",
+            "word": "solan"
+        },
+        {
+            "id": "songbird",
+            "word": "songbird"
+        },
+        {
+            "id": "song_sparrow",
+            "word": "song sparrow"
+        },
+        {
+            "id": "song_thrush",
+            "word": "song thrush"
+        },
+        {
+            "id": "sora",
+            "word": "sora"
+        },
+        {
+            "id": "sparrow",
+            "word": "sparrow"
+        },
+        {
+            "id": "sparrowhawk",
+            "word": "sparrowhawk"
+        },
+        {
+            "id": "spinetail",
+            "word": "spinetail"
+        },
+        {
+            "id": "spinifexbird",
+            "word": "spinifexbird"
+        },
+        {
+            "id": "spoonbill",
+            "word": "spoonbill"
+        },
+        {
+            "id": "spotted_flycatcher",
+            "word": "spotted flycatcher"
+        },
+        {
+            "id": "spug",
+            "word": "spug"
+        },
+        {
+            "id": "spurfowl",
+            "word": "spurfowl"
+        },
+        {
+            "id": "squacco_heron",
+            "word": "squacco heron"
+        },
+        {
+            "id": "stanley_crane",
+            "word": "stanley crane"
+        },
+        {
+            "id": "starling",
+            "word": "starling"
+        },
+        {
+            "id": "steamer_duck",
+            "word": "steamer duck"
+        },
+        {
+            "id": "steller%27s_jay",
+            "word": "steller's jay"
+        },
+        {
+            "id": "stifftail",
+            "word": "stifftail"
+        },
+        {
+            "id": "stint",
+            "word": "stint"
+        },
+        {
+            "id": "stitchbird",
+            "word": "stitchbird"
+        },
+        {
+            "id": "stock_dove",
+            "word": "stock dove"
+        },
+        {
+            "id": "stonechat",
+            "word": "stonechat"
+        },
+        {
+            "id": "stone_curlew",
+            "word": "stone curlew"
+        },
+        {
+            "id": "stonehatch",
+            "word": "stonehatch"
+        },
+        {
+            "id": "stork",
+            "word": "stork"
+        },
+        {
+            "id": "stormcock",
+            "word": "stormcock"
+        },
+        {
+            "id": "storm_petrel",
+            "word": "storm petrel"
+        },
+        {
+            "id": "sugarbird",
+            "word": "sugarbird"
+        },
+        {
+            "id": "summer_tanager",
+            "word": "summer tanager"
+        },
+        {
+            "id": "sunbird",
+            "word": "sunbird"
+        },
+        {
+            "id": "sunbittern",
+            "word": "sunbittern"
+        },
+        {
+            "id": "sungrebe",
+            "word": "sungrebe"
+        },
+        {
+            "id": "surfbird",
+            "word": "surfbird"
+        },
+        {
+            "id": "swainson%27s_hawk",
+            "word": "swainson's hawk"
+        },
+        {
+            "id": "swallow",
+            "word": "swallow"
+        },
+        {
+            "id": "swamphen",
+            "word": "swamphen"
+        },
+        {
+            "id": "swan",
+            "word": "swan"
+        },
+        {
+            "id": "swiftlet",
+            "word": "swiftlet"
+        },
+        {
+            "id": "swordbill",
+            "word": "swordbill"
+        },
+        {
+            "id": "tailorbird",
+            "word": "tailorbird"
+        },
+        {
+            "id": "takahe",
+            "word": "takahe"
+        },
+        {
+            "id": "tanager",
+            "word": "tanager"
+        },
+        {
+            "id": "tawny_eagle",
+            "word": "tawny eagle"
+        },
+        {
+            "id": "tawny_owl",
+            "word": "tawny owl"
+        },
+        {
+            "id": "tchagra",
+            "word": "tchagra"
+        },
+        {
+            "id": "teal",
+            "word": "teal"
+        },
+        {
+            "id": "tern",
+            "word": "tern"
+        },
+        {
+            "id": "ternlet",
+            "word": "ternlet"
+        },
+        {
+            "id": "thornbill",
+            "word": "thornbill"
+        },
+        {
+            "id": "thorntail",
+            "word": "thorntail"
+        },
+        {
+            "id": "thrasher",
+            "word": "thrasher"
+        },
+        {
+            "id": "thrush",
+            "word": "thrush"
+        },
+        {
+            "id": "thrush_nightingale",
+            "word": "thrush nightingale"
+        },
+        {
+            "id": "tinamou",
+            "word": "tinamou"
+        },
+        {
+            "id": "tinkerbird",
+            "word": "tinkerbird"
+        },
+        {
+            "id": "tinktinkie",
+            "word": "tinktinkie"
+        },
+        {
+            "id": "tit",
+            "word": "tit"
+        },
+        {
+            "id": "titihoya",
+            "word": "titihoya"
+        },
+        {
+            "id": "titlark",
+            "word": "titlark"
+        },
+        {
+            "id": "titling",
+            "word": "titling"
+        },
+        {
+            "id": "toco",
+            "word": "toco"
+        },
+        {
+            "id": "tody",
+            "word": "tody"
+        },
+        {
+            "id": "tomtit",
+            "word": "tomtit"
+        },
+        {
+            "id": "toppie",
+            "word": "toppie"
+        },
+        {
+            "id": "toucan",
+            "word": "toucan"
+        },
+        {
+            "id": "toucanet",
+            "word": "toucanet"
+        },
+        {
+            "id": "towhee",
+            "word": "towhee"
+        },
+        {
+            "id": "tragopan",
+            "word": "tragopan"
+        },
+        {
+            "id": "treecreeper",
+            "word": "treecreeper"
+        },
+        {
+            "id": "tree_pie",
+            "word": "tree pie"
+        },
+        {
+            "id": "tree_pipit",
+            "word": "tree pipit"
+        },
+        {
+            "id": "tree_sparrow",
+            "word": "tree sparrow"
+        },
+        {
+            "id": "tree_swallow",
+            "word": "tree swallow"
+        },
+        {
+            "id": "triller",
+            "word": "triller"
+        },
+        {
+            "id": "trogon",
+            "word": "trogon"
+        },
+        {
+            "id": "tropicbird",
+            "word": "tropicbird"
+        },
+        {
+            "id": "troupial",
+            "word": "troupial"
+        },
+        {
+            "id": "trumpeter_swan",
+            "word": "trumpeter swan"
+        },
+        {
+            "id": "tufted_duck",
+            "word": "tufted duck"
+        },
+        {
+            "id": "tui",
+            "word": "tui"
+        },
+        {
+            "id": "tundra_swan",
+            "word": "tundra swan"
+        },
+        {
+            "id": "turaco",
+            "word": "turaco"
+        },
+        {
+            "id": "turkey",
+            "word": "turkey"
+        },
+        {
+            "id": "turkey_cock",
+            "word": "turkey cock"
+        },
+        {
+            "id": "turkey_vulture",
+            "word": "turkey vulture"
+        },
+        {
+            "id": "turnstone",
+            "word": "turnstone"
+        },
+        {
+            "id": "turtle_dove",
+            "word": "turtle dove"
+        },
+        {
+            "id": "twenty-eight",
+            "word": "twenty-eight"
+        },
+        {
+            "id": "twinspot",
+            "word": "twinspot"
+        },
+        {
+            "id": "twite",
+            "word": "twite"
+        },
+        {
+            "id": "tyrannulet",
+            "word": "tyrannulet"
+        },
+        {
+            "id": "tyrant_flycatcher",
+            "word": "tyrant flycatcher"
+        },
+        {
+            "id": "umbrellabird",
+            "word": "umbrellabird"
+        },
+        {
+            "id": "upland_sandpiper",
+            "word": "upland sandpiper"
+        },
+        {
+            "id": "vanga",
+            "word": "vanga"
+        },
+        {
+            "id": "veery",
+            "word": "veery"
+        },
+        {
+            "id": "verdin",
+            "word": "verdin"
+        },
+        {
+            "id": "vesper_sparrow",
+            "word": "vesper sparrow"
+        },
+        {
+            "id": "violet-ear",
+            "word": "violet-ear"
+        },
+        {
+            "id": "vireo",
+            "word": "vireo"
+        },
+        {
+            "id": "vulture",
+            "word": "vulture"
+        },
+        {
+            "id": "vulturine",
+            "word": "vulturine"
+        },
+        {
+            "id": "wader",
+            "word": "wader"
+        },
+        {
+            "id": "wading_bird",
+            "word": "wading bird"
+        },
+        {
+            "id": "wagtail",
+            "word": "wagtail"
+        },
+        {
+            "id": "waldrapp",
+            "word": "waldrapp"
+        },
+        {
+            "id": "wallcreeper",
+            "word": "wallcreeper"
+        },
+        {
+            "id": "wandering_albatross",
+            "word": "wandering albatross"
+        },
+        {
+            "id": "warbler",
+            "word": "warbler"
+        },
+        {
+            "id": "waterbird",
+            "word": "waterbird"
+        },
+        {
+            "id": "watercock",
+            "word": "watercock"
+        },
+        {
+            "id": "waterfowl",
+            "word": "waterfowl"
+        },
+        {
+            "id": "waterhen",
+            "word": "waterhen"
+        },
+        {
+            "id": "water_pipit",
+            "word": "water pipit"
+        },
+        {
+            "id": "water_rail",
+            "word": "water rail"
+        },
+        {
+            "id": "waterthrush",
+            "word": "waterthrush"
+        },
+        {
+            "id": "wattlebird",
+            "word": "wattlebird"
+        },
+        {
+            "id": "wattle-eye",
+            "word": "wattle-eye"
+        },
+        {
+            "id": "waxbill",
+            "word": "waxbill"
+        },
+        {
+            "id": "waxwing",
+            "word": "waxwing"
+        },
+        {
+            "id": "wedgebill",
+            "word": "wedgebill"
+        },
+        {
+            "id": "weebill",
+            "word": "weebill"
+        },
+        {
+            "id": "weka",
+            "word": "weka"
+        },
+        {
+            "id": "whalebird",
+            "word": "whalebird"
+        },
+        {
+            "id": "whale-headed_stork",
+            "word": "whale-headed stork"
+        },
+        {
+            "id": "whaup",
+            "word": "whaup"
+        },
+        {
+            "id": "wheatear",
+            "word": "wheatear"
+        },
+        {
+            "id": "whimbrel",
+            "word": "whimbrel"
+        },
+        {
+            "id": "whinchat",
+            "word": "whinchat"
+        },
+        {
+            "id": "whipbird",
+            "word": "whipbird"
+        },
+        {
+            "id": "whippoorwill",
+            "word": "whippoorwill"
+        },
+        {
+            "id": "whistling_duck",
+            "word": "whistling duck"
+        },
+        {
+            "id": "whistling_swan",
+            "word": "whistling swan"
+        },
+        {
+            "id": "white-eye",
+            "word": "white-eye"
+        },
+        {
+            "id": "whitefront",
+            "word": "whitefront"
+        },
+        {
+            "id": "whitethroat",
+            "word": "whitethroat"
+        },
+        {
+            "id": "whooper",
+            "word": "whooper"
+        },
+        {
+            "id": "whooping_crane",
+            "word": "whooping crane"
+        },
+        {
+            "id": "whydah",
+            "word": "whydah"
+        },
+        {
+            "id": "widowbird",
+            "word": "widowbird"
+        },
+        {
+            "id": "wigeon",
+            "word": "wigeon"
+        },
+        {
+            "id": "wildfowl",
+            "word": "wildfowl"
+        },
+        {
+            "id": "willet",
+            "word": "willet"
+        },
+        {
+            "id": "willie_wagtail",
+            "word": "willie wagtail"
+        },
+        {
+            "id": "willow_grouse",
+            "word": "willow grouse"
+        },
+        {
+            "id": "willow_tit",
+            "word": "willow tit"
+        },
+        {
+            "id": "willow_warbler",
+            "word": "willow warbler"
+        },
+        {
+            "id": "windhover",
+            "word": "windhover"
+        },
+        {
+            "id": "woodchat",
+            "word": "woodchat"
+        },
+        {
+            "id": "woodcock",
+            "word": "woodcock"
+        },
+        {
+            "id": "wood_duck",
+            "word": "wood duck"
+        },
+        {
+            "id": "woodgrouse",
+            "word": "woodgrouse"
+        },
+        {
+            "id": "wood-hoopoe",
+            "word": "wood-hoopoe"
+        },
+        {
+            "id": "wood_ibis",
+            "word": "wood ibis"
+        },
+        {
+            "id": "woodlark",
+            "word": "woodlark"
+        },
+        {
+            "id": "woodpecker",
+            "word": "woodpecker"
+        },
+        {
+            "id": "wood_pigeon",
+            "word": "wood pigeon"
+        },
+        {
+            "id": "woodstar",
+            "word": "woodstar"
+        },
+        {
+            "id": "woodswallow",
+            "word": "woodswallow"
+        },
+        {
+            "id": "wood_thrush",
+            "word": "wood thrush"
+        },
+        {
+            "id": "wood_warbler",
+            "word": "wood warbler"
+        },
+        {
+            "id": "wren",
+            "word": "wren"
+        },
+        {
+            "id": "wrentit",
+            "word": "wrentit"
+        },
+        {
+            "id": "wrybill",
+            "word": "wrybill"
+        },
+        {
+            "id": "wryneck",
+            "word": "wryneck"
+        },
+        {
+            "id": "yellowbill",
+            "word": "yellowbill"
+        },
+        {
+            "id": "yellowhammer",
+            "word": "yellowhammer"
+        },
+        {
+            "id": "yellowhead",
+            "word": "yellowhead"
+        },
+        {
+            "id": "yellowlegs",
+            "word": "yellowlegs"
+        },
+        {
+            "id": "yellowthroat",
+            "word": "yellowthroat"
+        },
+        {
+            "id": "zebra_finch",
+            "word": "zebra finch"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 860,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

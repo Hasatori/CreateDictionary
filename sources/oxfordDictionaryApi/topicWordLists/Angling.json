@@ -1,0 +1,515 @@
+{
+    "results": [
+        {
+            "id": "amadou",
+            "word": "amadou"
+        },
+        {
+            "id": "angle",
+            "word": "angle"
+        },
+        {
+            "id": "angler",
+            "word": "angler"
+        },
+        {
+            "id": "angling",
+            "word": "angling"
+        },
+        {
+            "id": "backcast",
+            "word": "backcast"
+        },
+        {
+            "id": "bait",
+            "word": "bait"
+        },
+        {
+            "id": "baitcasting",
+            "word": "baitcasting"
+        },
+        {
+            "id": "berley",
+            "word": "berley"
+        },
+        {
+            "id": "blood_knot",
+            "word": "blood knot"
+        },
+        {
+            "id": "boilie",
+            "word": "boilie"
+        },
+        {
+            "id": "cast",
+            "word": "cast"
+        },
+        {
+            "id": "cast_net",
+            "word": "cast net"
+        },
+        {
+            "id": "centrepin",
+            "word": "centrepin"
+        },
+        {
+            "id": "chum",
+            "word": "chum"
+        },
+        {
+            "id": "coarse_fish",
+            "word": "coarse fish"
+        },
+        {
+            "id": "coop",
+            "word": "coop"
+        },
+        {
+            "id": "cran",
+            "word": "cran"
+        },
+        {
+            "id": "crayfishing",
+            "word": "crayfishing"
+        },
+        {
+            "id": "craypot",
+            "word": "craypot"
+        },
+        {
+            "id": "creel",
+            "word": "creel"
+        },
+        {
+            "id": "dap",
+            "word": "dap"
+        },
+        {
+            "id": "deer_hair",
+            "word": "deer hair"
+        },
+        {
+            "id": "dew_worm",
+            "word": "dew worm"
+        },
+        {
+            "id": "dib",
+            "word": "dib"
+        },
+        {
+            "id": "dip_net",
+            "word": "dip net"
+        },
+        {
+            "id": "disgorger",
+            "word": "disgorger"
+        },
+        {
+            "id": "doryman",
+            "word": "doryman"
+        },
+        {
+            "id": "dragnet",
+            "word": "dragnet"
+        },
+        {
+            "id": "drail",
+            "word": "drail"
+        },
+        {
+            "id": "drake",
+            "word": "drake"
+        },
+        {
+            "id": "dry_fly",
+            "word": "dry fly"
+        },
+        {
+            "id": "dubbing",
+            "word": "dubbing"
+        },
+        {
+            "id": "dungworm",
+            "word": "dungworm"
+        },
+        {
+            "id": "electrofish",
+            "word": "electrofish"
+        },
+        {
+            "id": "fighting_chair",
+            "word": "fighting chair"
+        },
+        {
+            "id": "fingerling",
+            "word": "fingerling"
+        },
+        {
+            "id": "fisher",
+            "word": "fisher"
+        },
+        {
+            "id": "fisherfolk",
+            "word": "fisherfolk"
+        },
+        {
+            "id": "fisherman",
+            "word": "fisherman"
+        },
+        {
+            "id": "fisherwoman",
+            "word": "fisherwoman"
+        },
+        {
+            "id": "fishing_fly",
+            "word": "fishing fly"
+        },
+        {
+            "id": "fishing_line",
+            "word": "fishing line"
+        },
+        {
+            "id": "fishing_net",
+            "word": "fishing net"
+        },
+        {
+            "id": "fishing_pole",
+            "word": "fishing pole"
+        },
+        {
+            "id": "fishing_rod",
+            "word": "fishing rod"
+        },
+        {
+            "id": "fishing_tackle",
+            "word": "fishing tackle"
+        },
+        {
+            "id": "fisho",
+            "word": "fisho"
+        },
+        {
+            "id": "fish_pond",
+            "word": "fish pond"
+        },
+        {
+            "id": "fly-fish",
+            "word": "fly-fish"
+        },
+        {
+            "id": "fly_fishing",
+            "word": "fly fishing"
+        },
+        {
+            "id": "forage_fish",
+            "word": "forage fish"
+        },
+        {
+            "id": "fresh-run",
+            "word": "fresh-run"
+        },
+        {
+            "id": "fyke",
+            "word": "fyke"
+        },
+        {
+            "id": "gaff",
+            "word": "gaff"
+        },
+        {
+            "id": "game_fish",
+            "word": "game fish"
+        },
+        {
+            "id": "gentle",
+            "word": "gentle"
+        },
+        {
+            "id": "gig",
+            "word": "gig"
+        },
+        {
+            "id": "gillie",
+            "word": "gillie"
+        },
+        {
+            "id": "gill_net",
+            "word": "gill net"
+        },
+        {
+            "id": "grilse",
+            "word": "grilse"
+        },
+        {
+            "id": "groundbait",
+            "word": "groundbait"
+        },
+        {
+            "id": "haaf",
+            "word": "haaf"
+        },
+        {
+            "id": "halieutic",
+            "word": "halieutic"
+        },
+        {
+            "id": "harpoon",
+            "word": "harpoon"
+        },
+        {
+            "id": "harpoon_gun",
+            "word": "harpoon gun"
+        },
+        {
+            "id": "hempseed",
+            "word": "hempseed"
+        },
+        {
+            "id": "herl",
+            "word": "herl"
+        },
+        {
+            "id": "hook",
+            "word": "hook"
+        },
+        {
+            "id": "hookbait",
+            "word": "hookbait"
+        },
+        {
+            "id": "keepnet",
+            "word": "keepnet"
+        },
+        {
+            "id": "kiddle",
+            "word": "kiddle"
+        },
+        {
+            "id": "landing_net",
+            "word": "landing net"
+        },
+        {
+            "id": "leister",
+            "word": "leister"
+        },
+        {
+            "id": "line_fishing",
+            "word": "line fishing"
+        },
+        {
+            "id": "live_bait",
+            "word": "live bait"
+        },
+        {
+            "id": "lobster_pot",
+            "word": "lobster pot"
+        },
+        {
+            "id": "lobworm",
+            "word": "lobworm"
+        },
+        {
+            "id": "lunker",
+            "word": "lunker"
+        },
+        {
+            "id": "mataitai_reserve",
+            "word": "mataitai reserve"
+        },
+        {
+            "id": "monofilament",
+            "word": "monofilament"
+        },
+        {
+            "id": "monopod",
+            "word": "monopod"
+        },
+        {
+            "id": "night_crawler",
+            "word": "night crawler"
+        },
+        {
+            "id": "olivette",
+            "word": "olivette"
+        },
+        {
+            "id": "otter_board",
+            "word": "otter board"
+        },
+        {
+            "id": "panfish",
+            "word": "panfish"
+        },
+        {
+            "id": "pass",
+            "word": "pass"
+        },
+        {
+            "id": "paua_diver",
+            "word": "paua diver"
+        },
+        {
+            "id": "pirk",
+            "word": "pirk"
+        },
+        {
+            "id": "piscary",
+            "word": "piscary"
+        },
+        {
+            "id": "piscator",
+            "word": "piscator"
+        },
+        {
+            "id": "piscatorial",
+            "word": "piscatorial"
+        },
+        {
+            "id": "poacher",
+            "word": "poacher"
+        },
+        {
+            "id": "prebaiting",
+            "word": "prebaiting"
+        },
+        {
+            "id": "purse_net",
+            "word": "purse net"
+        },
+        {
+            "id": "purse_seine",
+            "word": "purse seine"
+        },
+        {
+            "id": "put-and-take",
+            "word": "put-and-take"
+        },
+        {
+            "id": "raceway",
+            "word": "raceway"
+        },
+        {
+            "id": "redd",
+            "word": "redd"
+        },
+        {
+            "id": "red_fish",
+            "word": "red fish"
+        },
+        {
+            "id": "redworm",
+            "word": "redworm"
+        },
+        {
+            "id": "roll_cast",
+            "word": "roll cast"
+        },
+        {
+            "id": "scoop_net",
+            "word": "scoop net"
+        },
+        {
+            "id": "sea-run",
+            "word": "sea-run"
+        },
+        {
+            "id": "seine",
+            "word": "seine"
+        },
+        {
+            "id": "shotted",
+            "word": "shotted"
+        },
+        {
+            "id": "shotten_herring",
+            "word": "shotten herring"
+        },
+        {
+            "id": "sinker",
+            "word": "sinker"
+        },
+        {
+            "id": "snell",
+            "word": "snell"
+        },
+        {
+            "id": "sniggle",
+            "word": "sniggle"
+        },
+        {
+            "id": "speargun",
+            "word": "speargun"
+        },
+        {
+            "id": "split_shot",
+            "word": "split shot"
+        },
+        {
+            "id": "spool",
+            "word": "spool"
+        },
+        {
+            "id": "squatt",
+            "word": "squatt"
+        },
+        {
+            "id": "stake_net",
+            "word": "stake net"
+        },
+        {
+            "id": "stream",
+            "word": "stream"
+        },
+        {
+            "id": "surfcasting",
+            "word": "surfcasting"
+        },
+        {
+            "id": "swimfeeder",
+            "word": "swimfeeder"
+        },
+        {
+            "id": "topwater",
+            "word": "topwater"
+        },
+        {
+            "id": "trouting",
+            "word": "trouting"
+        },
+        {
+            "id": "waggler",
+            "word": "waggler"
+        },
+        {
+            "id": "water_knot",
+            "word": "water knot"
+        },
+        {
+            "id": "weigh-in",
+            "word": "weigh-in"
+        },
+        {
+            "id": "wet_fly",
+            "word": "wet fly"
+        },
+        {
+            "id": "white_fish",
+            "word": "white fish"
+        },
+        {
+            "id": "wobbler",
+            "word": "wobbler"
+        },
+        {
+            "id": "worm-fishing",
+            "word": "worm-fishing"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 126,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

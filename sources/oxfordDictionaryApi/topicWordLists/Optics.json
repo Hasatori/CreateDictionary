@@ -1,0 +1,667 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 164,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "abbe%2C_ernst",
+            "word": "abbe, ernst"
+        },
+        {
+            "id": "achromat",
+            "word": "achromat"
+        },
+        {
+            "id": "achromatic",
+            "word": "achromatic"
+        },
+        {
+            "id": "anastigmat",
+            "word": "anastigmat"
+        },
+        {
+            "id": "anastigmatic",
+            "word": "anastigmatic"
+        },
+        {
+            "id": "aplanat",
+            "word": "aplanat"
+        },
+        {
+            "id": "apochromat",
+            "word": "apochromat"
+        },
+        {
+            "id": "aspherical",
+            "word": "aspherical"
+        },
+        {
+            "id": "biconcave",
+            "word": "biconcave"
+        },
+        {
+            "id": "biconvex",
+            "word": "biconvex"
+        },
+        {
+            "id": "bifocal",
+            "word": "bifocal"
+        },
+        {
+            "id": "birefringent",
+            "word": "birefringent"
+        },
+        {
+            "id": "camera_lucida",
+            "word": "camera lucida"
+        },
+        {
+            "id": "camera_obscura",
+            "word": "camera obscura"
+        },
+        {
+            "id": "campimetry",
+            "word": "campimetry"
+        },
+        {
+            "id": "cassegrain_telescope",
+            "word": "cassegrain telescope"
+        },
+        {
+            "id": "catadioptric",
+            "word": "catadioptric"
+        },
+        {
+            "id": "cathetometer",
+            "word": "cathetometer"
+        },
+        {
+            "id": "chromatic_aberration",
+            "word": "chromatic aberration"
+        },
+        {
+            "id": "colour",
+            "word": "colour"
+        },
+        {
+            "id": "complementary_colour",
+            "word": "complementary colour"
+        },
+        {
+            "id": "concave",
+            "word": "concave"
+        },
+        {
+            "id": "concavo-convex",
+            "word": "concavo-convex"
+        },
+        {
+            "id": "contact_lens",
+            "word": "contact lens"
+        },
+        {
+            "id": "convex",
+            "word": "convex"
+        },
+        {
+            "id": "convexo-concave",
+            "word": "convexo-concave"
+        },
+        {
+            "id": "coud%C3%A9",
+            "word": "coudé"
+        },
+        {
+            "id": "critical_angle",
+            "word": "critical angle"
+        },
+        {
+            "id": "crown_glass",
+            "word": "crown glass"
+        },
+        {
+            "id": "cyan",
+            "word": "cyan"
+        },
+        {
+            "id": "dark-field_microscopy",
+            "word": "dark-field microscopy"
+        },
+        {
+            "id": "deblur",
+            "word": "deblur"
+        },
+        {
+            "id": "defocus",
+            "word": "defocus"
+        },
+        {
+            "id": "dioptre",
+            "word": "dioptre"
+        },
+        {
+            "id": "dioptric",
+            "word": "dioptric"
+        },
+        {
+            "id": "dioptrics",
+            "word": "dioptrics"
+        },
+        {
+            "id": "dispensing_optician",
+            "word": "dispensing optician"
+        },
+        {
+            "id": "double_refraction",
+            "word": "double refraction"
+        },
+        {
+            "id": "electron_microscope",
+            "word": "electron microscope"
+        },
+        {
+            "id": "epifluorescence",
+            "word": "epifluorescence"
+        },
+        {
+            "id": "episcope",
+            "word": "episcope"
+        },
+        {
+            "id": "equatorial_telescope",
+            "word": "equatorial telescope"
+        },
+        {
+            "id": "extraordinary_ray",
+            "word": "extraordinary ray"
+        },
+        {
+            "id": "eye_chart",
+            "word": "eye chart"
+        },
+        {
+            "id": "eyecup",
+            "word": "eyecup"
+        },
+        {
+            "id": "eyeglass",
+            "word": "eyeglass"
+        },
+        {
+            "id": "eyepiece",
+            "word": "eyepiece"
+        },
+        {
+            "id": "far-sighted",
+            "word": "far-sighted"
+        },
+        {
+            "id": "fibrescope",
+            "word": "fibrescope"
+        },
+        {
+            "id": "field_of_vision",
+            "word": "field of vision"
+        },
+        {
+            "id": "fisheye",
+            "word": "fisheye"
+        },
+        {
+            "id": "focal_length",
+            "word": "focal length"
+        },
+        {
+            "id": "focal_plane",
+            "word": "focal plane"
+        },
+        {
+            "id": "focal_point",
+            "word": "focal point"
+        },
+        {
+            "id": "galilean_telescope",
+            "word": "galilean telescope"
+        },
+        {
+            "id": "gas-permeable",
+            "word": "gas-permeable"
+        },
+        {
+            "id": "ghost_image",
+            "word": "ghost image"
+        },
+        {
+            "id": "glasses",
+            "word": "glasses"
+        },
+        {
+            "id": "graticule",
+            "word": "graticule"
+        },
+        {
+            "id": "grating",
+            "word": "grating"
+        },
+        {
+            "id": "gregorian_telescope",
+            "word": "gregorian telescope"
+        },
+        {
+            "id": "heliometer",
+            "word": "heliometer"
+        },
+        {
+            "id": "high-powered",
+            "word": "high-powered"
+        },
+        {
+            "id": "horopter",
+            "word": "horopter"
+        },
+        {
+            "id": "huygens_eyepiece",
+            "word": "huygens eyepiece"
+        },
+        {
+            "id": "isochromatic",
+            "word": "isochromatic"
+        },
+        {
+            "id": "keratomileusis",
+            "word": "keratomileusis"
+        },
+        {
+            "id": "lasik",
+            "word": "lasik"
+        },
+        {
+            "id": "lens",
+            "word": "lens"
+        },
+        {
+            "id": "light",
+            "word": "light"
+        },
+        {
+            "id": "long_sight",
+            "word": "long sight"
+        },
+        {
+            "id": "long-sighted",
+            "word": "long-sighted"
+        },
+        {
+            "id": "lorgnette",
+            "word": "lorgnette"
+        },
+        {
+            "id": "loupe",
+            "word": "loupe"
+        },
+        {
+            "id": "magenta",
+            "word": "magenta"
+        },
+        {
+            "id": "magnification",
+            "word": "magnification"
+        },
+        {
+            "id": "maksutov_telescope",
+            "word": "maksutov telescope"
+        },
+        {
+            "id": "microscope",
+            "word": "microscope"
+        },
+        {
+            "id": "microscopical",
+            "word": "microscopical"
+        },
+        {
+            "id": "microscopy",
+            "word": "microscopy"
+        },
+        {
+            "id": "mirror_image",
+            "word": "mirror image"
+        },
+        {
+            "id": "monocle",
+            "word": "monocle"
+        },
+        {
+            "id": "monocular",
+            "word": "monocular"
+        },
+        {
+            "id": "multifocal",
+            "word": "multifocal"
+        },
+        {
+            "id": "multimode",
+            "word": "multimode"
+        },
+        {
+            "id": "myope",
+            "word": "myope"
+        },
+        {
+            "id": "newton%27s_rings",
+            "word": "newton's rings"
+        },
+        {
+            "id": "newtonian_telescope",
+            "word": "newtonian telescope"
+        },
+        {
+            "id": "nicol_prism",
+            "word": "nicol prism"
+        },
+        {
+            "id": "ophthalmic",
+            "word": "ophthalmic"
+        },
+        {
+            "id": "ophthalmic_optician",
+            "word": "ophthalmic optician"
+        },
+        {
+            "id": "optical",
+            "word": "optical"
+        },
+        {
+            "id": "optical_axis",
+            "word": "optical axis"
+        },
+        {
+            "id": "optical_bench",
+            "word": "optical bench"
+        },
+        {
+            "id": "optical_fibre",
+            "word": "optical fibre"
+        },
+        {
+            "id": "optical_glass",
+            "word": "optical glass"
+        },
+        {
+            "id": "optical_illusion",
+            "word": "optical illusion"
+        },
+        {
+            "id": "optical_microscope",
+            "word": "optical microscope"
+        },
+        {
+            "id": "optician",
+            "word": "optician"
+        },
+        {
+            "id": "optics",
+            "word": "optics"
+        },
+        {
+            "id": "optometer",
+            "word": "optometer"
+        },
+        {
+            "id": "optometrist",
+            "word": "optometrist"
+        },
+        {
+            "id": "optometry",
+            "word": "optometry"
+        },
+        {
+            "id": "parallax",
+            "word": "parallax"
+        },
+        {
+            "id": "pentaprism",
+            "word": "pentaprism"
+        },
+        {
+            "id": "periscope",
+            "word": "periscope"
+        },
+        {
+            "id": "periscopic",
+            "word": "periscopic"
+        },
+        {
+            "id": "phase_contrast",
+            "word": "phase contrast"
+        },
+        {
+            "id": "planoconcave",
+            "word": "planoconcave"
+        },
+        {
+            "id": "planoconvex",
+            "word": "planoconvex"
+        },
+        {
+            "id": "polarimeter",
+            "word": "polarimeter"
+        },
+        {
+            "id": "polarize",
+            "word": "polarize"
+        },
+        {
+            "id": "polarizing_filter",
+            "word": "polarizing filter"
+        },
+        {
+            "id": "polaroid",
+            "word": "polaroid"
+        },
+        {
+            "id": "porro_prism",
+            "word": "porro prism"
+        },
+        {
+            "id": "prefocus",
+            "word": "prefocus"
+        },
+        {
+            "id": "primary_colour",
+            "word": "primary colour"
+        },
+        {
+            "id": "prismatic",
+            "word": "prismatic"
+        },
+        {
+            "id": "radiant_point",
+            "word": "radiant point"
+        },
+        {
+            "id": "ray",
+            "word": "ray"
+        },
+        {
+            "id": "reflecting_telescope",
+            "word": "reflecting telescope"
+        },
+        {
+            "id": "refract",
+            "word": "refract"
+        },
+        {
+            "id": "refracting_telescope",
+            "word": "refracting telescope"
+        },
+        {
+            "id": "refraction",
+            "word": "refraction"
+        },
+        {
+            "id": "refractive",
+            "word": "refractive"
+        },
+        {
+            "id": "refractometer",
+            "word": "refractometer"
+        },
+        {
+            "id": "refractor",
+            "word": "refractor"
+        },
+        {
+            "id": "refringent",
+            "word": "refringent"
+        },
+        {
+            "id": "resolving_power",
+            "word": "resolving power"
+        },
+        {
+            "id": "retroreflector",
+            "word": "retroreflector"
+        },
+        {
+            "id": "roof_prism",
+            "word": "roof prism"
+        },
+        {
+            "id": "schmidt%E2%80%93cassegrain_telescope",
+            "word": "schmidt–cassegrain telescope"
+        },
+        {
+            "id": "schmidt_telescope",
+            "word": "schmidt telescope"
+        },
+        {
+            "id": "-scope",
+            "word": "-scope"
+        },
+        {
+            "id": "semi-opaque",
+            "word": "semi-opaque"
+        },
+        {
+            "id": "semi-transparent",
+            "word": "semi-transparent"
+        },
+        {
+            "id": "short_sight",
+            "word": "short sight"
+        },
+        {
+            "id": "short-sighted",
+            "word": "short-sighted"
+        },
+        {
+            "id": "short-sightedness",
+            "word": "short-sightedness"
+        },
+        {
+            "id": "single-vision",
+            "word": "single-vision"
+        },
+        {
+            "id": "spectacles",
+            "word": "spectacles"
+        },
+        {
+            "id": "specular",
+            "word": "specular"
+        },
+        {
+            "id": "spherical_aberration",
+            "word": "spherical aberration"
+        },
+        {
+            "id": "split_image",
+            "word": "split image"
+        },
+        {
+            "id": "spyglass",
+            "word": "spyglass"
+        },
+        {
+            "id": "stereomicroscope",
+            "word": "stereomicroscope"
+        },
+        {
+            "id": "substage",
+            "word": "substage"
+        },
+        {
+            "id": "sunglasses",
+            "word": "sunglasses"
+        },
+        {
+            "id": "telescope",
+            "word": "telescope"
+        },
+        {
+            "id": "telescopic",
+            "word": "telescopic"
+        },
+        {
+            "id": "telescopic_sight",
+            "word": "telescopic sight"
+        },
+        {
+            "id": "terrestrial_telescope",
+            "word": "terrestrial telescope"
+        },
+        {
+            "id": "trifocal",
+            "word": "trifocal"
+        },
+        {
+            "id": "ultramicroscope",
+            "word": "ultramicroscope"
+        },
+        {
+            "id": "ultramicroscopic",
+            "word": "ultramicroscopic"
+        },
+        {
+            "id": "unfocused",
+            "word": "unfocused"
+        },
+        {
+            "id": "universal_product_code",
+            "word": "universal product code"
+        },
+        {
+            "id": "varifocal",
+            "word": "varifocal"
+        },
+        {
+            "id": "virtual_image",
+            "word": "virtual image"
+        },
+        {
+            "id": "visual_angle",
+            "word": "visual angle"
+        },
+        {
+            "id": "visual_ray",
+            "word": "visual ray"
+        },
+        {
+            "id": "wide-angle",
+            "word": "wide-angle"
+        },
+        {
+            "id": "zeiss%2C_carl",
+            "word": "zeiss, carl"
+        },
+        {
+            "id": "zone_plate",
+            "word": "zone plate"
+        }
+    ]
+}

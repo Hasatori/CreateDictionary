@@ -1,0 +1,1087 @@
+{
+    "results": [
+        {
+            "id": "acentric",
+            "word": "acentric"
+        },
+        {
+            "id": "adenine",
+            "word": "adenine"
+        },
+        {
+            "id": "adenylic_acid",
+            "word": "adenylic acid"
+        },
+        {
+            "id": "allele",
+            "word": "allele"
+        },
+        {
+            "id": "anaphase",
+            "word": "anaphase"
+        },
+        {
+            "id": "aneuploid",
+            "word": "aneuploid"
+        },
+        {
+            "id": "aneuploidy",
+            "word": "aneuploidy"
+        },
+        {
+            "id": "anticodon",
+            "word": "anticodon"
+        },
+        {
+            "id": "antiretroviral",
+            "word": "antiretroviral"
+        },
+        {
+            "id": "antisense",
+            "word": "antisense"
+        },
+        {
+            "id": "assort",
+            "word": "assort"
+        },
+        {
+            "id": "autosome",
+            "word": "autosome"
+        },
+        {
+            "id": "backcross",
+            "word": "backcross"
+        },
+        {
+            "id": "base_pair",
+            "word": "base pair"
+        },
+        {
+            "id": "bateson%2C_william",
+            "word": "bateson, william"
+        },
+        {
+            "id": "biolistics",
+            "word": "biolistics"
+        },
+        {
+            "id": "biomarker",
+            "word": "biomarker"
+        },
+        {
+            "id": "biopharming",
+            "word": "biopharming"
+        },
+        {
+            "id": "bivalent",
+            "word": "bivalent"
+        },
+        {
+            "id": "centimorgan",
+            "word": "centimorgan"
+        },
+        {
+            "id": "centromere",
+            "word": "centromere"
+        },
+        {
+            "id": "chromatid",
+            "word": "chromatid"
+        },
+        {
+            "id": "chromatin",
+            "word": "chromatin"
+        },
+        {
+            "id": "chromosomal",
+            "word": "chromosomal"
+        },
+        {
+            "id": "chromosome",
+            "word": "chromosome"
+        },
+        {
+            "id": "chromosome_map",
+            "word": "chromosome map"
+        },
+        {
+            "id": "chromosome_number",
+            "word": "chromosome number"
+        },
+        {
+            "id": "cis",
+            "word": "cis"
+        },
+        {
+            "id": "cistron",
+            "word": "cistron"
+        },
+        {
+            "id": "clonal",
+            "word": "clonal"
+        },
+        {
+            "id": "clone",
+            "word": "clone"
+        },
+        {
+            "id": "codon",
+            "word": "codon"
+        },
+        {
+            "id": "colinearity",
+            "word": "colinearity"
+        },
+        {
+            "id": "complementary_dna",
+            "word": "complementary dna"
+        },
+        {
+            "id": "consanguineous",
+            "word": "consanguineous"
+        },
+        {
+            "id": "consanguinity",
+            "word": "consanguinity"
+        },
+        {
+            "id": "consensus_sequence",
+            "word": "consensus sequence"
+        },
+        {
+            "id": "crick%2C_francis",
+            "word": "crick, francis"
+        },
+        {
+            "id": "crispr",
+            "word": "crispr"
+        },
+        {
+            "id": "crossing_over",
+            "word": "crossing over"
+        },
+        {
+            "id": "cytidine",
+            "word": "cytidine"
+        },
+        {
+            "id": "cytoplasm",
+            "word": "cytoplasm"
+        },
+        {
+            "id": "cytoplasmic_inheritance",
+            "word": "cytoplasmic inheritance"
+        },
+        {
+            "id": "cytosine",
+            "word": "cytosine"
+        },
+        {
+            "id": "derepress",
+            "word": "derepress"
+        },
+        {
+            "id": "descendent",
+            "word": "descendent"
+        },
+        {
+            "id": "designer_baby",
+            "word": "designer baby"
+        },
+        {
+            "id": "determinant",
+            "word": "determinant"
+        },
+        {
+            "id": "de_vries%2C_hugo",
+            "word": "de vries, hugo"
+        },
+        {
+            "id": "dicentric",
+            "word": "dicentric"
+        },
+        {
+            "id": "dihybrid",
+            "word": "dihybrid"
+        },
+        {
+            "id": "diploid",
+            "word": "diploid"
+        },
+        {
+            "id": "diploid_number",
+            "word": "diploid number"
+        },
+        {
+            "id": "diplontic",
+            "word": "diplontic"
+        },
+        {
+            "id": "disomy",
+            "word": "disomy"
+        },
+        {
+            "id": "dna",
+            "word": "dna"
+        },
+        {
+            "id": "dna_profiling",
+            "word": "dna profiling"
+        },
+        {
+            "id": "dna_virus",
+            "word": "dna virus"
+        },
+        {
+            "id": "dominance",
+            "word": "dominance"
+        },
+        {
+            "id": "double_helix",
+            "word": "double helix"
+        },
+        {
+            "id": "downstream",
+            "word": "downstream"
+        },
+        {
+            "id": "duplication",
+            "word": "duplication"
+        },
+        {
+            "id": "electroporate",
+            "word": "electroporate"
+        },
+        {
+            "id": "electroporation",
+            "word": "electroporation"
+        },
+        {
+            "id": "enhancer",
+            "word": "enhancer"
+        },
+        {
+            "id": "episome",
+            "word": "episome"
+        },
+        {
+            "id": "epistasis",
+            "word": "epistasis"
+        },
+        {
+            "id": "ethidium_bromide",
+            "word": "ethidium bromide"
+        },
+        {
+            "id": "euchromatic",
+            "word": "euchromatic"
+        },
+        {
+            "id": "euchromatin",
+            "word": "euchromatin"
+        },
+        {
+            "id": "eukaryote",
+            "word": "eukaryote"
+        },
+        {
+            "id": "euploid",
+            "word": "euploid"
+        },
+        {
+            "id": "exaptation",
+            "word": "exaptation"
+        },
+        {
+            "id": "exome",
+            "word": "exome"
+        },
+        {
+            "id": "exon",
+            "word": "exon"
+        },
+        {
+            "id": "extrachromosomal_element",
+            "word": "extrachromosomal element"
+        },
+        {
+            "id": "factor",
+            "word": "factor"
+        },
+        {
+            "id": "fisher%2C_sir_ronald_aylmer",
+            "word": "fisher, sir ronald aylmer"
+        },
+        {
+            "id": "frameshift_mutation",
+            "word": "frameshift mutation"
+        },
+        {
+            "id": "franklin%2C_rosalind",
+            "word": "franklin, rosalind"
+        },
+        {
+            "id": "gametogenesis",
+            "word": "gametogenesis"
+        },
+        {
+            "id": "gamow%2C_george",
+            "word": "gamow, george"
+        },
+        {
+            "id": "gene",
+            "word": "gene"
+        },
+        {
+            "id": "gene_bank",
+            "word": "gene bank"
+        },
+        {
+            "id": "gene_conversion",
+            "word": "gene conversion"
+        },
+        {
+            "id": "gene_doping",
+            "word": "gene doping"
+        },
+        {
+            "id": "gene_editing",
+            "word": "gene editing"
+        },
+        {
+            "id": "gene_library",
+            "word": "gene library"
+        },
+        {
+            "id": "gene_pool",
+            "word": "gene pool"
+        },
+        {
+            "id": "gene_sequencing",
+            "word": "gene sequencing"
+        },
+        {
+            "id": "gene_silencing",
+            "word": "gene silencing"
+        },
+        {
+            "id": "gene_therapy",
+            "word": "gene therapy"
+        },
+        {
+            "id": "genetic",
+            "word": "genetic"
+        },
+        {
+            "id": "genetically",
+            "word": "genetically"
+        },
+        {
+            "id": "genetically_modified",
+            "word": "genetically modified"
+        },
+        {
+            "id": "genetic_code",
+            "word": "genetic code"
+        },
+        {
+            "id": "genetic_counselling",
+            "word": "genetic counselling"
+        },
+        {
+            "id": "genetic_drift",
+            "word": "genetic drift"
+        },
+        {
+            "id": "genetic_engineering",
+            "word": "genetic engineering"
+        },
+        {
+            "id": "genetic_fingerprint",
+            "word": "genetic fingerprint"
+        },
+        {
+            "id": "genetic_fingerprinting",
+            "word": "genetic fingerprinting"
+        },
+        {
+            "id": "genetic_imprinting",
+            "word": "genetic imprinting"
+        },
+        {
+            "id": "genetic_information",
+            "word": "genetic information"
+        },
+        {
+            "id": "geneticist",
+            "word": "geneticist"
+        },
+        {
+            "id": "genetic_load",
+            "word": "genetic load"
+        },
+        {
+            "id": "genetic_pollution",
+            "word": "genetic pollution"
+        },
+        {
+            "id": "genetic_profile",
+            "word": "genetic profile"
+        },
+        {
+            "id": "genetic_profiling",
+            "word": "genetic profiling"
+        },
+        {
+            "id": "genetics",
+            "word": "genetics"
+        },
+        {
+            "id": "genetic_testing",
+            "word": "genetic testing"
+        },
+        {
+            "id": "genome",
+            "word": "genome"
+        },
+        {
+            "id": "genomic",
+            "word": "genomic"
+        },
+        {
+            "id": "guanine",
+            "word": "guanine"
+        },
+        {
+            "id": "haldane%2C_j._b._s.",
+            "word": "haldane, j. b. s."
+        },
+        {
+            "id": "haploid",
+            "word": "haploid"
+        },
+        {
+            "id": "haplontic",
+            "word": "haplontic"
+        },
+        {
+            "id": "haplotype",
+            "word": "haplotype"
+        },
+        {
+            "id": "heat-shock_protein",
+            "word": "heat-shock protein"
+        },
+        {
+            "id": "helicity",
+            "word": "helicity"
+        },
+        {
+            "id": "heredity",
+            "word": "heredity"
+        },
+        {
+            "id": "heterochromatin",
+            "word": "heterochromatin"
+        },
+        {
+            "id": "heterosis",
+            "word": "heterosis"
+        },
+        {
+            "id": "heterozygosity",
+            "word": "heterozygosity"
+        },
+        {
+            "id": "heterozygote",
+            "word": "heterozygote"
+        },
+        {
+            "id": "heterozygous",
+            "word": "heterozygous"
+        },
+        {
+            "id": "hexaploid",
+            "word": "hexaploid"
+        },
+        {
+            "id": "homeobox",
+            "word": "homeobox"
+        },
+        {
+            "id": "homologous",
+            "word": "homologous"
+        },
+        {
+            "id": "homology",
+            "word": "homology"
+        },
+        {
+            "id": "homozygosity",
+            "word": "homozygosity"
+        },
+        {
+            "id": "homozygote",
+            "word": "homozygote"
+        },
+        {
+            "id": "homozygous",
+            "word": "homozygous"
+        },
+        {
+            "id": "horizontal_gene_transfer",
+            "word": "horizontal gene transfer"
+        },
+        {
+            "id": "human_genome_project",
+            "word": "human genome project"
+        },
+        {
+            "id": "hybrid_vigour",
+            "word": "hybrid vigour"
+        },
+        {
+            "id": "hypermutable",
+            "word": "hypermutable"
+        },
+        {
+            "id": "hypermutation",
+            "word": "hypermutation"
+        },
+        {
+            "id": "idiotype",
+            "word": "idiotype"
+        },
+        {
+            "id": "integrin",
+            "word": "integrin"
+        },
+        {
+            "id": "introgression",
+            "word": "introgression"
+        },
+        {
+            "id": "intron",
+            "word": "intron"
+        },
+        {
+            "id": "jones%2C_steve",
+            "word": "jones, steve"
+        },
+        {
+            "id": "junk_dna",
+            "word": "junk dna"
+        },
+        {
+            "id": "karyotype",
+            "word": "karyotype"
+        },
+        {
+            "id": "kinetochore",
+            "word": "kinetochore"
+        },
+        {
+            "id": "kinetoplast",
+            "word": "kinetoplast"
+        },
+        {
+            "id": "knockout_mouse",
+            "word": "knockout mouse"
+        },
+        {
+            "id": "ligase",
+            "word": "ligase"
+        },
+        {
+            "id": "linkage_disequilibrium",
+            "word": "linkage disequilibrium"
+        },
+        {
+            "id": "lysenko%2C_trofim_denisovich",
+            "word": "lysenko, trofim denisovich"
+        },
+        {
+            "id": "lysenkoism",
+            "word": "lysenkoism"
+        },
+        {
+            "id": "male_sterility",
+            "word": "male sterility"
+        },
+        {
+            "id": "mayr%2C_ernst_walter",
+            "word": "mayr, ernst walter"
+        },
+        {
+            "id": "mendel%2C_gregor_johann",
+            "word": "mendel, gregor johann"
+        },
+        {
+            "id": "messenger_rna",
+            "word": "messenger rna"
+        },
+        {
+            "id": "metaphase",
+            "word": "metaphase"
+        },
+        {
+            "id": "microarray",
+            "word": "microarray"
+        },
+        {
+            "id": "microsatellite",
+            "word": "microsatellite"
+        },
+        {
+            "id": "mismatch_repair",
+            "word": "mismatch repair"
+        },
+        {
+            "id": "monod%2C_jacques_lucien",
+            "word": "monod, jacques lucien"
+        },
+        {
+            "id": "monosome",
+            "word": "monosome"
+        },
+        {
+            "id": "monosomy",
+            "word": "monosomy"
+        },
+        {
+            "id": "morgan%2C_thomas_hunt",
+            "word": "morgan, thomas hunt"
+        },
+        {
+            "id": "muller%2C_hermann_joseph",
+            "word": "muller, hermann joseph"
+        },
+        {
+            "id": "multifactorial",
+            "word": "multifactorial"
+        },
+        {
+            "id": "mutate",
+            "word": "mutate"
+        },
+        {
+            "id": "mutational",
+            "word": "mutational"
+        },
+        {
+            "id": "muton",
+            "word": "muton"
+        },
+        {
+            "id": "nonsense_mutation",
+            "word": "nonsense mutation"
+        },
+        {
+            "id": "nucleic_acid",
+            "word": "nucleic acid"
+        },
+        {
+            "id": "nucleosome",
+            "word": "nucleosome"
+        },
+        {
+            "id": "nucleotide",
+            "word": "nucleotide"
+        },
+        {
+            "id": "nutrigenomics",
+            "word": "nutrigenomics"
+        },
+        {
+            "id": "oncogene",
+            "word": "oncogene"
+        },
+        {
+            "id": "operon",
+            "word": "operon"
+        },
+        {
+            "id": "optogenetics",
+            "word": "optogenetics"
+        },
+        {
+            "id": "palingenesis",
+            "word": "palingenesis"
+        },
+        {
+            "id": "pathogenicity_island",
+            "word": "pathogenicity island"
+        },
+        {
+            "id": "pauling%2C_linus_carl",
+            "word": "pauling, linus carl"
+        },
+        {
+            "id": "penetrance",
+            "word": "penetrance"
+        },
+        {
+            "id": "pericentric_inversion",
+            "word": "pericentric inversion"
+        },
+        {
+            "id": "pharmacogenomics",
+            "word": "pharmacogenomics"
+        },
+        {
+            "id": "pharming",
+            "word": "pharming"
+        },
+        {
+            "id": "philadelphia_chromosome",
+            "word": "philadelphia chromosome"
+        },
+        {
+            "id": "plasmid",
+            "word": "plasmid"
+        },
+        {
+            "id": "polygene",
+            "word": "polygene"
+        },
+        {
+            "id": "polymerase",
+            "word": "polymerase"
+        },
+        {
+            "id": "polymerase_chain_reaction",
+            "word": "polymerase chain reaction"
+        },
+        {
+            "id": "polymorphic",
+            "word": "polymorphic"
+        },
+        {
+            "id": "polyploid",
+            "word": "polyploid"
+        },
+        {
+            "id": "polysome",
+            "word": "polysome"
+        },
+        {
+            "id": "postgenomic",
+            "word": "postgenomic"
+        },
+        {
+            "id": "proband",
+            "word": "proband"
+        },
+        {
+            "id": "prophage",
+            "word": "prophage"
+        },
+        {
+            "id": "prophase",
+            "word": "prophase"
+        },
+        {
+            "id": "proteome",
+            "word": "proteome"
+        },
+        {
+            "id": "proteomics",
+            "word": "proteomics"
+        },
+        {
+            "id": "provirus",
+            "word": "provirus"
+        },
+        {
+            "id": "pseudogene",
+            "word": "pseudogene"
+        },
+        {
+            "id": "pseudouridine",
+            "word": "pseudouridine"
+        },
+        {
+            "id": "reading_frame",
+            "word": "reading frame"
+        },
+        {
+            "id": "recessive",
+            "word": "recessive"
+        },
+        {
+            "id": "recombinant",
+            "word": "recombinant"
+        },
+        {
+            "id": "recombinant_dna",
+            "word": "recombinant dna"
+        },
+        {
+            "id": "recombinase",
+            "word": "recombinase"
+        },
+        {
+            "id": "recombination",
+            "word": "recombination"
+        },
+        {
+            "id": "replicase",
+            "word": "replicase"
+        },
+        {
+            "id": "replicator",
+            "word": "replicator"
+        },
+        {
+            "id": "replicon",
+            "word": "replicon"
+        },
+        {
+            "id": "restriction_enzyme",
+            "word": "restriction enzyme"
+        },
+        {
+            "id": "restriction_fragment",
+            "word": "restriction fragment"
+        },
+        {
+            "id": "restriction_fragment_length_polymorphism",
+            "word": "restriction fragment length polymorphism"
+        },
+        {
+            "id": "retroelement",
+            "word": "retroelement"
+        },
+        {
+            "id": "retrotransposon",
+            "word": "retrotransposon"
+        },
+        {
+            "id": "retrovirus",
+            "word": "retrovirus"
+        },
+        {
+            "id": "reverse_transcription",
+            "word": "reverse transcription"
+        },
+        {
+            "id": "ribonucleic_acid",
+            "word": "ribonucleic acid"
+        },
+        {
+            "id": "ribosome",
+            "word": "ribosome"
+        },
+        {
+            "id": "ribozyme",
+            "word": "ribozyme"
+        },
+        {
+            "id": "rna",
+            "word": "rna"
+        },
+        {
+            "id": "sanger%2C_frederick",
+            "word": "sanger, frederick"
+        },
+        {
+            "id": "sex_chromosome",
+            "word": "sex chromosome"
+        },
+        {
+            "id": "shotgun_cloning",
+            "word": "shotgun cloning"
+        },
+        {
+            "id": "snp",
+            "word": "snp"
+        },
+        {
+            "id": "somatic_mutation",
+            "word": "somatic mutation"
+        },
+        {
+            "id": "stem_cell",
+            "word": "stem cell"
+        },
+        {
+            "id": "sticky_end",
+            "word": "sticky end"
+        },
+        {
+            "id": "supercoiled",
+            "word": "supercoiled"
+        },
+        {
+            "id": "supergene",
+            "word": "supergene"
+        },
+        {
+            "id": "superweed",
+            "word": "superweed"
+        },
+        {
+            "id": "synapsis",
+            "word": "synapsis"
+        },
+        {
+            "id": "syngamy",
+            "word": "syngamy"
+        },
+        {
+            "id": "telomerase",
+            "word": "telomerase"
+        },
+        {
+            "id": "telophase",
+            "word": "telophase"
+        },
+        {
+            "id": "terminator",
+            "word": "terminator"
+        },
+        {
+            "id": "terminator_gene",
+            "word": "terminator gene"
+        },
+        {
+            "id": "tetraploid",
+            "word": "tetraploid"
+        },
+        {
+            "id": "thymidine",
+            "word": "thymidine"
+        },
+        {
+            "id": "thymine",
+            "word": "thymine"
+        },
+        {
+            "id": "topoisomer",
+            "word": "topoisomer"
+        },
+        {
+            "id": "topoisomerase",
+            "word": "topoisomerase"
+        },
+        {
+            "id": "totipotent",
+            "word": "totipotent"
+        },
+        {
+            "id": "transactivation",
+            "word": "transactivation"
+        },
+        {
+            "id": "transcriptase",
+            "word": "transcriptase"
+        },
+        {
+            "id": "transcriptome",
+            "word": "transcriptome"
+        },
+        {
+            "id": "transcriptomics",
+            "word": "transcriptomics"
+        },
+        {
+            "id": "transfer_rna",
+            "word": "transfer rna"
+        },
+        {
+            "id": "transgene",
+            "word": "transgene"
+        },
+        {
+            "id": "transgenic",
+            "word": "transgenic"
+        },
+        {
+            "id": "translocation",
+            "word": "translocation"
+        },
+        {
+            "id": "transposon",
+            "word": "transposon"
+        },
+        {
+            "id": "triplet_code",
+            "word": "triplet code"
+        },
+        {
+            "id": "triploid",
+            "word": "triploid"
+        },
+        {
+            "id": "trisomy",
+            "word": "trisomy"
+        },
+        {
+            "id": "trna",
+            "word": "trna"
+        },
+        {
+            "id": "unifactorial",
+            "word": "unifactorial"
+        },
+        {
+            "id": "univalent",
+            "word": "univalent"
+        },
+        {
+            "id": "uracil",
+            "word": "uracil"
+        },
+        {
+            "id": "vavilov%2C_nikolai",
+            "word": "vavilov, nikolai"
+        },
+        {
+            "id": "watson%2C_james_dewey",
+            "word": "watson, james dewey"
+        },
+        {
+            "id": "weismann%2C_august",
+            "word": "weismann, august"
+        },
+        {
+            "id": "weismannism",
+            "word": "weismannism"
+        },
+        {
+            "id": "weismannist",
+            "word": "weismannist"
+        },
+        {
+            "id": "wild_type",
+            "word": "wild type"
+        },
+        {
+            "id": "wilkins%2C_maurice",
+            "word": "wilkins, maurice"
+        },
+        {
+            "id": "x_chromosome",
+            "word": "x chromosome"
+        },
+        {
+            "id": "x_chromosome_inactivation",
+            "word": "x chromosome inactivation"
+        },
+        {
+            "id": "y_chromosome",
+            "word": "y chromosome"
+        },
+        {
+            "id": "z-dna",
+            "word": "z-dna"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 269,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

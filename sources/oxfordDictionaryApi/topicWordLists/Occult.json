@@ -1,0 +1,671 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 165,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "alchemist",
+            "word": "alchemist"
+        },
+        {
+            "id": "alchemy",
+            "word": "alchemy"
+        },
+        {
+            "id": "alien_abduction",
+            "word": "alien abduction"
+        },
+        {
+            "id": "alkahest",
+            "word": "alkahest"
+        },
+        {
+            "id": "apport",
+            "word": "apport"
+        },
+        {
+            "id": "astral",
+            "word": "astral"
+        },
+        {
+            "id": "athame",
+            "word": "athame"
+        },
+        {
+            "id": "athanor",
+            "word": "athanor"
+        },
+        {
+            "id": "auric",
+            "word": "auric"
+        },
+        {
+            "id": "automatic_writing",
+            "word": "automatic writing"
+        },
+        {
+            "id": "ba_gua",
+            "word": "ba gua"
+        },
+        {
+            "id": "bibliomancy",
+            "word": "bibliomancy"
+        },
+        {
+            "id": "black_magic",
+            "word": "black magic"
+        },
+        {
+            "id": "black_mass",
+            "word": "black mass"
+        },
+        {
+            "id": "boylya",
+            "word": "boylya"
+        },
+        {
+            "id": "cacodemon",
+            "word": "cacodemon"
+        },
+        {
+            "id": "candombl%C3%A9",
+            "word": "candomblé"
+        },
+        {
+            "id": "carlin",
+            "word": "carlin"
+        },
+        {
+            "id": "cartomancy",
+            "word": "cartomancy"
+        },
+        {
+            "id": "cereology",
+            "word": "cereology"
+        },
+        {
+            "id": "chiromancer",
+            "word": "chiromancer"
+        },
+        {
+            "id": "chiromancy",
+            "word": "chiromancy"
+        },
+        {
+            "id": "clairvoyance",
+            "word": "clairvoyance"
+        },
+        {
+            "id": "clairvoyant",
+            "word": "clairvoyant"
+        },
+        {
+            "id": "close_encounter",
+            "word": "close encounter"
+        },
+        {
+            "id": "contactee",
+            "word": "contactee"
+        },
+        {
+            "id": "coven",
+            "word": "coven"
+        },
+        {
+            "id": "crop_circle",
+            "word": "crop circle"
+        },
+        {
+            "id": "crystal_ball",
+            "word": "crystal ball"
+        },
+        {
+            "id": "crystal-gazing",
+            "word": "crystal-gazing"
+        },
+        {
+            "id": "dee%2C_john",
+            "word": "dee, john"
+        },
+        {
+            "id": "demonology",
+            "word": "demonology"
+        },
+        {
+            "id": "diablerie",
+            "word": "diablerie"
+        },
+        {
+            "id": "divination",
+            "word": "divination"
+        },
+        {
+            "id": "dowse",
+            "word": "dowse"
+        },
+        {
+            "id": "dowsing",
+            "word": "dowsing"
+        },
+        {
+            "id": "dukun",
+            "word": "dukun"
+        },
+        {
+            "id": "elixir",
+            "word": "elixir"
+        },
+        {
+            "id": "empath",
+            "word": "empath"
+        },
+        {
+            "id": "enchanter",
+            "word": "enchanter"
+        },
+        {
+            "id": "enchantress",
+            "word": "enchantress"
+        },
+        {
+            "id": "ensorcellment",
+            "word": "ensorcellment"
+        },
+        {
+            "id": "extrasensory_perception",
+            "word": "extrasensory perception"
+        },
+        {
+            "id": "faust",
+            "word": "faust"
+        },
+        {
+            "id": "feng_shui",
+            "word": "feng shui"
+        },
+        {
+            "id": "flying_saucer",
+            "word": "flying saucer"
+        },
+        {
+            "id": "fortean",
+            "word": "fortean"
+        },
+        {
+            "id": "grimoire",
+            "word": "grimoire"
+        },
+        {
+            "id": "gris-gris",
+            "word": "gris-gris"
+        },
+        {
+            "id": "hag",
+            "word": "hag"
+        },
+        {
+            "id": "haruspication",
+            "word": "haruspication"
+        },
+        {
+            "id": "head_line",
+            "word": "head line"
+        },
+        {
+            "id": "heart_line",
+            "word": "heart line"
+        },
+        {
+            "id": "hermes_trismegistus",
+            "word": "hermes trismegistus"
+        },
+        {
+            "id": "hex",
+            "word": "hex"
+        },
+        {
+            "id": "hoodoo",
+            "word": "hoodoo"
+        },
+        {
+            "id": "illuminist",
+            "word": "illuminist"
+        },
+        {
+            "id": "incubus",
+            "word": "incubus"
+        },
+        {
+            "id": "jab_jab",
+            "word": "jab jab"
+        },
+        {
+            "id": "jumbie",
+            "word": "jumbie"
+        },
+        {
+            "id": "kahuna",
+            "word": "kahuna"
+        },
+        {
+            "id": "mage",
+            "word": "mage"
+        },
+        {
+            "id": "magic",
+            "word": "magic"
+        },
+        {
+            "id": "magician",
+            "word": "magician"
+        },
+        {
+            "id": "magic_spell",
+            "word": "magic spell"
+        },
+        {
+            "id": "magic_wand",
+            "word": "magic wand"
+        },
+        {
+            "id": "makutu",
+            "word": "makutu"
+        },
+        {
+            "id": "matakite",
+            "word": "matakite"
+        },
+        {
+            "id": "mauri",
+            "word": "mauri"
+        },
+        {
+            "id": "mediumism",
+            "word": "mediumism"
+        },
+        {
+            "id": "mediumistic",
+            "word": "mediumistic"
+        },
+        {
+            "id": "mediumship",
+            "word": "mediumship"
+        },
+        {
+            "id": "men_in_black",
+            "word": "men in black"
+        },
+        {
+            "id": "mojo",
+            "word": "mojo"
+        },
+        {
+            "id": "natural_magic",
+            "word": "natural magic"
+        },
+        {
+            "id": "necromancer",
+            "word": "necromancer"
+        },
+        {
+            "id": "necromancy",
+            "word": "necromancy"
+        },
+        {
+            "id": "necromantic",
+            "word": "necromantic"
+        },
+        {
+            "id": "nostradamus",
+            "word": "nostradamus"
+        },
+        {
+            "id": "numerology",
+            "word": "numerology"
+        },
+        {
+            "id": "occult",
+            "word": "occult"
+        },
+        {
+            "id": "ouija_board",
+            "word": "ouija board"
+        },
+        {
+            "id": "palmist",
+            "word": "palmist"
+        },
+        {
+            "id": "palmistry",
+            "word": "palmistry"
+        },
+        {
+            "id": "palm_reader",
+            "word": "palm reader"
+        },
+        {
+            "id": "palm-reading",
+            "word": "palm-reading"
+        },
+        {
+            "id": "parapsychic",
+            "word": "parapsychic"
+        },
+        {
+            "id": "parapsychology",
+            "word": "parapsychology"
+        },
+        {
+            "id": "pentacle",
+            "word": "pentacle"
+        },
+        {
+            "id": "pentagram",
+            "word": "pentagram"
+        },
+        {
+            "id": "philosopher%27s_stone",
+            "word": "philosopher's stone"
+        },
+        {
+            "id": "physiognomist",
+            "word": "physiognomist"
+        },
+        {
+            "id": "planchette",
+            "word": "planchette"
+        },
+        {
+            "id": "poltergeist",
+            "word": "poltergeist"
+        },
+        {
+            "id": "prescience",
+            "word": "prescience"
+        },
+        {
+            "id": "preternatural",
+            "word": "preternatural"
+        },
+        {
+            "id": "prophecy",
+            "word": "prophecy"
+        },
+        {
+            "id": "prophesy",
+            "word": "prophesy"
+        },
+        {
+            "id": "psionic",
+            "word": "psionic"
+        },
+        {
+            "id": "psychic",
+            "word": "psychic"
+        },
+        {
+            "id": "psychism",
+            "word": "psychism"
+        },
+        {
+            "id": "psychokinesis",
+            "word": "psychokinesis"
+        },
+        {
+            "id": "psychometry",
+            "word": "psychometry"
+        },
+        {
+            "id": "psychotronics",
+            "word": "psychotronics"
+        },
+        {
+            "id": "pyrotechny",
+            "word": "pyrotechny"
+        },
+        {
+            "id": "pythoness",
+            "word": "pythoness"
+        },
+        {
+            "id": "raelian",
+            "word": "raelian"
+        },
+        {
+            "id": "rhabdomancy",
+            "word": "rhabdomancy"
+        },
+        {
+            "id": "ritual_abuse",
+            "word": "ritual abuse"
+        },
+        {
+            "id": "rosicrucian",
+            "word": "rosicrucian"
+        },
+        {
+            "id": "roswell",
+            "word": "roswell"
+        },
+        {
+            "id": "rosy_cross",
+            "word": "rosy cross"
+        },
+        {
+            "id": "sangoma",
+            "word": "sangoma"
+        },
+        {
+            "id": "satanism",
+            "word": "satanism"
+        },
+        {
+            "id": "scapulimancy",
+            "word": "scapulimancy"
+        },
+        {
+            "id": "scry",
+            "word": "scry"
+        },
+        {
+            "id": "second_sight",
+            "word": "second sight"
+        },
+        {
+            "id": "seer",
+            "word": "seer"
+        },
+        {
+            "id": "sending",
+            "word": "sending"
+        },
+        {
+            "id": "sephira",
+            "word": "sephira"
+        },
+        {
+            "id": "shape-shifter",
+            "word": "shape-shifter"
+        },
+        {
+            "id": "sigil",
+            "word": "sigil"
+        },
+        {
+            "id": "silver_bullet",
+            "word": "silver bullet"
+        },
+        {
+            "id": "sorceress",
+            "word": "sorceress"
+        },
+        {
+            "id": "sorcery",
+            "word": "sorcery"
+        },
+        {
+            "id": "sortilege",
+            "word": "sortilege"
+        },
+        {
+            "id": "sortition",
+            "word": "sortition"
+        },
+        {
+            "id": "spaewife",
+            "word": "spaewife"
+        },
+        {
+            "id": "spagyric",
+            "word": "spagyric"
+        },
+        {
+            "id": "spell",
+            "word": "spell"
+        },
+        {
+            "id": "spellcaster",
+            "word": "spellcaster"
+        },
+        {
+            "id": "spiritualism",
+            "word": "spiritualism"
+        },
+        {
+            "id": "spiritualist",
+            "word": "spiritualist"
+        },
+        {
+            "id": "succubus",
+            "word": "succubus"
+        },
+        {
+            "id": "sympathetic_magic",
+            "word": "sympathetic magic"
+        },
+        {
+            "id": "table-turning",
+            "word": "table-turning"
+        },
+        {
+            "id": "tagati",
+            "word": "tagati"
+        },
+        {
+            "id": "tarot",
+            "word": "tarot"
+        },
+        {
+            "id": "telaesthesia",
+            "word": "telaesthesia"
+        },
+        {
+            "id": "telekinesis",
+            "word": "telekinesis"
+        },
+        {
+            "id": "telepath",
+            "word": "telepath"
+        },
+        {
+            "id": "telepathize",
+            "word": "telepathize"
+        },
+        {
+            "id": "telepathy",
+            "word": "telepathy"
+        },
+        {
+            "id": "thaumaturge",
+            "word": "thaumaturge"
+        },
+        {
+            "id": "thaumaturgy",
+            "word": "thaumaturgy"
+        },
+        {
+            "id": "the_evil_eye",
+            "word": "the evil eye"
+        },
+        {
+            "id": "transmute",
+            "word": "transmute"
+        },
+        {
+            "id": "transpersonal",
+            "word": "transpersonal"
+        },
+        {
+            "id": "ufo",
+            "word": "ufo"
+        },
+        {
+            "id": "ufology",
+            "word": "ufology"
+        },
+        {
+            "id": "vampirism",
+            "word": "vampirism"
+        },
+        {
+            "id": "wand",
+            "word": "wand"
+        },
+        {
+            "id": "warlock",
+            "word": "warlock"
+        },
+        {
+            "id": "water_witch",
+            "word": "water witch"
+        },
+        {
+            "id": "white_magic",
+            "word": "white magic"
+        },
+        {
+            "id": "white_witch",
+            "word": "white witch"
+        },
+        {
+            "id": "wise_man",
+            "word": "wise man"
+        },
+        {
+            "id": "wise_woman",
+            "word": "wise woman"
+        },
+        {
+            "id": "witch",
+            "word": "witch"
+        },
+        {
+            "id": "witchcraft",
+            "word": "witchcraft"
+        },
+        {
+            "id": "witchery",
+            "word": "witchery"
+        },
+        {
+            "id": "witching",
+            "word": "witching"
+        },
+        {
+            "id": "wizard",
+            "word": "wizard"
+        },
+        {
+            "id": "wizardry",
+            "word": "wizardry"
+        },
+        {
+            "id": "zener_cards",
+            "word": "zener cards"
+        }
+    ]
+}

@@ -1,0 +1,619 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 152,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "aglet",
+            "word": "aglet"
+        },
+        {
+            "id": "alpargata",
+            "word": "alpargata"
+        },
+        {
+            "id": "ankle_boot",
+            "word": "ankle boot"
+        },
+        {
+            "id": "babouche",
+            "word": "babouche"
+        },
+        {
+            "id": "ballet_shoe",
+            "word": "ballet shoe"
+        },
+        {
+            "id": "beetle-crusher",
+            "word": "beetle-crusher"
+        },
+        {
+            "id": "birkenstock",
+            "word": "birkenstock"
+        },
+        {
+            "id": "blakey",
+            "word": "blakey"
+        },
+        {
+            "id": "bluchers",
+            "word": "bluchers"
+        },
+        {
+            "id": "boot",
+            "word": "boot"
+        },
+        {
+            "id": "bootie",
+            "word": "bootie"
+        },
+        {
+            "id": "bootstrap",
+            "word": "bootstrap"
+        },
+        {
+            "id": "bovver_boots",
+            "word": "bovver boots"
+        },
+        {
+            "id": "break_something_in",
+            "word": "break something in"
+        },
+        {
+            "id": "brogan",
+            "word": "brogan"
+        },
+        {
+            "id": "brogue",
+            "word": "brogue"
+        },
+        {
+            "id": "brothel_creepers",
+            "word": "brothel creepers"
+        },
+        {
+            "id": "buckle",
+            "word": "buckle"
+        },
+        {
+            "id": "buskin",
+            "word": "buskin"
+        },
+        {
+            "id": "carpet_slipper",
+            "word": "carpet slipper"
+        },
+        {
+            "id": "chappal",
+            "word": "chappal"
+        },
+        {
+            "id": "chelsea_boot",
+            "word": "chelsea boot"
+        },
+        {
+            "id": "clodhopper",
+            "word": "clodhopper"
+        },
+        {
+            "id": "clog",
+            "word": "clog"
+        },
+        {
+            "id": "cobbler",
+            "word": "cobbler"
+        },
+        {
+            "id": "cordwainer",
+            "word": "cordwainer"
+        },
+        {
+            "id": "co-respondent_shoes",
+            "word": "co-respondent shoes"
+        },
+        {
+            "id": "counter",
+            "word": "counter"
+        },
+        {
+            "id": "court_shoe",
+            "word": "court shoe"
+        },
+        {
+            "id": "cowboy_boot",
+            "word": "cowboy boot"
+        },
+        {
+            "id": "cuban_heel",
+            "word": "cuban heel"
+        },
+        {
+            "id": "deck_shoe",
+            "word": "deck shoe"
+        },
+        {
+            "id": "desert_boot",
+            "word": "desert boot"
+        },
+        {
+            "id": "down_at_heel",
+            "word": "down at heel"
+        },
+        {
+            "id": "dr_martens",
+            "word": "dr martens"
+        },
+        {
+            "id": "duck_boot",
+            "word": "duck boot"
+        },
+        {
+            "id": "espadrille",
+            "word": "espadrille"
+        },
+        {
+            "id": "eva",
+            "word": "eva"
+        },
+        {
+            "id": "eyelet",
+            "word": "eyelet"
+        },
+        {
+            "id": "field_boot",
+            "word": "field boot"
+        },
+        {
+            "id": "finnesko",
+            "word": "finnesko"
+        },
+        {
+            "id": "flattie",
+            "word": "flattie"
+        },
+        {
+            "id": "flip-flop",
+            "word": "flip-flop"
+        },
+        {
+            "id": "footbed",
+            "word": "footbed"
+        },
+        {
+            "id": "footwear",
+            "word": "footwear"
+        },
+        {
+            "id": "galosh",
+            "word": "galosh"
+        },
+        {
+            "id": "gladiator_sandal",
+            "word": "gladiator sandal"
+        },
+        {
+            "id": "gumboot",
+            "word": "gumboot"
+        },
+        {
+            "id": "gutty",
+            "word": "gutty"
+        },
+        {
+            "id": "half-boot",
+            "word": "half-boot"
+        },
+        {
+            "id": "half-hose",
+            "word": "half-hose"
+        },
+        {
+            "id": "heelball",
+            "word": "heelball"
+        },
+        {
+            "id": "heel_bar",
+            "word": "heel bar"
+        },
+        {
+            "id": "heeltap",
+            "word": "heeltap"
+        },
+        {
+            "id": "hessian_boot",
+            "word": "hessian boot"
+        },
+        {
+            "id": "high-heeled",
+            "word": "high-heeled"
+        },
+        {
+            "id": "high_heels",
+            "word": "high heels"
+        },
+        {
+            "id": "high-low",
+            "word": "high-low"
+        },
+        {
+            "id": "high-top",
+            "word": "high-top"
+        },
+        {
+            "id": "hiking_boot",
+            "word": "hiking boot"
+        },
+        {
+            "id": "hobnail",
+            "word": "hobnail"
+        },
+        {
+            "id": "huarache",
+            "word": "huarache"
+        },
+        {
+            "id": "insole",
+            "word": "insole"
+        },
+        {
+            "id": "jackboot",
+            "word": "jackboot"
+        },
+        {
+            "id": "jandal",
+            "word": "jandal"
+        },
+        {
+            "id": "jelly_shoe",
+            "word": "jelly shoe"
+        },
+        {
+            "id": "jesus_sandals",
+            "word": "jesus sandals"
+        },
+        {
+            "id": "kitten_heel",
+            "word": "kitten heel"
+        },
+        {
+            "id": "knee_boot",
+            "word": "knee boot"
+        },
+        {
+            "id": "lace-up",
+            "word": "lace-up"
+        },
+        {
+            "id": "lacing",
+            "word": "lacing"
+        },
+        {
+            "id": "lapstone",
+            "word": "lapstone"
+        },
+        {
+            "id": "last",
+            "word": "last"
+        },
+        {
+            "id": "latchet",
+            "word": "latchet"
+        },
+        {
+            "id": "mary_jane",
+            "word": "mary jane"
+        },
+        {
+            "id": "midsole",
+            "word": "midsole"
+        },
+        {
+            "id": "moc",
+            "word": "moc"
+        },
+        {
+            "id": "moccasin",
+            "word": "moccasin"
+        },
+        {
+            "id": "moon_boot",
+            "word": "moon boot"
+        },
+        {
+            "id": "mukluk",
+            "word": "mukluk"
+        },
+        {
+            "id": "mule",
+            "word": "mule"
+        },
+        {
+            "id": "mutton_dummy",
+            "word": "mutton dummy"
+        },
+        {
+            "id": "opanka",
+            "word": "opanka"
+        },
+        {
+            "id": "open-toed",
+            "word": "open-toed"
+        },
+        {
+            "id": "outsole",
+            "word": "outsole"
+        },
+        {
+            "id": "overboot",
+            "word": "overboot"
+        },
+        {
+            "id": "overshoe",
+            "word": "overshoe"
+        },
+        {
+            "id": "pantofle",
+            "word": "pantofle"
+        },
+        {
+            "id": "patten",
+            "word": "patten"
+        },
+        {
+            "id": "peep-toe",
+            "word": "peep-toe"
+        },
+        {
+            "id": "pegging_awl",
+            "word": "pegging awl"
+        },
+        {
+            "id": "pegging_machine",
+            "word": "pegging machine"
+        },
+        {
+            "id": "pegwood",
+            "word": "pegwood"
+        },
+        {
+            "id": "penny_loafer",
+            "word": "penny loafer"
+        },
+        {
+            "id": "plimsoll",
+            "word": "plimsoll"
+        },
+        {
+            "id": "prunella",
+            "word": "prunella"
+        },
+        {
+            "id": "pump",
+            "word": "pump"
+        },
+        {
+            "id": "rain_boot",
+            "word": "rain boot"
+        },
+        {
+            "id": "rand",
+            "word": "rand"
+        },
+        {
+            "id": "reheel",
+            "word": "reheel"
+        },
+        {
+            "id": "resole",
+            "word": "resole"
+        },
+        {
+            "id": "rosin-end",
+            "word": "rosin-end"
+        },
+        {
+            "id": "rubber_boot",
+            "word": "rubber boot"
+        },
+        {
+            "id": "russian_boot",
+            "word": "russian boot"
+        },
+        {
+            "id": "sabot",
+            "word": "sabot"
+        },
+        {
+            "id": "saddle_shoe",
+            "word": "saddle shoe"
+        },
+        {
+            "id": "sandal",
+            "word": "sandal"
+        },
+        {
+            "id": "shoe",
+            "word": "shoe"
+        },
+        {
+            "id": "shoehorn",
+            "word": "shoehorn"
+        },
+        {
+            "id": "shoelace",
+            "word": "shoelace"
+        },
+        {
+            "id": "shoemaker",
+            "word": "shoemaker"
+        },
+        {
+            "id": "shoepack",
+            "word": "shoepack"
+        },
+        {
+            "id": "shoe_tree",
+            "word": "shoe tree"
+        },
+        {
+            "id": "skyscraper_heels",
+            "word": "skyscraper heels"
+        },
+        {
+            "id": "slingback",
+            "word": "slingback"
+        },
+        {
+            "id": "slip-on",
+            "word": "slip-on"
+        },
+        {
+            "id": "slipper",
+            "word": "slipper"
+        },
+        {
+            "id": "slipperette",
+            "word": "slipperette"
+        },
+        {
+            "id": "slip-slop",
+            "word": "slip-slop"
+        },
+        {
+            "id": "sneaker",
+            "word": "sneaker"
+        },
+        {
+            "id": "snow_boot",
+            "word": "snow boot"
+        },
+        {
+            "id": "sole",
+            "word": "sole"
+        },
+        {
+            "id": "souter",
+            "word": "souter"
+        },
+        {
+            "id": "sparable",
+            "word": "sparable"
+        },
+        {
+            "id": "spike_heel",
+            "word": "spike heel"
+        },
+        {
+            "id": "square-toed",
+            "word": "square-toed"
+        },
+        {
+            "id": "step-in",
+            "word": "step-in"
+        },
+        {
+            "id": "stiletto",
+            "word": "stiletto"
+        },
+        {
+            "id": "strappy",
+            "word": "strappy"
+        },
+        {
+            "id": "tackie",
+            "word": "tackie"
+        },
+        {
+            "id": "tap_shoe",
+            "word": "tap shoe"
+        },
+        {
+            "id": "tennis_shoe",
+            "word": "tennis shoe"
+        },
+        {
+            "id": "thigh_boot",
+            "word": "thigh boot"
+        },
+        {
+            "id": "toe_box",
+            "word": "toe box"
+        },
+        {
+            "id": "toecap",
+            "word": "toecap"
+        },
+        {
+            "id": "top_boot",
+            "word": "top boot"
+        },
+        {
+            "id": "track_shoe",
+            "word": "track shoe"
+        },
+        {
+            "id": "training_shoe",
+            "word": "training shoe"
+        },
+        {
+            "id": "tramping_boots",
+            "word": "tramping boots"
+        },
+        {
+            "id": "turkish_slipper",
+            "word": "turkish slipper"
+        },
+        {
+            "id": "ugg_boot",
+            "word": "ugg boot"
+        },
+        {
+            "id": "unbuckle",
+            "word": "unbuckle"
+        },
+        {
+            "id": "unlace",
+            "word": "unlace"
+        },
+        {
+            "id": "vamp",
+            "word": "vamp"
+        },
+        {
+            "id": "veldskoen",
+            "word": "veldskoen"
+        },
+        {
+            "id": "walking_shoe",
+            "word": "walking shoe"
+        },
+        {
+            "id": "wedgie",
+            "word": "wedgie"
+        },
+        {
+            "id": "weejuns",
+            "word": "weejuns"
+        },
+        {
+            "id": "wellington",
+            "word": "wellington"
+        },
+        {
+            "id": "welt",
+            "word": "welt"
+        },
+        {
+            "id": "winkle-picker",
+            "word": "winkle-picker"
+        },
+        {
+            "id": "zori",
+            "word": "zori"
+        }
+    ]
+}

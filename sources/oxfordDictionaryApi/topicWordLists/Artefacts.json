@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 9
+    },
+    "results": [
+        {
+            "id": "air_horn",
+            "word": "air horn"
+        },
+        {
+            "id": "baby_doll",
+            "word": "baby doll"
+        },
+        {
+            "id": "bone_carver",
+            "word": "bone carver"
+        },
+        {
+            "id": "bone_carving",
+            "word": "bone carving"
+        },
+        {
+            "id": "cupholder",
+            "word": "cupholder"
+        },
+        {
+            "id": "digipak",
+            "word": "digipak"
+        },
+        {
+            "id": "pirri",
+            "word": "pirri"
+        },
+        {
+            "id": "snow_globe",
+            "word": "snow globe"
+        },
+        {
+            "id": "tea_light",
+            "word": "tea light"
+        }
+    ]
+}

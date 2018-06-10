@@ -1,0 +1,767 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 189,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "acrostic",
+            "word": "acrostic"
+        },
+        {
+            "id": "air_hockey",
+            "word": "air hockey"
+        },
+        {
+            "id": "alley",
+            "word": "alley"
+        },
+        {
+            "id": "aunt_sally",
+            "word": "aunt sally"
+        },
+        {
+            "id": "backgammon",
+            "word": "backgammon"
+        },
+        {
+            "id": "bagatelle",
+            "word": "bagatelle"
+        },
+        {
+            "id": "beer_pong",
+            "word": "beer pong"
+        },
+        {
+            "id": "bingo",
+            "word": "bingo"
+        },
+        {
+            "id": "blind_man%27s_buff",
+            "word": "blind man's buff"
+        },
+        {
+            "id": "bocce",
+            "word": "bocce"
+        },
+        {
+            "id": "boccia",
+            "word": "boccia"
+        },
+        {
+            "id": "boule",
+            "word": "boule"
+        },
+        {
+            "id": "capture",
+            "word": "capture"
+        },
+        {
+            "id": "cat%27s_cradle",
+            "word": "cat's cradle"
+        },
+        {
+            "id": "chequerboard",
+            "word": "chequerboard"
+        },
+        {
+            "id": "chessboard",
+            "word": "chessboard"
+        },
+        {
+            "id": "chinese_chequers",
+            "word": "chinese chequers"
+        },
+        {
+            "id": "chuck-a-luck",
+            "word": "chuck-a-luck"
+        },
+        {
+            "id": "chutes_and_ladders",
+            "word": "chutes and ladders"
+        },
+        {
+            "id": "cinque",
+            "word": "cinque"
+        },
+        {
+            "id": "clock_golf",
+            "word": "clock golf"
+        },
+        {
+            "id": "cold_deck",
+            "word": "cold deck"
+        },
+        {
+            "id": "connect-the-dots",
+            "word": "connect-the-dots"
+        },
+        {
+            "id": "consolation_prize",
+            "word": "consolation prize"
+        },
+        {
+            "id": "crambo",
+            "word": "crambo"
+        },
+        {
+            "id": "crap_game",
+            "word": "crap game"
+        },
+        {
+            "id": "craps",
+            "word": "craps"
+        },
+        {
+            "id": "crapshoot",
+            "word": "crapshoot"
+        },
+        {
+            "id": "crazy_golf",
+            "word": "crazy golf"
+        },
+        {
+            "id": "crossword",
+            "word": "crossword"
+        },
+        {
+            "id": "dartboard",
+            "word": "dartboard"
+        },
+        {
+            "id": "darts",
+            "word": "darts"
+        },
+        {
+            "id": "deck_quoits",
+            "word": "deck quoits"
+        },
+        {
+            "id": "deck_tennis",
+            "word": "deck tennis"
+        },
+        {
+            "id": "deuce",
+            "word": "deuce"
+        },
+        {
+            "id": "diabolo",
+            "word": "diabolo"
+        },
+        {
+            "id": "dice",
+            "word": "dice"
+        },
+        {
+            "id": "disc_golf",
+            "word": "disc golf"
+        },
+        {
+            "id": "dodgeball",
+            "word": "dodgeball"
+        },
+        {
+            "id": "domino",
+            "word": "domino"
+        },
+        {
+            "id": "door_prize",
+            "word": "door prize"
+        },
+        {
+            "id": "dot-to-dot",
+            "word": "dot-to-dot"
+        },
+        {
+            "id": "double_acrostic",
+            "word": "double acrostic"
+        },
+        {
+            "id": "double_top",
+            "word": "double top"
+        },
+        {
+            "id": "draughtboard",
+            "word": "draughtboard"
+        },
+        {
+            "id": "draughts",
+            "word": "draughts"
+        },
+        {
+            "id": "dreidel",
+            "word": "dreidel"
+        },
+        {
+            "id": "drinking_game",
+            "word": "drinking game"
+        },
+        {
+            "id": "ducks_and_drakes",
+            "word": "ducks and drakes"
+        },
+        {
+            "id": "dungeons_and_dragons",
+            "word": "dungeons and dragons"
+        },
+        {
+            "id": "fantasy_football",
+            "word": "fantasy football"
+        },
+        {
+            "id": "fivestones",
+            "word": "fivestones"
+        },
+        {
+            "id": "flying_disc",
+            "word": "flying disc"
+        },
+        {
+            "id": "follow-the-leader",
+            "word": "follow-the-leader"
+        },
+        {
+            "id": "foosball",
+            "word": "foosball"
+        },
+        {
+            "id": "fps",
+            "word": "fps"
+        },
+        {
+            "id": "frisbee",
+            "word": "frisbee"
+        },
+        {
+            "id": "frisbee_golf",
+            "word": "frisbee golf"
+        },
+        {
+            "id": "game",
+            "word": "game"
+        },
+        {
+            "id": "gamesmanship",
+            "word": "gamesmanship"
+        },
+        {
+            "id": "gamester",
+            "word": "gamester"
+        },
+        {
+            "id": "gammon",
+            "word": "gammon"
+        },
+        {
+            "id": "go",
+            "word": "go"
+        },
+        {
+            "id": "gold_farming",
+            "word": "gold farming"
+        },
+        {
+            "id": "grandmother%27s_footsteps",
+            "word": "grandmother's footsteps"
+        },
+        {
+            "id": "guessing_game",
+            "word": "guessing game"
+        },
+        {
+            "id": "halma",
+            "word": "halma"
+        },
+        {
+            "id": "hobby_horse",
+            "word": "hobby horse"
+        },
+        {
+            "id": "hoopla",
+            "word": "hoopla"
+        },
+        {
+            "id": "hopscotch",
+            "word": "hopscotch"
+        },
+        {
+            "id": "housie",
+            "word": "housie"
+        },
+        {
+            "id": "hula_hoop",
+            "word": "hula hoop"
+        },
+        {
+            "id": "humming_top",
+            "word": "humming top"
+        },
+        {
+            "id": "hunt_the_thimble",
+            "word": "hunt the thimble"
+        },
+        {
+            "id": "i_spy",
+            "word": "i spy"
+        },
+        {
+            "id": "jai_alai",
+            "word": "jai alai"
+        },
+        {
+            "id": "jigsaw",
+            "word": "jigsaw"
+        },
+        {
+            "id": "jukskei",
+            "word": "jukskei"
+        },
+        {
+            "id": "jump_rope",
+            "word": "jump rope"
+        },
+        {
+            "id": "kakuro",
+            "word": "kakuro"
+        },
+        {
+            "id": "kaleidoscope",
+            "word": "kaleidoscope"
+        },
+        {
+            "id": "keep_%28the%29_score",
+            "word": "keep (the) score"
+        },
+        {
+            "id": "keno",
+            "word": "keno"
+        },
+        {
+            "id": "kick-to-kick",
+            "word": "kick-to-kick"
+        },
+        {
+            "id": "king_of_the_castle",
+            "word": "king of the castle"
+        },
+        {
+            "id": "kip",
+            "word": "kip"
+        },
+        {
+            "id": "kite",
+            "word": "kite"
+        },
+        {
+            "id": "kriegspiel",
+            "word": "kriegspiel"
+        },
+        {
+            "id": "leapfrog",
+            "word": "leapfrog"
+        },
+        {
+            "id": "lego",
+            "word": "lego"
+        },
+        {
+            "id": "liar_dice",
+            "word": "liar dice"
+        },
+        {
+            "id": "lolly_scramble",
+            "word": "lolly scramble"
+        },
+        {
+            "id": "lotto",
+            "word": "lotto"
+        },
+        {
+            "id": "ludo",
+            "word": "ludo"
+        },
+        {
+            "id": "ludology",
+            "word": "ludology"
+        },
+        {
+            "id": "mah-jong",
+            "word": "mah-jong"
+        },
+        {
+            "id": "main",
+            "word": "main"
+        },
+        {
+            "id": "marco_polo",
+            "word": "marco polo"
+        },
+        {
+            "id": "marley",
+            "word": "marley"
+        },
+        {
+            "id": "mecha",
+            "word": "mecha"
+        },
+        {
+            "id": "meeple",
+            "word": "meeple"
+        },
+        {
+            "id": "minigolf",
+            "word": "minigolf"
+        },
+        {
+            "id": "mumblety-peg",
+            "word": "mumblety-peg"
+        },
+        {
+            "id": "musical_bumps",
+            "word": "musical bumps"
+        },
+        {
+            "id": "musical_chairs",
+            "word": "musical chairs"
+        },
+        {
+            "id": "nim",
+            "word": "nim"
+        },
+        {
+            "id": "noughts_and_crosses",
+            "word": "noughts and crosses"
+        },
+        {
+            "id": "oche",
+            "word": "oche"
+        },
+        {
+            "id": "pachinko",
+            "word": "pachinko"
+        },
+        {
+            "id": "pachisi",
+            "word": "pachisi"
+        },
+        {
+            "id": "paddleball",
+            "word": "paddleball"
+        },
+        {
+            "id": "paddle_tennis",
+            "word": "paddle tennis"
+        },
+        {
+            "id": "paintball",
+            "word": "paintball"
+        },
+        {
+            "id": "pall-mall",
+            "word": "pall-mall"
+        },
+        {
+            "id": "panel_game",
+            "word": "panel game"
+        },
+        {
+            "id": "parlour_game",
+            "word": "parlour game"
+        },
+        {
+            "id": "pass_the_parcel",
+            "word": "pass the parcel"
+        },
+        {
+            "id": "pat-a-cake",
+            "word": "pat-a-cake"
+        },
+        {
+            "id": "p%C3%A9tanque",
+            "word": "pétanque"
+        },
+        {
+            "id": "peever",
+            "word": "peever"
+        },
+        {
+            "id": "pegboard",
+            "word": "pegboard"
+        },
+        {
+            "id": "pegtop",
+            "word": "pegtop"
+        },
+        {
+            "id": "pi%C3%B1ata",
+            "word": "piñata"
+        },
+        {
+            "id": "piggy_%28also_pig%29_in_the_middle",
+            "word": "piggy (also pig) in the middle"
+        },
+        {
+            "id": "pinball",
+            "word": "pinball"
+        },
+        {
+            "id": "pinnie",
+            "word": "pinnie"
+        },
+        {
+            "id": "pog",
+            "word": "pog"
+        },
+        {
+            "id": "poker_dice",
+            "word": "poker dice"
+        },
+        {
+            "id": "poohsticks",
+            "word": "poohsticks"
+        },
+        {
+            "id": "postman%27s_knock",
+            "word": "postman's knock"
+        },
+        {
+            "id": "prisoner%27s_base",
+            "word": "prisoner's base"
+        },
+        {
+            "id": "punchboard",
+            "word": "punchboard"
+        },
+        {
+            "id": "quoit",
+            "word": "quoit"
+        },
+        {
+            "id": "rebus",
+            "word": "rebus"
+        },
+        {
+            "id": "recreation_ground",
+            "word": "recreation ground"
+        },
+        {
+            "id": "ring-a-ring_o%27_roses",
+            "word": "ring-a-ring o' roses"
+        },
+        {
+            "id": "ringer",
+            "word": "ringer"
+        },
+        {
+            "id": "round_game",
+            "word": "round game"
+        },
+        {
+            "id": "rubik%27s_cube",
+            "word": "rubik's cube"
+        },
+        {
+            "id": "sandpit",
+            "word": "sandpit"
+        },
+        {
+            "id": "scavenger_hunt",
+            "word": "scavenger hunt"
+        },
+        {
+            "id": "score",
+            "word": "score"
+        },
+        {
+            "id": "scorekeeper",
+            "word": "scorekeeper"
+        },
+        {
+            "id": "scoreless",
+            "word": "scoreless"
+        },
+        {
+            "id": "shove-halfpenny",
+            "word": "shove-halfpenny"
+        },
+        {
+            "id": "shovelboard",
+            "word": "shovelboard"
+        },
+        {
+            "id": "sic_bo",
+            "word": "sic bo"
+        },
+        {
+            "id": "sice",
+            "word": "sice"
+        },
+        {
+            "id": "single_acrostic",
+            "word": "single acrostic"
+        },
+        {
+            "id": "skipping_rope",
+            "word": "skipping rope"
+        },
+        {
+            "id": "snakes_and_ladders",
+            "word": "snakes and ladders"
+        },
+        {
+            "id": "social_gaming",
+            "word": "social gaming"
+        },
+        {
+            "id": "solitaire",
+            "word": "solitaire"
+        },
+        {
+            "id": "spacehopper",
+            "word": "spacehopper"
+        },
+        {
+            "id": "spillikin",
+            "word": "spillikin"
+        },
+        {
+            "id": "staring_contest",
+            "word": "staring contest"
+        },
+        {
+            "id": "stoolball",
+            "word": "stoolball"
+        },
+        {
+            "id": "stoop_ball",
+            "word": "stoop ball"
+        },
+        {
+            "id": "subbuteo",
+            "word": "subbuteo"
+        },
+        {
+            "id": "sudden_death",
+            "word": "sudden death"
+        },
+        {
+            "id": "sudoku",
+            "word": "sudoku"
+        },
+        {
+            "id": "table_football",
+            "word": "table football"
+        },
+        {
+            "id": "tabletop_game",
+            "word": "tabletop game"
+        },
+        {
+            "id": "tabletop_gaming",
+            "word": "tabletop gaming"
+        },
+        {
+            "id": "tamagotchi",
+            "word": "tamagotchi"
+        },
+        {
+            "id": "tangram",
+            "word": "tangram"
+        },
+        {
+            "id": "taw",
+            "word": "taw"
+        },
+        {
+            "id": "team",
+            "word": "team"
+        },
+        {
+            "id": "teetotum",
+            "word": "teetotum"
+        },
+        {
+            "id": "thimblerig",
+            "word": "thimblerig"
+        },
+        {
+            "id": "three-legged_race",
+            "word": "three-legged race"
+        },
+        {
+            "id": "tiddlywink",
+            "word": "tiddlywink"
+        },
+        {
+            "id": "tipcat",
+            "word": "tipcat"
+        },
+        {
+            "id": "tps",
+            "word": "tps"
+        },
+        {
+            "id": "treasure_hunt",
+            "word": "treasure hunt"
+        },
+        {
+            "id": "trente_et_quarante",
+            "word": "trente et quarante"
+        },
+        {
+            "id": "trick_or_treat",
+            "word": "trick or treat"
+        },
+        {
+            "id": "tric-trac",
+            "word": "tric-trac"
+        },
+        {
+            "id": "triple_acrostic",
+            "word": "triple acrostic"
+        },
+        {
+            "id": "trugo",
+            "word": "trugo"
+        },
+        {
+            "id": "tug_of_war",
+            "word": "tug of war"
+        },
+        {
+            "id": "video_game",
+            "word": "video game"
+        },
+        {
+            "id": "wei_ch%27i",
+            "word": "wei ch'i"
+        },
+        {
+            "id": "wendy_house",
+            "word": "wendy house"
+        },
+        {
+            "id": "whack-a-mole",
+            "word": "whack-a-mole"
+        },
+        {
+            "id": "whirligig",
+            "word": "whirligig"
+        },
+        {
+            "id": "word_game",
+            "word": "word game"
+        },
+        {
+            "id": "word_search",
+            "word": "word search"
+        },
+        {
+            "id": "word_square",
+            "word": "word square"
+        }
+    ]
+}

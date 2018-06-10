@@ -1,0 +1,359 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 87
+    },
+    "results": [
+        {
+            "id": "ad",
+            "word": "ad"
+        },
+        {
+            "id": "agassi%2C_andr%C3%A9",
+            "word": "agassi, andré"
+        },
+        {
+            "id": "ashe%2C_arthur",
+            "word": "ashe, arthur"
+        },
+        {
+            "id": "backcourt",
+            "word": "backcourt"
+        },
+        {
+            "id": "backhand",
+            "word": "backhand"
+        },
+        {
+            "id": "ballboy",
+            "word": "ballboy"
+        },
+        {
+            "id": "ballgirl",
+            "word": "ballgirl"
+        },
+        {
+            "id": "ball_kid",
+            "word": "ball kid"
+        },
+        {
+            "id": "becker%2C_boris",
+            "word": "becker, boris"
+        },
+        {
+            "id": "borg%2C_bj%C3%B6rn",
+            "word": "borg, björn"
+        },
+        {
+            "id": "break_%28someone%27s%29_serve_%28or_service%29",
+            "word": "break (someone's) serve (or service)"
+        },
+        {
+            "id": "budge%2C_don",
+            "word": "budge, don"
+        },
+        {
+            "id": "cawley%2C_evonne_goolagong",
+            "word": "cawley, evonne goolagong"
+        },
+        {
+            "id": "centre_court",
+            "word": "centre court"
+        },
+        {
+            "id": "chair_umpire",
+            "word": "chair umpire"
+        },
+        {
+            "id": "clay_court",
+            "word": "clay court"
+        },
+        {
+            "id": "connolly%2C_maureen",
+            "word": "connolly, maureen"
+        },
+        {
+            "id": "connors%2C_jimmy",
+            "word": "connors, jimmy"
+        },
+        {
+            "id": "continental_grip",
+            "word": "continental grip"
+        },
+        {
+            "id": "cross-court",
+            "word": "cross-court"
+        },
+        {
+            "id": "davis_cup",
+            "word": "davis cup"
+        },
+        {
+            "id": "double_fault",
+            "word": "double fault"
+        },
+        {
+            "id": "drop_one%27s_serve",
+            "word": "drop one's serve"
+        },
+        {
+            "id": "drop_shot",
+            "word": "drop shot"
+        },
+        {
+            "id": "eastern_grip",
+            "word": "eastern grip"
+        },
+        {
+            "id": "edberg%2C_stefan",
+            "word": "edberg, stefan"
+        },
+        {
+            "id": "evert%2C_chris",
+            "word": "evert, chris"
+        },
+        {
+            "id": "federer%2C_roger",
+            "word": "federer, roger"
+        },
+        {
+            "id": "foot_fault",
+            "word": "foot fault"
+        },
+        {
+            "id": "forehand",
+            "word": "forehand"
+        },
+        {
+            "id": "forehanded",
+            "word": "forehanded"
+        },
+        {
+            "id": "game_point",
+            "word": "game point"
+        },
+        {
+            "id": "gibson%2C_althea",
+            "word": "gibson, althea"
+        },
+        {
+            "id": "golden_set",
+            "word": "golden set"
+        },
+        {
+            "id": "golden_slam",
+            "word": "golden slam"
+        },
+        {
+            "id": "graf%2C_steffi",
+            "word": "graf, steffi"
+        },
+        {
+            "id": "grass_court",
+            "word": "grass court"
+        },
+        {
+            "id": "groundie",
+            "word": "groundie"
+        },
+        {
+            "id": "groundstroke",
+            "word": "groundstroke"
+        },
+        {
+            "id": "half-volley",
+            "word": "half-volley"
+        },
+        {
+            "id": "hold_%28one%27s%29_serve_%28or_service%29",
+            "word": "hold (one's) serve (or service)"
+        },
+        {
+            "id": "king%2C_billie_jean",
+            "word": "king, billie jean"
+        },
+        {
+            "id": "knock-up",
+            "word": "knock-up"
+        },
+        {
+            "id": "laver%2C_rod",
+            "word": "laver, rod"
+        },
+        {
+            "id": "lawn_tennis",
+            "word": "lawn tennis"
+        },
+        {
+            "id": "lendl%2C_ivan",
+            "word": "lendl, ivan"
+        },
+        {
+            "id": "let",
+            "word": "let"
+        },
+        {
+            "id": "line_judge",
+            "word": "line judge"
+        },
+        {
+            "id": "love_game",
+            "word": "love game"
+        },
+        {
+            "id": "lta",
+            "word": "lta"
+        },
+        {
+            "id": "match_point",
+            "word": "match point"
+        },
+        {
+            "id": "mcenroe%2C_john",
+            "word": "mcenroe, john"
+        },
+        {
+            "id": "mixed_doubles",
+            "word": "mixed doubles"
+        },
+        {
+            "id": "murray%2C_sir_andy",
+            "word": "murray, sir andy"
+        },
+        {
+            "id": "nadal%2C_rafael",
+            "word": "nadal, rafael"
+        },
+        {
+            "id": "navratilova%2C_martina",
+            "word": "navratilova, martina"
+        },
+        {
+            "id": "overarm",
+            "word": "overarm"
+        },
+        {
+            "id": "passing_shot",
+            "word": "passing shot"
+        },
+        {
+            "id": "percentage_tennis",
+            "word": "percentage tennis"
+        },
+        {
+            "id": "perry%2C_fred",
+            "word": "perry, fred"
+        },
+        {
+            "id": "power_tennis",
+            "word": "power tennis"
+        },
+        {
+            "id": "racket",
+            "word": "racket"
+        },
+        {
+            "id": "racket_abuse",
+            "word": "racket abuse"
+        },
+        {
+            "id": "real_tennis",
+            "word": "real tennis"
+        },
+        {
+            "id": "re-serve",
+            "word": "re-serve"
+        },
+        {
+            "id": "rough",
+            "word": "rough"
+        },
+        {
+            "id": "sampras%2C_pete",
+            "word": "sampras, pete"
+        },
+        {
+            "id": "seles%2C_monica",
+            "word": "seles, monica"
+        },
+        {
+            "id": "serve-and-volley",
+            "word": "serve-and-volley"
+        },
+        {
+            "id": "service_game",
+            "word": "service game"
+        },
+        {
+            "id": "service_line",
+            "word": "service line"
+        },
+        {
+            "id": "set_point",
+            "word": "set point"
+        },
+        {
+            "id": "short_tennis",
+            "word": "short tennis"
+        },
+        {
+            "id": "soft_tennis",
+            "word": "soft tennis"
+        },
+        {
+            "id": "stop_volley",
+            "word": "stop volley"
+        },
+        {
+            "id": "tennies",
+            "word": "tennies"
+        },
+        {
+            "id": "tennis",
+            "word": "tennis"
+        },
+        {
+            "id": "tennis_court",
+            "word": "tennis court"
+        },
+        {
+            "id": "tennis_shoe",
+            "word": "tennis shoe"
+        },
+        {
+            "id": "tiebreaker",
+            "word": "tiebreaker"
+        },
+        {
+            "id": "tramlines",
+            "word": "tramlines"
+        },
+        {
+            "id": "wade%2C_virginia",
+            "word": "wade, virginia"
+        },
+        {
+            "id": "western_grip",
+            "word": "western grip"
+        },
+        {
+            "id": "williams%2C_serena",
+            "word": "williams, serena"
+        },
+        {
+            "id": "williams%2C_venus",
+            "word": "williams, venus"
+        },
+        {
+            "id": "wimbledon",
+            "word": "wimbledon"
+        },
+        {
+            "id": "wristy",
+            "word": "wristy"
+        }
+    ]
+}

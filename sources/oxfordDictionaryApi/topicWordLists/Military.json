@@ -1,0 +1,3679 @@
+{
+    "results": [
+        {
+            "id": "ack-ack",
+            "word": "ack-ack"
+        },
+        {
+            "id": "action_stations",
+            "word": "action stations"
+        },
+        {
+            "id": "active_duty",
+            "word": "active duty"
+        },
+        {
+            "id": "active_list",
+            "word": "active list"
+        },
+        {
+            "id": "active_service",
+            "word": "active service"
+        },
+        {
+            "id": "adc",
+            "word": "adc"
+        },
+        {
+            "id": "adj.",
+            "word": "adj."
+        },
+        {
+            "id": "adjt",
+            "word": "adjt"
+        },
+        {
+            "id": "adjutant",
+            "word": "adjutant"
+        },
+        {
+            "id": "adjutant_general",
+            "word": "adjutant general"
+        },
+        {
+            "id": "advance_guard",
+            "word": "advance guard"
+        },
+        {
+            "id": "af-pak",
+            "word": "af-pak"
+        },
+        {
+            "id": "ag",
+            "word": "ag"
+        },
+        {
+            "id": "agent_orange",
+            "word": "agent orange"
+        },
+        {
+            "id": "aide-de-camp",
+            "word": "aide-de-camp"
+        },
+        {
+            "id": "aiguillette",
+            "word": "aiguillette"
+        },
+        {
+            "id": "airdrop",
+            "word": "airdrop"
+        },
+        {
+            "id": "airhead",
+            "word": "airhead"
+        },
+        {
+            "id": "airlift",
+            "word": "airlift"
+        },
+        {
+            "id": "airmobile",
+            "word": "airmobile"
+        },
+        {
+            "id": "air_power",
+            "word": "air power"
+        },
+        {
+            "id": "air_raid",
+            "word": "air raid"
+        },
+        {
+            "id": "air-raid_shelter",
+            "word": "air-raid shelter"
+        },
+        {
+            "id": "air_strike",
+            "word": "air strike"
+        },
+        {
+            "id": "ambuscade",
+            "word": "ambuscade"
+        },
+        {
+            "id": "ambush",
+            "word": "ambush"
+        },
+        {
+            "id": "ammunition",
+            "word": "ammunition"
+        },
+        {
+            "id": "amphibious",
+            "word": "amphibious"
+        },
+        {
+            "id": "amtrac",
+            "word": "amtrac"
+        },
+        {
+            "id": "anabasis",
+            "word": "anabasis"
+        },
+        {
+            "id": "anteroom",
+            "word": "anteroom"
+        },
+        {
+            "id": "anti-nuclear",
+            "word": "anti-nuclear"
+        },
+        {
+            "id": "apc",
+            "word": "apc"
+        },
+        {
+            "id": "arm",
+            "word": "arm"
+        },
+        {
+            "id": "armament",
+            "word": "armament"
+        },
+        {
+            "id": "armed_camp",
+            "word": "armed camp"
+        },
+        {
+            "id": "armed_forces",
+            "word": "armed forces"
+        },
+        {
+            "id": "armoured",
+            "word": "armoured"
+        },
+        {
+            "id": "armoured_car",
+            "word": "armoured car"
+        },
+        {
+            "id": "armoured_personnel_carrier",
+            "word": "armoured personnel carrier"
+        },
+        {
+            "id": "armourer",
+            "word": "armourer"
+        },
+        {
+            "id": "armoury",
+            "word": "armoury"
+        },
+        {
+            "id": "arms",
+            "word": "arms"
+        },
+        {
+            "id": "arms_race",
+            "word": "arms race"
+        },
+        {
+            "id": "army",
+            "word": "army"
+        },
+        {
+            "id": "army_issue",
+            "word": "army issue"
+        },
+        {
+            "id": "army_list",
+            "word": "army list"
+        },
+        {
+            "id": "army-navy",
+            "word": "army-navy"
+        },
+        {
+            "id": "army_reserve",
+            "word": "army reserve"
+        },
+        {
+            "id": "army_surplus",
+            "word": "army surplus"
+        },
+        {
+            "id": "arp",
+            "word": "arp"
+        },
+        {
+            "id": "arsenal",
+            "word": "arsenal"
+        },
+        {
+            "id": "artificer",
+            "word": "artificer"
+        },
+        {
+            "id": "artilleryman",
+            "word": "artilleryman"
+        },
+        {
+            "id": "assault_course",
+            "word": "assault course"
+        },
+        {
+            "id": "asymmetrical_warfare",
+            "word": "asymmetrical warfare"
+        },
+        {
+            "id": "at_%28one%27s%29_ease",
+            "word": "at (one's) ease"
+        },
+        {
+            "id": "a-team",
+            "word": "a-team"
+        },
+        {
+            "id": "at_port_arms",
+            "word": "at port arms"
+        },
+        {
+            "id": "attack",
+            "word": "attack"
+        },
+        {
+            "id": "attacking",
+            "word": "attacking"
+        },
+        {
+            "id": "at_the_slope",
+            "word": "at the slope"
+        },
+        {
+            "id": "at_the_trail",
+            "word": "at the trail"
+        },
+        {
+            "id": "attrit",
+            "word": "attrit"
+        },
+        {
+            "id": "auxiliary",
+            "word": "auxiliary"
+        },
+        {
+            "id": "avant-courier",
+            "word": "avant-courier"
+        },
+        {
+            "id": "awol",
+            "word": "awol"
+        },
+        {
+            "id": "baggage",
+            "word": "baggage"
+        },
+        {
+            "id": "bailey_bridge",
+            "word": "bailey bridge"
+        },
+        {
+            "id": "balmoral",
+            "word": "balmoral"
+        },
+        {
+            "id": "bandolier",
+            "word": "bandolier"
+        },
+        {
+            "id": "bangalore_torpedo",
+            "word": "bangalore torpedo"
+        },
+        {
+            "id": "baor",
+            "word": "baor"
+        },
+        {
+            "id": "barbette",
+            "word": "barbette"
+        },
+        {
+            "id": "barrack",
+            "word": "barrack"
+        },
+        {
+            "id": "barracks",
+            "word": "barracks"
+        },
+        {
+            "id": "barrage",
+            "word": "barrage"
+        },
+        {
+            "id": "barrel-bombing",
+            "word": "barrel-bombing"
+        },
+        {
+            "id": "base_camp",
+            "word": "base camp"
+        },
+        {
+            "id": "base_hospital",
+            "word": "base hospital"
+        },
+        {
+            "id": "basha",
+            "word": "basha"
+        },
+        {
+            "id": "batman",
+            "word": "batman"
+        },
+        {
+            "id": "battalion",
+            "word": "battalion"
+        },
+        {
+            "id": "battledress",
+            "word": "battledress"
+        },
+        {
+            "id": "battlefront",
+            "word": "battlefront"
+        },
+        {
+            "id": "battle_group",
+            "word": "battle group"
+        },
+        {
+            "id": "battle_stations",
+            "word": "battle stations"
+        },
+        {
+            "id": "batwoman",
+            "word": "batwoman"
+        },
+        {
+            "id": "bde",
+            "word": "bde"
+        },
+        {
+            "id": "beachhead",
+            "word": "beachhead"
+        },
+        {
+            "id": "beasting",
+            "word": "beasting"
+        },
+        {
+            "id": "beleaguerment",
+            "word": "beleaguerment"
+        },
+        {
+            "id": "be_mentioned_in_dispatches",
+            "word": "be mentioned in dispatches"
+        },
+        {
+            "id": "bergen",
+            "word": "bergen"
+        },
+        {
+            "id": "besiegement",
+            "word": "besiegement"
+        },
+        {
+            "id": "bfpo",
+            "word": "bfpo"
+        },
+        {
+            "id": "biowarfare",
+            "word": "biowarfare"
+        },
+        {
+            "id": "bioweapon",
+            "word": "bioweapon"
+        },
+        {
+            "id": "bivouac",
+            "word": "bivouac"
+        },
+        {
+            "id": "bivvy",
+            "word": "bivvy"
+        },
+        {
+            "id": "black_and_tans",
+            "word": "black and tans"
+        },
+        {
+            "id": "black_watch",
+            "word": "black watch"
+        },
+        {
+            "id": "blanco",
+            "word": "blanco"
+        },
+        {
+            "id": "blanket_roll",
+            "word": "blanket roll"
+        },
+        {
+            "id": "blister_gas",
+            "word": "blister gas"
+        },
+        {
+            "id": "blitz",
+            "word": "blitz"
+        },
+        {
+            "id": "blitzkrieg",
+            "word": "blitzkrieg"
+        },
+        {
+            "id": "blockade",
+            "word": "blockade"
+        },
+        {
+            "id": "blue_helmet",
+            "word": "blue helmet"
+        },
+        {
+            "id": "blue_on_blue",
+            "word": "blue on blue"
+        },
+        {
+            "id": "blues_and_royals",
+            "word": "blues and royals"
+        },
+        {
+            "id": "blue_star",
+            "word": "blue star"
+        },
+        {
+            "id": "body_armour",
+            "word": "body armour"
+        },
+        {
+            "id": "bombardier",
+            "word": "bombardier"
+        },
+        {
+            "id": "bombardment",
+            "word": "bombardment"
+        },
+        {
+            "id": "bomb_disposal",
+            "word": "bomb disposal"
+        },
+        {
+            "id": "bombed",
+            "word": "bombed"
+        },
+        {
+            "id": "bombing",
+            "word": "bombing"
+        },
+        {
+            "id": "bombproof",
+            "word": "bombproof"
+        },
+        {
+            "id": "bomb_site",
+            "word": "bomb site"
+        },
+        {
+            "id": "boot_camp",
+            "word": "boot camp"
+        },
+        {
+            "id": "boots_on_the_ground",
+            "word": "boots on the ground"
+        },
+        {
+            "id": "brassard",
+            "word": "brassard"
+        },
+        {
+            "id": "brass_hat",
+            "word": "brass hat"
+        },
+        {
+            "id": "break_camp",
+            "word": "break camp"
+        },
+        {
+            "id": "break_rank_%28or_ranks%29",
+            "word": "break rank (or ranks)"
+        },
+        {
+            "id": "breastwork",
+            "word": "breastwork"
+        },
+        {
+            "id": "brevet",
+            "word": "brevet"
+        },
+        {
+            "id": "bridgehead",
+            "word": "bridgehead"
+        },
+        {
+            "id": "briefer",
+            "word": "briefer"
+        },
+        {
+            "id": "brig.",
+            "word": "brig."
+        },
+        {
+            "id": "brigade",
+            "word": "brigade"
+        },
+        {
+            "id": "brigade_major",
+            "word": "brigade major"
+        },
+        {
+            "id": "brigadier",
+            "word": "brigadier"
+        },
+        {
+            "id": "brigadier_general",
+            "word": "brigadier general"
+        },
+        {
+            "id": "brothers_in_arms",
+            "word": "brothers in arms"
+        },
+        {
+            "id": "bulge",
+            "word": "bulge"
+        },
+        {
+            "id": "bulwark",
+            "word": "bulwark"
+        },
+        {
+            "id": "busby",
+            "word": "busby"
+        },
+        {
+            "id": "cadet",
+            "word": "cadet"
+        },
+        {
+            "id": "call-up",
+            "word": "call-up"
+        },
+        {
+            "id": "camouflage",
+            "word": "camouflage"
+        },
+        {
+            "id": "campaign",
+            "word": "campaign"
+        },
+        {
+            "id": "camp_follower",
+            "word": "camp follower"
+        },
+        {
+            "id": "cannonade",
+            "word": "cannonade"
+        },
+        {
+            "id": "cannon_fodder",
+            "word": "cannon fodder"
+        },
+        {
+            "id": "cannonry",
+            "word": "cannonry"
+        },
+        {
+            "id": "cantonment",
+            "word": "cantonment"
+        },
+        {
+            "id": "capitano",
+            "word": "capitano"
+        },
+        {
+            "id": "capitulate",
+            "word": "capitulate"
+        },
+        {
+            "id": "capitulation",
+            "word": "capitulation"
+        },
+        {
+            "id": "caponier",
+            "word": "caponier"
+        },
+        {
+            "id": "capt.",
+            "word": "capt."
+        },
+        {
+            "id": "captain_general",
+            "word": "captain general"
+        },
+        {
+            "id": "casern",
+            "word": "casern"
+        },
+        {
+            "id": "casevac",
+            "word": "casevac"
+        },
+        {
+            "id": "cashier",
+            "word": "cashier"
+        },
+        {
+            "id": "cd",
+            "word": "cd"
+        },
+        {
+            "id": "ceasefire",
+            "word": "ceasefire"
+        },
+        {
+            "id": "centcom",
+            "word": "centcom"
+        },
+        {
+            "id": "central_command",
+            "word": "central command"
+        },
+        {
+            "id": "centrefire",
+            "word": "centrefire"
+        },
+        {
+            "id": "chain_of_command",
+            "word": "chain of command"
+        },
+        {
+            "id": "change_step",
+            "word": "change step"
+        },
+        {
+            "id": "chevron",
+            "word": "chevron"
+        },
+        {
+            "id": "chief_of_staff",
+            "word": "chief of staff"
+        },
+        {
+            "id": "chief_warrant_officer",
+            "word": "chief warrant officer"
+        },
+        {
+            "id": "c.-in-c.",
+            "word": "c.-in-c."
+        },
+        {
+            "id": "civil_defence",
+            "word": "civil defence"
+        },
+        {
+            "id": "civil_war",
+            "word": "civil war"
+        },
+        {
+            "id": "civvy_street",
+            "word": "civvy street"
+        },
+        {
+            "id": "clausewitz%2C_karl_von",
+            "word": "clausewitz, karl von"
+        },
+        {
+            "id": "close_ranks",
+            "word": "close ranks"
+        },
+        {
+            "id": "cmdr",
+            "word": "cmdr"
+        },
+        {
+            "id": "cmsgt",
+            "word": "cmsgt"
+        },
+        {
+            "id": "co-belligerent",
+            "word": "co-belligerent"
+        },
+        {
+            "id": "colonel",
+            "word": "colonel"
+        },
+        {
+            "id": "colonelcy",
+            "word": "colonelcy"
+        },
+        {
+            "id": "colonel-in-chief",
+            "word": "colonel-in-chief"
+        },
+        {
+            "id": "colour_sergeant",
+            "word": "colour sergeant"
+        },
+        {
+            "id": "combatant",
+            "word": "combatant"
+        },
+        {
+            "id": "combat_boots",
+            "word": "combat boots"
+        },
+        {
+            "id": "combat_dress",
+            "word": "combat dress"
+        },
+        {
+            "id": "combat_jacket",
+            "word": "combat jacket"
+        },
+        {
+            "id": "command",
+            "word": "command"
+        },
+        {
+            "id": "command_and_control",
+            "word": "command and control"
+        },
+        {
+            "id": "commandant",
+            "word": "commandant"
+        },
+        {
+            "id": "commandeer",
+            "word": "commandeer"
+        },
+        {
+            "id": "commander",
+            "word": "commander"
+        },
+        {
+            "id": "commander-in-chief",
+            "word": "commander-in-chief"
+        },
+        {
+            "id": "commando",
+            "word": "commando"
+        },
+        {
+            "id": "command_post",
+            "word": "command post"
+        },
+        {
+            "id": "commissariat",
+            "word": "commissariat"
+        },
+        {
+            "id": "commissioned",
+            "word": "commissioned"
+        },
+        {
+            "id": "companion-in-arms",
+            "word": "companion-in-arms"
+        },
+        {
+            "id": "company_officer",
+            "word": "company officer"
+        },
+        {
+            "id": "company_sergeant_major",
+            "word": "company sergeant major"
+        },
+        {
+            "id": "comrade",
+            "word": "comrade"
+        },
+        {
+            "id": "conduct_sheet",
+            "word": "conduct sheet"
+        },
+        {
+            "id": "conqueror",
+            "word": "conqueror"
+        },
+        {
+            "id": "conscript",
+            "word": "conscript"
+        },
+        {
+            "id": "conscription",
+            "word": "conscription"
+        },
+        {
+            "id": "continental_army",
+            "word": "continental army"
+        },
+        {
+            "id": "cordon",
+            "word": "cordon"
+        },
+        {
+            "id": "corporal",
+            "word": "corporal"
+        },
+        {
+            "id": "corps",
+            "word": "corps"
+        },
+        {
+            "id": "council_of_war",
+            "word": "council of war"
+        },
+        {
+            "id": "counter-insurgency",
+            "word": "counter-insurgency"
+        },
+        {
+            "id": "countermarch",
+            "word": "countermarch"
+        },
+        {
+            "id": "countermeasure",
+            "word": "countermeasure"
+        },
+        {
+            "id": "countermine",
+            "word": "countermine"
+        },
+        {
+            "id": "countermining",
+            "word": "countermining"
+        },
+        {
+            "id": "counteroffensive",
+            "word": "counteroffensive"
+        },
+        {
+            "id": "counterproliferation",
+            "word": "counterproliferation"
+        },
+        {
+            "id": "counterscarp",
+            "word": "counterscarp"
+        },
+        {
+            "id": "counterterrorism",
+            "word": "counterterrorism"
+        },
+        {
+            "id": "countervalue",
+            "word": "countervalue"
+        },
+        {
+            "id": "court_martial",
+            "word": "court martial"
+        },
+        {
+            "id": "cpl",
+            "word": "cpl"
+        },
+        {
+            "id": "crap_hat",
+            "word": "crap hat"
+        },
+        {
+            "id": "c_rations",
+            "word": "c rations"
+        },
+        {
+            "id": "crossfire",
+            "word": "crossfire"
+        },
+        {
+            "id": "csm",
+            "word": "csm"
+        },
+        {
+            "id": "cuartel",
+            "word": "cuartel"
+        },
+        {
+            "id": "curtain_fire",
+            "word": "curtain fire"
+        },
+        {
+            "id": "cwo",
+            "word": "cwo"
+        },
+        {
+            "id": "cyberwar",
+            "word": "cyberwar"
+        },
+        {
+            "id": "cyberwarfare",
+            "word": "cyberwarfare"
+        },
+        {
+            "id": "cyberweapon",
+            "word": "cyberweapon"
+        },
+        {
+            "id": "darpa",
+            "word": "darpa"
+        },
+        {
+            "id": "deactivate",
+            "word": "deactivate"
+        },
+        {
+            "id": "debrief",
+            "word": "debrief"
+        },
+        {
+            "id": "debus",
+            "word": "debus"
+        },
+        {
+            "id": "deconflict",
+            "word": "deconflict"
+        },
+        {
+            "id": "defence_force",
+            "word": "defence force"
+        },
+        {
+            "id": "defence_in_depth",
+            "word": "defence in depth"
+        },
+        {
+            "id": "deferment",
+            "word": "deferment"
+        },
+        {
+            "id": "defilade",
+            "word": "defilade"
+        },
+        {
+            "id": "defile",
+            "word": "defile"
+        },
+        {
+            "id": "defoliant",
+            "word": "defoliant"
+        },
+        {
+            "id": "defoliate",
+            "word": "defoliate"
+        },
+        {
+            "id": "delaying_action",
+            "word": "delaying action"
+        },
+        {
+            "id": "delta_force",
+            "word": "delta force"
+        },
+        {
+            "id": "demilitarize",
+            "word": "demilitarize"
+        },
+        {
+            "id": "demine",
+            "word": "demine"
+        },
+        {
+            "id": "demob",
+            "word": "demob"
+        },
+        {
+            "id": "demobilize",
+            "word": "demobilize"
+        },
+        {
+            "id": "denuclearize",
+            "word": "denuclearize"
+        },
+        {
+            "id": "deploy",
+            "word": "deploy"
+        },
+        {
+            "id": "deployment",
+            "word": "deployment"
+        },
+        {
+            "id": "deserter",
+            "word": "deserter"
+        },
+        {
+            "id": "desertion",
+            "word": "desertion"
+        },
+        {
+            "id": "deterrence",
+            "word": "deterrence"
+        },
+        {
+            "id": "deterrent",
+            "word": "deterrent"
+        },
+        {
+            "id": "di",
+            "word": "di"
+        },
+        {
+            "id": "digger%27s_hat",
+            "word": "digger's hat"
+        },
+        {
+            "id": "disarm",
+            "word": "disarm"
+        },
+        {
+            "id": "disarmament",
+            "word": "disarmament"
+        },
+        {
+            "id": "disengagement",
+            "word": "disengagement"
+        },
+        {
+            "id": "dishonourable_discharge",
+            "word": "dishonourable discharge"
+        },
+        {
+            "id": "dispatch_box",
+            "word": "dispatch box"
+        },
+        {
+            "id": "dispatch_rider",
+            "word": "dispatch rider"
+        },
+        {
+            "id": "dixie",
+            "word": "dixie"
+        },
+        {
+            "id": "dmz",
+            "word": "dmz"
+        },
+        {
+            "id": "dod",
+            "word": "dod"
+        },
+        {
+            "id": "dogface",
+            "word": "dogface"
+        },
+        {
+            "id": "dog-robber",
+            "word": "dog-robber"
+        },
+        {
+            "id": "dog_tag",
+            "word": "dog tag"
+        },
+        {
+            "id": "draft_dodger",
+            "word": "draft dodger"
+        },
+        {
+            "id": "draftee",
+            "word": "draftee"
+        },
+        {
+            "id": "drawdown",
+            "word": "drawdown"
+        },
+        {
+            "id": "draw_something_down",
+            "word": "draw something down"
+        },
+        {
+            "id": "dressing_station",
+            "word": "dressing station"
+        },
+        {
+            "id": "dress_parade",
+            "word": "dress parade"
+        },
+        {
+            "id": "drill_sergeant",
+            "word": "drill sergeant"
+        },
+        {
+            "id": "drumfire",
+            "word": "drumfire"
+        },
+        {
+            "id": "drum_major",
+            "word": "drum major"
+        },
+        {
+            "id": "drum_someone_out",
+            "word": "drum someone out"
+        },
+        {
+            "id": "ecm",
+            "word": "ecm"
+        },
+        {
+            "id": "embattled",
+            "word": "embattled"
+        },
+        {
+            "id": "embus",
+            "word": "embus"
+        },
+        {
+            "id": "emplacement",
+            "word": "emplacement"
+        },
+        {
+            "id": "encamp",
+            "word": "encamp"
+        },
+        {
+            "id": "encampment",
+            "word": "encampment"
+        },
+        {
+            "id": "enemy",
+            "word": "enemy"
+        },
+        {
+            "id": "enfilade",
+            "word": "enfilade"
+        },
+        {
+            "id": "enlisted_man",
+            "word": "enlisted man"
+        },
+        {
+            "id": "enlistment",
+            "word": "enlistment"
+        },
+        {
+            "id": "ensign",
+            "word": "ensign"
+        },
+        {
+            "id": "envelop",
+            "word": "envelop"
+        },
+        {
+            "id": "eo",
+            "word": "eo"
+        },
+        {
+            "id": "escarp",
+            "word": "escarp"
+        },
+        {
+            "id": "evacuation",
+            "word": "evacuation"
+        },
+        {
+            "id": "evzone",
+            "word": "evzone"
+        },
+        {
+            "id": "exfiltrate",
+            "word": "exfiltrate"
+        },
+        {
+            "id": "exon",
+            "word": "exon"
+        },
+        {
+            "id": "expeditionary",
+            "word": "expeditionary"
+        },
+        {
+            "id": "ex-service",
+            "word": "ex-service"
+        },
+        {
+            "id": "ex-serviceman",
+            "word": "ex-serviceman"
+        },
+        {
+            "id": "ex-servicewoman",
+            "word": "ex-servicewoman"
+        },
+        {
+            "id": "eyes_front_%28or_left_or_right%29",
+            "word": "eyes front (or left or right)"
+        },
+        {
+            "id": "fall_in",
+            "word": "fall in"
+        },
+        {
+            "id": "farc",
+            "word": "farc"
+        },
+        {
+            "id": "fascine",
+            "word": "fascine"
+        },
+        {
+            "id": "fastness",
+            "word": "fastness"
+        },
+        {
+            "id": "fedayeen",
+            "word": "fedayeen"
+        },
+        {
+            "id": "feu_de_joie",
+            "word": "feu de joie"
+        },
+        {
+            "id": "field_ambulance",
+            "word": "field ambulance"
+        },
+        {
+            "id": "field_cornet",
+            "word": "field cornet"
+        },
+        {
+            "id": "fieldcraft",
+            "word": "fieldcraft"
+        },
+        {
+            "id": "field_grey",
+            "word": "field grey"
+        },
+        {
+            "id": "field_hospital",
+            "word": "field hospital"
+        },
+        {
+            "id": "field_kitchen",
+            "word": "field kitchen"
+        },
+        {
+            "id": "field_marshal",
+            "word": "field marshal"
+        },
+        {
+            "id": "field_rank",
+            "word": "field rank"
+        },
+        {
+            "id": "field_telegraph",
+            "word": "field telegraph"
+        },
+        {
+            "id": "file",
+            "word": "file"
+        },
+        {
+            "id": "firebase",
+            "word": "firebase"
+        },
+        {
+            "id": "fire_control",
+            "word": "fire control"
+        },
+        {
+            "id": "firefight",
+            "word": "firefight"
+        },
+        {
+            "id": "firepower",
+            "word": "firepower"
+        },
+        {
+            "id": "fire_step",
+            "word": "fire step"
+        },
+        {
+            "id": "firing_line",
+            "word": "firing line"
+        },
+        {
+            "id": "firing_party",
+            "word": "firing party"
+        },
+        {
+            "id": "firing_squad",
+            "word": "firing squad"
+        },
+        {
+            "id": "first_post",
+            "word": "first post"
+        },
+        {
+            "id": "first_sergeant",
+            "word": "first sergeant"
+        },
+        {
+            "id": "first_strike",
+            "word": "first strike"
+        },
+        {
+            "id": "five-star",
+            "word": "five-star"
+        },
+        {
+            "id": "flag_of_truce",
+            "word": "flag of truce"
+        },
+        {
+            "id": "flak_jacket",
+            "word": "flak jacket"
+        },
+        {
+            "id": "flare",
+            "word": "flare"
+        },
+        {
+            "id": "foot_guards",
+            "word": "foot guards"
+        },
+        {
+            "id": "foot_soldier",
+            "word": "foot soldier"
+        },
+        {
+            "id": "forage_cap",
+            "word": "forage cap"
+        },
+        {
+            "id": "foray",
+            "word": "foray"
+        },
+        {
+            "id": "forced_march",
+            "word": "forced march"
+        },
+        {
+            "id": "foreign_legion",
+            "word": "foreign legion"
+        },
+        {
+            "id": "fortification",
+            "word": "fortification"
+        },
+        {
+            "id": "fortified",
+            "word": "fortified"
+        },
+        {
+            "id": "fortify",
+            "word": "fortify"
+        },
+        {
+            "id": "four-star",
+            "word": "four-star"
+        },
+        {
+            "id": "friendly_fire",
+            "word": "friendly fire"
+        },
+        {
+            "id": "front_line",
+            "word": "front line"
+        },
+        {
+            "id": "full_dress_uniform",
+            "word": "full dress uniform"
+        },
+        {
+            "id": "fusillade",
+            "word": "fusillade"
+        },
+        {
+            "id": "garrison",
+            "word": "garrison"
+        },
+        {
+            "id": "gen.",
+            "word": "gen."
+        },
+        {
+            "id": "gendarme",
+            "word": "gendarme"
+        },
+        {
+            "id": "general_headquarters",
+            "word": "general headquarters"
+        },
+        {
+            "id": "generalissimo",
+            "word": "generalissimo"
+        },
+        {
+            "id": "general_of_the_army",
+            "word": "general of the army"
+        },
+        {
+            "id": "generalship",
+            "word": "generalship"
+        },
+        {
+            "id": "general_staff",
+            "word": "general staff"
+        },
+        {
+            "id": "geneva_convention",
+            "word": "geneva convention"
+        },
+        {
+            "id": "germ_warfare",
+            "word": "germ warfare"
+        },
+        {
+            "id": "ghq",
+            "word": "ghq"
+        },
+        {
+            "id": "gi",
+            "word": "gi"
+        },
+        {
+            "id": "gnr",
+            "word": "gnr"
+        },
+        {
+            "id": "goc",
+            "word": "goc"
+        },
+        {
+            "id": "goose-step",
+            "word": "goose-step"
+        },
+        {
+            "id": "green_beret",
+            "word": "green beret"
+        },
+        {
+            "id": "green_on_blue",
+            "word": "green on blue"
+        },
+        {
+            "id": "ground_attack",
+            "word": "ground attack"
+        },
+        {
+            "id": "ground_forces",
+            "word": "ground forces"
+        },
+        {
+            "id": "ground_troops",
+            "word": "ground troops"
+        },
+        {
+            "id": "ground_zero",
+            "word": "ground zero"
+        },
+        {
+            "id": "guardee",
+            "word": "guardee"
+        },
+        {
+            "id": "guardhouse",
+            "word": "guardhouse"
+        },
+        {
+            "id": "guard_of_honour",
+            "word": "guard of honour"
+        },
+        {
+            "id": "guardroom",
+            "word": "guardroom"
+        },
+        {
+            "id": "guardsman",
+            "word": "guardsman"
+        },
+        {
+            "id": "guerrilla",
+            "word": "guerrilla"
+        },
+        {
+            "id": "guerrilla_war",
+            "word": "guerrilla war"
+        },
+        {
+            "id": "guerrilla_warfare",
+            "word": "guerrilla warfare"
+        },
+        {
+            "id": "guidon",
+            "word": "guidon"
+        },
+        {
+            "id": "gulf_war_syndrome",
+            "word": "gulf war syndrome"
+        },
+        {
+            "id": "gun_carriage",
+            "word": "gun carriage"
+        },
+        {
+            "id": "gunner",
+            "word": "gunner"
+        },
+        {
+            "id": "gunnery_sergeant",
+            "word": "gunnery sergeant"
+        },
+        {
+            "id": "gun_port",
+            "word": "gun port"
+        },
+        {
+            "id": "gun_turret",
+            "word": "gun turret"
+        },
+        {
+            "id": "gysgt",
+            "word": "gysgt"
+        },
+        {
+            "id": "half-track",
+            "word": "half-track"
+        },
+        {
+            "id": "harass",
+            "word": "harass"
+        },
+        {
+            "id": "hardware",
+            "word": "hardware"
+        },
+        {
+            "id": "havildar",
+            "word": "havildar"
+        },
+        {
+            "id": "haze",
+            "word": "haze"
+        },
+        {
+            "id": "headquarters",
+            "word": "headquarters"
+        },
+        {
+            "id": "hetman",
+            "word": "hetman"
+        },
+        {
+            "id": "h-hour",
+            "word": "h-hour"
+        },
+        {
+            "id": "high_command",
+            "word": "high command"
+        },
+        {
+            "id": "home_front",
+            "word": "home front"
+        },
+        {
+            "id": "honourable_discharge",
+            "word": "honourable discharge"
+        },
+        {
+            "id": "honours_of_war",
+            "word": "honours of war"
+        },
+        {
+            "id": "horse_artillery",
+            "word": "horse artillery"
+        },
+        {
+            "id": "horse_guards",
+            "word": "horse guards"
+        },
+        {
+            "id": "hot_war",
+            "word": "hot war"
+        },
+        {
+            "id": "household_cavalry",
+            "word": "household cavalry"
+        },
+        {
+            "id": "household_troops",
+            "word": "household troops"
+        },
+        {
+            "id": "hud",
+            "word": "hud"
+        },
+        {
+            "id": "human_shield",
+            "word": "human shield"
+        },
+        {
+            "id": "humvee",
+            "word": "humvee"
+        },
+        {
+            "id": "hutment",
+            "word": "hutment"
+        },
+        {
+            "id": "i%2Fc",
+            "word": "i/c"
+        },
+        {
+            "id": "impregnable",
+            "word": "impregnable"
+        },
+        {
+            "id": "incursion",
+            "word": "incursion"
+        },
+        {
+            "id": "infantry",
+            "word": "infantry"
+        },
+        {
+            "id": "infantryman",
+            "word": "infantryman"
+        },
+        {
+            "id": "in_flank",
+            "word": "in flank"
+        },
+        {
+            "id": "infowar",
+            "word": "infowar"
+        },
+        {
+            "id": "inspector_general",
+            "word": "inspector general"
+        },
+        {
+            "id": "intel",
+            "word": "intel"
+        },
+        {
+            "id": "intelligence_corps",
+            "word": "intelligence corps"
+        },
+        {
+            "id": "inter-allied",
+            "word": "inter-allied"
+        },
+        {
+            "id": "international_brigade",
+            "word": "international brigade"
+        },
+        {
+            "id": "interservice",
+            "word": "interservice"
+        },
+        {
+            "id": "in_the_field",
+            "word": "in the field"
+        },
+        {
+            "id": "in_the_line_of_duty",
+            "word": "in the line of duty"
+        },
+        {
+            "id": "invader",
+            "word": "invader"
+        },
+        {
+            "id": "iron_rations",
+            "word": "iron rations"
+        },
+        {
+            "id": "jamadar",
+            "word": "jamadar"
+        },
+        {
+            "id": "jankers",
+            "word": "jankers"
+        },
+        {
+            "id": "jarhead",
+            "word": "jarhead"
+        },
+        {
+            "id": "jawan",
+            "word": "jawan"
+        },
+        {
+            "id": "jcs",
+            "word": "jcs"
+        },
+        {
+            "id": "jeep",
+            "word": "jeep"
+        },
+        {
+            "id": "jerry",
+            "word": "jerry"
+        },
+        {
+            "id": "judge_advocate",
+            "word": "judge advocate"
+        },
+        {
+            "id": "judge_advocate_general",
+            "word": "judge advocate general"
+        },
+        {
+            "id": "jumping-off_point",
+            "word": "jumping-off point"
+        },
+        {
+            "id": "jump_off",
+            "word": "jump off"
+        },
+        {
+            "id": "jungle_warfare",
+            "word": "jungle warfare"
+        },
+        {
+            "id": "keep_rank",
+            "word": "keep rank"
+        },
+        {
+            "id": "keep_the_field",
+            "word": "keep the field"
+        },
+        {
+            "id": "khmer_rouge",
+            "word": "khmer rouge"
+        },
+        {
+            "id": "killing_zone",
+            "word": "killing zone"
+        },
+        {
+            "id": "kill_ratio",
+            "word": "kill ratio"
+        },
+        {
+            "id": "kiltie",
+            "word": "kiltie"
+        },
+        {
+            "id": "kit",
+            "word": "kit"
+        },
+        {
+            "id": "kitbag",
+            "word": "kitbag"
+        },
+        {
+            "id": "kitchen_police",
+            "word": "kitchen police"
+        },
+        {
+            "id": "lance_bombardier",
+            "word": "lance bombardier"
+        },
+        {
+            "id": "lance_corporal",
+            "word": "lance corporal"
+        },
+        {
+            "id": "lancejack",
+            "word": "lancejack"
+        },
+        {
+            "id": "lance_sergeant",
+            "word": "lance sergeant"
+        },
+        {
+            "id": "landing_craft",
+            "word": "landing craft"
+        },
+        {
+            "id": "landing_party",
+            "word": "landing party"
+        },
+        {
+            "id": "last_post",
+            "word": "last post"
+        },
+        {
+            "id": "latrine",
+            "word": "latrine"
+        },
+        {
+            "id": "laws_of_war",
+            "word": "laws of war"
+        },
+        {
+            "id": "lay_siege_to",
+            "word": "lay siege to"
+        },
+        {
+            "id": "lbdr",
+            "word": "lbdr"
+        },
+        {
+            "id": "lcpl",
+            "word": "lcpl"
+        },
+        {
+            "id": "leatherneck",
+            "word": "leatherneck"
+        },
+        {
+            "id": "legionnaire",
+            "word": "legionnaire"
+        },
+        {
+            "id": "lewisite",
+            "word": "lewisite"
+        },
+        {
+            "id": "liberation_army",
+            "word": "liberation army"
+        },
+        {
+            "id": "liberation_war",
+            "word": "liberation war"
+        },
+        {
+            "id": "lieutenant",
+            "word": "lieutenant"
+        },
+        {
+            "id": "lieutenant_colonel",
+            "word": "lieutenant colonel"
+        },
+        {
+            "id": "lieutenant_general",
+            "word": "lieutenant general"
+        },
+        {
+            "id": "lieutenant_of_the_tower",
+            "word": "lieutenant of the tower"
+        },
+        {
+            "id": "life_guards",
+            "word": "life guards"
+        },
+        {
+            "id": "limited_war",
+            "word": "limited war"
+        },
+        {
+            "id": "line_of_battle",
+            "word": "line of battle"
+        },
+        {
+            "id": "line_of_communications",
+            "word": "line of communications"
+        },
+        {
+            "id": "line_of_march",
+            "word": "line of march"
+        },
+        {
+            "id": "listening_post",
+            "word": "listening post"
+        },
+        {
+            "id": "lockstep",
+            "word": "lockstep"
+        },
+        {
+            "id": "logistics",
+            "word": "logistics"
+        },
+        {
+            "id": "lt_col.",
+            "word": "lt col."
+        },
+        {
+            "id": "lt_gen.",
+            "word": "lt gen."
+        },
+        {
+            "id": "mad",
+            "word": "mad"
+        },
+        {
+            "id": "maggie%27s_drawers",
+            "word": "maggie's drawers"
+        },
+        {
+            "id": "maj.",
+            "word": "maj."
+        },
+        {
+            "id": "major_general",
+            "word": "major general"
+        },
+        {
+            "id": "marching_order",
+            "word": "marching order"
+        },
+        {
+            "id": "marching_orders",
+            "word": "marching orders"
+        },
+        {
+            "id": "march-past",
+            "word": "march-past"
+        },
+        {
+            "id": "marine_corps",
+            "word": "marine corps"
+        },
+        {
+            "id": "mark_time",
+            "word": "mark time"
+        },
+        {
+            "id": "married_quarters",
+            "word": "married quarters"
+        },
+        {
+            "id": "marshal",
+            "word": "marshal"
+        },
+        {
+            "id": "martial_law",
+            "word": "martial law"
+        },
+        {
+            "id": "master_gunnery_sergeant",
+            "word": "master gunnery sergeant"
+        },
+        {
+            "id": "master_sergeant",
+            "word": "master sergeant"
+        },
+        {
+            "id": "materiel",
+            "word": "materiel"
+        },
+        {
+            "id": "mechanize",
+            "word": "mechanize"
+        },
+        {
+            "id": "medical_officer",
+            "word": "medical officer"
+        },
+        {
+            "id": "merc",
+            "word": "merc"
+        },
+        {
+            "id": "mess_hall",
+            "word": "mess hall"
+        },
+        {
+            "id": "mess_jacket",
+            "word": "mess jacket"
+        },
+        {
+            "id": "mess_kit",
+            "word": "mess kit"
+        },
+        {
+            "id": "mess_tin",
+            "word": "mess tin"
+        },
+        {
+            "id": "mgysgt",
+            "word": "mgysgt"
+        },
+        {
+            "id": "mia",
+            "word": "mia"
+        },
+        {
+            "id": "militarily",
+            "word": "militarily"
+        },
+        {
+            "id": "militarist",
+            "word": "militarist"
+        },
+        {
+            "id": "militarize",
+            "word": "militarize"
+        },
+        {
+            "id": "military",
+            "word": "military"
+        },
+        {
+            "id": "military_honours",
+            "word": "military honours"
+        },
+        {
+            "id": "military_law",
+            "word": "military law"
+        },
+        {
+            "id": "military_police",
+            "word": "military police"
+        },
+        {
+            "id": "military_service",
+            "word": "military service"
+        },
+        {
+            "id": "militia",
+            "word": "militia"
+        },
+        {
+            "id": "militiaman",
+            "word": "militiaman"
+        },
+        {
+            "id": "mine_detector",
+            "word": "mine detector"
+        },
+        {
+            "id": "minefield",
+            "word": "minefield"
+        },
+        {
+            "id": "minelayer",
+            "word": "minelayer"
+        },
+        {
+            "id": "mineproof",
+            "word": "mineproof"
+        },
+        {
+            "id": "missing_in_action",
+            "word": "missing in action"
+        },
+        {
+            "id": "mission_creep",
+            "word": "mission creep"
+        },
+        {
+            "id": "mobilization",
+            "word": "mobilization"
+        },
+        {
+            "id": "mobilize",
+            "word": "mobilize"
+        },
+        {
+            "id": "mop_something_up_%28also_mop_up%29",
+            "word": "mop something up (also mop up)"
+        },
+        {
+            "id": "mrap",
+            "word": "mrap"
+        },
+        {
+            "id": "mre",
+            "word": "mre"
+        },
+        {
+            "id": "msgt",
+            "word": "msgt"
+        },
+        {
+            "id": "mufti",
+            "word": "mufti"
+        },
+        {
+            "id": "munition",
+            "word": "munition"
+        },
+        {
+            "id": "munitioner",
+            "word": "munitioner"
+        },
+        {
+            "id": "muster",
+            "word": "muster"
+        },
+        {
+            "id": "muster_roll",
+            "word": "muster roll"
+        },
+        {
+            "id": "mutineer",
+            "word": "mutineer"
+        },
+        {
+            "id": "mutinous",
+            "word": "mutinous"
+        },
+        {
+            "id": "mutiny",
+            "word": "mutiny"
+        },
+        {
+            "id": "mwo",
+            "word": "mwo"
+        },
+        {
+            "id": "naafi",
+            "word": "naafi"
+        },
+        {
+            "id": "nasho",
+            "word": "nasho"
+        },
+        {
+            "id": "national_guard",
+            "word": "national guard"
+        },
+        {
+            "id": "national_security_council",
+            "word": "national security council"
+        },
+        {
+            "id": "national_service",
+            "word": "national service"
+        },
+        {
+            "id": "nco",
+            "word": "nco"
+        },
+        {
+            "id": "no-fly_zone",
+            "word": "no-fly zone"
+        },
+        {
+            "id": "non-aggression",
+            "word": "non-aggression"
+        },
+        {
+            "id": "non-belligerent",
+            "word": "non-belligerent"
+        },
+        {
+            "id": "non-com",
+            "word": "non-com"
+        },
+        {
+            "id": "non-combatant",
+            "word": "non-combatant"
+        },
+        {
+            "id": "non-commissioned",
+            "word": "non-commissioned"
+        },
+        {
+            "id": "non-nuclear",
+            "word": "non-nuclear"
+        },
+        {
+            "id": "non-proliferation",
+            "word": "non-proliferation"
+        },
+        {
+            "id": "north_atlantic_treaty_organization",
+            "word": "north atlantic treaty organization"
+        },
+        {
+            "id": "nuclear_capability",
+            "word": "nuclear capability"
+        },
+        {
+            "id": "nuclear_deterrence",
+            "word": "nuclear deterrence"
+        },
+        {
+            "id": "nuclear_deterrent",
+            "word": "nuclear deterrent"
+        },
+        {
+            "id": "nuclear_disarmament",
+            "word": "nuclear disarmament"
+        },
+        {
+            "id": "nuclear_test",
+            "word": "nuclear test"
+        },
+        {
+            "id": "nuclear_testing",
+            "word": "nuclear testing"
+        },
+        {
+            "id": "nuclear_threshold",
+            "word": "nuclear threshold"
+        },
+        {
+            "id": "nuclear_warhead",
+            "word": "nuclear warhead"
+        },
+        {
+            "id": "oak_leaf_cluster",
+            "word": "oak leaf cluster"
+        },
+        {
+            "id": "observation_post",
+            "word": "observation post"
+        },
+        {
+            "id": "oc",
+            "word": "oc"
+        },
+        {
+            "id": "officer",
+            "word": "officer"
+        },
+        {
+            "id": "officers%27_mess",
+            "word": "officers' mess"
+        },
+        {
+            "id": "old_soldier",
+            "word": "old soldier"
+        },
+        {
+            "id": "old_sweat",
+            "word": "old sweat"
+        },
+        {
+            "id": "olive_drab",
+            "word": "olive drab"
+        },
+        {
+            "id": "one-star",
+            "word": "one-star"
+        },
+        {
+            "id": "on_parade",
+            "word": "on parade"
+        },
+        {
+            "id": "open_city",
+            "word": "open city"
+        },
+        {
+            "id": "open_fire",
+            "word": "open fire"
+        },
+        {
+            "id": "open_up",
+            "word": "open up"
+        },
+        {
+            "id": "operationally",
+            "word": "operationally"
+        },
+        {
+            "id": "operations_room",
+            "word": "operations room"
+        },
+        {
+            "id": "orbat",
+            "word": "orbat"
+        },
+        {
+            "id": "order_arms",
+            "word": "order arms"
+        },
+        {
+            "id": "orderly_book",
+            "word": "orderly book"
+        },
+        {
+            "id": "orderly_officer",
+            "word": "orderly officer"
+        },
+        {
+            "id": "orderly_room",
+            "word": "orderly room"
+        },
+        {
+            "id": "order_of_battle",
+            "word": "order of battle"
+        },
+        {
+            "id": "ordnance_depot",
+            "word": "ordnance depot"
+        },
+        {
+            "id": "otc",
+            "word": "otc"
+        },
+        {
+            "id": "other_ranks",
+            "word": "other ranks"
+        },
+        {
+            "id": "outflank",
+            "word": "outflank"
+        },
+        {
+            "id": "out-of-area",
+            "word": "out-of-area"
+        },
+        {
+            "id": "outpost",
+            "word": "outpost"
+        },
+        {
+            "id": "outwork",
+            "word": "outwork"
+        },
+        {
+            "id": "pacifist",
+            "word": "pacifist"
+        },
+        {
+            "id": "pack_drill",
+            "word": "pack drill"
+        },
+        {
+            "id": "palestine_liberation_organization",
+            "word": "palestine liberation organization"
+        },
+        {
+            "id": "panzer",
+            "word": "panzer"
+        },
+        {
+            "id": "para",
+            "word": "para"
+        },
+        {
+            "id": "parachute_regiment",
+            "word": "parachute regiment"
+        },
+        {
+            "id": "parade",
+            "word": "parade"
+        },
+        {
+            "id": "parade_ground",
+            "word": "parade ground"
+        },
+        {
+            "id": "paramilitary",
+            "word": "paramilitary"
+        },
+        {
+            "id": "paratrooper",
+            "word": "paratrooper"
+        },
+        {
+            "id": "paratroops",
+            "word": "paratroops"
+        },
+        {
+            "id": "parley",
+            "word": "parley"
+        },
+        {
+            "id": "patrol",
+            "word": "patrol"
+        },
+        {
+            "id": "pennon",
+            "word": "pennon"
+        },
+        {
+            "id": "pentagonese",
+            "word": "pentagonese"
+        },
+        {
+            "id": "people%27s_liberation_army",
+            "word": "people's liberation army"
+        },
+        {
+            "id": "personnel_carrier",
+            "word": "personnel carrier"
+        },
+        {
+            "id": "peshmerga",
+            "word": "peshmerga"
+        },
+        {
+            "id": "pfc.",
+            "word": "pfc."
+        },
+        {
+            "id": "phalanx",
+            "word": "phalanx"
+        },
+        {
+            "id": "photoreconnaissance",
+            "word": "photoreconnaissance"
+        },
+        {
+            "id": "pile_arms",
+            "word": "pile arms"
+        },
+        {
+            "id": "pincer_movement",
+            "word": "pincer movement"
+        },
+        {
+            "id": "pip",
+            "word": "pip"
+        },
+        {
+            "id": "pipe_band",
+            "word": "pipe band"
+        },
+        {
+            "id": "pipe_major",
+            "word": "pipe major"
+        },
+        {
+            "id": "pistoleer",
+            "word": "pistoleer"
+        },
+        {
+            "id": "pitched_battle",
+            "word": "pitched battle"
+        },
+        {
+            "id": "platoon",
+            "word": "platoon"
+        },
+        {
+            "id": "plebe",
+            "word": "plebe"
+        },
+        {
+            "id": "point_man",
+            "word": "point man"
+        },
+        {
+            "id": "poison_gas",
+            "word": "poison gas"
+        },
+        {
+            "id": "pongo",
+            "word": "pongo"
+        },
+        {
+            "id": "pontoon",
+            "word": "pontoon"
+        },
+        {
+            "id": "post_exchange",
+            "word": "post exchange"
+        },
+        {
+            "id": "posting",
+            "word": "posting"
+        },
+        {
+            "id": "pouch",
+            "word": "pouch"
+        },
+        {
+            "id": "present_arms",
+            "word": "present arms"
+        },
+        {
+            "id": "prison_camp",
+            "word": "prison camp"
+        },
+        {
+            "id": "prisoner_of_war",
+            "word": "prisoner of war"
+        },
+        {
+            "id": "private_first_class",
+            "word": "private first class"
+        },
+        {
+            "id": "private_soldier",
+            "word": "private soldier"
+        },
+        {
+            "id": "procurement",
+            "word": "procurement"
+        },
+        {
+            "id": "provost_guard",
+            "word": "provost guard"
+        },
+        {
+            "id": "provost_marshal",
+            "word": "provost marshal"
+        },
+        {
+            "id": "proxy_war",
+            "word": "proxy war"
+        },
+        {
+            "id": "psychological_warfare",
+            "word": "psychological warfare"
+        },
+        {
+            "id": "psy-ops",
+            "word": "psy-ops"
+        },
+        {
+            "id": "psy-war",
+            "word": "psy-war"
+        },
+        {
+            "id": "pte",
+            "word": "pte"
+        },
+        {
+            "id": "pullback",
+            "word": "pullback"
+        },
+        {
+            "id": "pull_back_%28or_pull_someone%2Fsomething_back%29",
+            "word": "pull back (or pull someone/something back)"
+        },
+        {
+            "id": "pull_out",
+            "word": "pull out"
+        },
+        {
+            "id": "pvt.",
+            "word": "pvt."
+        },
+        {
+            "id": "qm",
+            "word": "qm"
+        },
+        {
+            "id": "qmg",
+            "word": "qmg"
+        },
+        {
+            "id": "qms",
+            "word": "qms"
+        },
+        {
+            "id": "quartermaster",
+            "word": "quartermaster"
+        },
+        {
+            "id": "quartermaster_general",
+            "word": "quartermaster general"
+        },
+        {
+            "id": "quartermaster_sergeant",
+            "word": "quartermaster sergeant"
+        },
+        {
+            "id": "queen%27s_colour",
+            "word": "queen's colour"
+        },
+        {
+            "id": "quick_march",
+            "word": "quick march"
+        },
+        {
+            "id": "quick_time",
+            "word": "quick time"
+        },
+        {
+            "id": "rac",
+            "word": "rac"
+        },
+        {
+            "id": "radc",
+            "word": "radc"
+        },
+        {
+            "id": "raid",
+            "word": "raid"
+        },
+        {
+            "id": "raider",
+            "word": "raider"
+        },
+        {
+            "id": "raise_one%27s_%28or_the%29_standard",
+            "word": "raise one's (or the) standard"
+        },
+        {
+            "id": "rally",
+            "word": "rally"
+        },
+        {
+            "id": "ramc",
+            "word": "ramc"
+        },
+        {
+            "id": "rank",
+            "word": "rank"
+        },
+        {
+            "id": "ranker",
+            "word": "ranker"
+        },
+        {
+            "id": "raoc",
+            "word": "raoc"
+        },
+        {
+            "id": "rapc",
+            "word": "rapc"
+        },
+        {
+            "id": "rear_echelon",
+            "word": "rear echelon"
+        },
+        {
+            "id": "rearguard",
+            "word": "rearguard"
+        },
+        {
+            "id": "rearguard_action",
+            "word": "rearguard action"
+        },
+        {
+            "id": "rearm",
+            "word": "rearm"
+        },
+        {
+            "id": "rearmament",
+            "word": "rearmament"
+        },
+        {
+            "id": "reconnaissance",
+            "word": "reconnaissance"
+        },
+        {
+            "id": "reconnoitre",
+            "word": "reconnoitre"
+        },
+        {
+            "id": "recruit",
+            "word": "recruit"
+        },
+        {
+            "id": "recruiter",
+            "word": "recruiter"
+        },
+        {
+            "id": "red_army",
+            "word": "red army"
+        },
+        {
+            "id": "redcap",
+            "word": "redcap"
+        },
+        {
+            "id": "redeploy",
+            "word": "redeploy"
+        },
+        {
+            "id": "redeployment",
+            "word": "redeployment"
+        },
+        {
+            "id": "reduce_someone_to_the_ranks",
+            "word": "reduce someone to the ranks"
+        },
+        {
+            "id": "re-enlist",
+            "word": "re-enlist"
+        },
+        {
+            "id": "regiment",
+            "word": "regiment"
+        },
+        {
+            "id": "regimental",
+            "word": "regimental"
+        },
+        {
+            "id": "regimental_colour",
+            "word": "regimental colour"
+        },
+        {
+            "id": "regimentals",
+            "word": "regimentals"
+        },
+        {
+            "id": "regt",
+            "word": "regt"
+        },
+        {
+            "id": "reload",
+            "word": "reload"
+        },
+        {
+            "id": "reme",
+            "word": "reme"
+        },
+        {
+            "id": "remembrance_sunday",
+            "word": "remembrance sunday"
+        },
+        {
+            "id": "reserved_occupation",
+            "word": "reserved occupation"
+        },
+        {
+            "id": "reservist",
+            "word": "reservist"
+        },
+        {
+            "id": "retaliation",
+            "word": "retaliation"
+        },
+        {
+            "id": "re-up",
+            "word": "re-up"
+        },
+        {
+            "id": "reveille",
+            "word": "reveille"
+        },
+        {
+            "id": "reverse_arms",
+            "word": "reverse arms"
+        },
+        {
+            "id": "revet",
+            "word": "revet"
+        },
+        {
+            "id": "revetment",
+            "word": "revetment"
+        },
+        {
+            "id": "rifleman",
+            "word": "rifleman"
+        },
+        {
+            "id": "rifle_range",
+            "word": "rifle range"
+        },
+        {
+            "id": "right_about",
+            "word": "right about"
+        },
+        {
+            "id": "rise_through_%28or_from%29_the_ranks",
+            "word": "rise through (or from) the ranks"
+        },
+        {
+            "id": "rma",
+            "word": "rma"
+        },
+        {
+            "id": "rmp",
+            "word": "rmp"
+        },
+        {
+            "id": "roll_something_up",
+            "word": "roll something up"
+        },
+        {
+            "id": "ronin",
+            "word": "ronin"
+        },
+        {
+            "id": "rookie",
+            "word": "rookie"
+        },
+        {
+            "id": "roster",
+            "word": "roster"
+        },
+        {
+            "id": "rotc",
+            "word": "rotc"
+        },
+        {
+            "id": "roulement",
+            "word": "roulement"
+        },
+        {
+            "id": "rout",
+            "word": "rout"
+        },
+        {
+            "id": "route_march",
+            "word": "route march"
+        },
+        {
+            "id": "royal_british_legion",
+            "word": "royal british legion"
+        },
+        {
+            "id": "royal_engineers",
+            "word": "royal engineers"
+        },
+        {
+            "id": "royal_marines",
+            "word": "royal marines"
+        },
+        {
+            "id": "rsm",
+            "word": "rsm"
+        },
+        {
+            "id": "running_battle",
+            "word": "running battle"
+        },
+        {
+            "id": "running_fire",
+            "word": "running fire"
+        },
+        {
+            "id": "sabotage",
+            "word": "sabotage"
+        },
+        {
+            "id": "sabre-rattling",
+            "word": "sabre-rattling"
+        },
+        {
+            "id": "safe_area",
+            "word": "safe area"
+        },
+        {
+            "id": "salute",
+            "word": "salute"
+        },
+        {
+            "id": "salvo",
+            "word": "salvo"
+        },
+        {
+            "id": "sam_browne",
+            "word": "sam browne"
+        },
+        {
+            "id": "sandbag",
+            "word": "sandbag"
+        },
+        {
+            "id": "sandhurst",
+            "word": "sandhurst"
+        },
+        {
+            "id": "sand_table",
+            "word": "sand table"
+        },
+        {
+            "id": "sangar",
+            "word": "sangar"
+        },
+        {
+            "id": "sap",
+            "word": "sap"
+        },
+        {
+            "id": "sapper",
+            "word": "sapper"
+        },
+        {
+            "id": "sarge",
+            "word": "sarge"
+        },
+        {
+            "id": "scout",
+            "word": "scout"
+        },
+        {
+            "id": "scout_car",
+            "word": "scout car"
+        },
+        {
+            "id": "scouting",
+            "word": "scouting"
+        },
+        {
+            "id": "scrimshank",
+            "word": "scrimshank"
+        },
+        {
+            "id": "sealed_orders",
+            "word": "sealed orders"
+        },
+        {
+            "id": "sealift",
+            "word": "sealift"
+        },
+        {
+            "id": "second",
+            "word": "second"
+        },
+        {
+            "id": "second_in_command",
+            "word": "second in command"
+        },
+        {
+            "id": "second_lieutenant",
+            "word": "second lieutenant"
+        },
+        {
+            "id": "second_line",
+            "word": "second line"
+        },
+        {
+            "id": "secondment",
+            "word": "secondment"
+        },
+        {
+            "id": "second_strike",
+            "word": "second strike"
+        },
+        {
+            "id": "secret_list",
+            "word": "secret list"
+        },
+        {
+            "id": "secure_arms",
+            "word": "secure arms"
+        },
+        {
+            "id": "see_service",
+            "word": "see service"
+        },
+        {
+            "id": "selectee",
+            "word": "selectee"
+        },
+        {
+            "id": "selective_service",
+            "word": "selective service"
+        },
+        {
+            "id": "semaphore",
+            "word": "semaphore"
+        },
+        {
+            "id": "sentinel",
+            "word": "sentinel"
+        },
+        {
+            "id": "sentry",
+            "word": "sentry"
+        },
+        {
+            "id": "sentry_box",
+            "word": "sentry box"
+        },
+        {
+            "id": "sentry-go",
+            "word": "sentry-go"
+        },
+        {
+            "id": "sergeant",
+            "word": "sergeant"
+        },
+        {
+            "id": "sergeant_major",
+            "word": "sergeant major"
+        },
+        {
+            "id": "sergt",
+            "word": "sergt"
+        },
+        {
+            "id": "serjeant",
+            "word": "serjeant"
+        },
+        {
+            "id": "service_dress",
+            "word": "service dress"
+        },
+        {
+            "id": "serviceman",
+            "word": "serviceman"
+        },
+        {
+            "id": "service_member",
+            "word": "service member"
+        },
+        {
+            "id": "servicewoman",
+            "word": "servicewoman"
+        },
+        {
+            "id": "sgt",
+            "word": "sgt"
+        },
+        {
+            "id": "shako",
+            "word": "shako"
+        },
+        {
+            "id": "shavetail",
+            "word": "shavetail"
+        },
+        {
+            "id": "shellfire",
+            "word": "shellfire"
+        },
+        {
+            "id": "shell_jacket",
+            "word": "shell jacket"
+        },
+        {
+            "id": "shellproof",
+            "word": "shellproof"
+        },
+        {
+            "id": "shining_path",
+            "word": "shining path"
+        },
+        {
+            "id": "shock_troops",
+            "word": "shock troops"
+        },
+        {
+            "id": "shoot-down",
+            "word": "shoot-down"
+        },
+        {
+            "id": "shooting_war",
+            "word": "shooting war"
+        },
+        {
+            "id": "short-timer",
+            "word": "short-timer"
+        },
+        {
+            "id": "shot_tower",
+            "word": "shot tower"
+        },
+        {
+            "id": "shoulder_arms",
+            "word": "shoulder arms"
+        },
+        {
+            "id": "shoulder_belt",
+            "word": "shoulder belt"
+        },
+        {
+            "id": "shoulder_knot",
+            "word": "shoulder knot"
+        },
+        {
+            "id": "show_of_force",
+            "word": "show of force"
+        },
+        {
+            "id": "sick_list",
+            "word": "sick list"
+        },
+        {
+            "id": "siege",
+            "word": "siege"
+        },
+        {
+            "id": "sigint",
+            "word": "sigint"
+        },
+        {
+            "id": "signals_intelligence",
+            "word": "signals intelligence"
+        },
+        {
+            "id": "signature_strike",
+            "word": "signature strike"
+        },
+        {
+            "id": "sitrep",
+            "word": "sitrep"
+        },
+        {
+            "id": "sitzkrieg",
+            "word": "sitzkrieg"
+        },
+        {
+            "id": "skirmish",
+            "word": "skirmish"
+        },
+        {
+            "id": "skywatch",
+            "word": "skywatch"
+        },
+        {
+            "id": "slit_trench",
+            "word": "slit trench"
+        },
+        {
+            "id": "slope_arms",
+            "word": "slope arms"
+        },
+        {
+            "id": "slow_march",
+            "word": "slow march"
+        },
+        {
+            "id": "smokescreen",
+            "word": "smokescreen"
+        },
+        {
+            "id": "smsgt",
+            "word": "smsgt"
+        },
+        {
+            "id": "snafu",
+            "word": "snafu"
+        },
+        {
+            "id": "snatch_squad",
+            "word": "snatch squad"
+        },
+        {
+            "id": "soft_target",
+            "word": "soft target"
+        },
+        {
+            "id": "soldier",
+            "word": "soldier"
+        },
+        {
+            "id": "soldiering",
+            "word": "soldiering"
+        },
+        {
+            "id": "soldier_of_fortune",
+            "word": "soldier of fortune"
+        },
+        {
+            "id": "soldiership",
+            "word": "soldiership"
+        },
+        {
+            "id": "soldiery",
+            "word": "soldiery"
+        },
+        {
+            "id": "sortie",
+            "word": "sortie"
+        },
+        {
+            "id": "special_air_service",
+            "word": "special air service"
+        },
+        {
+            "id": "special_forces",
+            "word": "special forces"
+        },
+        {
+            "id": "splinter-proof",
+            "word": "splinter-proof"
+        },
+        {
+            "id": "spr",
+            "word": "spr"
+        },
+        {
+            "id": "spud-bashing",
+            "word": "spud-bashing"
+        },
+        {
+            "id": "squad",
+            "word": "squad"
+        },
+        {
+            "id": "squaddie",
+            "word": "squaddie"
+        },
+        {
+            "id": "square-bashing",
+            "word": "square-bashing"
+        },
+        {
+            "id": "ssafa",
+            "word": "ssafa"
+        },
+        {
+            "id": "staff_college",
+            "word": "staff college"
+        },
+        {
+            "id": "staff_officer",
+            "word": "staff officer"
+        },
+        {
+            "id": "staff_sergeant",
+            "word": "staff sergeant"
+        },
+        {
+            "id": "staging_area",
+            "word": "staging area"
+        },
+        {
+            "id": "standard-bearer",
+            "word": "standard-bearer"
+        },
+        {
+            "id": "standard_issue",
+            "word": "standard issue"
+        },
+        {
+            "id": "stand-down",
+            "word": "stand-down"
+        },
+        {
+            "id": "stand_easy%21",
+            "word": "stand easy!"
+        },
+        {
+            "id": "stand_of_colours",
+            "word": "stand of colours"
+        },
+        {
+            "id": "stand_to",
+            "word": "stand to"
+        },
+        {
+            "id": "stand-to",
+            "word": "stand-to"
+        },
+        {
+            "id": "stonk",
+            "word": "stonk"
+        },
+        {
+            "id": "storming",
+            "word": "storming"
+        },
+        {
+            "id": "storm_trooper",
+            "word": "storm trooper"
+        },
+        {
+            "id": "strategic_defense_initiative",
+            "word": "strategic defense initiative"
+        },
+        {
+            "id": "strategist",
+            "word": "strategist"
+        },
+        {
+            "id": "strike_force",
+            "word": "strike force"
+        },
+        {
+            "id": "stronghold",
+            "word": "stronghold"
+        },
+        {
+            "id": "strongpoint",
+            "word": "strongpoint"
+        },
+        {
+            "id": "subaltern",
+            "word": "subaltern"
+        },
+        {
+            "id": "subedar",
+            "word": "subedar"
+        },
+        {
+            "id": "submunition",
+            "word": "submunition"
+        },
+        {
+            "id": "succour",
+            "word": "succour"
+        },
+        {
+            "id": "surrender",
+            "word": "surrender"
+        },
+        {
+            "id": "surround",
+            "word": "surround"
+        },
+        {
+            "id": "survival_kit",
+            "word": "survival kit"
+        },
+        {
+            "id": "swaddy",
+            "word": "swaddy"
+        },
+        {
+            "id": "swagger_stick",
+            "word": "swagger stick"
+        },
+        {
+            "id": "tab",
+            "word": "tab"
+        },
+        {
+            "id": "tactic",
+            "word": "tactic"
+        },
+        {
+            "id": "tactical",
+            "word": "tactical"
+        },
+        {
+            "id": "take",
+            "word": "take"
+        },
+        {
+            "id": "take_someone_in_rear",
+            "word": "take someone in rear"
+        },
+        {
+            "id": "take_something_by_storm",
+            "word": "take something by storm"
+        },
+        {
+            "id": "tamil_tigers",
+            "word": "tamil tigers"
+        },
+        {
+            "id": "task_force",
+            "word": "task force"
+        },
+        {
+            "id": "tattoo",
+            "word": "tattoo"
+        },
+        {
+            "id": "terreplein",
+            "word": "terreplein"
+        },
+        {
+            "id": "territorial_army",
+            "word": "territorial army"
+        },
+        {
+            "id": "testing_ground",
+            "word": "testing ground"
+        },
+        {
+            "id": "the_art_of_war",
+            "word": "the art of war"
+        },
+        {
+            "id": "three-star",
+            "word": "three-star"
+        },
+        {
+            "id": "tin_hat",
+            "word": "tin hat"
+        },
+        {
+            "id": "tommy",
+            "word": "tommy"
+        },
+        {
+            "id": "tonton_macoute",
+            "word": "tonton macoute"
+        },
+        {
+            "id": "total_war",
+            "word": "total war"
+        },
+        {
+            "id": "tpr",
+            "word": "tpr"
+        },
+        {
+            "id": "trail_arms",
+            "word": "trail arms"
+        },
+        {
+            "id": "trench",
+            "word": "trench"
+        },
+        {
+            "id": "trench_mortar",
+            "word": "trench mortar"
+        },
+        {
+            "id": "trench_warfare",
+            "word": "trench warfare"
+        },
+        {
+            "id": "tripwire",
+            "word": "tripwire"
+        },
+        {
+            "id": "troop",
+            "word": "troop"
+        },
+        {
+            "id": "troop_carrier",
+            "word": "troop carrier"
+        },
+        {
+            "id": "troopie",
+            "word": "troopie"
+        },
+        {
+            "id": "troop_the_colour",
+            "word": "troop the colour"
+        },
+        {
+            "id": "trumpet_major",
+            "word": "trumpet major"
+        },
+        {
+            "id": "two-star",
+            "word": "two-star"
+        },
+        {
+            "id": "udr",
+            "word": "udr"
+        },
+        {
+            "id": "under_fire",
+            "word": "under fire"
+        },
+        {
+            "id": "under_siege",
+            "word": "under siege"
+        },
+        {
+            "id": "unexploded",
+            "word": "unexploded"
+        },
+        {
+            "id": "unknown_soldier",
+            "word": "unknown soldier"
+        },
+        {
+            "id": "unlimber",
+            "word": "unlimber"
+        },
+        {
+            "id": "unmilitary",
+            "word": "unmilitary"
+        },
+        {
+            "id": "unsoldierly",
+            "word": "unsoldierly"
+        },
+        {
+            "id": "van",
+            "word": "van"
+        },
+        {
+            "id": "vedette",
+            "word": "vedette"
+        },
+        {
+            "id": "very_light",
+            "word": "very light"
+        },
+        {
+            "id": "very_pistol",
+            "word": "very pistol"
+        },
+        {
+            "id": "veteran",
+            "word": "veteran"
+        },
+        {
+            "id": "victor",
+            "word": "victor"
+        },
+        {
+            "id": "victory",
+            "word": "victory"
+        },
+        {
+            "id": "volley",
+            "word": "volley"
+        },
+        {
+            "id": "volunteer",
+            "word": "volunteer"
+        },
+        {
+            "id": "waac",
+            "word": "waac"
+        },
+        {
+            "id": "wac",
+            "word": "wac"
+        },
+        {
+            "id": "walking_wounded",
+            "word": "walking wounded"
+        },
+        {
+            "id": "war",
+            "word": "war"
+        },
+        {
+            "id": "war_chest",
+            "word": "war chest"
+        },
+        {
+            "id": "war_college",
+            "word": "war college"
+        },
+        {
+            "id": "war_crime",
+            "word": "war crime"
+        },
+        {
+            "id": "war_criminal",
+            "word": "war criminal"
+        },
+        {
+            "id": "war_cry",
+            "word": "war cry"
+        },
+        {
+            "id": "war_establishment",
+            "word": "war establishment"
+        },
+        {
+            "id": "warfare",
+            "word": "warfare"
+        },
+        {
+            "id": "warfighter",
+            "word": "warfighter"
+        },
+        {
+            "id": "war_game",
+            "word": "war game"
+        },
+        {
+            "id": "war_grave",
+            "word": "war grave"
+        },
+        {
+            "id": "warhead",
+            "word": "warhead"
+        },
+        {
+            "id": "warlike",
+            "word": "warlike"
+        },
+        {
+            "id": "war_loan",
+            "word": "war loan"
+        },
+        {
+            "id": "warlord",
+            "word": "warlord"
+        },
+        {
+            "id": "war_machine",
+            "word": "war machine"
+        },
+        {
+            "id": "war_memorial",
+            "word": "war memorial"
+        },
+        {
+            "id": "warmonger",
+            "word": "warmonger"
+        },
+        {
+            "id": "warmongering",
+            "word": "warmongering"
+        },
+        {
+            "id": "war_of_attrition",
+            "word": "war of attrition"
+        },
+        {
+            "id": "war_office",
+            "word": "war office"
+        },
+        {
+            "id": "warrant_officer",
+            "word": "warrant officer"
+        },
+        {
+            "id": "wartime",
+            "word": "wartime"
+        },
+        {
+            "id": "war_widow",
+            "word": "war widow"
+        },
+        {
+            "id": "war_widower",
+            "word": "war widower"
+        },
+        {
+            "id": "war_zone",
+            "word": "war zone"
+        },
+        {
+            "id": "watchfire",
+            "word": "watchfire"
+        },
+        {
+            "id": "watchkeeper",
+            "word": "watchkeeper"
+        },
+        {
+            "id": "weaponize",
+            "word": "weaponize"
+        },
+        {
+            "id": "weaponized",
+            "word": "weaponized"
+        },
+        {
+            "id": "weaponry",
+            "word": "weaponry"
+        },
+        {
+            "id": "weapons-grade",
+            "word": "weapons-grade"
+        },
+        {
+            "id": "well_equipped",
+            "word": "well equipped"
+        },
+        {
+            "id": "west_point",
+            "word": "west point"
+        },
+        {
+            "id": "white_flag",
+            "word": "white flag"
+        },
+        {
+            "id": "window_of_vulnerability",
+            "word": "window of vulnerability"
+        },
+        {
+            "id": "winter_quarters",
+            "word": "winter quarters"
+        },
+        {
+            "id": "wmd",
+            "word": "wmd"
+        },
+        {
+            "id": "word_of_command",
+            "word": "word of command"
+        },
+        {
+            "id": "wrac",
+            "word": "wrac"
+        },
+        {
+            "id": "yardbird",
+            "word": "yardbird"
+        },
+        {
+            "id": "yomp",
+            "word": "yomp"
+        },
+        {
+            "id": "zero_hour",
+            "word": "zero hour"
+        },
+        {
+            "id": "zouave",
+            "word": "zouave"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 917,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

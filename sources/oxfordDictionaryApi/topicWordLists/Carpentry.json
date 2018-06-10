@@ -1,0 +1,427 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 104,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "arris_rail",
+            "word": "arris rail"
+        },
+        {
+            "id": "auger",
+            "word": "auger"
+        },
+        {
+            "id": "battening",
+            "word": "battening"
+        },
+        {
+            "id": "bentwood",
+            "word": "bentwood"
+        },
+        {
+            "id": "bevel",
+            "word": "bevel"
+        },
+        {
+            "id": "biscuit_jointer",
+            "word": "biscuit jointer"
+        },
+        {
+            "id": "blockboard",
+            "word": "blockboard"
+        },
+        {
+            "id": "block_plane",
+            "word": "block plane"
+        },
+        {
+            "id": "board",
+            "word": "board"
+        },
+        {
+            "id": "boiserie",
+            "word": "boiserie"
+        },
+        {
+            "id": "bow_saw",
+            "word": "bow saw"
+        },
+        {
+            "id": "brad",
+            "word": "brad"
+        },
+        {
+            "id": "butt",
+            "word": "butt"
+        },
+        {
+            "id": "carpenter",
+            "word": "carpenter"
+        },
+        {
+            "id": "carpentry",
+            "word": "carpentry"
+        },
+        {
+            "id": "centre_bit",
+            "word": "centre bit"
+        },
+        {
+            "id": "chamfer",
+            "word": "chamfer"
+        },
+        {
+            "id": "cheese_head",
+            "word": "cheese head"
+        },
+        {
+            "id": "circular_saw",
+            "word": "circular saw"
+        },
+        {
+            "id": "compass_saw",
+            "word": "compass saw"
+        },
+        {
+            "id": "coping_saw",
+            "word": "coping saw"
+        },
+        {
+            "id": "countersink",
+            "word": "countersink"
+        },
+        {
+            "id": "cross-cut",
+            "word": "cross-cut"
+        },
+        {
+            "id": "cross-cut_saw",
+            "word": "cross-cut saw"
+        },
+        {
+            "id": "danish_oil",
+            "word": "danish oil"
+        },
+        {
+            "id": "deburr",
+            "word": "deburr"
+        },
+        {
+            "id": "dovetail",
+            "word": "dovetail"
+        },
+        {
+            "id": "dowel",
+            "word": "dowel"
+        },
+        {
+            "id": "dowelling",
+            "word": "dowelling"
+        },
+        {
+            "id": "feather_edge",
+            "word": "feather edge"
+        },
+        {
+            "id": "fixing",
+            "word": "fixing"
+        },
+        {
+            "id": "flush",
+            "word": "flush"
+        },
+        {
+            "id": "four-ply",
+            "word": "four-ply"
+        },
+        {
+            "id": "frame_saw",
+            "word": "frame saw"
+        },
+        {
+            "id": "fretsaw",
+            "word": "fretsaw"
+        },
+        {
+            "id": "fretwork",
+            "word": "fretwork"
+        },
+        {
+            "id": "glasspaper",
+            "word": "glasspaper"
+        },
+        {
+            "id": "gouge",
+            "word": "gouge"
+        },
+        {
+            "id": "handsaw",
+            "word": "handsaw"
+        },
+        {
+            "id": "hardboard",
+            "word": "hardboard"
+        },
+        {
+            "id": "harewood",
+            "word": "harewood"
+        },
+        {
+            "id": "hoop_iron",
+            "word": "hoop iron"
+        },
+        {
+            "id": "jack_plane",
+            "word": "jack plane"
+        },
+        {
+            "id": "joiner",
+            "word": "joiner"
+        },
+        {
+            "id": "jointer",
+            "word": "jointer"
+        },
+        {
+            "id": "keyed",
+            "word": "keyed"
+        },
+        {
+            "id": "lap_joint",
+            "word": "lap joint"
+        },
+        {
+            "id": "lathe",
+            "word": "lathe"
+        },
+        {
+            "id": "matchboard",
+            "word": "matchboard"
+        },
+        {
+            "id": "mitre_box",
+            "word": "mitre box"
+        },
+        {
+            "id": "mitred",
+            "word": "mitred"
+        },
+        {
+            "id": "mortise",
+            "word": "mortise"
+        },
+        {
+            "id": "nail_punch",
+            "word": "nail punch"
+        },
+        {
+            "id": "orbital_sander",
+            "word": "orbital sander"
+        },
+        {
+            "id": "padsaw",
+            "word": "padsaw"
+        },
+        {
+            "id": "phillips",
+            "word": "phillips"
+        },
+        {
+            "id": "plane",
+            "word": "plane"
+        },
+        {
+            "id": "plastic_wood",
+            "word": "plastic wood"
+        },
+        {
+            "id": "plywood",
+            "word": "plywood"
+        },
+        {
+            "id": "rebate",
+            "word": "rebate"
+        },
+        {
+            "id": "riffler",
+            "word": "riffler"
+        },
+        {
+            "id": "ripsaw",
+            "word": "ripsaw"
+        },
+        {
+            "id": "rout",
+            "word": "rout"
+        },
+        {
+            "id": "router",
+            "word": "router"
+        },
+        {
+            "id": "sanding",
+            "word": "sanding"
+        },
+        {
+            "id": "sandpaper",
+            "word": "sandpaper"
+        },
+        {
+            "id": "saw",
+            "word": "saw"
+        },
+        {
+            "id": "scale_board",
+            "word": "scale board"
+        },
+        {
+            "id": "scantling",
+            "word": "scantling"
+        },
+        {
+            "id": "scotch_glue",
+            "word": "scotch glue"
+        },
+        {
+            "id": "screw",
+            "word": "screw"
+        },
+        {
+            "id": "screwdriver",
+            "word": "screwdriver"
+        },
+        {
+            "id": "scrollwork",
+            "word": "scrollwork"
+        },
+        {
+            "id": "self-tapping",
+            "word": "self-tapping"
+        },
+        {
+            "id": "shive",
+            "word": "shive"
+        },
+        {
+            "id": "shooting_board",
+            "word": "shooting board"
+        },
+        {
+            "id": "smoothing_plane",
+            "word": "smoothing plane"
+        },
+        {
+            "id": "spell",
+            "word": "spell"
+        },
+        {
+            "id": "spokeshave",
+            "word": "spokeshave"
+        },
+        {
+            "id": "sprig",
+            "word": "sprig"
+        },
+        {
+            "id": "stave",
+            "word": "stave"
+        },
+        {
+            "id": "steel_wool",
+            "word": "steel wool"
+        },
+        {
+            "id": "stile",
+            "word": "stile"
+        },
+        {
+            "id": "stringpiece",
+            "word": "stringpiece"
+        },
+        {
+            "id": "tack",
+            "word": "tack"
+        },
+        {
+            "id": "tenon",
+            "word": "tenon"
+        },
+        {
+            "id": "tongue_and_groove",
+            "word": "tongue and groove"
+        },
+        {
+            "id": "treenail",
+            "word": "treenail"
+        },
+        {
+            "id": "trying_plane",
+            "word": "trying plane"
+        },
+        {
+            "id": "try_square",
+            "word": "try square"
+        },
+        {
+            "id": "turnery",
+            "word": "turnery"
+        },
+        {
+            "id": "two-by-four",
+            "word": "two-by-four"
+        },
+        {
+            "id": "two-ply",
+            "word": "two-ply"
+        },
+        {
+            "id": "underframe",
+            "word": "underframe"
+        },
+        {
+            "id": "veneer",
+            "word": "veneer"
+        },
+        {
+            "id": "veneering",
+            "word": "veneering"
+        },
+        {
+            "id": "wedge",
+            "word": "wedge"
+        },
+        {
+            "id": "well_constructed",
+            "word": "well constructed"
+        },
+        {
+            "id": "woodcarving",
+            "word": "woodcarving"
+        },
+        {
+            "id": "woodcraft",
+            "word": "woodcraft"
+        },
+        {
+            "id": "woodscrew",
+            "word": "woodscrew"
+        },
+        {
+            "id": "woodturning",
+            "word": "woodturning"
+        },
+        {
+            "id": "workbench",
+            "word": "workbench"
+        },
+        {
+            "id": "workbox",
+            "word": "workbox"
+        }
+    ]
+}

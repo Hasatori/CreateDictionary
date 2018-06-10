@@ -1,0 +1,755 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 186
+    },
+    "results": [
+        {
+            "id": "abatis",
+            "word": "abatis"
+        },
+        {
+            "id": "aif",
+            "word": "aif"
+        },
+        {
+            "id": "anspessade",
+            "word": "anspessade"
+        },
+        {
+            "id": "arbalest",
+            "word": "arbalest"
+        },
+        {
+            "id": "archer",
+            "word": "archer"
+        },
+        {
+            "id": "armour",
+            "word": "armour"
+        },
+        {
+            "id": "armourer",
+            "word": "armourer"
+        },
+        {
+            "id": "australian_imperial_force",
+            "word": "australian imperial force"
+        },
+        {
+            "id": "backsword",
+            "word": "backsword"
+        },
+        {
+            "id": "baldric",
+            "word": "baldric"
+        },
+        {
+            "id": "ballista",
+            "word": "ballista"
+        },
+        {
+            "id": "banneret",
+            "word": "banneret"
+        },
+        {
+            "id": "basinet",
+            "word": "basinet"
+        },
+        {
+            "id": "battering_ram",
+            "word": "battering ram"
+        },
+        {
+            "id": "beaver",
+            "word": "beaver"
+        },
+        {
+            "id": "big_stoush",
+            "word": "big stoush"
+        },
+        {
+            "id": "bill",
+            "word": "bill"
+        },
+        {
+            "id": "blue_coat",
+            "word": "blue coat"
+        },
+        {
+            "id": "bowman",
+            "word": "bowman"
+        },
+        {
+            "id": "brigandine",
+            "word": "brigandine"
+        },
+        {
+            "id": "buckler",
+            "word": "buckler"
+        },
+        {
+            "id": "burgonet",
+            "word": "burgonet"
+        },
+        {
+            "id": "byrnie",
+            "word": "byrnie"
+        },
+        {
+            "id": "caltrop",
+            "word": "caltrop"
+        },
+        {
+            "id": "camail",
+            "word": "camail"
+        },
+        {
+            "id": "cannonball",
+            "word": "cannonball"
+        },
+        {
+            "id": "cannoneer",
+            "word": "cannoneer"
+        },
+        {
+            "id": "carabineer",
+            "word": "carabineer"
+        },
+        {
+            "id": "casemate",
+            "word": "casemate"
+        },
+        {
+            "id": "case-shot",
+            "word": "case-shot"
+        },
+        {
+            "id": "casque",
+            "word": "casque"
+        },
+        {
+            "id": "cataphract",
+            "word": "cataphract"
+        },
+        {
+            "id": "catapult",
+            "word": "catapult"
+        },
+        {
+            "id": "cavalry",
+            "word": "cavalry"
+        },
+        {
+            "id": "centurion",
+            "word": "centurion"
+        },
+        {
+            "id": "cetshwayo",
+            "word": "cetshwayo"
+        },
+        {
+            "id": "chain_mail",
+            "word": "chain mail"
+        },
+        {
+            "id": "charge_of_the_light_brigade",
+            "word": "charge of the light brigade"
+        },
+        {
+            "id": "chasseur",
+            "word": "chasseur"
+        },
+        {
+            "id": "chetnik",
+            "word": "chetnik"
+        },
+        {
+            "id": "chevalier",
+            "word": "chevalier"
+        },
+        {
+            "id": "chiliarch",
+            "word": "chiliarch"
+        },
+        {
+            "id": "chindit",
+            "word": "chindit"
+        },
+        {
+            "id": "circumvallation",
+            "word": "circumvallation"
+        },
+        {
+            "id": "citadel",
+            "word": "citadel"
+        },
+        {
+            "id": "claymore",
+            "word": "claymore"
+        },
+        {
+            "id": "coat_of_mail",
+            "word": "coat of mail"
+        },
+        {
+            "id": "cohort",
+            "word": "cohort"
+        },
+        {
+            "id": "condottiere",
+            "word": "condottiere"
+        },
+        {
+            "id": "conquistador",
+            "word": "conquistador"
+        },
+        {
+            "id": "cornet",
+            "word": "cornet"
+        },
+        {
+            "id": "cornetcy",
+            "word": "cornetcy"
+        },
+        {
+            "id": "crossbow",
+            "word": "crossbow"
+        },
+        {
+            "id": "cuirass",
+            "word": "cuirass"
+        },
+        {
+            "id": "cuirassier",
+            "word": "cuirassier"
+        },
+        {
+            "id": "cuisse",
+            "word": "cuisse"
+        },
+        {
+            "id": "culverin",
+            "word": "culverin"
+        },
+        {
+            "id": "denazify",
+            "word": "denazify"
+        },
+        {
+            "id": "dragoon",
+            "word": "dragoon"
+        },
+        {
+            "id": "embattle",
+            "word": "embattle"
+        },
+        {
+            "id": "enceinte",
+            "word": "enceinte"
+        },
+        {
+            "id": "escalade",
+            "word": "escalade"
+        },
+        {
+            "id": "esplanade",
+            "word": "esplanade"
+        },
+        {
+            "id": "falchion",
+            "word": "falchion"
+        },
+        {
+            "id": "falconet",
+            "word": "falconet"
+        },
+        {
+            "id": "fencible",
+            "word": "fencible"
+        },
+        {
+            "id": "fort",
+            "word": "fort"
+        },
+        {
+            "id": "fugleman",
+            "word": "fugleman"
+        },
+        {
+            "id": "fusil",
+            "word": "fusil"
+        },
+        {
+            "id": "fusilier",
+            "word": "fusilier"
+        },
+        {
+            "id": "fyrd",
+            "word": "fyrd"
+        },
+        {
+            "id": "galloglass",
+            "word": "galloglass"
+        },
+        {
+            "id": "glacis",
+            "word": "glacis"
+        },
+        {
+            "id": "grapeshot",
+            "word": "grapeshot"
+        },
+        {
+            "id": "greave",
+            "word": "greave"
+        },
+        {
+            "id": "grenadier",
+            "word": "grenadier"
+        },
+        {
+            "id": "grim_dig",
+            "word": "grim dig"
+        },
+        {
+            "id": "habergeon",
+            "word": "habergeon"
+        },
+        {
+            "id": "halberdier",
+            "word": "halberdier"
+        },
+        {
+            "id": "handspike",
+            "word": "handspike"
+        },
+        {
+            "id": "hauberk",
+            "word": "hauberk"
+        },
+        {
+            "id": "high-low",
+            "word": "high-low"
+        },
+        {
+            "id": "hollow_square",
+            "word": "hollow square"
+        },
+        {
+            "id": "housecarl",
+            "word": "housecarl"
+        },
+        {
+            "id": "hussar",
+            "word": "hussar"
+        },
+        {
+            "id": "impi",
+            "word": "impi"
+        },
+        {
+            "id": "impress",
+            "word": "impress"
+        },
+        {
+            "id": "janissary",
+            "word": "janissary"
+        },
+        {
+            "id": "j_force",
+            "word": "j force"
+        },
+        {
+            "id": "kern",
+            "word": "kern"
+        },
+        {
+            "id": "k_force",
+            "word": "k force"
+        },
+        {
+            "id": "klepht",
+            "word": "klepht"
+        },
+        {
+            "id": "knight",
+            "word": "knight"
+        },
+        {
+            "id": "knight_bachelor",
+            "word": "knight bachelor"
+        },
+        {
+            "id": "knight_errant",
+            "word": "knight errant"
+        },
+        {
+            "id": "kupapa",
+            "word": "kupapa"
+        },
+        {
+            "id": "lancer",
+            "word": "lancer"
+        },
+        {
+            "id": "landsknecht",
+            "word": "landsknecht"
+        },
+        {
+            "id": "land_wars",
+            "word": "land wars"
+        },
+        {
+            "id": "lansquenet",
+            "word": "lansquenet"
+        },
+        {
+            "id": "legion",
+            "word": "legion"
+        },
+        {
+            "id": "legionary",
+            "word": "legionary"
+        },
+        {
+            "id": "mail",
+            "word": "mail"
+        },
+        {
+            "id": "man-at-arms",
+            "word": "man-at-arms"
+        },
+        {
+            "id": "mangonel",
+            "word": "mangonel"
+        },
+        {
+            "id": "maniple",
+            "word": "maniple"
+        },
+        {
+            "id": "maori_battalion",
+            "word": "maori battalion"
+        },
+        {
+            "id": "maquisard",
+            "word": "maquisard"
+        },
+        {
+            "id": "militaria",
+            "word": "militaria"
+        },
+        {
+            "id": "military_history",
+            "word": "military history"
+        },
+        {
+            "id": "military_settler",
+            "word": "military settler"
+        },
+        {
+            "id": "mills_bomb",
+            "word": "mills bomb"
+        },
+        {
+            "id": "miquelet_lock",
+            "word": "miquelet lock"
+        },
+        {
+            "id": "moat",
+            "word": "moat"
+        },
+        {
+            "id": "morion",
+            "word": "morion"
+        },
+        {
+            "id": "motte",
+            "word": "motte"
+        },
+        {
+            "id": "musket",
+            "word": "musket"
+        },
+        {
+            "id": "musketeer",
+            "word": "musketeer"
+        },
+        {
+            "id": "musketry",
+            "word": "musketry"
+        },
+        {
+            "id": "musket_wars",
+            "word": "musket wars"
+        },
+        {
+            "id": "muster_book",
+            "word": "muster book"
+        },
+        {
+            "id": "new_guard",
+            "word": "new guard"
+        },
+        {
+            "id": "oflag",
+            "word": "oflag"
+        },
+        {
+            "id": "palisade",
+            "word": "palisade"
+        },
+        {
+            "id": "parados",
+            "word": "parados"
+        },
+        {
+            "id": "pickelhaube",
+            "word": "pickelhaube"
+        },
+        {
+            "id": "pike",
+            "word": "pike"
+        },
+        {
+            "id": "pikestaff",
+            "word": "pikestaff"
+        },
+        {
+            "id": "plate_armour",
+            "word": "plate armour"
+        },
+        {
+            "id": "pole-hammer",
+            "word": "pole-hammer"
+        },
+        {
+            "id": "portfire",
+            "word": "portfire"
+        },
+        {
+            "id": "powder_flask",
+            "word": "powder flask"
+        },
+        {
+            "id": "press_gang",
+            "word": "press gang"
+        },
+        {
+            "id": "qila",
+            "word": "qila"
+        },
+        {
+            "id": "quintain",
+            "word": "quintain"
+        },
+        {
+            "id": "rampart",
+            "word": "rampart"
+        },
+        {
+            "id": "rapparee",
+            "word": "rapparee"
+        },
+        {
+            "id": "redan",
+            "word": "redan"
+        },
+        {
+            "id": "redcoat",
+            "word": "redcoat"
+        },
+        {
+            "id": "redoubt",
+            "word": "redoubt"
+        },
+        {
+            "id": "round_shot",
+            "word": "round shot"
+        },
+        {
+            "id": "routier",
+            "word": "routier"
+        },
+        {
+            "id": "sabre",
+            "word": "sabre"
+        },
+        {
+            "id": "sabretache",
+            "word": "sabretache"
+        },
+        {
+            "id": "sabreur",
+            "word": "sabreur"
+        },
+        {
+            "id": "sallet",
+            "word": "sallet"
+        },
+        {
+            "id": "sally_port",
+            "word": "sally port"
+        },
+        {
+            "id": "samurai",
+            "word": "samurai"
+        },
+        {
+            "id": "scale_armour",
+            "word": "scale armour"
+        },
+        {
+            "id": "scaling_ladder",
+            "word": "scaling ladder"
+        },
+        {
+            "id": "sepoy",
+            "word": "sepoy"
+        },
+        {
+            "id": "seraskier",
+            "word": "seraskier"
+        },
+        {
+            "id": "shabrack",
+            "word": "shabrack"
+        },
+        {
+            "id": "shogun",
+            "word": "shogun"
+        },
+        {
+            "id": "single_combat",
+            "word": "single combat"
+        },
+        {
+            "id": "sit_down",
+            "word": "sit down"
+        },
+        {
+            "id": "six_bob_a_day_tourist",
+            "word": "six bob a day tourist"
+        },
+        {
+            "id": "slow_match",
+            "word": "slow match"
+        },
+        {
+            "id": "spahi",
+            "word": "spahi"
+        },
+        {
+            "id": "spear",
+            "word": "spear"
+        },
+        {
+            "id": "spearman",
+            "word": "spearman"
+        },
+        {
+            "id": "stand_of_arms",
+            "word": "stand of arms"
+        },
+        {
+            "id": "subsidiary",
+            "word": "subsidiary"
+        },
+        {
+            "id": "sutler",
+            "word": "sutler"
+        },
+        {
+            "id": "swiss_guard",
+            "word": "swiss guard"
+        },
+        {
+            "id": "swordsman",
+            "word": "swordsman"
+        },
+        {
+            "id": "taua",
+            "word": "taua"
+        },
+        {
+            "id": "testudo",
+            "word": "testudo"
+        },
+        {
+            "id": "teutonic_knights",
+            "word": "teutonic knights"
+        },
+        {
+            "id": "tirailleur",
+            "word": "tirailleur"
+        },
+        {
+            "id": "town_major",
+            "word": "town major"
+        },
+        {
+            "id": "trainband",
+            "word": "trainband"
+        },
+        {
+            "id": "trebuchet",
+            "word": "trebuchet"
+        },
+        {
+            "id": "turco",
+            "word": "turco"
+        },
+        {
+            "id": "uhlan",
+            "word": "uhlan"
+        },
+        {
+            "id": "vallum",
+            "word": "vallum"
+        },
+        {
+            "id": "vambrace",
+            "word": "vambrace"
+        },
+        {
+            "id": "vamplate",
+            "word": "vamplate"
+        },
+        {
+            "id": "varangian_guard",
+            "word": "varangian guard"
+        },
+        {
+            "id": "vexillum",
+            "word": "vexillum"
+        },
+        {
+            "id": "vietcong",
+            "word": "vietcong"
+        },
+        {
+            "id": "warrior",
+            "word": "warrior"
+        },
+        {
+            "id": "white_army",
+            "word": "white army"
+        },
+        {
+            "id": "win_%28or_earn%29_one%27s_spurs",
+            "word": "win (or earn) one's spurs"
+        },
+        {
+            "id": "yeoman_of_the_guard",
+            "word": "yeoman of the guard"
+        },
+        {
+            "id": "yeomanry",
+            "word": "yeomanry"
+        }
+    ]
+}

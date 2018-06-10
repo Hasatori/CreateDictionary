@@ -1,0 +1,471 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 115
+    },
+    "results": [
+        {
+            "id": "almond_oil",
+            "word": "almond oil"
+        },
+        {
+            "id": "aloe_vera",
+            "word": "aloe vera"
+        },
+        {
+            "id": "arden%2C_elizabeth",
+            "word": "arden, elizabeth"
+        },
+        {
+            "id": "aromatherapy",
+            "word": "aromatherapy"
+        },
+        {
+            "id": "babassu",
+            "word": "babassu"
+        },
+        {
+            "id": "baby_oil",
+            "word": "baby oil"
+        },
+        {
+            "id": "balm",
+            "word": "balm"
+        },
+        {
+            "id": "bb_cream",
+            "word": "bb cream"
+        },
+        {
+            "id": "beautician",
+            "word": "beautician"
+        },
+        {
+            "id": "beauty_mark",
+            "word": "beauty mark"
+        },
+        {
+            "id": "beauty_salon",
+            "word": "beauty salon"
+        },
+        {
+            "id": "bikini_wax",
+            "word": "bikini wax"
+        },
+        {
+            "id": "blusher",
+            "word": "blusher"
+        },
+        {
+            "id": "body_lotion",
+            "word": "body lotion"
+        },
+        {
+            "id": "body_scrub",
+            "word": "body scrub"
+        },
+        {
+            "id": "body_wrap",
+            "word": "body wrap"
+        },
+        {
+            "id": "bronzer",
+            "word": "bronzer"
+        },
+        {
+            "id": "cc_cream",
+            "word": "cc cream"
+        },
+        {
+            "id": "chapstick",
+            "word": "chapstick"
+        },
+        {
+            "id": "cleanser",
+            "word": "cleanser"
+        },
+        {
+            "id": "cleansing_cream",
+            "word": "cleansing cream"
+        },
+        {
+            "id": "cocoa_butter",
+            "word": "cocoa butter"
+        },
+        {
+            "id": "coconut_oil",
+            "word": "coconut oil"
+        },
+        {
+            "id": "cold_cream",
+            "word": "cold cream"
+        },
+        {
+            "id": "concealer",
+            "word": "concealer"
+        },
+        {
+            "id": "contouring",
+            "word": "contouring"
+        },
+        {
+            "id": "cosmeceutical",
+            "word": "cosmeceutical"
+        },
+        {
+            "id": "cosmetician",
+            "word": "cosmetician"
+        },
+        {
+            "id": "cosmetology",
+            "word": "cosmetology"
+        },
+        {
+            "id": "cotton_bud",
+            "word": "cotton bud"
+        },
+        {
+            "id": "cruelty-free",
+            "word": "cruelty-free"
+        },
+        {
+            "id": "dressing_case",
+            "word": "dressing case"
+        },
+        {
+            "id": "exfoliant",
+            "word": "exfoliant"
+        },
+        {
+            "id": "eyebrow_pencil",
+            "word": "eyebrow pencil"
+        },
+        {
+            "id": "eyeliner",
+            "word": "eyeliner"
+        },
+        {
+            "id": "eye_pencil",
+            "word": "eye pencil"
+        },
+        {
+            "id": "eyeshadow",
+            "word": "eyeshadow"
+        },
+        {
+            "id": "face_cream",
+            "word": "face cream"
+        },
+        {
+            "id": "face_pack",
+            "word": "face pack"
+        },
+        {
+            "id": "face_powder",
+            "word": "face powder"
+        },
+        {
+            "id": "facialist",
+            "word": "facialist"
+        },
+        {
+            "id": "fake_tan",
+            "word": "fake tan"
+        },
+        {
+            "id": "fish_pedicure",
+            "word": "fish pedicure"
+        },
+        {
+            "id": "guyliner",
+            "word": "guyliner"
+        },
+        {
+            "id": "hair_remover",
+            "word": "hair remover"
+        },
+        {
+            "id": "hair_restorer",
+            "word": "hair restorer"
+        },
+        {
+            "id": "hand_cream",
+            "word": "hand cream"
+        },
+        {
+            "id": "hand_lotion",
+            "word": "hand lotion"
+        },
+        {
+            "id": "hypoallergenic",
+            "word": "hypoallergenic"
+        },
+        {
+            "id": "jojoba",
+            "word": "jojoba"
+        },
+        {
+            "id": "kajal",
+            "word": "kajal"
+        },
+        {
+            "id": "kohl",
+            "word": "kohl"
+        },
+        {
+            "id": "lip_balm",
+            "word": "lip balm"
+        },
+        {
+            "id": "lip_brush",
+            "word": "lip brush"
+        },
+        {
+            "id": "lip_gloss",
+            "word": "lip gloss"
+        },
+        {
+            "id": "lipline",
+            "word": "lipline"
+        },
+        {
+            "id": "lip_liner",
+            "word": "lip liner"
+        },
+        {
+            "id": "lipstick",
+            "word": "lipstick"
+        },
+        {
+            "id": "lotion",
+            "word": "lotion"
+        },
+        {
+            "id": "made-up",
+            "word": "made-up"
+        },
+        {
+            "id": "make_someone_over",
+            "word": "make someone over"
+        },
+        {
+            "id": "make_someone_up",
+            "word": "make someone up"
+        },
+        {
+            "id": "make-up",
+            "word": "make-up"
+        },
+        {
+            "id": "make-up_artist",
+            "word": "make-up artist"
+        },
+        {
+            "id": "make-up_bag",
+            "word": "make-up bag"
+        },
+        {
+            "id": "make-up_remover",
+            "word": "make-up remover"
+        },
+        {
+            "id": "manicure",
+            "word": "manicure"
+        },
+        {
+            "id": "manicure_set",
+            "word": "manicure set"
+        },
+        {
+            "id": "manicurist",
+            "word": "manicurist"
+        },
+        {
+            "id": "mani-pedi",
+            "word": "mani-pedi"
+        },
+        {
+            "id": "manscaping",
+            "word": "manscaping"
+        },
+        {
+            "id": "maquillage",
+            "word": "maquillage"
+        },
+        {
+            "id": "mascara",
+            "word": "mascara"
+        },
+        {
+            "id": "mattify",
+            "word": "mattify"
+        },
+        {
+            "id": "microbeads",
+            "word": "microbeads"
+        },
+        {
+            "id": "microdermabrasion",
+            "word": "microdermabrasion"
+        },
+        {
+            "id": "moisturizer",
+            "word": "moisturizer"
+        },
+        {
+            "id": "mud_pack",
+            "word": "mud pack"
+        },
+        {
+            "id": "nail_enamel",
+            "word": "nail enamel"
+        },
+        {
+            "id": "nail_polish",
+            "word": "nail polish"
+        },
+        {
+            "id": "nail_polish_remover",
+            "word": "nail polish remover"
+        },
+        {
+            "id": "nail_technician",
+            "word": "nail technician"
+        },
+        {
+            "id": "nail_varnish",
+            "word": "nail varnish"
+        },
+        {
+            "id": "nail_varnish_remover",
+            "word": "nail varnish remover"
+        },
+        {
+            "id": "non-comedogenic",
+            "word": "non-comedogenic"
+        },
+        {
+            "id": "ointment",
+            "word": "ointment"
+        },
+        {
+            "id": "panstick",
+            "word": "panstick"
+        },
+        {
+            "id": "parfumier",
+            "word": "parfumier"
+        },
+        {
+            "id": "pedicure",
+            "word": "pedicure"
+        },
+        {
+            "id": "powder",
+            "word": "powder"
+        },
+        {
+            "id": "powder_puff",
+            "word": "powder puff"
+        },
+        {
+            "id": "pulvilio",
+            "word": "pulvilio"
+        },
+        {
+            "id": "put_one%27s_face_on",
+            "word": "put one's face on"
+        },
+        {
+            "id": "rouge",
+            "word": "rouge"
+        },
+        {
+            "id": "rubinstein%2C_helena",
+            "word": "rubinstein, helena"
+        },
+        {
+            "id": "salon",
+            "word": "salon"
+        },
+        {
+            "id": "self-tanner",
+            "word": "self-tanner"
+        },
+        {
+            "id": "shea_butter",
+            "word": "shea butter"
+        },
+        {
+            "id": "skincare",
+            "word": "skincare"
+        },
+        {
+            "id": "smoky_eyes",
+            "word": "smoky eyes"
+        },
+        {
+            "id": "sun_cream",
+            "word": "sun cream"
+        },
+        {
+            "id": "talc",
+            "word": "talc"
+        },
+        {
+            "id": "talcum",
+            "word": "talcum"
+        },
+        {
+            "id": "thalassotherapy",
+            "word": "thalassotherapy"
+        },
+        {
+            "id": "threading",
+            "word": "threading"
+        },
+        {
+            "id": "tightline",
+            "word": "tightline"
+        },
+        {
+            "id": "tightlining",
+            "word": "tightlining"
+        },
+        {
+            "id": "toiletries",
+            "word": "toiletries"
+        },
+        {
+            "id": "toner",
+            "word": "toner"
+        },
+        {
+            "id": "vajazzle",
+            "word": "vajazzle"
+        },
+        {
+            "id": "vanishing_cream",
+            "word": "vanishing cream"
+        },
+        {
+            "id": "vanity_case",
+            "word": "vanity case"
+        },
+        {
+            "id": "vanity_mirror",
+            "word": "vanity mirror"
+        },
+        {
+            "id": "visagiste",
+            "word": "visagiste"
+        },
+        {
+            "id": "waxing",
+            "word": "waxing"
+        }
+    ]
+}

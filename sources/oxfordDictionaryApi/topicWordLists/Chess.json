@@ -1,0 +1,215 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 51,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "alekhine%2C_alexander",
+            "word": "alekhine, alexander"
+        },
+        {
+            "id": "capablanca%2C_jos%C3%A9_ra%C3%BAl",
+            "word": "capablanca, josé raúl"
+        },
+        {
+            "id": "checkmate",
+            "word": "checkmate"
+        },
+        {
+            "id": "chess",
+            "word": "chess"
+        },
+        {
+            "id": "chessboard",
+            "word": "chessboard"
+        },
+        {
+            "id": "chessman",
+            "word": "chessman"
+        },
+        {
+            "id": "discovered_check",
+            "word": "discovered check"
+        },
+        {
+            "id": "endgame",
+            "word": "endgame"
+        },
+        {
+            "id": "en_passant_rule_%28or_law%29",
+            "word": "en passant rule (or law)"
+        },
+        {
+            "id": "en_prise",
+            "word": "en prise"
+        },
+        {
+            "id": "e.p.",
+            "word": "e.p."
+        },
+        {
+            "id": "fianchetto",
+            "word": "fianchetto"
+        },
+        {
+            "id": "fischer%2C_bobby",
+            "word": "fischer, bobby"
+        },
+        {
+            "id": "fool%27s_mate",
+            "word": "fool's mate"
+        },
+        {
+            "id": "grand_master",
+            "word": "grand master"
+        },
+        {
+            "id": "half-move",
+            "word": "half-move"
+        },
+        {
+            "id": "indian_defence",
+            "word": "indian defence"
+        },
+        {
+            "id": "j%27adoube",
+            "word": "j'adoube"
+        },
+        {
+            "id": "karpov%2C_anatoli",
+            "word": "karpov, anatoli"
+        },
+        {
+            "id": "kasparov%2C_garry",
+            "word": "kasparov, garry"
+        },
+        {
+            "id": "king%27s_bishop",
+            "word": "king's bishop"
+        },
+        {
+            "id": "king%27s_knight",
+            "word": "king's knight"
+        },
+        {
+            "id": "king%27s_pawn",
+            "word": "king's pawn"
+        },
+        {
+            "id": "king%27s_rook",
+            "word": "king's rook"
+        },
+        {
+            "id": "kingside",
+            "word": "kingside"
+        },
+        {
+            "id": "korchnoi%2C_viktor",
+            "word": "korchnoi, viktor"
+        },
+        {
+            "id": "lightning_chess",
+            "word": "lightning chess"
+        },
+        {
+            "id": "major_piece",
+            "word": "major piece"
+        },
+        {
+            "id": "mate",
+            "word": "mate"
+        },
+        {
+            "id": "middle_game",
+            "word": "middle game"
+        },
+        {
+            "id": "minor_piece",
+            "word": "minor piece"
+        },
+        {
+            "id": "n",
+            "word": "n"
+        },
+        {
+            "id": "notate",
+            "word": "notate"
+        },
+        {
+            "id": "passed_pawn",
+            "word": "passed pawn"
+        },
+        {
+            "id": "patzer",
+            "word": "patzer"
+        },
+        {
+            "id": "pawn",
+            "word": "pawn"
+        },
+        {
+            "id": "perpetual_check",
+            "word": "perpetual check"
+        },
+        {
+            "id": "queen%27s_bishop",
+            "word": "queen's bishop"
+        },
+        {
+            "id": "queen%27s_knight",
+            "word": "queen's knight"
+        },
+        {
+            "id": "queen%27s_pawn",
+            "word": "queen's pawn"
+        },
+        {
+            "id": "queen%27s_rook",
+            "word": "queen's rook"
+        },
+        {
+            "id": "queenside",
+            "word": "queenside"
+        },
+        {
+            "id": "rook",
+            "word": "rook"
+        },
+        {
+            "id": "scholar%27s_mate",
+            "word": "scholar's mate"
+        },
+        {
+            "id": "selfmate",
+            "word": "selfmate"
+        },
+        {
+            "id": "simul",
+            "word": "simul"
+        },
+        {
+            "id": "smothered_mate",
+            "word": "smothered mate"
+        },
+        {
+            "id": "spassky%2C_boris",
+            "word": "spassky, boris"
+        },
+        {
+            "id": "stalemate",
+            "word": "stalemate"
+        },
+        {
+            "id": "unpin",
+            "word": "unpin"
+        },
+        {
+            "id": "zugzwang",
+            "word": "zugzwang"
+        }
+    ]
+}

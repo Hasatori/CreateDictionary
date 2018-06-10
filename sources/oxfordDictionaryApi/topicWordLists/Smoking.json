@@ -1,0 +1,359 @@
+{
+    "results": [
+        {
+            "id": "ash",
+            "word": "ash"
+        },
+        {
+            "id": "ashtray",
+            "word": "ashtray"
+        },
+        {
+            "id": "benzopyrene",
+            "word": "benzopyrene"
+        },
+        {
+            "id": "bidi",
+            "word": "bidi"
+        },
+        {
+            "id": "bifter",
+            "word": "bifter"
+        },
+        {
+            "id": "briar",
+            "word": "briar"
+        },
+        {
+            "id": "burley",
+            "word": "burley"
+        },
+        {
+            "id": "calean",
+            "word": "calean"
+        },
+        {
+            "id": "cancer_stick",
+            "word": "cancer stick"
+        },
+        {
+            "id": "chain-smoke",
+            "word": "chain-smoke"
+        },
+        {
+            "id": "cheroot",
+            "word": "cheroot"
+        },
+        {
+            "id": "chibouk",
+            "word": "chibouk"
+        },
+        {
+            "id": "chillum",
+            "word": "chillum"
+        },
+        {
+            "id": "cig",
+            "word": "cig"
+        },
+        {
+            "id": "cigar",
+            "word": "cigar"
+        },
+        {
+            "id": "cigarette",
+            "word": "cigarette"
+        },
+        {
+            "id": "cigarette_card",
+            "word": "cigarette card"
+        },
+        {
+            "id": "cigarette_end",
+            "word": "cigarette end"
+        },
+        {
+            "id": "cigarette_machine",
+            "word": "cigarette machine"
+        },
+        {
+            "id": "cigarette_paper",
+            "word": "cigarette paper"
+        },
+        {
+            "id": "cigarillo",
+            "word": "cigarillo"
+        },
+        {
+            "id": "ciggy",
+            "word": "ciggy"
+        },
+        {
+            "id": "clay_pipe",
+            "word": "clay pipe"
+        },
+        {
+            "id": "coffin_nail",
+            "word": "coffin nail"
+        },
+        {
+            "id": "corncob_pipe",
+            "word": "corncob pipe"
+        },
+        {
+            "id": "corona",
+            "word": "corona"
+        },
+        {
+            "id": "dog-end",
+            "word": "dog-end"
+        },
+        {
+            "id": "dottle",
+            "word": "dottle"
+        },
+        {
+            "id": "drag_on",
+            "word": "drag on"
+        },
+        {
+            "id": "dudeen",
+            "word": "dudeen"
+        },
+        {
+            "id": "durry",
+            "word": "durry"
+        },
+        {
+            "id": "e-cigarette",
+            "word": "e-cigarette"
+        },
+        {
+            "id": "electronic_cigarette",
+            "word": "electronic cigarette"
+        },
+        {
+            "id": "fag",
+            "word": "fag"
+        },
+        {
+            "id": "fag_end",
+            "word": "fag end"
+        },
+        {
+            "id": "filter",
+            "word": "filter"
+        },
+        {
+            "id": "filter_tip",
+            "word": "filter tip"
+        },
+        {
+            "id": "flue-cure",
+            "word": "flue-cure"
+        },
+        {
+            "id": "gasper",
+            "word": "gasper"
+        },
+        {
+            "id": "gooseneck",
+            "word": "gooseneck"
+        },
+        {
+            "id": "havana",
+            "word": "havana"
+        },
+        {
+            "id": "hookah",
+            "word": "hookah"
+        },
+        {
+            "id": "hubble-bubble",
+            "word": "hubble-bubble"
+        },
+        {
+            "id": "humidor",
+            "word": "humidor"
+        },
+        {
+            "id": "kalian",
+            "word": "kalian"
+        },
+        {
+            "id": "lighter",
+            "word": "lighter"
+        },
+        {
+            "id": "lighter_fuel",
+            "word": "lighter fuel"
+        },
+        {
+            "id": "lighter_socket",
+            "word": "lighter socket"
+        },
+        {
+            "id": "loosie",
+            "word": "loosie"
+        },
+        {
+            "id": "nailrod",
+            "word": "nailrod"
+        },
+        {
+            "id": "narghile",
+            "word": "narghile"
+        },
+        {
+            "id": "nicki-nicki",
+            "word": "nicki-nicki"
+        },
+        {
+            "id": "nicotine",
+            "word": "nicotine"
+        },
+        {
+            "id": "nicotine_patch",
+            "word": "nicotine patch"
+        },
+        {
+            "id": "non-smoker",
+            "word": "non-smoker"
+        },
+        {
+            "id": "non-smoking",
+            "word": "non-smoking"
+        },
+        {
+            "id": "panatella",
+            "word": "panatella"
+        },
+        {
+            "id": "passive_smoking",
+            "word": "passive smoking"
+        },
+        {
+            "id": "perfecto",
+            "word": "perfecto"
+        },
+        {
+            "id": "perique",
+            "word": "perique"
+        },
+        {
+            "id": "pipe_cleaner",
+            "word": "pipe cleaner"
+        },
+        {
+            "id": "pipe_rack",
+            "word": "pipe rack"
+        },
+        {
+            "id": "puro",
+            "word": "puro"
+        },
+        {
+            "id": "rollie",
+            "word": "rollie"
+        },
+        {
+            "id": "roll_one%27s_own",
+            "word": "roll one's own"
+        },
+        {
+            "id": "roll-up",
+            "word": "roll-up"
+        },
+        {
+            "id": "secondary_smoke",
+            "word": "secondary smoke"
+        },
+        {
+            "id": "shisha",
+            "word": "shisha"
+        },
+        {
+            "id": "sidestream_smoke",
+            "word": "sidestream smoke"
+        },
+        {
+            "id": "smoke-free",
+            "word": "smoke-free"
+        },
+        {
+            "id": "smoke_like_a_chimney",
+            "word": "smoke like a chimney"
+        },
+        {
+            "id": "smoker",
+            "word": "smoker"
+        },
+        {
+            "id": "smoker%27s_cough",
+            "word": "smoker's cough"
+        },
+        {
+            "id": "smoke_shop",
+            "word": "smoke shop"
+        },
+        {
+            "id": "smoking",
+            "word": "smoking"
+        },
+        {
+            "id": "smoking_room",
+            "word": "smoking room"
+        },
+        {
+            "id": "stogy",
+            "word": "stogy"
+        },
+        {
+            "id": "stompie",
+            "word": "stompie"
+        },
+        {
+            "id": "straight-cut",
+            "word": "straight-cut"
+        },
+        {
+            "id": "tabac",
+            "word": "tabac"
+        },
+        {
+            "id": "tendu_leaf",
+            "word": "tendu leaf"
+        },
+        {
+            "id": "tobacco",
+            "word": "tobacco"
+        },
+        {
+            "id": "tobacconist",
+            "word": "tobacconist"
+        },
+        {
+            "id": "tobacco-stopper",
+            "word": "tobacco-stopper"
+        },
+        {
+            "id": "vaping",
+            "word": "vaping"
+        },
+        {
+            "id": "virginia",
+            "word": "virginia"
+        },
+        {
+            "id": "zyban",
+            "word": "zyban"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 87,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

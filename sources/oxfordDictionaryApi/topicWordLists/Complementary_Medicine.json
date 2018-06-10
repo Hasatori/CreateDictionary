@@ -1,0 +1,503 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 123,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "abura",
+            "word": "abura"
+        },
+        {
+            "id": "acupoint",
+            "word": "acupoint"
+        },
+        {
+            "id": "acupressure",
+            "word": "acupressure"
+        },
+        {
+            "id": "acupuncture",
+            "word": "acupuncture"
+        },
+        {
+            "id": "acupuncturist",
+            "word": "acupuncturist"
+        },
+        {
+            "id": "adaptogen",
+            "word": "adaptogen"
+        },
+        {
+            "id": "alexander_technique",
+            "word": "alexander technique"
+        },
+        {
+            "id": "allheal",
+            "word": "allheal"
+        },
+        {
+            "id": "allopath",
+            "word": "allopath"
+        },
+        {
+            "id": "allopathy",
+            "word": "allopathy"
+        },
+        {
+            "id": "alternative_medicine",
+            "word": "alternative medicine"
+        },
+        {
+            "id": "aniseed",
+            "word": "aniseed"
+        },
+        {
+            "id": "anthroposophy",
+            "word": "anthroposophy"
+        },
+        {
+            "id": "aromatherapy",
+            "word": "aromatherapy"
+        },
+        {
+            "id": "atkins_diet",
+            "word": "atkins diet"
+        },
+        {
+            "id": "auriculotherapy",
+            "word": "auriculotherapy"
+        },
+        {
+            "id": "ayurveda",
+            "word": "ayurveda"
+        },
+        {
+            "id": "ayurvedic",
+            "word": "ayurvedic"
+        },
+        {
+            "id": "bach_flower_remedies",
+            "word": "bach flower remedies"
+        },
+        {
+            "id": "balneology",
+            "word": "balneology"
+        },
+        {
+            "id": "balneotherapy",
+            "word": "balneotherapy"
+        },
+        {
+            "id": "bates_method",
+            "word": "bates method"
+        },
+        {
+            "id": "bodyworker",
+            "word": "bodyworker"
+        },
+        {
+            "id": "bush_medicine",
+            "word": "bush medicine"
+        },
+        {
+            "id": "chi",
+            "word": "chi"
+        },
+        {
+            "id": "chiropractic",
+            "word": "chiropractic"
+        },
+        {
+            "id": "chiropractor",
+            "word": "chiropractor"
+        },
+        {
+            "id": "chronotherapy",
+            "word": "chronotherapy"
+        },
+        {
+            "id": "colour_therapy",
+            "word": "colour therapy"
+        },
+        {
+            "id": "coltsfoot",
+            "word": "coltsfoot"
+        },
+        {
+            "id": "complementary_medicine",
+            "word": "complementary medicine"
+        },
+        {
+            "id": "craniosacral_therapy",
+            "word": "craniosacral therapy"
+        },
+        {
+            "id": "crystal_healing",
+            "word": "crystal healing"
+        },
+        {
+            "id": "cupping",
+            "word": "cupping"
+        },
+        {
+            "id": "curcumin",
+            "word": "curcumin"
+        },
+        {
+            "id": "damiana",
+            "word": "damiana"
+        },
+        {
+            "id": "dosha",
+            "word": "dosha"
+        },
+        {
+            "id": "dulcamara",
+            "word": "dulcamara"
+        },
+        {
+            "id": "ear_candle",
+            "word": "ear candle"
+        },
+        {
+            "id": "ear_candling",
+            "word": "ear candling"
+        },
+        {
+            "id": "echinacea",
+            "word": "echinacea"
+        },
+        {
+            "id": "electroacupuncture",
+            "word": "electroacupuncture"
+        },
+        {
+            "id": "elemi",
+            "word": "elemi"
+        },
+        {
+            "id": "enneagram",
+            "word": "enneagram"
+        },
+        {
+            "id": "essential_oil",
+            "word": "essential oil"
+        },
+        {
+            "id": "eurhythmics",
+            "word": "eurhythmics"
+        },
+        {
+            "id": "eurhythmy",
+            "word": "eurhythmy"
+        },
+        {
+            "id": "evening_primrose_oil",
+            "word": "evening primrose oil"
+        },
+        {
+            "id": "faith_healing",
+            "word": "faith healing"
+        },
+        {
+            "id": "fango",
+            "word": "fango"
+        },
+        {
+            "id": "feldenkrais_method",
+            "word": "feldenkrais method"
+        },
+        {
+            "id": "feverfew",
+            "word": "feverfew"
+        },
+        {
+            "id": "flotation_tank",
+            "word": "flotation tank"
+        },
+        {
+            "id": "folk_medicine",
+            "word": "folk medicine"
+        },
+        {
+            "id": "gelsemium",
+            "word": "gelsemium"
+        },
+        {
+            "id": "gerson_therapy",
+            "word": "gerson therapy"
+        },
+        {
+            "id": "ginseng",
+            "word": "ginseng"
+        },
+        {
+            "id": "grains_of_paradise",
+            "word": "grains of paradise"
+        },
+        {
+            "id": "greater_celandine",
+            "word": "greater celandine"
+        },
+        {
+            "id": "guarana",
+            "word": "guarana"
+        },
+        {
+            "id": "guided_imagery",
+            "word": "guided imagery"
+        },
+        {
+            "id": "hay_diet",
+            "word": "hay diet"
+        },
+        {
+            "id": "hellerwork",
+            "word": "hellerwork"
+        },
+        {
+            "id": "herbalism",
+            "word": "herbalism"
+        },
+        {
+            "id": "herbalist",
+            "word": "herbalist"
+        },
+        {
+            "id": "herbal_medicine",
+            "word": "herbal medicine"
+        },
+        {
+            "id": "homeopath",
+            "word": "homeopath"
+        },
+        {
+            "id": "homeopathic",
+            "word": "homeopathic"
+        },
+        {
+            "id": "homeopathy",
+            "word": "homeopathy"
+        },
+        {
+            "id": "hydro",
+            "word": "hydro"
+        },
+        {
+            "id": "hydropathy",
+            "word": "hydropathy"
+        },
+        {
+            "id": "hypericin",
+            "word": "hypericin"
+        },
+        {
+            "id": "integrative_medicine",
+            "word": "integrative medicine"
+        },
+        {
+            "id": "iridology",
+            "word": "iridology"
+        },
+        {
+            "id": "mctimoney",
+            "word": "mctimoney"
+        },
+        {
+            "id": "miasm",
+            "word": "miasm"
+        },
+        {
+            "id": "moxa",
+            "word": "moxa"
+        },
+        {
+            "id": "moxibustion",
+            "word": "moxibustion"
+        },
+        {
+            "id": "naturopathy",
+            "word": "naturopathy"
+        },
+        {
+            "id": "neti_pot",
+            "word": "neti pot"
+        },
+        {
+            "id": "neurolinguistic_programming",
+            "word": "neurolinguistic programming"
+        },
+        {
+            "id": "nosode",
+            "word": "nosode"
+        },
+        {
+            "id": "organotherapy",
+            "word": "organotherapy"
+        },
+        {
+            "id": "osteopathy",
+            "word": "osteopathy"
+        },
+        {
+            "id": "oxygen_bar",
+            "word": "oxygen bar"
+        },
+        {
+            "id": "panchakarma",
+            "word": "panchakarma"
+        },
+        {
+            "id": "pareira",
+            "word": "pareira"
+        },
+        {
+            "id": "patchouli",
+            "word": "patchouli"
+        },
+        {
+            "id": "pennyroyal",
+            "word": "pennyroyal"
+        },
+        {
+            "id": "petrissage",
+            "word": "petrissage"
+        },
+        {
+            "id": "pilates",
+            "word": "pilates"
+        },
+        {
+            "id": "polarity_therapy",
+            "word": "polarity therapy"
+        },
+        {
+            "id": "potentize",
+            "word": "potentize"
+        },
+        {
+            "id": "qigong",
+            "word": "qigong"
+        },
+        {
+            "id": "quercetin",
+            "word": "quercetin"
+        },
+        {
+            "id": "radionics",
+            "word": "radionics"
+        },
+        {
+            "id": "rebirthing",
+            "word": "rebirthing"
+        },
+        {
+            "id": "reflexologist",
+            "word": "reflexologist"
+        },
+        {
+            "id": "reflexology",
+            "word": "reflexology"
+        },
+        {
+            "id": "reiki",
+            "word": "reiki"
+        },
+        {
+            "id": "reishi",
+            "word": "reishi"
+        },
+        {
+            "id": "rhinoceros_horn",
+            "word": "rhinoceros horn"
+        },
+        {
+            "id": "rolf",
+            "word": "rolf"
+        },
+        {
+            "id": "rolfing",
+            "word": "rolfing"
+        },
+        {
+            "id": "rue",
+            "word": "rue"
+        },
+        {
+            "id": "schizandra",
+            "word": "schizandra"
+        },
+        {
+            "id": "sensory_deprivation_tank",
+            "word": "sensory deprivation tank"
+        },
+        {
+            "id": "shen",
+            "word": "shen"
+        },
+        {
+            "id": "shiatsu",
+            "word": "shiatsu"
+        },
+        {
+            "id": "structural_integration",
+            "word": "structural integration"
+        },
+        {
+            "id": "succuss",
+            "word": "succuss"
+        },
+        {
+            "id": "swedish_massage",
+            "word": "swedish massage"
+        },
+        {
+            "id": "tapotement",
+            "word": "tapotement"
+        },
+        {
+            "id": "tcm",
+            "word": "tcm"
+        },
+        {
+            "id": "thalassotherapy",
+            "word": "thalassotherapy"
+        },
+        {
+            "id": "thermotherapy",
+            "word": "thermotherapy"
+        },
+        {
+            "id": "tonify",
+            "word": "tonify"
+        },
+        {
+            "id": "tormentil",
+            "word": "tormentil"
+        },
+        {
+            "id": "vis_medicatrix_naturae",
+            "word": "vis medicatrix naturae"
+        },
+        {
+            "id": "watsu",
+            "word": "watsu"
+        },
+        {
+            "id": "wet_pack",
+            "word": "wet pack"
+        },
+        {
+            "id": "yogalates",
+            "word": "yogalates"
+        },
+        {
+            "id": "zone_therapy",
+            "word": "zone therapy"
+        }
+    ]
+}

@@ -1,0 +1,803 @@
+{
+    "results": [
+        {
+            "id": "abhinaya",
+            "word": "abhinaya"
+        },
+        {
+            "id": "allemande",
+            "word": "allemande"
+        },
+        {
+            "id": "astaire%2C_fred",
+            "word": "astaire, fred"
+        },
+        {
+            "id": "baker%2C_josephine",
+            "word": "baker, josephine"
+        },
+        {
+            "id": "ballroom",
+            "word": "ballroom"
+        },
+        {
+            "id": "ballroom_dance",
+            "word": "ballroom dance"
+        },
+        {
+            "id": "ballroom_dancing",
+            "word": "ballroom dancing"
+        },
+        {
+            "id": "bayad%C3%A8re",
+            "word": "bayadère"
+        },
+        {
+            "id": "beguine",
+            "word": "beguine"
+        },
+        {
+            "id": "belly_dance",
+            "word": "belly dance"
+        },
+        {
+            "id": "berkeley%2C_busby",
+            "word": "berkeley, busby"
+        },
+        {
+            "id": "bharatanatyam",
+            "word": "bharatanatyam"
+        },
+        {
+            "id": "bhava",
+            "word": "bhava"
+        },
+        {
+            "id": "black_bottom",
+            "word": "black bottom"
+        },
+        {
+            "id": "body-popping",
+            "word": "body-popping"
+        },
+        {
+            "id": "bolero",
+            "word": "bolero"
+        },
+        {
+            "id": "boogaloo",
+            "word": "boogaloo"
+        },
+        {
+            "id": "bop",
+            "word": "bop"
+        },
+        {
+            "id": "bourr%C3%A9e",
+            "word": "bourrée"
+        },
+        {
+            "id": "branle",
+            "word": "branle"
+        },
+        {
+            "id": "breakdance",
+            "word": "breakdance"
+        },
+        {
+            "id": "breakdancing",
+            "word": "breakdancing"
+        },
+        {
+            "id": "buck-and-wing",
+            "word": "buck-and-wing"
+        },
+        {
+            "id": "butoh",
+            "word": "butoh"
+        },
+        {
+            "id": "cachucha",
+            "word": "cachucha"
+        },
+        {
+            "id": "cancan",
+            "word": "cancan"
+        },
+        {
+            "id": "capoeira",
+            "word": "capoeira"
+        },
+        {
+            "id": "ceroc",
+            "word": "ceroc"
+        },
+        {
+            "id": "cha-cha",
+            "word": "cha-cha"
+        },
+        {
+            "id": "charleston",
+            "word": "charleston"
+        },
+        {
+            "id": "chass%C3%A9",
+            "word": "chassé"
+        },
+        {
+            "id": "choreograph",
+            "word": "choreograph"
+        },
+        {
+            "id": "choreographer",
+            "word": "choreographer"
+        },
+        {
+            "id": "choreography",
+            "word": "choreography"
+        },
+        {
+            "id": "choreology",
+            "word": "choreology"
+        },
+        {
+            "id": "circle_dance",
+            "word": "circle dance"
+        },
+        {
+            "id": "clog_dance",
+            "word": "clog dance"
+        },
+        {
+            "id": "clogging",
+            "word": "clogging"
+        },
+        {
+            "id": "conga",
+            "word": "conga"
+        },
+        {
+            "id": "contradance",
+            "word": "contradance"
+        },
+        {
+            "id": "contredanse",
+            "word": "contredanse"
+        },
+        {
+            "id": "cotillion",
+            "word": "cotillion"
+        },
+        {
+            "id": "country_dance",
+            "word": "country dance"
+        },
+        {
+            "id": "courante",
+            "word": "courante"
+        },
+        {
+            "id": "csardas",
+            "word": "csardas"
+        },
+        {
+            "id": "cueca",
+            "word": "cueca"
+        },
+        {
+            "id": "cut_a_%28or_the%29_rug",
+            "word": "cut a (or the) rug"
+        },
+        {
+            "id": "dad_dancing",
+            "word": "dad dancing"
+        },
+        {
+            "id": "dance",
+            "word": "dance"
+        },
+        {
+            "id": "dance_band",
+            "word": "dance band"
+        },
+        {
+            "id": "dance_drama",
+            "word": "dance drama"
+        },
+        {
+            "id": "dance-off",
+            "word": "dance-off"
+        },
+        {
+            "id": "dancesport",
+            "word": "dancesport"
+        },
+        {
+            "id": "dancing",
+            "word": "dancing"
+        },
+        {
+            "id": "dancing_girl",
+            "word": "dancing girl"
+        },
+        {
+            "id": "dandiya_raas",
+            "word": "dandiya raas"
+        },
+        {
+            "id": "disco-dance",
+            "word": "disco-dance"
+        },
+        {
+            "id": "divertissement",
+            "word": "divertissement"
+        },
+        {
+            "id": "do-si-do",
+            "word": "do-si-do"
+        },
+        {
+            "id": "double_shuffle",
+            "word": "double shuffle"
+        },
+        {
+            "id": "ecossaise",
+            "word": "ecossaise"
+        },
+        {
+            "id": "eightsome",
+            "word": "eightsome"
+        },
+        {
+            "id": "emu_dance",
+            "word": "emu dance"
+        },
+        {
+            "id": "eurhythmics",
+            "word": "eurhythmics"
+        },
+        {
+            "id": "eurhythmy",
+            "word": "eurhythmy"
+        },
+        {
+            "id": "excuse-me",
+            "word": "excuse-me"
+        },
+        {
+            "id": "exotic_dancer",
+            "word": "exotic dancer"
+        },
+        {
+            "id": "fancy_footwork",
+            "word": "fancy footwork"
+        },
+        {
+            "id": "fan_dance",
+            "word": "fan dance"
+        },
+        {
+            "id": "fandango",
+            "word": "fandango"
+        },
+        {
+            "id": "farandole",
+            "word": "farandole"
+        },
+        {
+            "id": "farruca",
+            "word": "farruca"
+        },
+        {
+            "id": "folk_dance",
+            "word": "folk dance"
+        },
+        {
+            "id": "formation_dancing",
+            "word": "formation dancing"
+        },
+        {
+            "id": "foxtrot",
+            "word": "foxtrot"
+        },
+        {
+            "id": "frug",
+            "word": "frug"
+        },
+        {
+            "id": "galliard",
+            "word": "galliard"
+        },
+        {
+            "id": "galop",
+            "word": "galop"
+        },
+        {
+            "id": "garba",
+            "word": "garba"
+        },
+        {
+            "id": "gavotte",
+            "word": "gavotte"
+        },
+        {
+            "id": "gharana",
+            "word": "gharana"
+        },
+        {
+            "id": "go-go",
+            "word": "go-go"
+        },
+        {
+            "id": "go-go_dancer",
+            "word": "go-go dancer"
+        },
+        {
+            "id": "gopak",
+            "word": "gopak"
+        },
+        {
+            "id": "gumboot_dance",
+            "word": "gumboot dance"
+        },
+        {
+            "id": "habanera",
+            "word": "habanera"
+        },
+        {
+            "id": "hay",
+            "word": "hay"
+        },
+        {
+            "id": "high_kick",
+            "word": "high kick"
+        },
+        {
+            "id": "high-kicking",
+            "word": "high-kicking"
+        },
+        {
+            "id": "highland_fling",
+            "word": "highland fling"
+        },
+        {
+            "id": "hoedown",
+            "word": "hoedown"
+        },
+        {
+            "id": "hokey-cokey",
+            "word": "hokey-cokey"
+        },
+        {
+            "id": "hoofer",
+            "word": "hoofer"
+        },
+        {
+            "id": "hora",
+            "word": "hora"
+        },
+        {
+            "id": "hornpipe",
+            "word": "hornpipe"
+        },
+        {
+            "id": "hula",
+            "word": "hula"
+        },
+        {
+            "id": "jaleo",
+            "word": "jaleo"
+        },
+        {
+            "id": "jaques-dalcroze%2C_%C3%A9mile",
+            "word": "jaques-dalcroze, émile"
+        },
+        {
+            "id": "jig",
+            "word": "jig"
+        },
+        {
+            "id": "jitterbug",
+            "word": "jitterbug"
+        },
+        {
+            "id": "jive",
+            "word": "jive"
+        },
+        {
+            "id": "jota",
+            "word": "jota"
+        },
+        {
+            "id": "juba",
+            "word": "juba"
+        },
+        {
+            "id": "kangaroo_dance",
+            "word": "kangaroo dance"
+        },
+        {
+            "id": "kapa_haka",
+            "word": "kapa haka"
+        },
+        {
+            "id": "kathak",
+            "word": "kathak"
+        },
+        {
+            "id": "kathakali",
+            "word": "kathakali"
+        },
+        {
+            "id": "kazachok",
+            "word": "kazachok"
+        },
+        {
+            "id": "kelly%2C_gene",
+            "word": "kelly, gene"
+        },
+        {
+            "id": "kolo",
+            "word": "kolo"
+        },
+        {
+            "id": "ladies%27_chain",
+            "word": "ladies' chain"
+        },
+        {
+            "id": "lambada",
+            "word": "lambada"
+        },
+        {
+            "id": "lambeth_walk",
+            "word": "lambeth walk"
+        },
+        {
+            "id": "l%C3%A4ndler",
+            "word": "ländler"
+        },
+        {
+            "id": "limbo",
+            "word": "limbo"
+        },
+        {
+            "id": "line_dance",
+            "word": "line dance"
+        },
+        {
+            "id": "line_dancing",
+            "word": "line dancing"
+        },
+        {
+            "id": "macarena",
+            "word": "macarena"
+        },
+        {
+            "id": "madison",
+            "word": "madison"
+        },
+        {
+            "id": "maillot",
+            "word": "maillot"
+        },
+        {
+            "id": "malague%C3%B1a",
+            "word": "malagueña"
+        },
+        {
+            "id": "mambo",
+            "word": "mambo"
+        },
+        {
+            "id": "maxixe",
+            "word": "maxixe"
+        },
+        {
+            "id": "mazurka",
+            "word": "mazurka"
+        },
+        {
+            "id": "milonga",
+            "word": "milonga"
+        },
+        {
+            "id": "minuet",
+            "word": "minuet"
+        },
+        {
+            "id": "modern_dance",
+            "word": "modern dance"
+        },
+        {
+            "id": "moonstomp",
+            "word": "moonstomp"
+        },
+        {
+            "id": "moonwalk",
+            "word": "moonwalk"
+        },
+        {
+            "id": "morris_dance",
+            "word": "morris dance"
+        },
+        {
+            "id": "morris_man",
+            "word": "morris man"
+        },
+        {
+            "id": "nautch",
+            "word": "nautch"
+        },
+        {
+            "id": "notate",
+            "word": "notate"
+        },
+        {
+            "id": "old-fashioned_waltz",
+            "word": "old-fashioned waltz"
+        },
+        {
+            "id": "one-step",
+            "word": "one-step"
+        },
+        {
+            "id": "pas_de_basque",
+            "word": "pas de basque"
+        },
+        {
+            "id": "pas_de_deux",
+            "word": "pas de deux"
+        },
+        {
+            "id": "pas_de_quatre",
+            "word": "pas de quatre"
+        },
+        {
+            "id": "pas_de_trois",
+            "word": "pas de trois"
+        },
+        {
+            "id": "paso_doble",
+            "word": "paso doble"
+        },
+        {
+            "id": "passepied",
+            "word": "passepied"
+        },
+        {
+            "id": "pata-pata",
+            "word": "pata-pata"
+        },
+        {
+            "id": "paul_jones",
+            "word": "paul jones"
+        },
+        {
+            "id": "pavane",
+            "word": "pavane"
+        },
+        {
+            "id": "pirouette",
+            "word": "pirouette"
+        },
+        {
+            "id": "poi_dance",
+            "word": "poi dance"
+        },
+        {
+            "id": "polka",
+            "word": "polka"
+        },
+        {
+            "id": "polonaise",
+            "word": "polonaise"
+        },
+        {
+            "id": "quadrille",
+            "word": "quadrille"
+        },
+        {
+            "id": "quickstep",
+            "word": "quickstep"
+        },
+        {
+            "id": "rad",
+            "word": "rad"
+        },
+        {
+            "id": "repertoire",
+            "word": "repertoire"
+        },
+        {
+            "id": "rigadoon",
+            "word": "rigadoon"
+        },
+        {
+            "id": "rogers%2C_ginger",
+            "word": "rogers, ginger"
+        },
+        {
+            "id": "ronde",
+            "word": "ronde"
+        },
+        {
+            "id": "round_dance",
+            "word": "round dance"
+        },
+        {
+            "id": "routine",
+            "word": "routine"
+        },
+        {
+            "id": "rumba",
+            "word": "rumba"
+        },
+        {
+            "id": "salsero",
+            "word": "salsero"
+        },
+        {
+            "id": "saltarello",
+            "word": "saltarello"
+        },
+        {
+            "id": "samba",
+            "word": "samba"
+        },
+        {
+            "id": "saraband",
+            "word": "saraband"
+        },
+        {
+            "id": "schottische",
+            "word": "schottische"
+        },
+        {
+            "id": "sega",
+            "word": "sega"
+        },
+        {
+            "id": "seguidilla",
+            "word": "seguidilla"
+        },
+        {
+            "id": "sequence_dancing",
+            "word": "sequence dancing"
+        },
+        {
+            "id": "shag",
+            "word": "shag"
+        },
+        {
+            "id": "shimmy",
+            "word": "shimmy"
+        },
+        {
+            "id": "siciliano",
+            "word": "siciliano"
+        },
+        {
+            "id": "skank",
+            "word": "skank"
+        },
+        {
+            "id": "smooch",
+            "word": "smooch"
+        },
+        {
+            "id": "sock_hop",
+            "word": "sock hop"
+        },
+        {
+            "id": "soft-shoe",
+            "word": "soft-shoe"
+        },
+        {
+            "id": "square_dance",
+            "word": "square dance"
+        },
+        {
+            "id": "strathspey",
+            "word": "strathspey"
+        },
+        {
+            "id": "sword_dance",
+            "word": "sword dance"
+        },
+        {
+            "id": "syrtaki",
+            "word": "syrtaki"
+        },
+        {
+            "id": "tango",
+            "word": "tango"
+        },
+        {
+            "id": "tap_dance",
+            "word": "tap dance"
+        },
+        {
+            "id": "tap_shoe",
+            "word": "tap shoe"
+        },
+        {
+            "id": "tarantella",
+            "word": "tarantella"
+        },
+        {
+            "id": "taxi_dancer",
+            "word": "taxi dancer"
+        },
+        {
+            "id": "tea_dance",
+            "word": "tea dance"
+        },
+        {
+            "id": "terpsichorean",
+            "word": "terpsichorean"
+        },
+        {
+            "id": "throw_shapes",
+            "word": "throw shapes"
+        },
+        {
+            "id": "tickey-draai",
+            "word": "tickey-draai"
+        },
+        {
+            "id": "toyi-toyi",
+            "word": "toyi-toyi"
+        },
+        {
+            "id": "turkey_trot",
+            "word": "turkey trot"
+        },
+        {
+            "id": "twerk",
+            "word": "twerk"
+        },
+        {
+            "id": "two-step",
+            "word": "two-step"
+        },
+        {
+            "id": "veleta",
+            "word": "veleta"
+        },
+        {
+            "id": "viennese_waltz",
+            "word": "viennese waltz"
+        },
+        {
+            "id": "virginia_reel",
+            "word": "virginia reel"
+        },
+        {
+            "id": "waltz",
+            "word": "waltz"
+        },
+        {
+            "id": "waltzer",
+            "word": "waltzer"
+        },
+        {
+            "id": "wine",
+            "word": "wine"
+        },
+        {
+            "id": "zambra",
+            "word": "zambra"
+        },
+        {
+            "id": "zapateado",
+            "word": "zapateado"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 198,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

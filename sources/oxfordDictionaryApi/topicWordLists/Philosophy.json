@@ -1,0 +1,2123 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 528
+    },
+    "results": [
+        {
+            "id": "abelard%2C_peter",
+            "word": "abelard, peter"
+        },
+        {
+            "id": "absolutism",
+            "word": "absolutism"
+        },
+        {
+            "id": "absolutist",
+            "word": "absolutist"
+        },
+        {
+            "id": "absolutize",
+            "word": "absolutize"
+        },
+        {
+            "id": "acausal",
+            "word": "acausal"
+        },
+        {
+            "id": "adorno%2C_theodor_w.",
+            "word": "adorno, theodor w."
+        },
+        {
+            "id": "aesthetics",
+            "word": "aesthetics"
+        },
+        {
+            "id": "age_of_reason",
+            "word": "age of reason"
+        },
+        {
+            "id": "ahimsa",
+            "word": "ahimsa"
+        },
+        {
+            "id": "akrasia",
+            "word": "akrasia"
+        },
+        {
+            "id": "akratic",
+            "word": "akratic"
+        },
+        {
+            "id": "albertus_magnus%2C_st",
+            "word": "albertus magnus, st"
+        },
+        {
+            "id": "alethic",
+            "word": "alethic"
+        },
+        {
+            "id": "alienation",
+            "word": "alienation"
+        },
+        {
+            "id": "althusser%2C_louis",
+            "word": "althusser, louis"
+        },
+        {
+            "id": "analysis",
+            "word": "analysis"
+        },
+        {
+            "id": "analytical_philosophy",
+            "word": "analytical philosophy"
+        },
+        {
+            "id": "anaxagoras",
+            "word": "anaxagoras"
+        },
+        {
+            "id": "anaximenes",
+            "word": "anaximenes"
+        },
+        {
+            "id": "anselm%2C_st",
+            "word": "anselm, st"
+        },
+        {
+            "id": "anthropic_principle",
+            "word": "anthropic principle"
+        },
+        {
+            "id": "anthropomorphism",
+            "word": "anthropomorphism"
+        },
+        {
+            "id": "anthropomorphize",
+            "word": "anthropomorphize"
+        },
+        {
+            "id": "antinomy",
+            "word": "antinomy"
+        },
+        {
+            "id": "antisthenes",
+            "word": "antisthenes"
+        },
+        {
+            "id": "apodictic",
+            "word": "apodictic"
+        },
+        {
+            "id": "aporetic",
+            "word": "aporetic"
+        },
+        {
+            "id": "aporia",
+            "word": "aporia"
+        },
+        {
+            "id": "a_posteriori",
+            "word": "a posteriori"
+        },
+        {
+            "id": "a_priori",
+            "word": "a priori"
+        },
+        {
+            "id": "aquinas%2C_st_thomas",
+            "word": "aquinas, st thomas"
+        },
+        {
+            "id": "arendt%2C_hannah",
+            "word": "arendt, hannah"
+        },
+        {
+            "id": "argument_from_design",
+            "word": "argument from design"
+        },
+        {
+            "id": "aristippus",
+            "word": "aristippus"
+        },
+        {
+            "id": "aristotelian",
+            "word": "aristotelian"
+        },
+        {
+            "id": "aristotelian_logic",
+            "word": "aristotelian logic"
+        },
+        {
+            "id": "associationism",
+            "word": "associationism"
+        },
+        {
+            "id": "atomic_theory",
+            "word": "atomic theory"
+        },
+        {
+            "id": "atomism",
+            "word": "atomism"
+        },
+        {
+            "id": "austin%2C_j._l.",
+            "word": "austin, j. l."
+        },
+        {
+            "id": "autotelic",
+            "word": "autotelic"
+        },
+        {
+            "id": "averro%C3%ABs",
+            "word": "averroës"
+        },
+        {
+            "id": "avicenna",
+            "word": "avicenna"
+        },
+        {
+            "id": "axiology",
+            "word": "axiology"
+        },
+        {
+            "id": "ayer%2C_sir_a._j.",
+            "word": "ayer, sir a. j."
+        },
+        {
+            "id": "baconian",
+            "word": "baconian"
+        },
+        {
+            "id": "being",
+            "word": "being"
+        },
+        {
+            "id": "belief_system",
+            "word": "belief system"
+        },
+        {
+            "id": "bentham%2C_jeremy",
+            "word": "bentham, jeremy"
+        },
+        {
+            "id": "benthamism",
+            "word": "benthamism"
+        },
+        {
+            "id": "benthamite",
+            "word": "benthamite"
+        },
+        {
+            "id": "bergson%2C_henri",
+            "word": "bergson, henri"
+        },
+        {
+            "id": "bergsonian",
+            "word": "bergsonian"
+        },
+        {
+            "id": "berkeley%2C_george",
+            "word": "berkeley, george"
+        },
+        {
+            "id": "berlin%2C_sir_isaiah",
+            "word": "berlin, sir isaiah"
+        },
+        {
+            "id": "biophilia",
+            "word": "biophilia"
+        },
+        {
+            "id": "bivalence",
+            "word": "bivalence"
+        },
+        {
+            "id": "boethius",
+            "word": "boethius"
+        },
+        {
+            "id": "bridge_of_asses",
+            "word": "bridge of asses"
+        },
+        {
+            "id": "bruno%2C_giordano",
+            "word": "bruno, giordano"
+        },
+        {
+            "id": "buber%2C_martin",
+            "word": "buber, martin"
+        },
+        {
+            "id": "burke%2C_edmund",
+            "word": "burke, edmund"
+        },
+        {
+            "id": "carnap%2C_rudolf",
+            "word": "carnap, rudolf"
+        },
+        {
+            "id": "cartesian",
+            "word": "cartesian"
+        },
+        {
+            "id": "casuist",
+            "word": "casuist"
+        },
+        {
+            "id": "categorical_imperative",
+            "word": "categorical imperative"
+        },
+        {
+            "id": "cause_and_effect",
+            "word": "cause and effect"
+        },
+        {
+            "id": "class",
+            "word": "class"
+        },
+        {
+            "id": "coeternal",
+            "word": "coeternal"
+        },
+        {
+            "id": "cogito",
+            "word": "cogito"
+        },
+        {
+            "id": "cognition",
+            "word": "cognition"
+        },
+        {
+            "id": "cognitive",
+            "word": "cognitive"
+        },
+        {
+            "id": "cognitive_science",
+            "word": "cognitive science"
+        },
+        {
+            "id": "cognitive_scientist",
+            "word": "cognitive scientist"
+        },
+        {
+            "id": "compresence",
+            "word": "compresence"
+        },
+        {
+            "id": "comte%2C_auguste",
+            "word": "comte, auguste"
+        },
+        {
+            "id": "conation",
+            "word": "conation"
+        },
+        {
+            "id": "conceptualism",
+            "word": "conceptualism"
+        },
+        {
+            "id": "concrete_universal",
+            "word": "concrete universal"
+        },
+        {
+            "id": "confucian",
+            "word": "confucian"
+        },
+        {
+            "id": "confucianism",
+            "word": "confucianism"
+        },
+        {
+            "id": "confucius",
+            "word": "confucius"
+        },
+        {
+            "id": "connate",
+            "word": "connate"
+        },
+        {
+            "id": "connotation",
+            "word": "connotation"
+        },
+        {
+            "id": "consequentialism",
+            "word": "consequentialism"
+        },
+        {
+            "id": "constative",
+            "word": "constative"
+        },
+        {
+            "id": "contextualism",
+            "word": "contextualism"
+        },
+        {
+            "id": "correspondence_theory",
+            "word": "correspondence theory"
+        },
+        {
+            "id": "corrigible",
+            "word": "corrigible"
+        },
+        {
+            "id": "cosmological_argument",
+            "word": "cosmological argument"
+        },
+        {
+            "id": "counterargument",
+            "word": "counterargument"
+        },
+        {
+            "id": "counterfactual",
+            "word": "counterfactual"
+        },
+        {
+            "id": "critical_theory",
+            "word": "critical theory"
+        },
+        {
+            "id": "critical_thinking",
+            "word": "critical thinking"
+        },
+        {
+            "id": "croce%2C_benedetto",
+            "word": "croce, benedetto"
+        },
+        {
+            "id": "cultural_relativism",
+            "word": "cultural relativism"
+        },
+        {
+            "id": "cynicism",
+            "word": "cynicism"
+        },
+        {
+            "id": "cyrenaic",
+            "word": "cyrenaic"
+        },
+        {
+            "id": "dasein",
+            "word": "dasein"
+        },
+        {
+            "id": "datum",
+            "word": "datum"
+        },
+        {
+            "id": "decentre",
+            "word": "decentre"
+        },
+        {
+            "id": "decentring",
+            "word": "decentring"
+        },
+        {
+            "id": "deconstruct",
+            "word": "deconstruct"
+        },
+        {
+            "id": "deconstruction",
+            "word": "deconstruction"
+        },
+        {
+            "id": "de_dicto",
+            "word": "de dicto"
+        },
+        {
+            "id": "defeasible",
+            "word": "defeasible"
+        },
+        {
+            "id": "definite_description",
+            "word": "definite description"
+        },
+        {
+            "id": "demiurge",
+            "word": "demiurge"
+        },
+        {
+            "id": "democritus",
+            "word": "democritus"
+        },
+        {
+            "id": "deontic",
+            "word": "deontic"
+        },
+        {
+            "id": "deontology",
+            "word": "deontology"
+        },
+        {
+            "id": "de_re",
+            "word": "de re"
+        },
+        {
+            "id": "derrida%2C_jacques",
+            "word": "derrida, jacques"
+        },
+        {
+            "id": "derridean",
+            "word": "derridean"
+        },
+        {
+            "id": "descartes%2C_ren%C3%A9",
+            "word": "descartes, rené"
+        },
+        {
+            "id": "descriptivism",
+            "word": "descriptivism"
+        },
+        {
+            "id": "determinism",
+            "word": "determinism"
+        },
+        {
+            "id": "deterministic",
+            "word": "deterministic"
+        },
+        {
+            "id": "dialectic",
+            "word": "dialectic"
+        },
+        {
+            "id": "dialectical",
+            "word": "dialectical"
+        },
+        {
+            "id": "dialectical_materialism",
+            "word": "dialectical materialism"
+        },
+        {
+            "id": "dialectician",
+            "word": "dialectician"
+        },
+        {
+            "id": "differentia",
+            "word": "differentia"
+        },
+        {
+            "id": "ding_an_sich",
+            "word": "ding an sich"
+        },
+        {
+            "id": "diogenes",
+            "word": "diogenes"
+        },
+        {
+            "id": "double_effect",
+            "word": "double effect"
+        },
+        {
+            "id": "double_negation",
+            "word": "double negation"
+        },
+        {
+            "id": "doubter",
+            "word": "doubter"
+        },
+        {
+            "id": "doxastic",
+            "word": "doxastic"
+        },
+        {
+            "id": "dualism",
+            "word": "dualism"
+        },
+        {
+            "id": "dynamic",
+            "word": "dynamic"
+        },
+        {
+            "id": "dystopian",
+            "word": "dystopian"
+        },
+        {
+            "id": "efficient_cause",
+            "word": "efficient cause"
+        },
+        {
+            "id": "egoism",
+            "word": "egoism"
+        },
+        {
+            "id": "eleatic",
+            "word": "eleatic"
+        },
+        {
+            "id": "emergent",
+            "word": "emergent"
+        },
+        {
+            "id": "emotive",
+            "word": "emotive"
+        },
+        {
+            "id": "emotivism",
+            "word": "emotivism"
+        },
+        {
+            "id": "empedocles",
+            "word": "empedocles"
+        },
+        {
+            "id": "empirical",
+            "word": "empirical"
+        },
+        {
+            "id": "empirically",
+            "word": "empirically"
+        },
+        {
+            "id": "empiricism",
+            "word": "empiricism"
+        },
+        {
+            "id": "empiricist",
+            "word": "empiricist"
+        },
+        {
+            "id": "entelechy",
+            "word": "entelechy"
+        },
+        {
+            "id": "entitative",
+            "word": "entitative"
+        },
+        {
+            "id": "epictetus",
+            "word": "epictetus"
+        },
+        {
+            "id": "epicurean",
+            "word": "epicurean"
+        },
+        {
+            "id": "epicureanism",
+            "word": "epicureanism"
+        },
+        {
+            "id": "epicurus",
+            "word": "epicurus"
+        },
+        {
+            "id": "epistemic",
+            "word": "epistemic"
+        },
+        {
+            "id": "epistemological",
+            "word": "epistemological"
+        },
+        {
+            "id": "epistemology",
+            "word": "epistemology"
+        },
+        {
+            "id": "erasmus%2C_desiderius",
+            "word": "erasmus, desiderius"
+        },
+        {
+            "id": "erewhonian",
+            "word": "erewhonian"
+        },
+        {
+            "id": "eristic",
+            "word": "eristic"
+        },
+        {
+            "id": "esse",
+            "word": "esse"
+        },
+        {
+            "id": "essence",
+            "word": "essence"
+        },
+        {
+            "id": "essentialism",
+            "word": "essentialism"
+        },
+        {
+            "id": "est",
+            "word": "est"
+        },
+        {
+            "id": "eternal",
+            "word": "eternal"
+        },
+        {
+            "id": "ethical",
+            "word": "ethical"
+        },
+        {
+            "id": "ethical_dilemma",
+            "word": "ethical dilemma"
+        },
+        {
+            "id": "ethically",
+            "word": "ethically"
+        },
+        {
+            "id": "eudaemonic",
+            "word": "eudaemonic"
+        },
+        {
+            "id": "eudaemonism",
+            "word": "eudaemonism"
+        },
+        {
+            "id": "ex_hypothesi",
+            "word": "ex hypothesi"
+        },
+        {
+            "id": "existent",
+            "word": "existent"
+        },
+        {
+            "id": "existential",
+            "word": "existential"
+        },
+        {
+            "id": "existentialism",
+            "word": "existentialism"
+        },
+        {
+            "id": "existentialist",
+            "word": "existentialist"
+        },
+        {
+            "id": "experiential",
+            "word": "experiential"
+        },
+        {
+            "id": "explanandum",
+            "word": "explanandum"
+        },
+        {
+            "id": "explanans",
+            "word": "explanans"
+        },
+        {
+            "id": "explicandum",
+            "word": "explicandum"
+        },
+        {
+            "id": "explicans",
+            "word": "explicans"
+        },
+        {
+            "id": "fallibilism",
+            "word": "fallibilism"
+        },
+        {
+            "id": "felicific",
+            "word": "felicific"
+        },
+        {
+            "id": "feuerbach%2C_ludwig",
+            "word": "feuerbach, ludwig"
+        },
+        {
+            "id": "fichte%2C_johann_gottlieb",
+            "word": "fichte, johann gottlieb"
+        },
+        {
+            "id": "fideism",
+            "word": "fideism"
+        },
+        {
+            "id": "final_cause",
+            "word": "final cause"
+        },
+        {
+            "id": "finalism",
+            "word": "finalism"
+        },
+        {
+            "id": "finitism",
+            "word": "finitism"
+        },
+        {
+            "id": "first_principles",
+            "word": "first principles"
+        },
+        {
+            "id": "formal_cause",
+            "word": "formal cause"
+        },
+        {
+            "id": "formalist",
+            "word": "formalist"
+        },
+        {
+            "id": "foucauldian",
+            "word": "foucauldian"
+        },
+        {
+            "id": "foucault%2C_michel",
+            "word": "foucault, michel"
+        },
+        {
+            "id": "frankfurt_school",
+            "word": "frankfurt school"
+        },
+        {
+            "id": "free_will",
+            "word": "free will"
+        },
+        {
+            "id": "frege%2C_gottlob",
+            "word": "frege, gottlob"
+        },
+        {
+            "id": "funda",
+            "word": "funda"
+        },
+        {
+            "id": "futilitarian",
+            "word": "futilitarian"
+        },
+        {
+            "id": "haecceity",
+            "word": "haecceity"
+        },
+        {
+            "id": "hedonism",
+            "word": "hedonism"
+        },
+        {
+            "id": "hedonist",
+            "word": "hedonist"
+        },
+        {
+            "id": "hegel%2C_georg_wilhelm_friedrich",
+            "word": "hegel, georg wilhelm friedrich"
+        },
+        {
+            "id": "hegelian",
+            "word": "hegelian"
+        },
+        {
+            "id": "hegelianism",
+            "word": "hegelianism"
+        },
+        {
+            "id": "heidegger%2C_martin",
+            "word": "heidegger, martin"
+        },
+        {
+            "id": "heraclitus",
+            "word": "heraclitus"
+        },
+        {
+            "id": "heteronomous",
+            "word": "heteronomous"
+        },
+        {
+            "id": "historicism",
+            "word": "historicism"
+        },
+        {
+            "id": "hobbes%2C_thomas",
+            "word": "hobbes, thomas"
+        },
+        {
+            "id": "hobbesian",
+            "word": "hobbesian"
+        },
+        {
+            "id": "holism",
+            "word": "holism"
+        },
+        {
+            "id": "holistic",
+            "word": "holistic"
+        },
+        {
+            "id": "horkheimer%2C_max",
+            "word": "horkheimer, max"
+        },
+        {
+            "id": "humanism",
+            "word": "humanism"
+        },
+        {
+            "id": "humanist",
+            "word": "humanist"
+        },
+        {
+            "id": "humanistic",
+            "word": "humanistic"
+        },
+        {
+            "id": "hume%2C_david",
+            "word": "hume, david"
+        },
+        {
+            "id": "humean",
+            "word": "humean"
+        },
+        {
+            "id": "husserl%2C_edmund",
+            "word": "husserl, edmund"
+        },
+        {
+            "id": "hylomorphism",
+            "word": "hylomorphism"
+        },
+        {
+            "id": "hylozoism",
+            "word": "hylozoism"
+        },
+        {
+            "id": "hypatia",
+            "word": "hypatia"
+        },
+        {
+            "id": "hypostasize",
+            "word": "hypostasize"
+        },
+        {
+            "id": "hypothesize",
+            "word": "hypothesize"
+        },
+        {
+            "id": "hypothetical",
+            "word": "hypothetical"
+        },
+        {
+            "id": "hypothetical_imperative",
+            "word": "hypothetical imperative"
+        },
+        {
+            "id": "hypothetico-deductive",
+            "word": "hypothetico-deductive"
+        },
+        {
+            "id": "i_ching",
+            "word": "i ching"
+        },
+        {
+            "id": "idealist",
+            "word": "idealist"
+        },
+        {
+            "id": "idiographic",
+            "word": "idiographic"
+        },
+        {
+            "id": "ignoratio_elenchi",
+            "word": "ignoratio elenchi"
+        },
+        {
+            "id": "ignotum_per_ignotius",
+            "word": "ignotum per ignotius"
+        },
+        {
+            "id": "illocution",
+            "word": "illocution"
+        },
+        {
+            "id": "immaterialism",
+            "word": "immaterialism"
+        },
+        {
+            "id": "immoralism",
+            "word": "immoralism"
+        },
+        {
+            "id": "implicature",
+            "word": "implicature"
+        },
+        {
+            "id": "indefeasible",
+            "word": "indefeasible"
+        },
+        {
+            "id": "indemonstrable",
+            "word": "indemonstrable"
+        },
+        {
+            "id": "indeterminism",
+            "word": "indeterminism"
+        },
+        {
+            "id": "inductivism",
+            "word": "inductivism"
+        },
+        {
+            "id": "innate",
+            "word": "innate"
+        },
+        {
+            "id": "instantiate",
+            "word": "instantiate"
+        },
+        {
+            "id": "instrumentalism",
+            "word": "instrumentalism"
+        },
+        {
+            "id": "intellectualism",
+            "word": "intellectualism"
+        },
+        {
+            "id": "intelligible",
+            "word": "intelligible"
+        },
+        {
+            "id": "intentional",
+            "word": "intentional"
+        },
+        {
+            "id": "intentional_fallacy",
+            "word": "intentional fallacy"
+        },
+        {
+            "id": "intentionality",
+            "word": "intentionality"
+        },
+        {
+            "id": "interactionism",
+            "word": "interactionism"
+        },
+        {
+            "id": "intersubjective",
+            "word": "intersubjective"
+        },
+        {
+            "id": "intuitionism",
+            "word": "intuitionism"
+        },
+        {
+            "id": "ist",
+            "word": "ist"
+        },
+        {
+            "id": "james%2C_william",
+            "word": "james, william"
+        },
+        {
+            "id": "kant%2C_immanuel",
+            "word": "kant, immanuel"
+        },
+        {
+            "id": "kantian",
+            "word": "kantian"
+        },
+        {
+            "id": "kantianism",
+            "word": "kantianism"
+        },
+        {
+            "id": "kierkegaard%2C_s%C3%B8ren",
+            "word": "kierkegaard, søren"
+        },
+        {
+            "id": "kierkegaardian",
+            "word": "kierkegaardian"
+        },
+        {
+            "id": "leibniz%2C_gottfried_wilhelm",
+            "word": "leibniz, gottfried wilhelm"
+        },
+        {
+            "id": "leibnizian",
+            "word": "leibnizian"
+        },
+        {
+            "id": "libertarianism",
+            "word": "libertarianism"
+        },
+        {
+            "id": "lifeworld",
+            "word": "lifeworld"
+        },
+        {
+            "id": "littr%C3%A9%2C_%C3%A9mile",
+            "word": "littré, émile"
+        },
+        {
+            "id": "locke%2C_john",
+            "word": "locke, john"
+        },
+        {
+            "id": "lockean",
+            "word": "lockean"
+        },
+        {
+            "id": "logic",
+            "word": "logic"
+        },
+        {
+            "id": "logical_atomism",
+            "word": "logical atomism"
+        },
+        {
+            "id": "logical_necessity",
+            "word": "logical necessity"
+        },
+        {
+            "id": "logical_positivism",
+            "word": "logical positivism"
+        },
+        {
+            "id": "logician",
+            "word": "logician"
+        },
+        {
+            "id": "logicism",
+            "word": "logicism"
+        },
+        {
+            "id": "logocentric",
+            "word": "logocentric"
+        },
+        {
+            "id": "lucretius",
+            "word": "lucretius"
+        },
+        {
+            "id": "lyceum",
+            "word": "lyceum"
+        },
+        {
+            "id": "lyotard%2C_jean-fran%C3%A7ois",
+            "word": "lyotard, jean-françois"
+        },
+        {
+            "id": "maieutic",
+            "word": "maieutic"
+        },
+        {
+            "id": "maimonides",
+            "word": "maimonides"
+        },
+        {
+            "id": "marcuse%2C_herbert",
+            "word": "marcuse, herbert"
+        },
+        {
+            "id": "material_cause",
+            "word": "material cause"
+        },
+        {
+            "id": "mechanist",
+            "word": "mechanist"
+        },
+        {
+            "id": "mechanistic",
+            "word": "mechanistic"
+        },
+        {
+            "id": "meliorism",
+            "word": "meliorism"
+        },
+        {
+            "id": "mencius",
+            "word": "mencius"
+        },
+        {
+            "id": "mentalism",
+            "word": "mentalism"
+        },
+        {
+            "id": "mentalist",
+            "word": "mentalist"
+        },
+        {
+            "id": "mereology",
+            "word": "mereology"
+        },
+        {
+            "id": "metaphysic",
+            "word": "metaphysic"
+        },
+        {
+            "id": "metaphysical",
+            "word": "metaphysical"
+        },
+        {
+            "id": "metaphysician",
+            "word": "metaphysician"
+        },
+        {
+            "id": "metaphysics",
+            "word": "metaphysics"
+        },
+        {
+            "id": "metapsychology",
+            "word": "metapsychology"
+        },
+        {
+            "id": "mill%2C_john_stuart",
+            "word": "mill, john stuart"
+        },
+        {
+            "id": "millian",
+            "word": "millian"
+        },
+        {
+            "id": "mind",
+            "word": "mind"
+        },
+        {
+            "id": "modus_ponens",
+            "word": "modus ponens"
+        },
+        {
+            "id": "modus_tollens",
+            "word": "modus tollens"
+        },
+        {
+            "id": "monadism",
+            "word": "monadism"
+        },
+        {
+            "id": "monism",
+            "word": "monism"
+        },
+        {
+            "id": "montesquieu%2C_charles",
+            "word": "montesquieu, charles"
+        },
+        {
+            "id": "moore%2C_g._e.",
+            "word": "moore, g. e."
+        },
+        {
+            "id": "moral_dilemma",
+            "word": "moral dilemma"
+        },
+        {
+            "id": "moralism",
+            "word": "moralism"
+        },
+        {
+            "id": "moralist",
+            "word": "moralist"
+        },
+        {
+            "id": "morality",
+            "word": "morality"
+        },
+        {
+            "id": "moral_law",
+            "word": "moral law"
+        },
+        {
+            "id": "moral_philosopher",
+            "word": "moral philosopher"
+        },
+        {
+            "id": "moral_philosophy",
+            "word": "moral philosophy"
+        },
+        {
+            "id": "moral_science",
+            "word": "moral science"
+        },
+        {
+            "id": "morphic_resonance",
+            "word": "morphic resonance"
+        },
+        {
+            "id": "nativism",
+            "word": "nativism"
+        },
+        {
+            "id": "natural_justice",
+            "word": "natural justice"
+        },
+        {
+            "id": "natural_law",
+            "word": "natural law"
+        },
+        {
+            "id": "necessitarian",
+            "word": "necessitarian"
+        },
+        {
+            "id": "neoplatonism",
+            "word": "neoplatonism"
+        },
+        {
+            "id": "neorealism",
+            "word": "neorealism"
+        },
+        {
+            "id": "new_age",
+            "word": "new age"
+        },
+        {
+            "id": "nietzsche%2C_friedrich_wilhelm",
+            "word": "nietzsche, friedrich wilhelm"
+        },
+        {
+            "id": "nietzschean",
+            "word": "nietzschean"
+        },
+        {
+            "id": "nietzscheanism",
+            "word": "nietzscheanism"
+        },
+        {
+            "id": "nihilist",
+            "word": "nihilist"
+        },
+        {
+            "id": "noetic",
+            "word": "noetic"
+        },
+        {
+            "id": "nominalism",
+            "word": "nominalism"
+        },
+        {
+            "id": "nomological",
+            "word": "nomological"
+        },
+        {
+            "id": "nomothetic",
+            "word": "nomothetic"
+        },
+        {
+            "id": "non-contradiction",
+            "word": "non-contradiction"
+        },
+        {
+            "id": "non-moral",
+            "word": "non-moral"
+        },
+        {
+            "id": "non-natural",
+            "word": "non-natural"
+        },
+        {
+            "id": "non-relative",
+            "word": "non-relative"
+        },
+        {
+            "id": "noumenon",
+            "word": "noumenon"
+        },
+        {
+            "id": "object",
+            "word": "object"
+        },
+        {
+            "id": "objective",
+            "word": "objective"
+        },
+        {
+            "id": "objectively",
+            "word": "objectively"
+        },
+        {
+            "id": "occam%27s_razor",
+            "word": "occam's razor"
+        },
+        {
+            "id": "occasionalism",
+            "word": "occasionalism"
+        },
+        {
+            "id": "occurrent",
+            "word": "occurrent"
+        },
+        {
+            "id": "od",
+            "word": "od"
+        },
+        {
+            "id": "omnibenevolence",
+            "word": "omnibenevolence"
+        },
+        {
+            "id": "omnibenevolent",
+            "word": "omnibenevolent"
+        },
+        {
+            "id": "ontic",
+            "word": "ontic"
+        },
+        {
+            "id": "ontological",
+            "word": "ontological"
+        },
+        {
+            "id": "ontological_argument",
+            "word": "ontological argument"
+        },
+        {
+            "id": "ontology",
+            "word": "ontology"
+        },
+        {
+            "id": "open_texture",
+            "word": "open texture"
+        },
+        {
+            "id": "operationalism",
+            "word": "operationalism"
+        },
+        {
+            "id": "optimific",
+            "word": "optimific"
+        },
+        {
+            "id": "orectic",
+            "word": "orectic"
+        },
+        {
+            "id": "organicism",
+            "word": "organicism"
+        },
+        {
+            "id": "organon",
+            "word": "organon"
+        },
+        {
+            "id": "ortega_y_gasset%2C_jos%C3%A9",
+            "word": "ortega y gasset, josé"
+        },
+        {
+            "id": "panpsychism",
+            "word": "panpsychism"
+        },
+        {
+            "id": "paradigm",
+            "word": "paradigm"
+        },
+        {
+            "id": "paradigm_shift",
+            "word": "paradigm shift"
+        },
+        {
+            "id": "paradox",
+            "word": "paradox"
+        },
+        {
+            "id": "parmenides",
+            "word": "parmenides"
+        },
+        {
+            "id": "pascal%27s_wager",
+            "word": "pascal's wager"
+        },
+        {
+            "id": "pascal%2C_blaise",
+            "word": "pascal, blaise"
+        },
+        {
+            "id": "pataphysics",
+            "word": "pataphysics"
+        },
+        {
+            "id": "peirce%2C_charles_sanders",
+            "word": "peirce, charles sanders"
+        },
+        {
+            "id": "percept",
+            "word": "percept"
+        },
+        {
+            "id": "perfectionism",
+            "word": "perfectionism"
+        },
+        {
+            "id": "perlocution",
+            "word": "perlocution"
+        },
+        {
+            "id": "perspectivism",
+            "word": "perspectivism"
+        },
+        {
+            "id": "phenomenalism",
+            "word": "phenomenalism"
+        },
+        {
+            "id": "phenomenological",
+            "word": "phenomenological"
+        },
+        {
+            "id": "phenomenology",
+            "word": "phenomenology"
+        },
+        {
+            "id": "philo_judaeus",
+            "word": "philo judaeus"
+        },
+        {
+            "id": "philosopher",
+            "word": "philosopher"
+        },
+        {
+            "id": "philosopher_king",
+            "word": "philosopher king"
+        },
+        {
+            "id": "philosophia_perennis",
+            "word": "philosophia perennis"
+        },
+        {
+            "id": "philosophical",
+            "word": "philosophical"
+        },
+        {
+            "id": "philosophical_analysis",
+            "word": "philosophical analysis"
+        },
+        {
+            "id": "philosophically",
+            "word": "philosophically"
+        },
+        {
+            "id": "philosophy",
+            "word": "philosophy"
+        },
+        {
+            "id": "physicalism",
+            "word": "physicalism"
+        },
+        {
+            "id": "plato",
+            "word": "plato"
+        },
+        {
+            "id": "platonism",
+            "word": "platonism"
+        },
+        {
+            "id": "plotinus",
+            "word": "plotinus"
+        },
+        {
+            "id": "pluralistic",
+            "word": "pluralistic"
+        },
+        {
+            "id": "pneuma",
+            "word": "pneuma"
+        },
+        {
+            "id": "polyadic",
+            "word": "polyadic"
+        },
+        {
+            "id": "pons_asinorum",
+            "word": "pons asinorum"
+        },
+        {
+            "id": "popper%2C_sir_karl_raimund",
+            "word": "popper, sir karl raimund"
+        },
+        {
+            "id": "positive_law",
+            "word": "positive law"
+        },
+        {
+            "id": "positivism",
+            "word": "positivism"
+        },
+        {
+            "id": "post-structural",
+            "word": "post-structural"
+        },
+        {
+            "id": "post-structuralism",
+            "word": "post-structuralism"
+        },
+        {
+            "id": "post-structuralist",
+            "word": "post-structuralist"
+        },
+        {
+            "id": "pragmatic",
+            "word": "pragmatic"
+        },
+        {
+            "id": "pragmatically",
+            "word": "pragmatically"
+        },
+        {
+            "id": "predeterminism",
+            "word": "predeterminism"
+        },
+        {
+            "id": "predicable",
+            "word": "predicable"
+        },
+        {
+            "id": "predictive",
+            "word": "predictive"
+        },
+        {
+            "id": "presocratic",
+            "word": "presocratic"
+        },
+        {
+            "id": "primary_qualities",
+            "word": "primary qualities"
+        },
+        {
+            "id": "primitivism",
+            "word": "primitivism"
+        },
+        {
+            "id": "privatism",
+            "word": "privatism"
+        },
+        {
+            "id": "privative",
+            "word": "privative"
+        },
+        {
+            "id": "probabilistic",
+            "word": "probabilistic"
+        },
+        {
+            "id": "propositional_attitude",
+            "word": "propositional attitude"
+        },
+        {
+            "id": "psychologism",
+            "word": "psychologism"
+        },
+        {
+            "id": "pyrrho",
+            "word": "pyrrho"
+        },
+        {
+            "id": "pyrrhonism",
+            "word": "pyrrhonism"
+        },
+        {
+            "id": "pythagoras",
+            "word": "pythagoras"
+        },
+        {
+            "id": "pythagorean",
+            "word": "pythagorean"
+        },
+        {
+            "id": "quale",
+            "word": "quale"
+        },
+        {
+            "id": "quiddity",
+            "word": "quiddity"
+        },
+        {
+            "id": "quine%2C_willard_van_orman",
+            "word": "quine, willard van orman"
+        },
+        {
+            "id": "quodlibet",
+            "word": "quodlibet"
+        },
+        {
+            "id": "radhakrishnan%2C_sir_sarvepalli",
+            "word": "radhakrishnan, sir sarvepalli"
+        },
+        {
+            "id": "randian",
+            "word": "randian"
+        },
+        {
+            "id": "rational",
+            "word": "rational"
+        },
+        {
+            "id": "rationalism",
+            "word": "rationalism"
+        },
+        {
+            "id": "rationalist",
+            "word": "rationalist"
+        },
+        {
+            "id": "rationality",
+            "word": "rationality"
+        },
+        {
+            "id": "rawls%2C_john",
+            "word": "rawls, john"
+        },
+        {
+            "id": "reductionism",
+            "word": "reductionism"
+        },
+        {
+            "id": "reductionist",
+            "word": "reductionist"
+        },
+        {
+            "id": "relativism",
+            "word": "relativism"
+        },
+        {
+            "id": "relativize",
+            "word": "relativize"
+        },
+        {
+            "id": "renan%2C_ernest",
+            "word": "renan, ernest"
+        },
+        {
+            "id": "representationism",
+            "word": "representationism"
+        },
+        {
+            "id": "retrodiction",
+            "word": "retrodiction"
+        },
+        {
+            "id": "rigid_designator",
+            "word": "rigid designator"
+        },
+        {
+            "id": "rousseau%2C_jean-jacques",
+            "word": "rousseau, jean-jacques"
+        },
+        {
+            "id": "russell%27s_paradox",
+            "word": "russell's paradox"
+        },
+        {
+            "id": "russell%2C_bertrand",
+            "word": "russell, bertrand"
+        },
+        {
+            "id": "ryle%2C_gilbert",
+            "word": "ryle, gilbert"
+        },
+        {
+            "id": "santayana%2C_george",
+            "word": "santayana, george"
+        },
+        {
+            "id": "sartre%2C_jean-paul",
+            "word": "sartre, jean-paul"
+        },
+        {
+            "id": "schlick%2C_moritz",
+            "word": "schlick, moritz"
+        },
+        {
+            "id": "scholasticism",
+            "word": "scholasticism"
+        },
+        {
+            "id": "schopenhauer%2C_arthur",
+            "word": "schopenhauer, arthur"
+        },
+        {
+            "id": "science",
+            "word": "science"
+        },
+        {
+            "id": "scientific",
+            "word": "scientific"
+        },
+        {
+            "id": "scientifically",
+            "word": "scientifically"
+        },
+        {
+            "id": "self-existent",
+            "word": "self-existent"
+        },
+        {
+            "id": "selfhood",
+            "word": "selfhood"
+        },
+        {
+            "id": "self-love",
+            "word": "self-love"
+        },
+        {
+            "id": "self-realization",
+            "word": "self-realization"
+        },
+        {
+            "id": "sense_datum",
+            "word": "sense datum"
+        },
+        {
+            "id": "sense-making",
+            "word": "sense-making"
+        },
+        {
+            "id": "sensum",
+            "word": "sensum"
+        },
+        {
+            "id": "seven_sages",
+            "word": "seven sages"
+        },
+        {
+            "id": "situation_ethics",
+            "word": "situation ethics"
+        },
+        {
+            "id": "situationism",
+            "word": "situationism"
+        },
+        {
+            "id": "social_contract",
+            "word": "social contract"
+        },
+        {
+            "id": "socrates",
+            "word": "socrates"
+        },
+        {
+            "id": "socratic",
+            "word": "socratic"
+        },
+        {
+            "id": "socratic_irony",
+            "word": "socratic irony"
+        },
+        {
+            "id": "solipsism",
+            "word": "solipsism"
+        },
+        {
+            "id": "sophist",
+            "word": "sophist"
+        },
+        {
+            "id": "sophistry",
+            "word": "sophistry"
+        },
+        {
+            "id": "sortal",
+            "word": "sortal"
+        },
+        {
+            "id": "spatio-temporal",
+            "word": "spatio-temporal"
+        },
+        {
+            "id": "speech_act",
+            "word": "speech act"
+        },
+        {
+            "id": "spengler%2C_oswald",
+            "word": "spengler, oswald"
+        },
+        {
+            "id": "spinoza%2C_baruch_de",
+            "word": "spinoza, baruch de"
+        },
+        {
+            "id": "spinozism",
+            "word": "spinozism"
+        },
+        {
+            "id": "spinozist",
+            "word": "spinozist"
+        },
+        {
+            "id": "spinozistic",
+            "word": "spinozistic"
+        },
+        {
+            "id": "structuralism",
+            "word": "structuralism"
+        },
+        {
+            "id": "subjective",
+            "word": "subjective"
+        },
+        {
+            "id": "subjectively",
+            "word": "subjectively"
+        },
+        {
+            "id": "subjectivism",
+            "word": "subjectivism"
+        },
+        {
+            "id": "subjectivity",
+            "word": "subjectivity"
+        },
+        {
+            "id": "sublate",
+            "word": "sublate"
+        },
+        {
+            "id": "substantialism",
+            "word": "substantialism"
+        },
+        {
+            "id": "subvocal",
+            "word": "subvocal"
+        },
+        {
+            "id": "sufficient_reason",
+            "word": "sufficient reason"
+        },
+        {
+            "id": "summum_bonum",
+            "word": "summum bonum"
+        },
+        {
+            "id": "supervene",
+            "word": "supervene"
+        },
+        {
+            "id": "supervenient",
+            "word": "supervenient"
+        },
+        {
+            "id": "swedenborg%2C_emanuel",
+            "word": "swedenborg, emanuel"
+        },
+        {
+            "id": "swedenborgian",
+            "word": "swedenborgian"
+        },
+        {
+            "id": "syllogism",
+            "word": "syllogism"
+        },
+        {
+            "id": "syncretism",
+            "word": "syncretism"
+        },
+        {
+            "id": "syncretize",
+            "word": "syncretize"
+        },
+        {
+            "id": "synectics",
+            "word": "synectics"
+        },
+        {
+            "id": "tabula_rasa",
+            "word": "tabula rasa"
+        },
+        {
+            "id": "teleological",
+            "word": "teleological"
+        },
+        {
+            "id": "teleological_argument",
+            "word": "teleological argument"
+        },
+        {
+            "id": "teleology",
+            "word": "teleology"
+        },
+        {
+            "id": "telic",
+            "word": "telic"
+        },
+        {
+            "id": "telos",
+            "word": "telos"
+        },
+        {
+            "id": "thales",
+            "word": "thales"
+        },
+        {
+            "id": "the_ghost_in_the_machine",
+            "word": "the ghost in the machine"
+        },
+        {
+            "id": "theophrastus",
+            "word": "theophrastus"
+        },
+        {
+            "id": "thought_experiment",
+            "word": "thought experiment"
+        },
+        {
+            "id": "timocracy",
+            "word": "timocracy"
+        },
+        {
+            "id": "timocratic",
+            "word": "timocratic"
+        },
+        {
+            "id": "traditionalism",
+            "word": "traditionalism"
+        },
+        {
+            "id": "transcendence",
+            "word": "transcendence"
+        },
+        {
+            "id": "transcendentalism",
+            "word": "transcendentalism"
+        },
+        {
+            "id": "transcendentalize",
+            "word": "transcendentalize"
+        },
+        {
+            "id": "transhumanism",
+            "word": "transhumanism"
+        },
+        {
+            "id": "tychism",
+            "word": "tychism"
+        },
+        {
+            "id": "umwelt",
+            "word": "umwelt"
+        },
+        {
+            "id": "understanding",
+            "word": "understanding"
+        },
+        {
+            "id": "unethical",
+            "word": "unethical"
+        },
+        {
+            "id": "universal",
+            "word": "universal"
+        },
+        {
+            "id": "universalize",
+            "word": "universalize"
+        },
+        {
+            "id": "univocal",
+            "word": "univocal"
+        },
+        {
+            "id": "unphilosophic",
+            "word": "unphilosophic"
+        },
+        {
+            "id": "unphilosophical",
+            "word": "unphilosophical"
+        },
+        {
+            "id": "utilitarianism",
+            "word": "utilitarianism"
+        },
+        {
+            "id": "utopian",
+            "word": "utopian"
+        },
+        {
+            "id": "utopianism",
+            "word": "utopianism"
+        },
+        {
+            "id": "utopian_socialism",
+            "word": "utopian socialism"
+        },
+        {
+            "id": "value-free",
+            "word": "value-free"
+        },
+        {
+            "id": "vera_causa",
+            "word": "vera causa"
+        },
+        {
+            "id": "verification",
+            "word": "verification"
+        },
+        {
+            "id": "verification_principle",
+            "word": "verification principle"
+        },
+        {
+            "id": "via_negativa",
+            "word": "via negativa"
+        },
+        {
+            "id": "vico%2C_giambattista",
+            "word": "vico, giambattista"
+        },
+        {
+            "id": "vienna_circle",
+            "word": "vienna circle"
+        },
+        {
+            "id": "vitalism",
+            "word": "vitalism"
+        },
+        {
+            "id": "voluntary_simplicity",
+            "word": "voluntary simplicity"
+        },
+        {
+            "id": "vorstellung",
+            "word": "vorstellung"
+        },
+        {
+            "id": "weil%2C_simone",
+            "word": "weil, simone"
+        },
+        {
+            "id": "weltanschauung",
+            "word": "weltanschauung"
+        },
+        {
+            "id": "weltschmerz",
+            "word": "weltschmerz"
+        },
+        {
+            "id": "whitehead%2C_alfred_north",
+            "word": "whitehead, alfred north"
+        },
+        {
+            "id": "william_of_occam",
+            "word": "william of occam"
+        },
+        {
+            "id": "wissenschaft",
+            "word": "wissenschaft"
+        },
+        {
+            "id": "wittgenstein%2C_ludwig",
+            "word": "wittgenstein, ludwig"
+        },
+        {
+            "id": "wittgensteinian",
+            "word": "wittgensteinian"
+        },
+        {
+            "id": "woo-woo",
+            "word": "woo-woo"
+        },
+        {
+            "id": "world_soul",
+            "word": "world soul"
+        },
+        {
+            "id": "xenophanes",
+            "word": "xenophanes"
+        },
+        {
+            "id": "yang",
+            "word": "yang"
+        },
+        {
+            "id": "yin",
+            "word": "yin"
+        },
+        {
+            "id": "zeno",
+            "word": "zeno"
+        },
+        {
+            "id": "zetetic",
+            "word": "zetetic"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 33,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "afl",
+            "word": "afl"
+        },
+        {
+            "id": "aussie_rules",
+            "word": "aussie rules"
+        },
+        {
+            "id": "australian_rules",
+            "word": "australian rules"
+        },
+        {
+            "id": "behind_line",
+            "word": "behind line"
+        },
+        {
+            "id": "behind_post",
+            "word": "behind post"
+        },
+        {
+            "id": "big_sticks",
+            "word": "big sticks"
+        },
+        {
+            "id": "boundary_umpire",
+            "word": "boundary umpire"
+        },
+        {
+            "id": "centre_half-back",
+            "word": "centre half-back"
+        },
+        {
+            "id": "centre_half-forward",
+            "word": "centre half-forward"
+        },
+        {
+            "id": "checkside",
+            "word": "checkside"
+        },
+        {
+            "id": "checkside_goal",
+            "word": "checkside goal"
+        },
+        {
+            "id": "checkside_punt",
+            "word": "checkside punt"
+        },
+        {
+            "id": "chest_mark",
+            "word": "chest mark"
+        },
+        {
+            "id": "drop_punt",
+            "word": "drop punt"
+        },
+        {
+            "id": "forward_pocket",
+            "word": "forward pocket"
+        },
+        {
+            "id": "full_forward",
+            "word": "full forward"
+        },
+        {
+            "id": "get_%28or_be_given%29_a_guernsey",
+            "word": "get (or be given) a guernsey"
+        },
+        {
+            "id": "goalkicker",
+            "word": "goalkicker"
+        },
+        {
+            "id": "goal-kicking",
+            "word": "goal-kicking"
+        },
+        {
+            "id": "goal_sneak",
+            "word": "goal sneak"
+        },
+        {
+            "id": "goal_umpire",
+            "word": "goal umpire"
+        },
+        {
+            "id": "hit-out",
+            "word": "hit-out"
+        },
+        {
+            "id": "kickout",
+            "word": "kickout"
+        },
+        {
+            "id": "league_football",
+            "word": "league football"
+        },
+        {
+            "id": "loose_man",
+            "word": "loose man"
+        },
+        {
+            "id": "minor_premiers",
+            "word": "minor premiers"
+        },
+        {
+            "id": "nineteenth_man",
+            "word": "nineteenth man"
+        },
+        {
+            "id": "on-baller",
+            "word": "on-baller"
+        },
+        {
+            "id": "ruckman",
+            "word": "ruckman"
+        },
+        {
+            "id": "ruck_rover",
+            "word": "ruck rover"
+        },
+        {
+            "id": "stab_kick",
+            "word": "stab kick"
+        },
+        {
+            "id": "umpy",
+            "word": "umpy"
+        },
+        {
+            "id": "white_maggot",
+            "word": "white maggot"
+        }
+    ]
+}

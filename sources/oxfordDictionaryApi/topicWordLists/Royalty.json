@@ -1,0 +1,1423 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 353
+    },
+    "results": [
+        {
+            "id": "abbasid",
+            "word": "abbasid"
+        },
+        {
+            "id": "abdicate",
+            "word": "abdicate"
+        },
+        {
+            "id": "abdul_hamid_ii",
+            "word": "abdul hamid ii"
+        },
+        {
+            "id": "abdullah_ibn_hussein",
+            "word": "abdullah ibn hussein"
+        },
+        {
+            "id": "akbar%2C_jalaludin_muhammad",
+            "word": "akbar, jalaludin muhammad"
+        },
+        {
+            "id": "akihito",
+            "word": "akihito"
+        },
+        {
+            "id": "albert%2C_prince",
+            "word": "albert, prince"
+        },
+        {
+            "id": "alexander",
+            "word": "alexander"
+        },
+        {
+            "id": "alexander_nevsky",
+            "word": "alexander nevsky"
+        },
+        {
+            "id": "alfonso_xiii",
+            "word": "alfonso xiii"
+        },
+        {
+            "id": "alfred",
+            "word": "alfred"
+        },
+        {
+            "id": "andrew%2C_prince",
+            "word": "andrew, prince"
+        },
+        {
+            "id": "anne",
+            "word": "anne"
+        },
+        {
+            "id": "anne%2C_princess",
+            "word": "anne, princess"
+        },
+        {
+            "id": "anne_of_cleves",
+            "word": "anne of cleves"
+        },
+        {
+            "id": "archduchess",
+            "word": "archduchess"
+        },
+        {
+            "id": "archduke",
+            "word": "archduke"
+        },
+        {
+            "id": "atheling",
+            "word": "atheling"
+        },
+        {
+            "id": "athelstan",
+            "word": "athelstan"
+        },
+        {
+            "id": "aurangzeb",
+            "word": "aurangzeb"
+        },
+        {
+            "id": "babur",
+            "word": "babur"
+        },
+        {
+            "id": "balmoral_castle",
+            "word": "balmoral castle"
+        },
+        {
+            "id": "bernadotte%2C_jean",
+            "word": "bernadotte, jean"
+        },
+        {
+            "id": "black_prince",
+            "word": "black prince"
+        },
+        {
+            "id": "bloody_mary",
+            "word": "bloody mary"
+        },
+        {
+            "id": "boleyn%2C_anne",
+            "word": "boleyn, anne"
+        },
+        {
+            "id": "bolingbroke",
+            "word": "bolingbroke"
+        },
+        {
+            "id": "bourbon",
+            "word": "bourbon"
+        },
+        {
+            "id": "braganza",
+            "word": "braganza"
+        },
+        {
+            "id": "buckingham_palace",
+            "word": "buckingham palace"
+        },
+        {
+            "id": "canmore",
+            "word": "canmore"
+        },
+        {
+            "id": "canute",
+            "word": "canute"
+        },
+        {
+            "id": "capet%2C_hugh",
+            "word": "capet, hugh"
+        },
+        {
+            "id": "capetian",
+            "word": "capetian"
+        },
+        {
+            "id": "carolingian",
+            "word": "carolingian"
+        },
+        {
+            "id": "catherine%2C_duchess_of_cambridge",
+            "word": "catherine, duchess of cambridge"
+        },
+        {
+            "id": "catherine_de%27_medici",
+            "word": "catherine de' medici"
+        },
+        {
+            "id": "catherine_ii",
+            "word": "catherine ii"
+        },
+        {
+            "id": "catherine_of_aragon",
+            "word": "catherine of aragon"
+        },
+        {
+            "id": "chamberlain",
+            "word": "chamberlain"
+        },
+        {
+            "id": "champion_of_england",
+            "word": "champion of england"
+        },
+        {
+            "id": "chapel_royal",
+            "word": "chapel royal"
+        },
+        {
+            "id": "charlemagne",
+            "word": "charlemagne"
+        },
+        {
+            "id": "charles",
+            "word": "charles"
+        },
+        {
+            "id": "charles%2C_prince",
+            "word": "charles, prince"
+        },
+        {
+            "id": "charles_martel",
+            "word": "charles martel"
+        },
+        {
+            "id": "charles_vii",
+            "word": "charles vii"
+        },
+        {
+            "id": "charles_xii",
+            "word": "charles xii"
+        },
+        {
+            "id": "charlotte%2C_princess",
+            "word": "charlotte, princess"
+        },
+        {
+            "id": "civil_list",
+            "word": "civil list"
+        },
+        {
+            "id": "clerk_of_the_closet",
+            "word": "clerk of the closet"
+        },
+        {
+            "id": "clovis",
+            "word": "clovis"
+        },
+        {
+            "id": "consort",
+            "word": "consort"
+        },
+        {
+            "id": "coronet",
+            "word": "coronet"
+        },
+        {
+            "id": "count_palatine",
+            "word": "count palatine"
+        },
+        {
+            "id": "court_circular",
+            "word": "court circular"
+        },
+        {
+            "id": "court_dress",
+            "word": "court dress"
+        },
+        {
+            "id": "courtier",
+            "word": "courtier"
+        },
+        {
+            "id": "court_of_st_james%27s",
+            "word": "court of st james's"
+        },
+        {
+            "id": "crown",
+            "word": "crown"
+        },
+        {
+            "id": "crowned_head",
+            "word": "crowned head"
+        },
+        {
+            "id": "crown_jewel",
+            "word": "crown jewel"
+        },
+        {
+            "id": "crown_prince",
+            "word": "crown prince"
+        },
+        {
+            "id": "crown_princess",
+            "word": "crown princess"
+        },
+        {
+            "id": "cup-bearer",
+            "word": "cup-bearer"
+        },
+        {
+            "id": "dauphin",
+            "word": "dauphin"
+        },
+        {
+            "id": "david",
+            "word": "david"
+        },
+        {
+            "id": "defender_of_the_faith",
+            "word": "defender of the faith"
+        },
+        {
+            "id": "deposition",
+            "word": "deposition"
+        },
+        {
+            "id": "dethrone",
+            "word": "dethrone"
+        },
+        {
+            "id": "df",
+            "word": "df"
+        },
+        {
+            "id": "diadem",
+            "word": "diadem"
+        },
+        {
+            "id": "diana%2C_princess_of_wales",
+            "word": "diana, princess of wales"
+        },
+        {
+            "id": "dieu_et_mon_droit",
+            "word": "dieu et mon droit"
+        },
+        {
+            "id": "drottningholm",
+            "word": "drottningholm"
+        },
+        {
+            "id": "duchy",
+            "word": "duchy"
+        },
+        {
+            "id": "duncan_i",
+            "word": "duncan i"
+        },
+        {
+            "id": "dynastic",
+            "word": "dynastic"
+        },
+        {
+            "id": "dynasty",
+            "word": "dynasty"
+        },
+        {
+            "id": "earl_palatine",
+            "word": "earl palatine"
+        },
+        {
+            "id": "edgar",
+            "word": "edgar"
+        },
+        {
+            "id": "edmund",
+            "word": "edmund"
+        },
+        {
+            "id": "edmund_the_martyr%2C_st",
+            "word": "edmund the martyr, st"
+        },
+        {
+            "id": "edward",
+            "word": "edward"
+        },
+        {
+            "id": "edward%2C_prince",
+            "word": "edward, prince"
+        },
+        {
+            "id": "edward%2C_prince_of_wales",
+            "word": "edward, prince of wales"
+        },
+        {
+            "id": "edward_the_confessor%2C_st",
+            "word": "edward the confessor, st"
+        },
+        {
+            "id": "edward_the_elder",
+            "word": "edward the elder"
+        },
+        {
+            "id": "edward_the_martyr%2C_st",
+            "word": "edward the martyr, st"
+        },
+        {
+            "id": "edwy",
+            "word": "edwy"
+        },
+        {
+            "id": "egbert",
+            "word": "egbert"
+        },
+        {
+            "id": "eleanor_of_aquitaine",
+            "word": "eleanor of aquitaine"
+        },
+        {
+            "id": "elizabeth%2C_the_queen_mother",
+            "word": "elizabeth, the queen mother"
+        },
+        {
+            "id": "elizabeth_i",
+            "word": "elizabeth i"
+        },
+        {
+            "id": "elizabeth_ii",
+            "word": "elizabeth ii"
+        },
+        {
+            "id": "emperor",
+            "word": "emperor"
+        },
+        {
+            "id": "empress",
+            "word": "empress"
+        },
+        {
+            "id": "enthrone",
+            "word": "enthrone"
+        },
+        {
+            "id": "equerry",
+            "word": "equerry"
+        },
+        {
+            "id": "esquire_of_the_%28king%27s%29_body",
+            "word": "esquire of the (king's) body"
+        },
+        {
+            "id": "ethelred",
+            "word": "ethelred"
+        },
+        {
+            "id": "eug%C3%A9nie",
+            "word": "eugénie"
+        },
+        {
+            "id": "faisal",
+            "word": "faisal"
+        },
+        {
+            "id": "farouk",
+            "word": "farouk"
+        },
+        {
+            "id": "fatimid",
+            "word": "fatimid"
+        },
+        {
+            "id": "fd",
+            "word": "fd"
+        },
+        {
+            "id": "felipe_vi",
+            "word": "felipe vi"
+        },
+        {
+            "id": "ferdinand",
+            "word": "ferdinand"
+        },
+        {
+            "id": "francis_i",
+            "word": "francis i"
+        },
+        {
+            "id": "franz_josef",
+            "word": "franz josef"
+        },
+        {
+            "id": "frederick_i",
+            "word": "frederick i"
+        },
+        {
+            "id": "frederick_ii",
+            "word": "frederick ii"
+        },
+        {
+            "id": "frederick_william",
+            "word": "frederick william"
+        },
+        {
+            "id": "fuad",
+            "word": "fuad"
+        },
+        {
+            "id": "genghis_khan",
+            "word": "genghis khan"
+        },
+        {
+            "id": "gentleman-at-arms",
+            "word": "gentleman-at-arms"
+        },
+        {
+            "id": "george",
+            "word": "george"
+        },
+        {
+            "id": "george%2C_prince",
+            "word": "george, prince"
+        },
+        {
+            "id": "ghaznavid",
+            "word": "ghaznavid"
+        },
+        {
+            "id": "gloriana",
+            "word": "gloriana"
+        },
+        {
+            "id": "god%27s_%28or_the_lord%27s%29_anointed",
+            "word": "god's (or the lord's) anointed"
+        },
+        {
+            "id": "godunov%2C_boris",
+            "word": "godunov, boris"
+        },
+        {
+            "id": "gold_stick",
+            "word": "gold stick"
+        },
+        {
+            "id": "grand_duchess",
+            "word": "grand duchess"
+        },
+        {
+            "id": "grand_duke",
+            "word": "grand duke"
+        },
+        {
+            "id": "green_cloth",
+            "word": "green cloth"
+        },
+        {
+            "id": "grey%2C_lady_jane",
+            "word": "grey, lady jane"
+        },
+        {
+            "id": "gupta",
+            "word": "gupta"
+        },
+        {
+            "id": "guptan",
+            "word": "guptan"
+        },
+        {
+            "id": "gustavus_adolphus",
+            "word": "gustavus adolphus"
+        },
+        {
+            "id": "habsburg",
+            "word": "habsburg"
+        },
+        {
+            "id": "haile_selassie",
+            "word": "haile selassie"
+        },
+        {
+            "id": "han",
+            "word": "han"
+        },
+        {
+            "id": "hanoverian",
+            "word": "hanoverian"
+        },
+        {
+            "id": "hardecanute",
+            "word": "hardecanute"
+        },
+        {
+            "id": "harold",
+            "word": "harold"
+        },
+        {
+            "id": "harry%2C_prince",
+            "word": "harry, prince"
+        },
+        {
+            "id": "harun_ar-rashid",
+            "word": "harun ar-rashid"
+        },
+        {
+            "id": "hashemite",
+            "word": "hashemite"
+        },
+        {
+            "id": "hbm",
+            "word": "hbm"
+        },
+        {
+            "id": "heir",
+            "word": "heir"
+        },
+        {
+            "id": "heir_apparent",
+            "word": "heir apparent"
+        },
+        {
+            "id": "heir_presumptive",
+            "word": "heir presumptive"
+        },
+        {
+            "id": "henrietta_maria",
+            "word": "henrietta maria"
+        },
+        {
+            "id": "henry",
+            "word": "henry"
+        },
+        {
+            "id": "henry_iv",
+            "word": "henry iv"
+        },
+        {
+            "id": "hh",
+            "word": "hh"
+        },
+        {
+            "id": "highness",
+            "word": "highness"
+        },
+        {
+            "id": "hih",
+            "word": "hih"
+        },
+        {
+            "id": "hirohito",
+            "word": "hirohito"
+        },
+        {
+            "id": "hohenstaufen",
+            "word": "hohenstaufen"
+        },
+        {
+            "id": "hohenzollern",
+            "word": "hohenzollern"
+        },
+        {
+            "id": "household",
+            "word": "household"
+        },
+        {
+            "id": "howard%2C_catherine",
+            "word": "howard, catherine"
+        },
+        {
+            "id": "hrh",
+            "word": "hrh"
+        },
+        {
+            "id": "hsh",
+            "word": "hsh"
+        },
+        {
+            "id": "hussein%2C_ibn_talal",
+            "word": "hussein, ibn talal"
+        },
+        {
+            "id": "imperatrix",
+            "word": "imperatrix"
+        },
+        {
+            "id": "infanta",
+            "word": "infanta"
+        },
+        {
+            "id": "infante",
+            "word": "infante"
+        },
+        {
+            "id": "in_ordinary",
+            "word": "in ordinary"
+        },
+        {
+            "id": "-in-waiting",
+            "word": "-in-waiting"
+        },
+        {
+            "id": "isabella_i",
+            "word": "isabella i"
+        },
+        {
+            "id": "isabella_of_france",
+            "word": "isabella of france"
+        },
+        {
+            "id": "ito%2C_prince_hirobumi",
+            "word": "ito, prince hirobumi"
+        },
+        {
+            "id": "ivan",
+            "word": "ivan"
+        },
+        {
+            "id": "james",
+            "word": "james"
+        },
+        {
+            "id": "jin",
+            "word": "jin"
+        },
+        {
+            "id": "john",
+            "word": "john"
+        },
+        {
+            "id": "john_iii",
+            "word": "john iii"
+        },
+        {
+            "id": "john_of_gaunt",
+            "word": "john of gaunt"
+        },
+        {
+            "id": "josephine",
+            "word": "josephine"
+        },
+        {
+            "id": "juan_carlos",
+            "word": "juan carlos"
+        },
+        {
+            "id": "kaiser",
+            "word": "kaiser"
+        },
+        {
+            "id": "kenneth_i",
+            "word": "kenneth i"
+        },
+        {
+            "id": "king",
+            "word": "king"
+        },
+        {
+            "id": "king%27s_bounty",
+            "word": "king's bounty"
+        },
+        {
+            "id": "kinglet",
+            "word": "kinglet"
+        },
+        {
+            "id": "kingship",
+            "word": "kingship"
+        },
+        {
+            "id": "knight_marshal",
+            "word": "knight marshal"
+        },
+        {
+            "id": "kublai_khan",
+            "word": "kublai khan"
+        },
+        {
+            "id": "kushan",
+            "word": "kushan"
+        },
+        {
+            "id": "ladislaus_i",
+            "word": "ladislaus i"
+        },
+        {
+            "id": "ladislaus_ii",
+            "word": "ladislaus ii"
+        },
+        {
+            "id": "lady-in-waiting",
+            "word": "lady-in-waiting"
+        },
+        {
+            "id": "lady_of_the_bedchamber",
+            "word": "lady of the bedchamber"
+        },
+        {
+            "id": "lancaster%2C_house_of",
+            "word": "lancaster, house of"
+        },
+        {
+            "id": "leo_iii",
+            "word": "leo iii"
+        },
+        {
+            "id": "leopold_i",
+            "word": "leopold i"
+        },
+        {
+            "id": "lese-majesty",
+            "word": "lese-majesty"
+        },
+        {
+            "id": "liao",
+            "word": "liao"
+        },
+        {
+            "id": "llewelyn",
+            "word": "llewelyn"
+        },
+        {
+            "id": "lord_chamberlain",
+            "word": "lord chamberlain"
+        },
+        {
+            "id": "lord_great_chamberlain_of_england",
+            "word": "lord great chamberlain of england"
+        },
+        {
+            "id": "lord_high_admiral",
+            "word": "lord high admiral"
+        },
+        {
+            "id": "louis_i",
+            "word": "louis i"
+        },
+        {
+            "id": "louis_philippe",
+            "word": "louis philippe"
+        },
+        {
+            "id": "ludwig",
+            "word": "ludwig"
+        },
+        {
+            "id": "ma%27am",
+            "word": "ma'am"
+        },
+        {
+            "id": "macbeth",
+            "word": "macbeth"
+        },
+        {
+            "id": "magnificence",
+            "word": "magnificence"
+        },
+        {
+            "id": "maharaja",
+            "word": "maharaja"
+        },
+        {
+            "id": "maharani",
+            "word": "maharani"
+        },
+        {
+            "id": "malcolm",
+            "word": "malcolm"
+        },
+        {
+            "id": "margaret%2C_princess",
+            "word": "margaret, princess"
+        },
+        {
+            "id": "margaret%2C_st",
+            "word": "margaret, st"
+        },
+        {
+            "id": "maria_theresa",
+            "word": "maria theresa"
+        },
+        {
+            "id": "marie_antoinette",
+            "word": "marie antoinette"
+        },
+        {
+            "id": "marie_de_m%C3%A9dicis",
+            "word": "marie de médicis"
+        },
+        {
+            "id": "mary",
+            "word": "mary"
+        },
+        {
+            "id": "mary%2C_queen_of_scots",
+            "word": "mary, queen of scots"
+        },
+        {
+            "id": "matilda",
+            "word": "matilda"
+        },
+        {
+            "id": "maximilian",
+            "word": "maximilian"
+        },
+        {
+            "id": "meiji_tenno",
+            "word": "meiji tenno"
+        },
+        {
+            "id": "merovingian",
+            "word": "merovingian"
+        },
+        {
+            "id": "mikado",
+            "word": "mikado"
+        },
+        {
+            "id": "ming",
+            "word": "ming"
+        },
+        {
+            "id": "mistress_of_the_robes",
+            "word": "mistress of the robes"
+        },
+        {
+            "id": "mogul",
+            "word": "mogul"
+        },
+        {
+            "id": "monarch",
+            "word": "monarch"
+        },
+        {
+            "id": "monarchical",
+            "word": "monarchical"
+        },
+        {
+            "id": "monarchism",
+            "word": "monarchism"
+        },
+        {
+            "id": "monarchist",
+            "word": "monarchist"
+        },
+        {
+            "id": "monarchy",
+            "word": "monarchy"
+        },
+        {
+            "id": "monmouth%2C_duke_of",
+            "word": "monmouth, duke of"
+        },
+        {
+            "id": "montezuma_ii",
+            "word": "montezuma ii"
+        },
+        {
+            "id": "mound",
+            "word": "mound"
+        },
+        {
+            "id": "nicholas",
+            "word": "nicholas"
+        },
+        {
+            "id": "nizam",
+            "word": "nizam"
+        },
+        {
+            "id": "olaf",
+            "word": "olaf"
+        },
+        {
+            "id": "orange%2C_house_of",
+            "word": "orange, house of"
+        },
+        {
+            "id": "orb",
+            "word": "orb"
+        },
+        {
+            "id": "osman_i",
+            "word": "osman i"
+        },
+        {
+            "id": "otto_i",
+            "word": "otto i"
+        },
+        {
+            "id": "pahlavi",
+            "word": "pahlavi"
+        },
+        {
+            "id": "parr%2C_katherine",
+            "word": "parr, katherine"
+        },
+        {
+            "id": "pendragon",
+            "word": "pendragon"
+        },
+        {
+            "id": "people%27s_princess",
+            "word": "people's princess"
+        },
+        {
+            "id": "peter_i",
+            "word": "peter i"
+        },
+        {
+            "id": "philip",
+            "word": "philip"
+        },
+        {
+            "id": "philip%2C_prince",
+            "word": "philip, prince"
+        },
+        {
+            "id": "plantagenet",
+            "word": "plantagenet"
+        },
+        {
+            "id": "pocahontas",
+            "word": "pocahontas"
+        },
+        {
+            "id": "poet_laureate",
+            "word": "poet laureate"
+        },
+        {
+            "id": "porte",
+            "word": "porte"
+        },
+        {
+            "id": "presence_chamber",
+            "word": "presence chamber"
+        },
+        {
+            "id": "prince",
+            "word": "prince"
+        },
+        {
+            "id": "prince_consort",
+            "word": "prince consort"
+        },
+        {
+            "id": "princeling",
+            "word": "princeling"
+        },
+        {
+            "id": "prince_of_the_blood",
+            "word": "prince of the blood"
+        },
+        {
+            "id": "prince_of_wales",
+            "word": "prince of wales"
+        },
+        {
+            "id": "prince_regent",
+            "word": "prince regent"
+        },
+        {
+            "id": "prince_royal",
+            "word": "prince royal"
+        },
+        {
+            "id": "princes_in_the_tower",
+            "word": "princes in the tower"
+        },
+        {
+            "id": "princess",
+            "word": "princess"
+        },
+        {
+            "id": "princess_of_the_blood",
+            "word": "princess of the blood"
+        },
+        {
+            "id": "princess_regent",
+            "word": "princess regent"
+        },
+        {
+            "id": "princess_royal",
+            "word": "princess royal"
+        },
+        {
+            "id": "principe",
+            "word": "principe"
+        },
+        {
+            "id": "principessa",
+            "word": "principessa"
+        },
+        {
+            "id": "privy_chamber",
+            "word": "privy chamber"
+        },
+        {
+            "id": "privy_purse",
+            "word": "privy purse"
+        },
+        {
+            "id": "qing",
+            "word": "qing"
+        },
+        {
+            "id": "queen",
+            "word": "queen"
+        },
+        {
+            "id": "queen_dowager",
+            "word": "queen dowager"
+        },
+        {
+            "id": "queen_mother",
+            "word": "queen mother"
+        },
+        {
+            "id": "raja",
+            "word": "raja"
+        },
+        {
+            "id": "rani",
+            "word": "rani"
+        },
+        {
+            "id": "ranjit_singh",
+            "word": "ranjit singh"
+        },
+        {
+            "id": "regalia",
+            "word": "regalia"
+        },
+        {
+            "id": "regalian",
+            "word": "regalian"
+        },
+        {
+            "id": "regality",
+            "word": "regality"
+        },
+        {
+            "id": "regina",
+            "word": "regina"
+        },
+        {
+            "id": "regnal",
+            "word": "regnal"
+        },
+        {
+            "id": "reign",
+            "word": "reign"
+        },
+        {
+            "id": "rex",
+            "word": "rex"
+        },
+        {
+            "id": "richard",
+            "word": "richard"
+        },
+        {
+            "id": "robert",
+            "word": "robert"
+        },
+        {
+            "id": "romanov",
+            "word": "romanov"
+        },
+        {
+            "id": "royal",
+            "word": "royal"
+        },
+        {
+            "id": "royal_assent",
+            "word": "royal assent"
+        },
+        {
+            "id": "royal_duke",
+            "word": "royal duke"
+        },
+        {
+            "id": "royalist",
+            "word": "royalist"
+        },
+        {
+            "id": "royally",
+            "word": "royally"
+        },
+        {
+            "id": "royal_standard",
+            "word": "royal standard"
+        },
+        {
+            "id": "royalty",
+            "word": "royalty"
+        },
+        {
+            "id": "royal_warrant",
+            "word": "royal warrant"
+        },
+        {
+            "id": "rurik",
+            "word": "rurik"
+        },
+        {
+            "id": "sandringham_house",
+            "word": "sandringham house"
+        },
+        {
+            "id": "sassanian",
+            "word": "sassanian"
+        },
+        {
+            "id": "saxe-coburg-gotha",
+            "word": "saxe-coburg-gotha"
+        },
+        {
+            "id": "sceptre",
+            "word": "sceptre"
+        },
+        {
+            "id": "seljuk",
+            "word": "seljuk"
+        },
+        {
+            "id": "serenity",
+            "word": "serenity"
+        },
+        {
+            "id": "seymour%2C_jane",
+            "word": "seymour, jane"
+        },
+        {
+            "id": "shah",
+            "word": "shah"
+        },
+        {
+            "id": "shivaji",
+            "word": "shivaji"
+        },
+        {
+            "id": "signet",
+            "word": "signet"
+        },
+        {
+            "id": "sihanouk%2C_norodom",
+            "word": "sihanouk, norodom"
+        },
+        {
+            "id": "simpson%2C_wallis",
+            "word": "simpson, wallis"
+        },
+        {
+            "id": "sophy",
+            "word": "sophy"
+        },
+        {
+            "id": "sovereign",
+            "word": "sovereign"
+        },
+        {
+            "id": "sovereign_grant",
+            "word": "sovereign grant"
+        },
+        {
+            "id": "stephen",
+            "word": "stephen"
+        },
+        {
+            "id": "stephen%2C_st",
+            "word": "stephen, st"
+        },
+        {
+            "id": "st_james%27s_palace",
+            "word": "st james's palace"
+        },
+        {
+            "id": "stuart",
+            "word": "stuart"
+        },
+        {
+            "id": "stuart%2C_charles_edward",
+            "word": "stuart, charles edward"
+        },
+        {
+            "id": "stuart%2C_james",
+            "word": "stuart, james"
+        },
+        {
+            "id": "sui",
+            "word": "sui"
+        },
+        {
+            "id": "suleiman_i",
+            "word": "suleiman i"
+        },
+        {
+            "id": "sultan",
+            "word": "sultan"
+        },
+        {
+            "id": "summer_palace",
+            "word": "summer palace"
+        },
+        {
+            "id": "sun_king",
+            "word": "sun king"
+        },
+        {
+            "id": "supremacy%2C_act_of",
+            "word": "supremacy, act of"
+        },
+        {
+            "id": "suzerain",
+            "word": "suzerain"
+        },
+        {
+            "id": "suzerainty",
+            "word": "suzerainty"
+        },
+        {
+            "id": "sweyn_i",
+            "word": "sweyn i"
+        },
+        {
+            "id": "sword_of_state",
+            "word": "sword of state"
+        },
+        {
+            "id": "tang",
+            "word": "tang"
+        },
+        {
+            "id": "tenno",
+            "word": "tenno"
+        },
+        {
+            "id": "throne",
+            "word": "throne"
+        },
+        {
+            "id": "tokugawa",
+            "word": "tokugawa"
+        },
+        {
+            "id": "trh",
+            "word": "trh"
+        },
+        {
+            "id": "trianon",
+            "word": "trianon"
+        },
+        {
+            "id": "tsar",
+            "word": "tsar"
+        },
+        {
+            "id": "tsarevich",
+            "word": "tsarevich"
+        },
+        {
+            "id": "tsarina",
+            "word": "tsarina"
+        },
+        {
+            "id": "tudor",
+            "word": "tudor"
+        },
+        {
+            "id": "umayyad",
+            "word": "umayyad"
+        },
+        {
+            "id": "uncrown",
+            "word": "uncrown"
+        },
+        {
+            "id": "uncrowned",
+            "word": "uncrowned"
+        },
+        {
+            "id": "unking",
+            "word": "unking"
+        },
+        {
+            "id": "versailles",
+            "word": "versailles"
+        },
+        {
+            "id": "victor_emmanuel_ii",
+            "word": "victor emmanuel ii"
+        },
+        {
+            "id": "victor_emmanuel_iii",
+            "word": "victor emmanuel iii"
+        },
+        {
+            "id": "victoria",
+            "word": "victoria"
+        },
+        {
+            "id": "vladimir_i",
+            "word": "vladimir i"
+        },
+        {
+            "id": "wei",
+            "word": "wei"
+        },
+        {
+            "id": "wenceslas",
+            "word": "wenceslas"
+        },
+        {
+            "id": "wenceslas%2C_st",
+            "word": "wenceslas, st"
+        },
+        {
+            "id": "wilhelm_i",
+            "word": "wilhelm i"
+        },
+        {
+            "id": "wilhelm_ii",
+            "word": "wilhelm ii"
+        },
+        {
+            "id": "wilhelmina",
+            "word": "wilhelmina"
+        },
+        {
+            "id": "william",
+            "word": "william"
+        },
+        {
+            "id": "william%2C_prince",
+            "word": "william, prince"
+        },
+        {
+            "id": "william_i",
+            "word": "william i"
+        },
+        {
+            "id": "windsor",
+            "word": "windsor"
+        },
+        {
+            "id": "windsor%2C_duke_of",
+            "word": "windsor, duke of"
+        },
+        {
+            "id": "windsor_castle",
+            "word": "windsor castle"
+        },
+        {
+            "id": "woman_of_the_bedchamber",
+            "word": "woman of the bedchamber"
+        },
+        {
+            "id": "york%2C_house_of",
+            "word": "york, house of"
+        },
+        {
+            "id": "zog_i",
+            "word": "zog i"
+        }
+    ]
+}

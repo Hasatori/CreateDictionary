@@ -1,0 +1,971 @@
+{
+    "results": [
+        {
+            "id": "abb%C3%A9",
+            "word": "abbé"
+        },
+        {
+            "id": "abbess",
+            "word": "abbess"
+        },
+        {
+            "id": "abbot",
+            "word": "abbot"
+        },
+        {
+            "id": "ablegate",
+            "word": "ablegate"
+        },
+        {
+            "id": "act_of_contrition",
+            "word": "act of contrition"
+        },
+        {
+            "id": "actual_jurisdiction",
+            "word": "actual jurisdiction"
+        },
+        {
+            "id": "ad_limina",
+            "word": "ad limina"
+        },
+        {
+            "id": "ad_limina_apostolorum",
+            "word": "ad limina apostolorum"
+        },
+        {
+            "id": "alleluia_verse",
+            "word": "alleluia verse"
+        },
+        {
+            "id": "all_souls%27_day",
+            "word": "all souls' day"
+        },
+        {
+            "id": "altar_boy",
+            "word": "altar boy"
+        },
+        {
+            "id": "altar_server",
+            "word": "altar server"
+        },
+        {
+            "id": "angelus",
+            "word": "angelus"
+        },
+        {
+            "id": "annates",
+            "word": "annates"
+        },
+        {
+            "id": "anointing_of_the_sick",
+            "word": "anointing of the sick"
+        },
+        {
+            "id": "antiphonary",
+            "word": "antiphonary"
+        },
+        {
+            "id": "antipope",
+            "word": "antipope"
+        },
+        {
+            "id": "apostolate",
+            "word": "apostolate"
+        },
+        {
+            "id": "apostolic_succession",
+            "word": "apostolic succession"
+        },
+        {
+            "id": "asperges",
+            "word": "asperges"
+        },
+        {
+            "id": "aspergillum",
+            "word": "aspergillum"
+        },
+        {
+            "id": "beatification",
+            "word": "beatification"
+        },
+        {
+            "id": "beatify",
+            "word": "beatify"
+        },
+        {
+            "id": "beguine",
+            "word": "beguine"
+        },
+        {
+            "id": "benedict_xvi",
+            "word": "benedict xvi"
+        },
+        {
+            "id": "bernadette%2C_st",
+            "word": "bernadette, st"
+        },
+        {
+            "id": "biretta",
+            "word": "biretta"
+        },
+        {
+            "id": "black_fast",
+            "word": "black fast"
+        },
+        {
+            "id": "blessed_virgin_mary",
+            "word": "blessed virgin mary"
+        },
+        {
+            "id": "breviary",
+            "word": "breviary"
+        },
+        {
+            "id": "campion%2C_st_edmund",
+            "word": "campion, st edmund"
+        },
+        {
+            "id": "card.",
+            "word": "card."
+        },
+        {
+            "id": "cardinal",
+            "word": "cardinal"
+        },
+        {
+            "id": "cardinalate",
+            "word": "cardinalate"
+        },
+        {
+            "id": "cardinalship",
+            "word": "cardinalship"
+        },
+        {
+            "id": "castel_gandolfo",
+            "word": "castel gandolfo"
+        },
+        {
+            "id": "catholic_church",
+            "word": "catholic church"
+        },
+        {
+            "id": "catholic_emancipation",
+            "word": "catholic emancipation"
+        },
+        {
+            "id": "catholicism",
+            "word": "catholicism"
+        },
+        {
+            "id": "catholicize",
+            "word": "catholicize"
+        },
+        {
+            "id": "celebret",
+            "word": "celebret"
+        },
+        {
+            "id": "clericalism",
+            "word": "clericalism"
+        },
+        {
+            "id": "clericalist",
+            "word": "clericalist"
+        },
+        {
+            "id": "college_of_cardinals",
+            "word": "college of cardinals"
+        },
+        {
+            "id": "concelebrant",
+            "word": "concelebrant"
+        },
+        {
+            "id": "concelebrate",
+            "word": "concelebrate"
+        },
+        {
+            "id": "conclave",
+            "word": "conclave"
+        },
+        {
+            "id": "concordat",
+            "word": "concordat"
+        },
+        {
+            "id": "confiteor",
+            "word": "confiteor"
+        },
+        {
+            "id": "consistory",
+            "word": "consistory"
+        },
+        {
+            "id": "contrition",
+            "word": "contrition"
+        },
+        {
+            "id": "curia",
+            "word": "curia"
+        },
+        {
+            "id": "curial",
+            "word": "curial"
+        },
+        {
+            "id": "cursillo",
+            "word": "cursillo"
+        },
+        {
+            "id": "datary",
+            "word": "datary"
+        },
+        {
+            "id": "day_of_obligation",
+            "word": "day of obligation"
+        },
+        {
+            "id": "day_of_the_dead",
+            "word": "day of the dead"
+        },
+        {
+            "id": "devil%27s_advocate",
+            "word": "devil's advocate"
+        },
+        {
+            "id": "dogan",
+            "word": "dogan"
+        },
+        {
+            "id": "dogmatics",
+            "word": "dogmatics"
+        },
+        {
+            "id": "dom",
+            "word": "dom"
+        },
+        {
+            "id": "dominican",
+            "word": "dominican"
+        },
+        {
+            "id": "douay_bible",
+            "word": "douay bible"
+        },
+        {
+            "id": "dulia",
+            "word": "dulia"
+        },
+        {
+            "id": "eastern_catholic",
+            "word": "eastern catholic"
+        },
+        {
+            "id": "eastern_rite",
+            "word": "eastern rite"
+        },
+        {
+            "id": "encyclical",
+            "word": "encyclical"
+        },
+        {
+            "id": "examen",
+            "word": "examen"
+        },
+        {
+            "id": "ex_cathedra",
+            "word": "ex cathedra"
+        },
+        {
+            "id": "filippine",
+            "word": "filippine"
+        },
+        {
+            "id": "francis",
+            "word": "francis"
+        },
+        {
+            "id": "francis_of_sales%2C_st",
+            "word": "francis of sales, st"
+        },
+        {
+            "id": "grand_penitentiary",
+            "word": "grand penitentiary"
+        },
+        {
+            "id": "grand_vicar",
+            "word": "grand vicar"
+        },
+        {
+            "id": "greater_feria",
+            "word": "greater feria"
+        },
+        {
+            "id": "hear_mass",
+            "word": "hear mass"
+        },
+        {
+            "id": "high_mass",
+            "word": "high mass"
+        },
+        {
+            "id": "holy_father",
+            "word": "holy father"
+        },
+        {
+            "id": "holy_league",
+            "word": "holy league"
+        },
+        {
+            "id": "holy_name",
+            "word": "holy name"
+        },
+        {
+            "id": "holy_office",
+            "word": "holy office"
+        },
+        {
+            "id": "holy_see",
+            "word": "holy see"
+        },
+        {
+            "id": "holy_thursday",
+            "word": "holy thursday"
+        },
+        {
+            "id": "holy_year",
+            "word": "holy year"
+        },
+        {
+            "id": "ignatius_loyola%2C_st",
+            "word": "ignatius loyola, st"
+        },
+        {
+            "id": "immaculate_conception",
+            "word": "immaculate conception"
+        },
+        {
+            "id": "immantation",
+            "word": "immantation"
+        },
+        {
+            "id": "imprimatur",
+            "word": "imprimatur"
+        },
+        {
+            "id": "indult",
+            "word": "indult"
+        },
+        {
+            "id": "infallibility",
+            "word": "infallibility"
+        },
+        {
+            "id": "internuncio",
+            "word": "internuncio"
+        },
+        {
+            "id": "irreformable",
+            "word": "irreformable"
+        },
+        {
+            "id": "irvingite",
+            "word": "irvingite"
+        },
+        {
+            "id": "jansen%2C_cornelius_otto",
+            "word": "jansen, cornelius otto"
+        },
+        {
+            "id": "jesuit",
+            "word": "jesuit"
+        },
+        {
+            "id": "jesuitical",
+            "word": "jesuitical"
+        },
+        {
+            "id": "john_paul_ii",
+            "word": "john paul ii"
+        },
+        {
+            "id": "lateran",
+            "word": "lateran"
+        },
+        {
+            "id": "latria",
+            "word": "latria"
+        },
+        {
+            "id": "lavabo",
+            "word": "lavabo"
+        },
+        {
+            "id": "lazarist",
+            "word": "lazarist"
+        },
+        {
+            "id": "leaden_seal",
+            "word": "leaden seal"
+        },
+        {
+            "id": "legate",
+            "word": "legate"
+        },
+        {
+            "id": "legate_a_latere",
+            "word": "legate a latere"
+        },
+        {
+            "id": "legatine",
+            "word": "legatine"
+        },
+        {
+            "id": "little_mass",
+            "word": "little mass"
+        },
+        {
+            "id": "low_mass",
+            "word": "low mass"
+        },
+        {
+            "id": "magisterium",
+            "word": "magisterium"
+        },
+        {
+            "id": "maigre",
+            "word": "maigre"
+        },
+        {
+            "id": "mantelletta",
+            "word": "mantelletta"
+        },
+        {
+            "id": "marian",
+            "word": "marian"
+        },
+        {
+            "id": "marist",
+            "word": "marist"
+        },
+        {
+            "id": "missal",
+            "word": "missal"
+        },
+        {
+            "id": "missalette",
+            "word": "missalette"
+        },
+        {
+            "id": "missionary_rector",
+            "word": "missionary rector"
+        },
+        {
+            "id": "monitum",
+            "word": "monitum"
+        },
+        {
+            "id": "monseigneur",
+            "word": "monseigneur"
+        },
+        {
+            "id": "monsignor",
+            "word": "monsignor"
+        },
+        {
+            "id": "monstrance",
+            "word": "monstrance"
+        },
+        {
+            "id": "month%27s_mind",
+            "word": "month's mind"
+        },
+        {
+            "id": "motu_proprio",
+            "word": "motu proprio"
+        },
+        {
+            "id": "mozzetta",
+            "word": "mozzetta"
+        },
+        {
+            "id": "ne_temere",
+            "word": "ne temere"
+        },
+        {
+            "id": "newman%2C_john_henry",
+            "word": "newman, john henry"
+        },
+        {
+            "id": "night_office",
+            "word": "night office"
+        },
+        {
+            "id": "nihil_obstat",
+            "word": "nihil obstat"
+        },
+        {
+            "id": "nocturn",
+            "word": "nocturn"
+        },
+        {
+            "id": "novena",
+            "word": "novena"
+        },
+        {
+            "id": "nunciature",
+            "word": "nunciature"
+        },
+        {
+            "id": "nuncio",
+            "word": "nuncio"
+        },
+        {
+            "id": "nuptial_mass",
+            "word": "nuptial mass"
+        },
+        {
+            "id": "observantine",
+            "word": "observantine"
+        },
+        {
+            "id": "observantist",
+            "word": "observantist"
+        },
+        {
+            "id": "olivetan",
+            "word": "olivetan"
+        },
+        {
+            "id": "ombrellino",
+            "word": "ombrellino"
+        },
+        {
+            "id": "ora_pro_nobis",
+            "word": "ora pro nobis"
+        },
+        {
+            "id": "ostensorium",
+            "word": "ostensorium"
+        },
+        {
+            "id": "ostensory",
+            "word": "ostensory"
+        },
+        {
+            "id": "our_lady",
+            "word": "our lady"
+        },
+        {
+            "id": "pallottian",
+            "word": "pallottian"
+        },
+        {
+            "id": "pallottine",
+            "word": "pallottine"
+        },
+        {
+            "id": "papabile",
+            "word": "papabile"
+        },
+        {
+            "id": "papacy",
+            "word": "papacy"
+        },
+        {
+            "id": "papal",
+            "word": "papal"
+        },
+        {
+            "id": "papal_bull",
+            "word": "papal bull"
+        },
+        {
+            "id": "papalist",
+            "word": "papalist"
+        },
+        {
+            "id": "papal_states",
+            "word": "papal states"
+        },
+        {
+            "id": "papist",
+            "word": "papist"
+        },
+        {
+            "id": "papistical",
+            "word": "papistical"
+        },
+        {
+            "id": "parasceve",
+            "word": "parasceve"
+        },
+        {
+            "id": "parochial_house",
+            "word": "parochial house"
+        },
+        {
+            "id": "partial_indulgence",
+            "word": "partial indulgence"
+        },
+        {
+            "id": "particular_judgement",
+            "word": "particular judgement"
+        },
+        {
+            "id": "passionist",
+            "word": "passionist"
+        },
+        {
+            "id": "paternoster",
+            "word": "paternoster"
+        },
+        {
+            "id": "paul_iii",
+            "word": "paul iii"
+        },
+        {
+            "id": "peritus",
+            "word": "peritus"
+        },
+        {
+            "id": "piarist",
+            "word": "piarist"
+        },
+        {
+            "id": "pius_xii",
+            "word": "pius xii"
+        },
+        {
+            "id": "plenarium",
+            "word": "plenarium"
+        },
+        {
+            "id": "plumbator",
+            "word": "plumbator"
+        },
+        {
+            "id": "pontiff",
+            "word": "pontiff"
+        },
+        {
+            "id": "pontifical",
+            "word": "pontifical"
+        },
+        {
+            "id": "pontifical_mass",
+            "word": "pontifical mass"
+        },
+        {
+            "id": "pope",
+            "word": "pope"
+        },
+        {
+            "id": "popery",
+            "word": "popery"
+        },
+        {
+            "id": "popish",
+            "word": "popish"
+        },
+        {
+            "id": "post-conciliar",
+            "word": "post-conciliar"
+        },
+        {
+            "id": "pre-conciliar",
+            "word": "pre-conciliar"
+        },
+        {
+            "id": "preconize",
+            "word": "preconize"
+        },
+        {
+            "id": "predicant",
+            "word": "predicant"
+        },
+        {
+            "id": "privileged_altar",
+            "word": "privileged altar"
+        },
+        {
+            "id": "probabiliorism",
+            "word": "probabiliorism"
+        },
+        {
+            "id": "probabiliorist",
+            "word": "probabiliorist"
+        },
+        {
+            "id": "pro-nuncio",
+            "word": "pro-nuncio"
+        },
+        {
+            "id": "protonotary_apostolic",
+            "word": "protonotary apostolic"
+        },
+        {
+            "id": "pro-vicar",
+            "word": "pro-vicar"
+        },
+        {
+            "id": "pro-vicariate",
+            "word": "pro-vicariate"
+        },
+        {
+            "id": "purgation",
+            "word": "purgation"
+        },
+        {
+            "id": "purgatory",
+            "word": "purgatory"
+        },
+        {
+            "id": "qualificator",
+            "word": "qualificator"
+        },
+        {
+            "id": "quarant%27_ore",
+            "word": "quarant' ore"
+        },
+        {
+            "id": "rcia",
+            "word": "rcia"
+        },
+        {
+            "id": "requiem",
+            "word": "requiem"
+        },
+        {
+            "id": "rhythm_method",
+            "word": "rhythm method"
+        },
+        {
+            "id": "rigorism",
+            "word": "rigorism"
+        },
+        {
+            "id": "roman_catholic",
+            "word": "roman catholic"
+        },
+        {
+            "id": "roman_catholic_church",
+            "word": "roman catholic church"
+        },
+        {
+            "id": "romanism",
+            "word": "romanism"
+        },
+        {
+            "id": "rome",
+            "word": "rome"
+        },
+        {
+            "id": "romish",
+            "word": "romish"
+        },
+        {
+            "id": "rosary",
+            "word": "rosary"
+        },
+        {
+            "id": "rosary_service",
+            "word": "rosary service"
+        },
+        {
+            "id": "rosary_sunday",
+            "word": "rosary sunday"
+        },
+        {
+            "id": "rotal",
+            "word": "rotal"
+        },
+        {
+            "id": "sacrament",
+            "word": "sacrament"
+        },
+        {
+            "id": "sacrament_of_reconciliation",
+            "word": "sacrament of reconciliation"
+        },
+        {
+            "id": "sacred_college",
+            "word": "sacred college"
+        },
+        {
+            "id": "sacred_heart",
+            "word": "sacred heart"
+        },
+        {
+            "id": "salesian",
+            "word": "salesian"
+        },
+        {
+            "id": "salve_regina",
+            "word": "salve regina"
+        },
+        {
+            "id": "schism",
+            "word": "schism"
+        },
+        {
+            "id": "see_of_rome",
+            "word": "see of rome"
+        },
+        {
+            "id": "sistine",
+            "word": "sistine"
+        },
+        {
+            "id": "sj",
+            "word": "sj"
+        },
+        {
+            "id": "sodality",
+            "word": "sodality"
+        },
+        {
+            "id": "sorrowful_mystery",
+            "word": "sorrowful mystery"
+        },
+        {
+            "id": "soutane",
+            "word": "soutane"
+        },
+        {
+            "id": "special_intention",
+            "word": "special intention"
+        },
+        {
+            "id": "stational_mass",
+            "word": "stational mass"
+        },
+        {
+            "id": "station_of_the_cross",
+            "word": "station of the cross"
+        },
+        {
+            "id": "sub_plumbo",
+            "word": "sub plumbo"
+        },
+        {
+            "id": "suburbicarian",
+            "word": "suburbicarian"
+        },
+        {
+            "id": "suburbicary",
+            "word": "suburbicary"
+        },
+        {
+            "id": "sulpician",
+            "word": "sulpician"
+        },
+        {
+            "id": "teilhard_de_chardin%2C_pierre",
+            "word": "teilhard de chardin, pierre"
+        },
+        {
+            "id": "tenebrae",
+            "word": "tenebrae"
+        },
+        {
+            "id": "teresa%2C_mother",
+            "word": "teresa, mother"
+        },
+        {
+            "id": "teresa_of_lisieux%2C_st",
+            "word": "teresa of lisieux, st"
+        },
+        {
+            "id": "tract",
+            "word": "tract"
+        },
+        {
+            "id": "transubstantiation",
+            "word": "transubstantiation"
+        },
+        {
+            "id": "trappist",
+            "word": "trappist"
+        },
+        {
+            "id": "tridentine",
+            "word": "tridentine"
+        },
+        {
+            "id": "tridentine_mass",
+            "word": "tridentine mass"
+        },
+        {
+            "id": "triduum",
+            "word": "triduum"
+        },
+        {
+            "id": "ultramontane",
+            "word": "ultramontane"
+        },
+        {
+            "id": "unaneled",
+            "word": "unaneled"
+        },
+        {
+            "id": "ursuline",
+            "word": "ursuline"
+        },
+        {
+            "id": "vatican",
+            "word": "vatican"
+        },
+        {
+            "id": "vatican_city",
+            "word": "vatican city"
+        },
+        {
+            "id": "vatican_council",
+            "word": "vatican council"
+        },
+        {
+            "id": "vicar_apostolic",
+            "word": "vicar apostolic"
+        },
+        {
+            "id": "vicar_of_christ",
+            "word": "vicar of christ"
+        },
+        {
+            "id": "votive_mass",
+            "word": "votive mass"
+        },
+        {
+            "id": "vulgate",
+            "word": "vulgate"
+        },
+        {
+            "id": "white_father",
+            "word": "white father"
+        },
+        {
+            "id": "worker_priest",
+            "word": "worker priest"
+        },
+        {
+            "id": "works_of_supererogation",
+            "word": "works of supererogation"
+        },
+        {
+            "id": "xavier%2C_st_francis",
+            "word": "xavier, st francis"
+        },
+        {
+            "id": "year%27s_mind",
+            "word": "year's mind"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 240,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

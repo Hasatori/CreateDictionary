@@ -1,0 +1,259 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 62,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "air_ball",
+            "word": "air ball"
+        },
+        {
+            "id": "at_the_buzzer",
+            "word": "at the buzzer"
+        },
+        {
+            "id": "backcourt",
+            "word": "backcourt"
+        },
+        {
+            "id": "ball-handler",
+            "word": "ball-handler"
+        },
+        {
+            "id": "basketball",
+            "word": "basketball"
+        },
+        {
+            "id": "b-ball",
+            "word": "b-ball"
+        },
+        {
+            "id": "buzzer_beater",
+            "word": "buzzer beater"
+        },
+        {
+            "id": "charity_line",
+            "word": "charity line"
+        },
+        {
+            "id": "charity_stripe",
+            "word": "charity stripe"
+        },
+        {
+            "id": "fallaway",
+            "word": "fallaway"
+        },
+        {
+            "id": "fast_break",
+            "word": "fast break"
+        },
+        {
+            "id": "flopper",
+            "word": "flopper"
+        },
+        {
+            "id": "flopping",
+            "word": "flopping"
+        },
+        {
+            "id": "foul_lane",
+            "word": "foul lane"
+        },
+        {
+            "id": "foul_trouble",
+            "word": "foul trouble"
+        },
+        {
+            "id": "free_throw",
+            "word": "free throw"
+        },
+        {
+            "id": "free-throw_circle",
+            "word": "free-throw circle"
+        },
+        {
+            "id": "free-throw_lane",
+            "word": "free-throw lane"
+        },
+        {
+            "id": "full-court",
+            "word": "full-court"
+        },
+        {
+            "id": "full-court_press",
+            "word": "full-court press"
+        },
+        {
+            "id": "half-court",
+            "word": "half-court"
+        },
+        {
+            "id": "hook_shot",
+            "word": "hook shot"
+        },
+        {
+            "id": "hoopster",
+            "word": "hoopster"
+        },
+        {
+            "id": "inbounds",
+            "word": "inbounds"
+        },
+        {
+            "id": "johnson%2C_earvin",
+            "word": "johnson, earvin"
+        },
+        {
+            "id": "jordan%2C_michael",
+            "word": "jordan, michael"
+        },
+        {
+            "id": "jump_ball",
+            "word": "jump ball"
+        },
+        {
+            "id": "jump_shot",
+            "word": "jump shot"
+        },
+        {
+            "id": "korfball",
+            "word": "korfball"
+        },
+        {
+            "id": "low_post",
+            "word": "low post"
+        },
+        {
+            "id": "nba",
+            "word": "nba"
+        },
+        {
+            "id": "no-look",
+            "word": "no-look"
+        },
+        {
+            "id": "outlet_pass",
+            "word": "outlet pass"
+        },
+        {
+            "id": "outrebound",
+            "word": "outrebound"
+        },
+        {
+            "id": "pivot_pass",
+            "word": "pivot pass"
+        },
+        {
+            "id": "point_guard",
+            "word": "point guard"
+        },
+        {
+            "id": "point_shaving",
+            "word": "point shaving"
+        },
+        {
+            "id": "post_up",
+            "word": "post up"
+        },
+        {
+            "id": "power_forward",
+            "word": "power forward"
+        },
+        {
+            "id": "profit_foul",
+            "word": "profit foul"
+        },
+        {
+            "id": "pump_fake",
+            "word": "pump fake"
+        },
+        {
+            "id": "pump-fake",
+            "word": "pump-fake"
+        },
+        {
+            "id": "putback",
+            "word": "putback"
+        },
+        {
+            "id": "racehorse_offence",
+            "word": "racehorse offence"
+        },
+        {
+            "id": "rebound",
+            "word": "rebound"
+        },
+        {
+            "id": "run-and-shoot",
+            "word": "run-and-shoot"
+        },
+        {
+            "id": "set_shot",
+            "word": "set shot"
+        },
+        {
+            "id": "shootaround",
+            "word": "shootaround"
+        },
+        {
+            "id": "shooting_guard",
+            "word": "shooting guard"
+        },
+        {
+            "id": "slam_dunk",
+            "word": "slam dunk"
+        },
+        {
+            "id": "small_forward",
+            "word": "small forward"
+        },
+        {
+            "id": "spot-up",
+            "word": "spot-up"
+        },
+        {
+            "id": "spread_offence",
+            "word": "spread offence"
+        },
+        {
+            "id": "streetball",
+            "word": "streetball"
+        },
+        {
+            "id": "swingman",
+            "word": "swingman"
+        },
+        {
+            "id": "tall_blacks",
+            "word": "tall blacks"
+        },
+        {
+            "id": "tall_ferns",
+            "word": "tall ferns"
+        },
+        {
+            "id": "tap-in",
+            "word": "tap-in"
+        },
+        {
+            "id": "technical_foul",
+            "word": "technical foul"
+        },
+        {
+            "id": "tip-in",
+            "word": "tip-in"
+        },
+        {
+            "id": "touch_foul",
+            "word": "touch foul"
+        },
+        {
+            "id": "triple-double",
+            "word": "triple-double"
+        }
+    ]
+}

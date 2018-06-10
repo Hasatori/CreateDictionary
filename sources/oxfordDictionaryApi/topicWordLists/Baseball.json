@@ -1,0 +1,775 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 191
+    },
+    "results": [
+        {
+            "id": "active_roster",
+            "word": "active roster"
+        },
+        {
+            "id": "all-star_break",
+            "word": "all-star break"
+        },
+        {
+            "id": "all-star_game",
+            "word": "all-star game"
+        },
+        {
+            "id": "all-timer",
+            "word": "all-timer"
+        },
+        {
+            "id": "around_the_horn",
+            "word": "around the horn"
+        },
+        {
+            "id": "at-bat",
+            "word": "at-bat"
+        },
+        {
+            "id": "backstop",
+            "word": "backstop"
+        },
+        {
+            "id": "bad_ball",
+            "word": "bad ball"
+        },
+        {
+            "id": "bad_hop",
+            "word": "bad hop"
+        },
+        {
+            "id": "ball_game",
+            "word": "ball game"
+        },
+        {
+            "id": "ballhawk",
+            "word": "ballhawk"
+        },
+        {
+            "id": "ballpark",
+            "word": "ballpark"
+        },
+        {
+            "id": "ballplayer",
+            "word": "ballplayer"
+        },
+        {
+            "id": "ball-strike",
+            "word": "ball-strike"
+        },
+        {
+            "id": "ballyard",
+            "word": "ballyard"
+        },
+        {
+            "id": "baseball",
+            "word": "baseball"
+        },
+        {
+            "id": "base_hit",
+            "word": "base hit"
+        },
+        {
+            "id": "baseman",
+            "word": "baseman"
+        },
+        {
+            "id": "basket_catch",
+            "word": "basket catch"
+        },
+        {
+            "id": "batter",
+            "word": "batter"
+        },
+        {
+            "id": "batting",
+            "word": "batting"
+        },
+        {
+            "id": "batting_average",
+            "word": "batting average"
+        },
+        {
+            "id": "batting_order",
+            "word": "batting order"
+        },
+        {
+            "id": "bench_jockey",
+            "word": "bench jockey"
+        },
+        {
+            "id": "bench_jockeying",
+            "word": "bench jockeying"
+        },
+        {
+            "id": "berra%2C_yogi",
+            "word": "berra, yogi"
+        },
+        {
+            "id": "big_league",
+            "word": "big league"
+        },
+        {
+            "id": "breaking_ball",
+            "word": "breaking ball"
+        },
+        {
+            "id": "brushback",
+            "word": "brushback"
+        },
+        {
+            "id": "brush_someone_back",
+            "word": "brush someone back"
+        },
+        {
+            "id": "bunt",
+            "word": "bunt"
+        },
+        {
+            "id": "bush_league",
+            "word": "bush league"
+        },
+        {
+            "id": "called_ball",
+            "word": "called ball"
+        },
+        {
+            "id": "called_strike",
+            "word": "called strike"
+        },
+        {
+            "id": "catcher",
+            "word": "catcher"
+        },
+        {
+            "id": "cellarhood",
+            "word": "cellarhood"
+        },
+        {
+            "id": "centre_field",
+            "word": "centre field"
+        },
+        {
+            "id": "change-up",
+            "word": "change-up"
+        },
+        {
+            "id": "circle_change",
+            "word": "circle change"
+        },
+        {
+            "id": "clutch_hitter",
+            "word": "clutch hitter"
+        },
+        {
+            "id": "comebacker",
+            "word": "comebacker"
+        },
+        {
+            "id": "curveball",
+            "word": "curveball"
+        },
+        {
+            "id": "daisy-cutter",
+            "word": "daisy-cutter"
+        },
+        {
+            "id": "designated_hitter",
+            "word": "designated hitter"
+        },
+        {
+            "id": "designated_pinch-hitter",
+            "word": "designated pinch-hitter"
+        },
+        {
+            "id": "dh",
+            "word": "dh"
+        },
+        {
+            "id": "dimaggio%2C_joe",
+            "word": "dimaggio, joe"
+        },
+        {
+            "id": "dinger",
+            "word": "dinger"
+        },
+        {
+            "id": "double_play",
+            "word": "double play"
+        },
+        {
+            "id": "double_steal",
+            "word": "double steal"
+        },
+        {
+            "id": "earned_run",
+            "word": "earned run"
+        },
+        {
+            "id": "eephus",
+            "word": "eephus"
+        },
+        {
+            "id": "fair_ball",
+            "word": "fair ball"
+        },
+        {
+            "id": "farm_team",
+            "word": "farm team"
+        },
+        {
+            "id": "fastball",
+            "word": "fastball"
+        },
+        {
+            "id": "fast-pitch_softball",
+            "word": "fast-pitch softball"
+        },
+        {
+            "id": "fielder",
+            "word": "fielder"
+        },
+        {
+            "id": "fielding_average",
+            "word": "fielding average"
+        },
+        {
+            "id": "fielding_percentage",
+            "word": "fielding percentage"
+        },
+        {
+            "id": "fireballer",
+            "word": "fireballer"
+        },
+        {
+            "id": "first_base",
+            "word": "first base"
+        },
+        {
+            "id": "fly_ball",
+            "word": "fly ball"
+        },
+        {
+            "id": "force-out",
+            "word": "force-out"
+        },
+        {
+            "id": "forkball",
+            "word": "forkball"
+        },
+        {
+            "id": "foul_ball",
+            "word": "foul ball"
+        },
+        {
+            "id": "foul_line",
+            "word": "foul line"
+        },
+        {
+            "id": "full_count",
+            "word": "full count"
+        },
+        {
+            "id": "fungo",
+            "word": "fungo"
+        },
+        {
+            "id": "gehrig%2C_lou",
+            "word": "gehrig, lou"
+        },
+        {
+            "id": "gonfalon",
+            "word": "gonfalon"
+        },
+        {
+            "id": "good-hitting",
+            "word": "good-hitting"
+        },
+        {
+            "id": "ground_ball",
+            "word": "ground ball"
+        },
+        {
+            "id": "grounder",
+            "word": "grounder"
+        },
+        {
+            "id": "groundout",
+            "word": "groundout"
+        },
+        {
+            "id": "hardball",
+            "word": "hardball"
+        },
+        {
+            "id": "hitless",
+            "word": "hitless"
+        },
+        {
+            "id": "home_plate",
+            "word": "home plate"
+        },
+        {
+            "id": "homer",
+            "word": "homer"
+        },
+        {
+            "id": "home_run",
+            "word": "home run"
+        },
+        {
+            "id": "hurler",
+            "word": "hurler"
+        },
+        {
+            "id": "infielder",
+            "word": "infielder"
+        },
+        {
+            "id": "inning",
+            "word": "inning"
+        },
+        {
+            "id": "in_relief",
+            "word": "in relief"
+        },
+        {
+            "id": "inside_baseball",
+            "word": "inside baseball"
+        },
+        {
+            "id": "junkball",
+            "word": "junkball"
+        },
+        {
+            "id": "junkballer",
+            "word": "junkballer"
+        },
+        {
+            "id": "knuckleball",
+            "word": "knuckleball"
+        },
+        {
+            "id": "knuckleballer",
+            "word": "knuckleballer"
+        },
+        {
+            "id": "late_inning",
+            "word": "late inning"
+        },
+        {
+            "id": "lead-off",
+            "word": "lead-off"
+        },
+        {
+            "id": "left_field",
+            "word": "left field"
+        },
+        {
+            "id": "line_drive",
+            "word": "line drive"
+        },
+        {
+            "id": "line_out",
+            "word": "line out"
+        },
+        {
+            "id": "little_league",
+            "word": "little league"
+        },
+        {
+            "id": "load_the_bases",
+            "word": "load the bases"
+        },
+        {
+            "id": "long_fly",
+            "word": "long fly"
+        },
+        {
+            "id": "lowball",
+            "word": "lowball"
+        },
+        {
+            "id": "magic_number",
+            "word": "magic number"
+        },
+        {
+            "id": "major_league",
+            "word": "major league"
+        },
+        {
+            "id": "make-up_game",
+            "word": "make-up game"
+        },
+        {
+            "id": "minor_league",
+            "word": "minor league"
+        },
+        {
+            "id": "most_valuable_player",
+            "word": "most valuable player"
+        },
+        {
+            "id": "moundsman",
+            "word": "moundsman"
+        },
+        {
+            "id": "mudville",
+            "word": "mudville"
+        },
+        {
+            "id": "multihit",
+            "word": "multihit"
+        },
+        {
+            "id": "no-hit",
+            "word": "no-hit"
+        },
+        {
+            "id": "no-hitter",
+            "word": "no-hitter"
+        },
+        {
+            "id": "nubber",
+            "word": "nubber"
+        },
+        {
+            "id": "on-base",
+            "word": "on-base"
+        },
+        {
+            "id": "one-base",
+            "word": "one-base"
+        },
+        {
+            "id": "one-baser",
+            "word": "one-baser"
+        },
+        {
+            "id": "one-eyed_cat",
+            "word": "one-eyed cat"
+        },
+        {
+            "id": "one-hitter",
+            "word": "one-hitter"
+        },
+        {
+            "id": "one-hopper",
+            "word": "one-hopper"
+        },
+        {
+            "id": "opposite_field",
+            "word": "opposite field"
+        },
+        {
+            "id": "outcurve",
+            "word": "outcurve"
+        },
+        {
+            "id": "outfielding",
+            "word": "outfielding"
+        },
+        {
+            "id": "out-homer",
+            "word": "out-homer"
+        },
+        {
+            "id": "outpitch",
+            "word": "outpitch"
+        },
+        {
+            "id": "outslug",
+            "word": "outslug"
+        },
+        {
+            "id": "overslide",
+            "word": "overslide"
+        },
+        {
+            "id": "palm_ball",
+            "word": "palm ball"
+        },
+        {
+            "id": "pennant_race",
+            "word": "pennant race"
+        },
+        {
+            "id": "pickoff",
+            "word": "pickoff"
+        },
+        {
+            "id": "pick_someone%2Fsomething_off",
+            "word": "pick someone/something off"
+        },
+        {
+            "id": "pinch_batter",
+            "word": "pinch batter"
+        },
+        {
+            "id": "pinch-hit",
+            "word": "pinch-hit"
+        },
+        {
+            "id": "pinch_hitter",
+            "word": "pinch hitter"
+        },
+        {
+            "id": "pinch-run",
+            "word": "pinch-run"
+        },
+        {
+            "id": "pinch_runner",
+            "word": "pinch runner"
+        },
+        {
+            "id": "pitch_count",
+            "word": "pitch count"
+        },
+        {
+            "id": "pitcher",
+            "word": "pitcher"
+        },
+        {
+            "id": "pitcher%27s_box",
+            "word": "pitcher's box"
+        },
+        {
+            "id": "pitcher%27s_mound",
+            "word": "pitcher's mound"
+        },
+        {
+            "id": "pitchers%27_duel",
+            "word": "pitchers' duel"
+        },
+        {
+            "id": "pitching_mound",
+            "word": "pitching mound"
+        },
+        {
+            "id": "pitchout",
+            "word": "pitchout"
+        },
+        {
+            "id": "plate-shy",
+            "word": "plate-shy"
+        },
+        {
+            "id": "pop-out",
+            "word": "pop-out"
+        },
+        {
+            "id": "port-sider",
+            "word": "port-sider"
+        },
+        {
+            "id": "power_alley",
+            "word": "power alley"
+        },
+        {
+            "id": "power_pitcher",
+            "word": "power pitcher"
+        },
+        {
+            "id": "pretzel_bender",
+            "word": "pretzel bender"
+        },
+        {
+            "id": "pretzel_curve",
+            "word": "pretzel curve"
+        },
+        {
+            "id": "pull_hitter",
+            "word": "pull hitter"
+        },
+        {
+            "id": "rabbit_ball",
+            "word": "rabbit ball"
+        },
+        {
+            "id": "rbi",
+            "word": "rbi"
+        },
+        {
+            "id": "ribbie",
+            "word": "ribbie"
+        },
+        {
+            "id": "rib_roaster",
+            "word": "rib roaster"
+        },
+        {
+            "id": "right_field",
+            "word": "right field"
+        },
+        {
+            "id": "route-goer",
+            "word": "route-goer"
+        },
+        {
+            "id": "runathon",
+            "word": "runathon"
+        },
+        {
+            "id": "runless",
+            "word": "runless"
+        },
+        {
+            "id": "run-producer",
+            "word": "run-producer"
+        },
+        {
+            "id": "ruth%2C_babe",
+            "word": "ruth, babe"
+        },
+        {
+            "id": "ruthian",
+            "word": "ruthian"
+        },
+        {
+            "id": "sabermetrics",
+            "word": "sabermetrics"
+        },
+        {
+            "id": "safe_hit",
+            "word": "safe hit"
+        },
+        {
+            "id": "screwball",
+            "word": "screwball"
+        },
+        {
+            "id": "screwballer",
+            "word": "screwballer"
+        },
+        {
+            "id": "second_base",
+            "word": "second base"
+        },
+        {
+            "id": "shag",
+            "word": "shag"
+        },
+        {
+            "id": "short_field",
+            "word": "short field"
+        },
+        {
+            "id": "shortstop",
+            "word": "shortstop"
+        },
+        {
+            "id": "sinkerballer",
+            "word": "sinkerballer"
+        },
+        {
+            "id": "slugger",
+            "word": "slugger"
+        },
+        {
+            "id": "slugging_average",
+            "word": "slugging average"
+        },
+        {
+            "id": "slugging_percentage",
+            "word": "slugging percentage"
+        },
+        {
+            "id": "small_ball",
+            "word": "small ball"
+        },
+        {
+            "id": "softball",
+            "word": "softball"
+        },
+        {
+            "id": "soft_toss",
+            "word": "soft toss"
+        },
+        {
+            "id": "spot_starter",
+            "word": "spot starter"
+        },
+        {
+            "id": "stickball",
+            "word": "stickball"
+        },
+        {
+            "id": "strikeout",
+            "word": "strikeout"
+        },
+        {
+            "id": "strike_someone_out_%28or_strike_out%29",
+            "word": "strike someone out (or strike out)"
+        },
+        {
+            "id": "strike_zone",
+            "word": "strike zone"
+        },
+        {
+            "id": "subway_series",
+            "word": "subway series"
+        },
+        {
+            "id": "suicide_squeeze",
+            "word": "suicide squeeze"
+        },
+        {
+            "id": "switch-hitter",
+            "word": "switch-hitter"
+        },
+        {
+            "id": "tag",
+            "word": "tag"
+        },
+        {
+            "id": "take_the_mound",
+            "word": "take the mound"
+        },
+        {
+            "id": "texas_leaguer",
+            "word": "texas leaguer"
+        },
+        {
+            "id": "third_base",
+            "word": "third base"
+        },
+        {
+            "id": "triple_play",
+            "word": "triple play"
+        },
+        {
+            "id": "ump",
+            "word": "ump"
+        },
+        {
+            "id": "unearned",
+            "word": "unearned"
+        },
+        {
+            "id": "warning_track",
+            "word": "warning track"
+        },
+        {
+            "id": "wiffle_ball",
+            "word": "wiffle ball"
+        },
+        {
+            "id": "wild_pitch",
+            "word": "wild pitch"
+        },
+        {
+            "id": "woba",
+            "word": "woba"
+        },
+        {
+            "id": "world_series",
+            "word": "world series"
+        }
+    ]
+}

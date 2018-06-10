@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 41,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "artic",
+            "word": "artic"
+        },
+        {
+            "id": "backload",
+            "word": "backload"
+        },
+        {
+            "id": "bakkie",
+            "word": "bakkie"
+        },
+        {
+            "id": "cab-forward",
+            "word": "cab-forward"
+        },
+        {
+            "id": "cabover",
+            "word": "cabover"
+        },
+        {
+            "id": "container",
+            "word": "container"
+        },
+        {
+            "id": "curtain-sider",
+            "word": "curtain-sider"
+        },
+        {
+            "id": "dropside",
+            "word": "dropside"
+        },
+        {
+            "id": "dumper",
+            "word": "dumper"
+        },
+        {
+            "id": "dump_truck",
+            "word": "dump truck"
+        },
+        {
+            "id": "eighteen-wheeler",
+            "word": "eighteen-wheeler"
+        },
+        {
+            "id": "furniture_van",
+            "word": "furniture van"
+        },
+        {
+            "id": "hauler",
+            "word": "hauler"
+        },
+        {
+            "id": "haulier",
+            "word": "haulier"
+        },
+        {
+            "id": "heavy_goods_vehicle",
+            "word": "heavy goods vehicle"
+        },
+        {
+            "id": "juggernaut",
+            "word": "juggernaut"
+        },
+        {
+            "id": "license_number",
+            "word": "license number"
+        },
+        {
+            "id": "lorry",
+            "word": "lorry"
+        },
+        {
+            "id": "low-loader",
+            "word": "low-loader"
+        },
+        {
+            "id": "panel_truck",
+            "word": "panel truck"
+        },
+        {
+            "id": "pantec",
+            "word": "pantec"
+        },
+        {
+            "id": "pickup",
+            "word": "pickup"
+        },
+        {
+            "id": "planeload",
+            "word": "planeload"
+        },
+        {
+            "id": "reefer",
+            "word": "reefer"
+        },
+        {
+            "id": "removal_van",
+            "word": "removal van"
+        },
+        {
+            "id": "road_train",
+            "word": "road train"
+        },
+        {
+            "id": "semi-trailer",
+            "word": "semi-trailer"
+        },
+        {
+            "id": "stake_body",
+            "word": "stake body"
+        },
+        {
+            "id": "swamper",
+            "word": "swamper"
+        },
+        {
+            "id": "tailgate",
+            "word": "tailgate"
+        },
+        {
+            "id": "teamster",
+            "word": "teamster"
+        },
+        {
+            "id": "tipper",
+            "word": "tipper"
+        },
+        {
+            "id": "tip-up",
+            "word": "tip-up"
+        },
+        {
+            "id": "tractor_trailer",
+            "word": "tractor trailer"
+        },
+        {
+            "id": "trailer_truck",
+            "word": "trailer truck"
+        },
+        {
+            "id": "tri-axle",
+            "word": "tri-axle"
+        },
+        {
+            "id": "truck",
+            "word": "truck"
+        },
+        {
+            "id": "trucker",
+            "word": "trucker"
+        },
+        {
+            "id": "trucking",
+            "word": "trucking"
+        },
+        {
+            "id": "truckload",
+            "word": "truckload"
+        },
+        {
+            "id": "utility_vehicle",
+            "word": "utility vehicle"
+        }
+    ]
+}

@@ -1,0 +1,311 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 75,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "black_sticks",
+            "word": "black sticks"
+        },
+        {
+            "id": "blue_line",
+            "word": "blue line"
+        },
+        {
+            "id": "blueliner",
+            "word": "blueliner"
+        },
+        {
+            "id": "body_check",
+            "word": "body check"
+        },
+        {
+            "id": "bully",
+            "word": "bully"
+        },
+        {
+            "id": "centre_bully",
+            "word": "centre bully"
+        },
+        {
+            "id": "centre_forward",
+            "word": "centre forward"
+        },
+        {
+            "id": "centre_ice",
+            "word": "centre ice"
+        },
+        {
+            "id": "centreman",
+            "word": "centreman"
+        },
+        {
+            "id": "cross-ice",
+            "word": "cross-ice"
+        },
+        {
+            "id": "defenceman",
+            "word": "defenceman"
+        },
+        {
+            "id": "deke",
+            "word": "deke"
+        },
+        {
+            "id": "dump-and-chase",
+            "word": "dump-and-chase"
+        },
+        {
+            "id": "empty-netter",
+            "word": "empty-netter"
+        },
+        {
+            "id": "entry_draft",
+            "word": "entry draft"
+        },
+        {
+            "id": "even_strength",
+            "word": "even strength"
+        },
+        {
+            "id": "face-off",
+            "word": "face-off"
+        },
+        {
+            "id": "field_hockey",
+            "word": "field hockey"
+        },
+        {
+            "id": "five-hole",
+            "word": "five-hole"
+        },
+        {
+            "id": "forecheck",
+            "word": "forecheck"
+        },
+        {
+            "id": "game_misconduct",
+            "word": "game misconduct"
+        },
+        {
+            "id": "goal_circle",
+            "word": "goal circle"
+        },
+        {
+            "id": "goalie",
+            "word": "goalie"
+        },
+        {
+            "id": "goal_line",
+            "word": "goal line"
+        },
+        {
+            "id": "goalmouth",
+            "word": "goalmouth"
+        },
+        {
+            "id": "goaltender",
+            "word": "goaltender"
+        },
+        {
+            "id": "goaltending",
+            "word": "goaltending"
+        },
+        {
+            "id": "golden_goal",
+            "word": "golden goal"
+        },
+        {
+            "id": "gretzky%2C_wayne",
+            "word": "gretzky, wayne"
+        },
+        {
+            "id": "high-stick",
+            "word": "high-stick"
+        },
+        {
+            "id": "hockey",
+            "word": "hockey"
+        },
+        {
+            "id": "hockey_mom",
+            "word": "hockey mom"
+        },
+        {
+            "id": "hockey_player",
+            "word": "hockey player"
+        },
+        {
+            "id": "hockey_rink",
+            "word": "hockey rink"
+        },
+        {
+            "id": "hockeyroos",
+            "word": "hockeyroos"
+        },
+        {
+            "id": "ice_hockey",
+            "word": "ice hockey"
+        },
+        {
+            "id": "ice_the_puck",
+            "word": "ice the puck"
+        },
+        {
+            "id": "inside_forward",
+            "word": "inside forward"
+        },
+        {
+            "id": "inside_left",
+            "word": "inside left"
+        },
+        {
+            "id": "inside_right",
+            "word": "inside right"
+        },
+        {
+            "id": "left_back",
+            "word": "left back"
+        },
+        {
+            "id": "linemate",
+            "word": "linemate"
+        },
+        {
+            "id": "long_corner",
+            "word": "long corner"
+        },
+        {
+            "id": "misconduct",
+            "word": "misconduct"
+        },
+        {
+            "id": "netminder",
+            "word": "netminder"
+        },
+        {
+            "id": "neutral_zone",
+            "word": "neutral zone"
+        },
+        {
+            "id": "offside",
+            "word": "offside"
+        },
+        {
+            "id": "outside_forward",
+            "word": "outside forward"
+        },
+        {
+            "id": "outside_left",
+            "word": "outside left"
+        },
+        {
+            "id": "outside_right",
+            "word": "outside right"
+        },
+        {
+            "id": "penalty_kill",
+            "word": "penalty kill"
+        },
+        {
+            "id": "penalty_killer",
+            "word": "penalty killer"
+        },
+        {
+            "id": "plus-minus",
+            "word": "plus-minus"
+        },
+        {
+            "id": "poke-check",
+            "word": "poke-check"
+        },
+        {
+            "id": "puck",
+            "word": "puck"
+        },
+        {
+            "id": "puck_drop",
+            "word": "puck drop"
+        },
+        {
+            "id": "push_pass",
+            "word": "push pass"
+        },
+        {
+            "id": "right_back",
+            "word": "right back"
+        },
+        {
+            "id": "ringette",
+            "word": "ringette"
+        },
+        {
+            "id": "rink",
+            "word": "rink"
+        },
+        {
+            "id": "rink_rat",
+            "word": "rink rat"
+        },
+        {
+            "id": "roughing",
+            "word": "roughing"
+        },
+        {
+            "id": "shinny",
+            "word": "shinny"
+        },
+        {
+            "id": "shin_pad",
+            "word": "shin pad"
+        },
+        {
+            "id": "short_corner",
+            "word": "short corner"
+        },
+        {
+            "id": "shutout",
+            "word": "shutout"
+        },
+        {
+            "id": "sin_bin",
+            "word": "sin bin"
+        },
+        {
+            "id": "slap_shot",
+            "word": "slap shot"
+        },
+        {
+            "id": "spin-o-rama",
+            "word": "spin-o-rama"
+        },
+        {
+            "id": "stanley_cup",
+            "word": "stanley cup"
+        },
+        {
+            "id": "stick-handle",
+            "word": "stick-handle"
+        },
+        {
+            "id": "striking_circle",
+            "word": "striking circle"
+        },
+        {
+            "id": "target_man",
+            "word": "target man"
+        },
+        {
+            "id": "wrister",
+            "word": "wrister"
+        },
+        {
+            "id": "wrist_shot",
+            "word": "wrist shot"
+        }
+    ]
+}

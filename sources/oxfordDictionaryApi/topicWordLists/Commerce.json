@@ -1,0 +1,4395 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 1096
+    },
+    "results": [
+        {
+            "id": "absorption_costing",
+            "word": "absorption costing"
+        },
+        {
+            "id": "abta",
+            "word": "abta"
+        },
+        {
+            "id": "acas",
+            "word": "acas"
+        },
+        {
+            "id": "accountant",
+            "word": "accountant"
+        },
+        {
+            "id": "account_executive",
+            "word": "account executive"
+        },
+        {
+            "id": "accounting",
+            "word": "accounting"
+        },
+        {
+            "id": "account_rendered",
+            "word": "account rendered"
+        },
+        {
+            "id": "accounts_payable",
+            "word": "accounts payable"
+        },
+        {
+            "id": "accounts_receivable",
+            "word": "accounts receivable"
+        },
+        {
+            "id": "acquihire",
+            "word": "acquihire"
+        },
+        {
+            "id": "acquiree",
+            "word": "acquiree"
+        },
+        {
+            "id": "acquisition",
+            "word": "acquisition"
+        },
+        {
+            "id": "adjustable-rate",
+            "word": "adjustable-rate"
+        },
+        {
+            "id": "admass",
+            "word": "admass"
+        },
+        {
+            "id": "affiliate_marketing",
+            "word": "affiliate marketing"
+        },
+        {
+            "id": "agribusiness",
+            "word": "agribusiness"
+        },
+        {
+            "id": "ambush_marketing",
+            "word": "ambush marketing"
+        },
+        {
+            "id": "annual_report",
+            "word": "annual report"
+        },
+        {
+            "id": "answering_service",
+            "word": "answering service"
+        },
+        {
+            "id": "antiglobalization",
+            "word": "antiglobalization"
+        },
+        {
+            "id": "antitrust",
+            "word": "antitrust"
+        },
+        {
+            "id": "army_disposals_store",
+            "word": "army disposals store"
+        },
+        {
+            "id": "asking_price",
+            "word": "asking price"
+        },
+        {
+            "id": "asset_stripping",
+            "word": "asset stripping"
+        },
+        {
+            "id": "associated",
+            "word": "associated"
+        },
+        {
+            "id": "astroturfing",
+            "word": "astroturfing"
+        },
+        {
+            "id": "at_cost",
+            "word": "at cost"
+        },
+        {
+            "id": "at_interest",
+            "word": "at interest"
+        },
+        {
+            "id": "audit",
+            "word": "audit"
+        },
+        {
+            "id": "auditor",
+            "word": "auditor"
+        },
+        {
+            "id": "audit_trail",
+            "word": "audit trail"
+        },
+        {
+            "id": "awayday",
+            "word": "awayday"
+        },
+        {
+            "id": "b2b",
+            "word": "b2b"
+        },
+        {
+            "id": "back_office",
+            "word": "back office"
+        },
+        {
+            "id": "bad_debt",
+            "word": "bad debt"
+        },
+        {
+            "id": "bait-and-switch",
+            "word": "bait-and-switch"
+        },
+        {
+            "id": "balloon_payment",
+            "word": "balloon payment"
+        },
+        {
+            "id": "baltic_exchange",
+            "word": "baltic exchange"
+        },
+        {
+            "id": "bank_card",
+            "word": "bank card"
+        },
+        {
+            "id": "bankrupt",
+            "word": "bankrupt"
+        },
+        {
+            "id": "best_of_breed",
+            "word": "best of breed"
+        },
+        {
+            "id": "big_box",
+            "word": "big box"
+        },
+        {
+            "id": "big_three",
+            "word": "big three"
+        },
+        {
+            "id": "bill_of_goods",
+            "word": "bill of goods"
+        },
+        {
+            "id": "bill_of_sale",
+            "word": "bill of sale"
+        },
+        {
+            "id": "biopharma",
+            "word": "biopharma"
+        },
+        {
+            "id": "biz_dev",
+            "word": "biz dev"
+        },
+        {
+            "id": "blipvert",
+            "word": "blipvert"
+        },
+        {
+            "id": "bonded_warehouse",
+            "word": "bonded warehouse"
+        },
+        {
+            "id": "bondholder",
+            "word": "bondholder"
+        },
+        {
+            "id": "bonus_issue",
+            "word": "bonus issue"
+        },
+        {
+            "id": "bookkeeper",
+            "word": "bookkeeper"
+        },
+        {
+            "id": "bookkeeping",
+            "word": "bookkeeping"
+        },
+        {
+            "id": "book-to-bill_ratio",
+            "word": "book-to-bill ratio"
+        },
+        {
+            "id": "book_value",
+            "word": "book value"
+        },
+        {
+            "id": "bootstrapper",
+            "word": "bootstrapper"
+        },
+        {
+            "id": "borrower",
+            "word": "borrower"
+        },
+        {
+            "id": "box-shifter",
+            "word": "box-shifter"
+        },
+        {
+            "id": "bpo",
+            "word": "bpo"
+        },
+        {
+            "id": "brand",
+            "word": "brand"
+        },
+        {
+            "id": "brand_awareness",
+            "word": "brand awareness"
+        },
+        {
+            "id": "branded",
+            "word": "branded"
+        },
+        {
+            "id": "brand_equity",
+            "word": "brand equity"
+        },
+        {
+            "id": "brand_extension",
+            "word": "brand extension"
+        },
+        {
+            "id": "brand_image",
+            "word": "brand image"
+        },
+        {
+            "id": "brand_leader",
+            "word": "brand leader"
+        },
+        {
+            "id": "brand_loyalty",
+            "word": "brand loyalty"
+        },
+        {
+            "id": "brand_management",
+            "word": "brand management"
+        },
+        {
+            "id": "brand_manager",
+            "word": "brand manager"
+        },
+        {
+            "id": "brand_name",
+            "word": "brand name"
+        },
+        {
+            "id": "brand_x",
+            "word": "brand x"
+        },
+        {
+            "id": "break_even",
+            "word": "break even"
+        },
+        {
+            "id": "break-even",
+            "word": "break-even"
+        },
+        {
+            "id": "briefer",
+            "word": "briefer"
+        },
+        {
+            "id": "broker",
+            "word": "broker"
+        },
+        {
+            "id": "brokerage",
+            "word": "brokerage"
+        },
+        {
+            "id": "broking",
+            "word": "broking"
+        },
+        {
+            "id": "brown_goods",
+            "word": "brown goods"
+        },
+        {
+            "id": "burn_rate",
+            "word": "burn rate"
+        },
+        {
+            "id": "business_case",
+            "word": "business case"
+        },
+        {
+            "id": "business_development",
+            "word": "business development"
+        },
+        {
+            "id": "businessman",
+            "word": "businessman"
+        },
+        {
+            "id": "business_model",
+            "word": "business model"
+        },
+        {
+            "id": "business_park",
+            "word": "business park"
+        },
+        {
+            "id": "business_process_re-engineering",
+            "word": "business process re-engineering"
+        },
+        {
+            "id": "businesswoman",
+            "word": "businesswoman"
+        },
+        {
+            "id": "butter_factory",
+            "word": "butter factory"
+        },
+        {
+            "id": "buy-back",
+            "word": "buy-back"
+        },
+        {
+            "id": "buy-in",
+            "word": "buy-in"
+        },
+        {
+            "id": "buyout",
+            "word": "buyout"
+        },
+        {
+            "id": "byod",
+            "word": "byod"
+        },
+        {
+            "id": "c2c",
+            "word": "c2c"
+        },
+        {
+            "id": "caf",
+            "word": "caf"
+        },
+        {
+            "id": "call_centre",
+            "word": "call centre"
+        },
+        {
+            "id": "call_to_action",
+            "word": "call to action"
+        },
+        {
+            "id": "capex",
+            "word": "capex"
+        },
+        {
+            "id": "capital_expenditure",
+            "word": "capital expenditure"
+        },
+        {
+            "id": "capitation",
+            "word": "capitation"
+        },
+        {
+            "id": "cardholder",
+            "word": "cardholder"
+        },
+        {
+            "id": "career_structure",
+            "word": "career structure"
+        },
+        {
+            "id": "carriage_trade",
+            "word": "carriage trade"
+        },
+        {
+            "id": "carrying_charge",
+            "word": "carrying charge"
+        },
+        {
+            "id": "carrying_trade",
+            "word": "carrying trade"
+        },
+        {
+            "id": "cartage",
+            "word": "cartage"
+        },
+        {
+            "id": "cartel",
+            "word": "cartel"
+        },
+        {
+            "id": "cartelize",
+            "word": "cartelize"
+        },
+        {
+            "id": "car_yard",
+            "word": "car yard"
+        },
+        {
+            "id": "cash_and_carry",
+            "word": "cash and carry"
+        },
+        {
+            "id": "cash_buyer",
+            "word": "cash buyer"
+        },
+        {
+            "id": "cash_cow",
+            "word": "cash cow"
+        },
+        {
+            "id": "cash_flow",
+            "word": "cash flow"
+        },
+        {
+            "id": "cashier",
+            "word": "cashier"
+        },
+        {
+            "id": "cash_on_delivery",
+            "word": "cash on delivery"
+        },
+        {
+            "id": "casualization",
+            "word": "casualization"
+        },
+        {
+            "id": "casualize",
+            "word": "casualize"
+        },
+        {
+            "id": "cdo",
+            "word": "cdo"
+        },
+        {
+            "id": "ce_mark",
+            "word": "ce mark"
+        },
+        {
+            "id": "ceo",
+            "word": "ceo"
+        },
+        {
+            "id": "certified_cheque",
+            "word": "certified cheque"
+        },
+        {
+            "id": "certified_public_accountant",
+            "word": "certified public accountant"
+        },
+        {
+            "id": "cfo",
+            "word": "cfo"
+        },
+        {
+            "id": "chaebol",
+            "word": "chaebol"
+        },
+        {
+            "id": "chamber_of_commerce",
+            "word": "chamber of commerce"
+        },
+        {
+            "id": "chamber_of_trade",
+            "word": "chamber of trade"
+        },
+        {
+            "id": "change_hands",
+            "word": "change hands"
+        },
+        {
+            "id": "change_management",
+            "word": "change management"
+        },
+        {
+            "id": "chapter_11",
+            "word": "chapter 11"
+        },
+        {
+            "id": "charge_account",
+            "word": "charge account"
+        },
+        {
+            "id": "charge_card",
+            "word": "charge card"
+        },
+        {
+            "id": "chargemaster",
+            "word": "chargemaster"
+        },
+        {
+            "id": "chattel_mortgage",
+            "word": "chattel mortgage"
+        },
+        {
+            "id": "cheapness",
+            "word": "cheapness"
+        },
+        {
+            "id": "child_labour",
+            "word": "child labour"
+        },
+        {
+            "id": "chip_and_pin",
+            "word": "chip and pin"
+        },
+        {
+            "id": "chop",
+            "word": "chop"
+        },
+        {
+            "id": "churn_rate",
+            "word": "churn rate"
+        },
+        {
+            "id": "c.i.f.",
+            "word": "c.i.f."
+        },
+        {
+            "id": "city_company",
+            "word": "city company"
+        },
+        {
+            "id": "claims_adjuster",
+            "word": "claims adjuster"
+        },
+        {
+            "id": "clawback",
+            "word": "clawback"
+        },
+        {
+            "id": "clearing_sale",
+            "word": "clearing sale"
+        },
+        {
+            "id": "click_and_collect",
+            "word": "click and collect"
+        },
+        {
+            "id": "clicks_and_mortar",
+            "word": "clicks and mortar"
+        },
+        {
+            "id": "client_confidentiality",
+            "word": "client confidentiality"
+        },
+        {
+            "id": "co.",
+            "word": "co."
+        },
+        {
+            "id": "coachbuilder",
+            "word": "coachbuilder"
+        },
+        {
+            "id": "cob",
+            "word": "cob"
+        },
+        {
+            "id": "co-branded",
+            "word": "co-branded"
+        },
+        {
+            "id": "co-branding",
+            "word": "co-branding"
+        },
+        {
+            "id": "commercial",
+            "word": "commercial"
+        },
+        {
+            "id": "commercialization",
+            "word": "commercialization"
+        },
+        {
+            "id": "commercially",
+            "word": "commercially"
+        },
+        {
+            "id": "commercial_traveller",
+            "word": "commercial traveller"
+        },
+        {
+            "id": "commission_agent",
+            "word": "commission agent"
+        },
+        {
+            "id": "common_carrier",
+            "word": "common carrier"
+        },
+        {
+            "id": "common_market",
+            "word": "common market"
+        },
+        {
+            "id": "comparison-shop",
+            "word": "comparison-shop"
+        },
+        {
+            "id": "comparison_shopping",
+            "word": "comparison shopping"
+        },
+        {
+            "id": "compliance_officer",
+            "word": "compliance officer"
+        },
+        {
+            "id": "comptroller",
+            "word": "comptroller"
+        },
+        {
+            "id": "concessionaire",
+            "word": "concessionaire"
+        },
+        {
+            "id": "confederation_of_british_industry",
+            "word": "confederation of british industry"
+        },
+        {
+            "id": "conglomerate",
+            "word": "conglomerate"
+        },
+        {
+            "id": "consortium",
+            "word": "consortium"
+        },
+        {
+            "id": "consumer_durables",
+            "word": "consumer durables"
+        },
+        {
+            "id": "consumer_electronics",
+            "word": "consumer electronics"
+        },
+        {
+            "id": "consumer_goods",
+            "word": "consumer goods"
+        },
+        {
+            "id": "consumer_price_index",
+            "word": "consumer price index"
+        },
+        {
+            "id": "consumer_research",
+            "word": "consumer research"
+        },
+        {
+            "id": "content_marketing",
+            "word": "content marketing"
+        },
+        {
+            "id": "contingency_fund",
+            "word": "contingency fund"
+        },
+        {
+            "id": "contract",
+            "word": "contract"
+        },
+        {
+            "id": "controlling_interest",
+            "word": "controlling interest"
+        },
+        {
+            "id": "coo",
+            "word": "coo"
+        },
+        {
+            "id": "cooling-off_period",
+            "word": "cooling-off period"
+        },
+        {
+            "id": "coolroom",
+            "word": "coolroom"
+        },
+        {
+            "id": "co-op",
+            "word": "co-op"
+        },
+        {
+            "id": "coopetition",
+            "word": "coopetition"
+        },
+        {
+            "id": "coper",
+            "word": "coper"
+        },
+        {
+            "id": "corn_exchange",
+            "word": "corn exchange"
+        },
+        {
+            "id": "corp.",
+            "word": "corp."
+        },
+        {
+            "id": "corporate",
+            "word": "corporate"
+        },
+        {
+            "id": "corporation",
+            "word": "corporation"
+        },
+        {
+            "id": "corporatize",
+            "word": "corporatize"
+        },
+        {
+            "id": "cost_accountant",
+            "word": "cost accountant"
+        },
+        {
+            "id": "cost-benefit",
+            "word": "cost-benefit"
+        },
+        {
+            "id": "cost-cutting",
+            "word": "cost-cutting"
+        },
+        {
+            "id": "cost-effective",
+            "word": "cost-effective"
+        },
+        {
+            "id": "cost-effectiveness",
+            "word": "cost-effectiveness"
+        },
+        {
+            "id": "costermonger",
+            "word": "costermonger"
+        },
+        {
+            "id": "costing",
+            "word": "costing"
+        },
+        {
+            "id": "cost-plus",
+            "word": "cost-plus"
+        },
+        {
+            "id": "cost_price",
+            "word": "cost price"
+        },
+        {
+            "id": "cost_saving",
+            "word": "cost saving"
+        },
+        {
+            "id": "counter-offer",
+            "word": "counter-offer"
+        },
+        {
+            "id": "counterparty",
+            "word": "counterparty"
+        },
+        {
+            "id": "cover_note",
+            "word": "cover note"
+        },
+        {
+            "id": "cpa",
+            "word": "cpa"
+        },
+        {
+            "id": "credit_card",
+            "word": "credit card"
+        },
+        {
+            "id": "creditor",
+            "word": "creditor"
+        },
+        {
+            "id": "credit_standing",
+            "word": "credit standing"
+        },
+        {
+            "id": "crisis_management",
+            "word": "crisis management"
+        },
+        {
+            "id": "critical_path_analysis",
+            "word": "critical path analysis"
+        },
+        {
+            "id": "crm",
+            "word": "crm"
+        },
+        {
+            "id": "cross-ownership",
+            "word": "cross-ownership"
+        },
+        {
+            "id": "cross-promote",
+            "word": "cross-promote"
+        },
+        {
+            "id": "cross-promotion",
+            "word": "cross-promotion"
+        },
+        {
+            "id": "cross-sell",
+            "word": "cross-sell"
+        },
+        {
+            "id": "crowdsource",
+            "word": "crowdsource"
+        },
+        {
+            "id": "crown_corporation",
+            "word": "crown corporation"
+        },
+        {
+            "id": "crown_research_institute",
+            "word": "crown research institute"
+        },
+        {
+            "id": "cruelty-free",
+            "word": "cruelty-free"
+        },
+        {
+            "id": "cta",
+            "word": "cta"
+        },
+        {
+            "id": "cto",
+            "word": "cto"
+        },
+        {
+            "id": "customer-facing",
+            "word": "customer-facing"
+        },
+        {
+            "id": "customer_service",
+            "word": "customer service"
+        },
+        {
+            "id": "cutback",
+            "word": "cutback"
+        },
+        {
+            "id": "cutover",
+            "word": "cutover"
+        },
+        {
+            "id": "c.w.o.",
+            "word": "c.w.o."
+        },
+        {
+            "id": "daigou",
+            "word": "daigou"
+        },
+        {
+            "id": "dairy_factory",
+            "word": "dairy factory"
+        },
+        {
+            "id": "daybook",
+            "word": "daybook"
+        },
+        {
+            "id": "day_labour",
+            "word": "day labour"
+        },
+        {
+            "id": "day_release",
+            "word": "day release"
+        },
+        {
+            "id": "day_shift",
+            "word": "day shift"
+        },
+        {
+            "id": "daywork",
+            "word": "daywork"
+        },
+        {
+            "id": "dba",
+            "word": "dba"
+        },
+        {
+            "id": "deal-breaker",
+            "word": "deal-breaker"
+        },
+        {
+            "id": "deal_flow",
+            "word": "deal flow"
+        },
+        {
+            "id": "dealmaker",
+            "word": "dealmaker"
+        },
+        {
+            "id": "debtor",
+            "word": "debtor"
+        },
+        {
+            "id": "declare_an_%28or_one%27s%29_interest",
+            "word": "declare an (or one's) interest"
+        },
+        {
+            "id": "deferred_payment",
+            "word": "deferred payment"
+        },
+        {
+            "id": "delayering",
+            "word": "delayering"
+        },
+        {
+            "id": "demerge",
+            "word": "demerge"
+        },
+        {
+            "id": "demerger",
+            "word": "demerger"
+        },
+        {
+            "id": "deskill",
+            "word": "deskill"
+        },
+        {
+            "id": "direct_labour",
+            "word": "direct labour"
+        },
+        {
+            "id": "direct_mail",
+            "word": "direct mail"
+        },
+        {
+            "id": "direct_marketing",
+            "word": "direct marketing"
+        },
+        {
+            "id": "director",
+            "word": "director"
+        },
+        {
+            "id": "directorate",
+            "word": "directorate"
+        },
+        {
+            "id": "discount",
+            "word": "discount"
+        },
+        {
+            "id": "discount_broker",
+            "word": "discount broker"
+        },
+        {
+            "id": "disincorporate",
+            "word": "disincorporate"
+        },
+        {
+            "id": "distribution",
+            "word": "distribution"
+        },
+        {
+            "id": "distributor",
+            "word": "distributor"
+        },
+        {
+            "id": "diversification",
+            "word": "diversification"
+        },
+        {
+            "id": "diversify",
+            "word": "diversify"
+        },
+        {
+            "id": "divestment",
+            "word": "divestment"
+        },
+        {
+            "id": "divisionalize",
+            "word": "divisionalize"
+        },
+        {
+            "id": "docket",
+            "word": "docket"
+        },
+        {
+            "id": "dot-com",
+            "word": "dot-com"
+        },
+        {
+            "id": "double_indemnity",
+            "word": "double indemnity"
+        },
+        {
+            "id": "double_time",
+            "word": "double time"
+        },
+        {
+            "id": "down_payment",
+            "word": "down payment"
+        },
+        {
+            "id": "dr",
+            "word": "dr"
+        },
+        {
+            "id": "drip_pricing",
+            "word": "drip pricing"
+        },
+        {
+            "id": "drop-ship",
+            "word": "drop-ship"
+        },
+        {
+            "id": "dti",
+            "word": "dti"
+        },
+        {
+            "id": "dutch_auction",
+            "word": "dutch auction"
+        },
+        {
+            "id": "dutiable",
+            "word": "dutiable"
+        },
+        {
+            "id": "duty-paid",
+            "word": "duty-paid"
+        },
+        {
+            "id": "dynamic_pricing",
+            "word": "dynamic pricing"
+        },
+        {
+            "id": "early_retirement",
+            "word": "early retirement"
+        },
+        {
+            "id": "earn_something_out",
+            "word": "earn something out"
+        },
+        {
+            "id": "e-business",
+            "word": "e-business"
+        },
+        {
+            "id": "e-cash",
+            "word": "e-cash"
+        },
+        {
+            "id": "e-commerce",
+            "word": "e-commerce"
+        },
+        {
+            "id": "economy_of_scale",
+            "word": "economy of scale"
+        },
+        {
+            "id": "economy_of_scope",
+            "word": "economy of scope"
+        },
+        {
+            "id": "eftpos",
+            "word": "eftpos"
+        },
+        {
+            "id": "elevator_pitch",
+            "word": "elevator pitch"
+        },
+        {
+            "id": "embargo",
+            "word": "embargo"
+        },
+        {
+            "id": "emolument",
+            "word": "emolument"
+        },
+        {
+            "id": "employed",
+            "word": "employed"
+        },
+        {
+            "id": "encash",
+            "word": "encash"
+        },
+        {
+            "id": "endorsement",
+            "word": "endorsement"
+        },
+        {
+            "id": "endowment_mortgage",
+            "word": "endowment mortgage"
+        },
+        {
+            "id": "end_user",
+            "word": "end user"
+        },
+        {
+            "id": "entrepreneur",
+            "word": "entrepreneur"
+        },
+        {
+            "id": "entrepreneurship",
+            "word": "entrepreneurship"
+        },
+        {
+            "id": "entry-level",
+            "word": "entry-level"
+        },
+        {
+            "id": "erp",
+            "word": "erp"
+        },
+        {
+            "id": "escalator_clause",
+            "word": "escalator clause"
+        },
+        {
+            "id": "estate_agency",
+            "word": "estate agency"
+        },
+        {
+            "id": "estate_agent",
+            "word": "estate agent"
+        },
+        {
+            "id": "ex",
+            "word": "ex"
+        },
+        {
+            "id": "exciseman",
+            "word": "exciseman"
+        },
+        {
+            "id": "exec",
+            "word": "exec"
+        },
+        {
+            "id": "executive_assistant",
+            "word": "executive assistant"
+        },
+        {
+            "id": "executive_director",
+            "word": "executive director"
+        },
+        {
+            "id": "expense_account",
+            "word": "expense account"
+        },
+        {
+            "id": "expiration",
+            "word": "expiration"
+        },
+        {
+            "id": "export",
+            "word": "export"
+        },
+        {
+            "id": "exporter",
+            "word": "exporter"
+        },
+        {
+            "id": "fabrication",
+            "word": "fabrication"
+        },
+        {
+            "id": "facilities_management",
+            "word": "facilities management"
+        },
+        {
+            "id": "factorage",
+            "word": "factorage"
+        },
+        {
+            "id": "factor_cost",
+            "word": "factor cost"
+        },
+        {
+            "id": "factory_floor",
+            "word": "factory floor"
+        },
+        {
+            "id": "factory_inspector",
+            "word": "factory inspector"
+        },
+        {
+            "id": "factory-made",
+            "word": "factory-made"
+        },
+        {
+            "id": "farm_gate",
+            "word": "farm gate"
+        },
+        {
+            "id": "fashion_house",
+            "word": "fashion house"
+        },
+        {
+            "id": "fast_follower",
+            "word": "fast follower"
+        },
+        {
+            "id": "fee",
+            "word": "fee"
+        },
+        {
+            "id": "fidelity_insurance",
+            "word": "fidelity insurance"
+        },
+        {
+            "id": "fifo",
+            "word": "fifo"
+        },
+        {
+            "id": "final_demand",
+            "word": "final demand"
+        },
+        {
+            "id": "finance_company",
+            "word": "finance company"
+        },
+        {
+            "id": "finance_director",
+            "word": "finance director"
+        },
+        {
+            "id": "financial_backer",
+            "word": "financial backer"
+        },
+        {
+            "id": "financial_year",
+            "word": "financial year"
+        },
+        {
+            "id": "firm",
+            "word": "firm"
+        },
+        {
+            "id": "first-time_buyer",
+            "word": "first-time buyer"
+        },
+        {
+            "id": "fixed_costs",
+            "word": "fixed costs"
+        },
+        {
+            "id": "fixed_income",
+            "word": "fixed income"
+        },
+        {
+            "id": "flag_of_convenience",
+            "word": "flag of convenience"
+        },
+        {
+            "id": "flow_line",
+            "word": "flow line"
+        },
+        {
+            "id": "flow-on",
+            "word": "flow-on"
+        },
+        {
+            "id": "fly-pitcher",
+            "word": "fly-pitcher"
+        },
+        {
+            "id": "fmcg",
+            "word": "fmcg"
+        },
+        {
+            "id": "food_subsidy",
+            "word": "food subsidy"
+        },
+        {
+            "id": "fordism",
+            "word": "fordism"
+        },
+        {
+            "id": "franchise",
+            "word": "franchise"
+        },
+        {
+            "id": "franchisee",
+            "word": "franchisee"
+        },
+        {
+            "id": "franked_investment_income",
+            "word": "franked investment income"
+        },
+        {
+            "id": "free_gift",
+            "word": "free gift"
+        },
+        {
+            "id": "freemium",
+            "word": "freemium"
+        },
+        {
+            "id": "free_on_board_%28or_rail%29",
+            "word": "free on board (or rail)"
+        },
+        {
+            "id": "freightage",
+            "word": "freightage"
+        },
+        {
+            "id": "freight_forwarder",
+            "word": "freight forwarder"
+        },
+        {
+            "id": "freight_operator",
+            "word": "freight operator"
+        },
+        {
+            "id": "friendly_society",
+            "word": "friendly society"
+        },
+        {
+            "id": "fringe_benefit",
+            "word": "fringe benefit"
+        },
+        {
+            "id": "ftc",
+            "word": "ftc"
+        },
+        {
+            "id": "full_price",
+            "word": "full price"
+        },
+        {
+            "id": "full-service_broker",
+            "word": "full-service broker"
+        },
+        {
+            "id": "fund",
+            "word": "fund"
+        },
+        {
+            "id": "fungible",
+            "word": "fungible"
+        },
+        {
+            "id": "g2b",
+            "word": "g2b"
+        },
+        {
+            "id": "gamification",
+            "word": "gamification"
+        },
+        {
+            "id": "gamify",
+            "word": "gamify"
+        },
+        {
+            "id": "gazump",
+            "word": "gazump"
+        },
+        {
+            "id": "gazunder",
+            "word": "gazunder"
+        },
+        {
+            "id": "general_manager",
+            "word": "general manager"
+        },
+        {
+            "id": "general_partner",
+            "word": "general partner"
+        },
+        {
+            "id": "giro",
+            "word": "giro"
+        },
+        {
+            "id": "glassworks",
+            "word": "glassworks"
+        },
+        {
+            "id": "going_concern",
+            "word": "going concern"
+        },
+        {
+            "id": "golden_parachute",
+            "word": "golden parachute"
+        },
+        {
+            "id": "go_public",
+            "word": "go public"
+        },
+        {
+            "id": "government_contractor",
+            "word": "government contractor"
+        },
+        {
+            "id": "graduated_pension",
+            "word": "graduated pension"
+        },
+        {
+            "id": "greenfield",
+            "word": "greenfield"
+        },
+        {
+            "id": "grievance_procedure",
+            "word": "grievance procedure"
+        },
+        {
+            "id": "group_insurance",
+            "word": "group insurance"
+        },
+        {
+            "id": "grow-op",
+            "word": "grow-op"
+        },
+        {
+            "id": "grow_operation",
+            "word": "grow operation"
+        },
+        {
+            "id": "growth_area",
+            "word": "growth area"
+        },
+        {
+            "id": "grubstake",
+            "word": "grubstake"
+        },
+        {
+            "id": "guanxi",
+            "word": "guanxi"
+        },
+        {
+            "id": "guarantee_fund",
+            "word": "guarantee fund"
+        },
+        {
+            "id": "half_price",
+            "word": "half price"
+        },
+        {
+            "id": "handler",
+            "word": "handler"
+        },
+        {
+            "id": "handling_charge",
+            "word": "handling charge"
+        },
+        {
+            "id": "hanse",
+            "word": "hanse"
+        },
+        {
+            "id": "hard_launch",
+            "word": "hard launch"
+        },
+        {
+            "id": "hard_sell",
+            "word": "hard sell"
+        },
+        {
+            "id": "hardship_fund",
+            "word": "hardship fund"
+        },
+        {
+            "id": "haulage",
+            "word": "haulage"
+        },
+        {
+            "id": "haulage_company",
+            "word": "haulage company"
+        },
+        {
+            "id": "headcount",
+            "word": "headcount"
+        },
+        {
+            "id": "head_office",
+            "word": "head office"
+        },
+        {
+            "id": "helicopter_view",
+            "word": "helicopter view"
+        },
+        {
+            "id": "hidden_reserves",
+            "word": "hidden reserves"
+        },
+        {
+            "id": "high-end",
+            "word": "high-end"
+        },
+        {
+            "id": "high-touch",
+            "word": "high-touch"
+        },
+        {
+            "id": "hip",
+            "word": "hip"
+        },
+        {
+            "id": "hire",
+            "word": "hire"
+        },
+        {
+            "id": "hire_charge",
+            "word": "hire charge"
+        },
+        {
+            "id": "hire_company",
+            "word": "hire company"
+        },
+        {
+            "id": "hire_purchase",
+            "word": "hire purchase"
+        },
+        {
+            "id": "hock",
+            "word": "hock"
+        },
+        {
+            "id": "holding_company",
+            "word": "holding company"
+        },
+        {
+            "id": "hole_in_the_wall",
+            "word": "hole in the wall"
+        },
+        {
+            "id": "homebuilder",
+            "word": "homebuilder"
+        },
+        {
+            "id": "homebuyer",
+            "word": "homebuyer"
+        },
+        {
+            "id": "home_buying",
+            "word": "home buying"
+        },
+        {
+            "id": "homeshoring",
+            "word": "homeshoring"
+        },
+        {
+            "id": "honesty",
+            "word": "honesty"
+        },
+        {
+            "id": "honorarium",
+            "word": "honorarium"
+        },
+        {
+            "id": "house_agent",
+            "word": "house agent"
+        },
+        {
+            "id": "house_price",
+            "word": "house price"
+        },
+        {
+            "id": "human_engineering",
+            "word": "human engineering"
+        },
+        {
+            "id": "human_resources",
+            "word": "human resources"
+        },
+        {
+            "id": "human_resources_manager",
+            "word": "human resources manager"
+        },
+        {
+            "id": "icc",
+            "word": "icc"
+        },
+        {
+            "id": "image-maker",
+            "word": "image-maker"
+        },
+        {
+            "id": "import",
+            "word": "import"
+        },
+        {
+            "id": "importation",
+            "word": "importation"
+        },
+        {
+            "id": "import_duty",
+            "word": "import duty"
+        },
+        {
+            "id": "imported",
+            "word": "imported"
+        },
+        {
+            "id": "importer",
+            "word": "importer"
+        },
+        {
+            "id": "import-export",
+            "word": "import-export"
+        },
+        {
+            "id": "import_licence",
+            "word": "import licence"
+        },
+        {
+            "id": "imprest",
+            "word": "imprest"
+        },
+        {
+            "id": "impulse_buying",
+            "word": "impulse buying"
+        },
+        {
+            "id": "in_bond",
+            "word": "in bond"
+        },
+        {
+            "id": "inc.",
+            "word": "inc."
+        },
+        {
+            "id": "incentive_bonus",
+            "word": "incentive bonus"
+        },
+        {
+            "id": "income",
+            "word": "income"
+        },
+        {
+            "id": "-incomer",
+            "word": "-incomer"
+        },
+        {
+            "id": "incorporated",
+            "word": "incorporated"
+        },
+        {
+            "id": "indemnity",
+            "word": "indemnity"
+        },
+        {
+            "id": "indemnity_fund",
+            "word": "indemnity fund"
+        },
+        {
+            "id": "indirect_advertising",
+            "word": "indirect advertising"
+        },
+        {
+            "id": "indirect_costs",
+            "word": "indirect costs"
+        },
+        {
+            "id": "individual_enterprise",
+            "word": "individual enterprise"
+        },
+        {
+            "id": "individual_voluntary_arrangement",
+            "word": "individual voluntary arrangement"
+        },
+        {
+            "id": "inertia_selling",
+            "word": "inertia selling"
+        },
+        {
+            "id": "infomercial",
+            "word": "infomercial"
+        },
+        {
+            "id": "information_economy",
+            "word": "information economy"
+        },
+        {
+            "id": "information_officer",
+            "word": "information officer"
+        },
+        {
+            "id": "in-service",
+            "word": "in-service"
+        },
+        {
+            "id": "insolvent",
+            "word": "insolvent"
+        },
+        {
+            "id": "insource",
+            "word": "insource"
+        },
+        {
+            "id": "insourcing",
+            "word": "insourcing"
+        },
+        {
+            "id": "instalment",
+            "word": "instalment"
+        },
+        {
+            "id": "instalment_credit",
+            "word": "instalment credit"
+        },
+        {
+            "id": "instalment_plan",
+            "word": "instalment plan"
+        },
+        {
+            "id": "insurance",
+            "word": "insurance"
+        },
+        {
+            "id": "insurance_adjuster",
+            "word": "insurance adjuster"
+        },
+        {
+            "id": "insurance_broker",
+            "word": "insurance broker"
+        },
+        {
+            "id": "insurance_carrier",
+            "word": "insurance carrier"
+        },
+        {
+            "id": "insurance_claim",
+            "word": "insurance claim"
+        },
+        {
+            "id": "insurance_company",
+            "word": "insurance company"
+        },
+        {
+            "id": "insurance_policy",
+            "word": "insurance policy"
+        },
+        {
+            "id": "insurance_stamp",
+            "word": "insurance stamp"
+        },
+        {
+            "id": "insure",
+            "word": "insure"
+        },
+        {
+            "id": "insured",
+            "word": "insured"
+        },
+        {
+            "id": "insurer",
+            "word": "insurer"
+        },
+        {
+            "id": "intelsat",
+            "word": "intelsat"
+        },
+        {
+            "id": "intrapreneur",
+            "word": "intrapreneur"
+        },
+        {
+            "id": "inventory",
+            "word": "inventory"
+        },
+        {
+            "id": "inventory_control",
+            "word": "inventory control"
+        },
+        {
+            "id": "investment_income",
+            "word": "investment income"
+        },
+        {
+            "id": "ipms",
+            "word": "ipms"
+        },
+        {
+            "id": "iva",
+            "word": "iva"
+        },
+        {
+            "id": "jaycee",
+            "word": "jaycee"
+        },
+        {
+            "id": "job_analyst",
+            "word": "job analyst"
+        },
+        {
+            "id": "jobcentre",
+            "word": "jobcentre"
+        },
+        {
+            "id": "job_creator",
+            "word": "job creator"
+        },
+        {
+            "id": "jobless",
+            "word": "jobless"
+        },
+        {
+            "id": "joblessness",
+            "word": "joblessness"
+        },
+        {
+            "id": "job_rotation",
+            "word": "job rotation"
+        },
+        {
+            "id": "joint_agent",
+            "word": "joint agent"
+        },
+        {
+            "id": "joint-stock_company",
+            "word": "joint-stock company"
+        },
+        {
+            "id": "joint_venture",
+            "word": "joint venture"
+        },
+        {
+            "id": "jua_kali",
+            "word": "jua kali"
+        },
+        {
+            "id": "junior_management",
+            "word": "junior management"
+        },
+        {
+            "id": "junior_partner",
+            "word": "junior partner"
+        },
+        {
+            "id": "just-in-time",
+            "word": "just-in-time"
+        },
+        {
+            "id": "kaizen",
+            "word": "kaizen"
+        },
+        {
+            "id": "kanban",
+            "word": "kanban"
+        },
+        {
+            "id": "keiretsu",
+            "word": "keiretsu"
+        },
+        {
+            "id": "key_performance_indicator",
+            "word": "key performance indicator"
+        },
+        {
+            "id": "killer_app",
+            "word": "killer app"
+        },
+        {
+            "id": "kiosk",
+            "word": "kiosk"
+        },
+        {
+            "id": "kitemark",
+            "word": "kitemark"
+        },
+        {
+            "id": "knocker",
+            "word": "knocker"
+        },
+        {
+            "id": "knock-for-knock_agreement",
+            "word": "knock-for-knock agreement"
+        },
+        {
+            "id": "knock-off",
+            "word": "knock-off"
+        },
+        {
+            "id": "knowledge_base",
+            "word": "knowledge base"
+        },
+        {
+            "id": "knowledge_economy",
+            "word": "knowledge economy"
+        },
+        {
+            "id": "knowledge_management",
+            "word": "knowledge management"
+        },
+        {
+            "id": "land_agent",
+            "word": "land agent"
+        },
+        {
+            "id": "landbanking",
+            "word": "landbanking"
+        },
+        {
+            "id": "landlady",
+            "word": "landlady"
+        },
+        {
+            "id": "landlord",
+            "word": "landlord"
+        },
+        {
+            "id": "land_office",
+            "word": "land office"
+        },
+        {
+            "id": "law_firm",
+            "word": "law firm"
+        },
+        {
+            "id": "lay-off",
+            "word": "lay-off"
+        },
+        {
+            "id": "lbo",
+            "word": "lbo"
+        },
+        {
+            "id": "lead_gen",
+            "word": "lead gen"
+        },
+        {
+            "id": "lead_generation",
+            "word": "lead generation"
+        },
+        {
+            "id": "lead_time",
+            "word": "lead time"
+        },
+        {
+            "id": "lend",
+            "word": "lend"
+        },
+        {
+            "id": "lender",
+            "word": "lender"
+        },
+        {
+            "id": "lending",
+            "word": "lending"
+        },
+        {
+            "id": "letting",
+            "word": "letting"
+        },
+        {
+            "id": "leveraged_buyout",
+            "word": "leveraged buyout"
+        },
+        {
+            "id": "licensing_trust",
+            "word": "licensing trust"
+        },
+        {
+            "id": "licensure",
+            "word": "licensure"
+        },
+        {
+            "id": "life_insurance",
+            "word": "life insurance"
+        },
+        {
+            "id": "life_policy",
+            "word": "life policy"
+        },
+        {
+            "id": "limited_company",
+            "word": "limited company"
+        },
+        {
+            "id": "limited_liability",
+            "word": "limited liability"
+        },
+        {
+            "id": "limited_partner",
+            "word": "limited partner"
+        },
+        {
+            "id": "line-manage",
+            "word": "line-manage"
+        },
+        {
+            "id": "line_management",
+            "word": "line management"
+        },
+        {
+            "id": "line_manager",
+            "word": "line manager"
+        },
+        {
+            "id": "liquidate",
+            "word": "liquidate"
+        },
+        {
+            "id": "liquidation",
+            "word": "liquidation"
+        },
+        {
+            "id": "liquidator",
+            "word": "liquidator"
+        },
+        {
+            "id": "liquidity",
+            "word": "liquidity"
+        },
+        {
+            "id": "list_broking",
+            "word": "list broking"
+        },
+        {
+            "id": "list_price",
+            "word": "list price"
+        },
+        {
+            "id": "livery_company",
+            "word": "livery company"
+        },
+        {
+            "id": "liveryman",
+            "word": "liveryman"
+        },
+        {
+            "id": "live_sheep_trade",
+            "word": "live sheep trade"
+        },
+        {
+            "id": "load_factor",
+            "word": "load factor"
+        },
+        {
+            "id": "loan",
+            "word": "loan"
+        },
+        {
+            "id": "loan-sharking",
+            "word": "loan-sharking"
+        },
+        {
+            "id": "lock-in",
+            "word": "lock-in"
+        },
+        {
+            "id": "logo",
+            "word": "logo"
+        },
+        {
+            "id": "lolly_shop",
+            "word": "lolly shop"
+        },
+        {
+            "id": "long-dated",
+            "word": "long-dated"
+        },
+        {
+            "id": "long_tail",
+            "word": "long tail"
+        },
+        {
+            "id": "loss_adjuster",
+            "word": "loss adjuster"
+        },
+        {
+            "id": "loss-leader",
+            "word": "loss-leader"
+        },
+        {
+            "id": "loss-making",
+            "word": "loss-making"
+        },
+        {
+            "id": "low-start_mortgage",
+            "word": "low-start mortgage"
+        },
+        {
+            "id": "ltd",
+            "word": "ltd"
+        },
+        {
+            "id": "lumberyard",
+            "word": "lumberyard"
+        },
+        {
+            "id": "lump_sum",
+            "word": "lump sum"
+        },
+        {
+            "id": "machine-made",
+            "word": "machine-made"
+        },
+        {
+            "id": "mail_order",
+            "word": "mail order"
+        },
+        {
+            "id": "main_office",
+            "word": "main office"
+        },
+        {
+            "id": "management_buyout",
+            "word": "management buyout"
+        },
+        {
+            "id": "management_committee",
+            "word": "management committee"
+        },
+        {
+            "id": "management_consultancy",
+            "word": "management consultancy"
+        },
+        {
+            "id": "management_consultant",
+            "word": "management consultant"
+        },
+        {
+            "id": "management_studies",
+            "word": "management studies"
+        },
+        {
+            "id": "management_style",
+            "word": "management style"
+        },
+        {
+            "id": "management_trainee",
+            "word": "management trainee"
+        },
+        {
+            "id": "manageress",
+            "word": "manageress"
+        },
+        {
+            "id": "managing_director",
+            "word": "managing director"
+        },
+        {
+            "id": "managing_partner",
+            "word": "managing partner"
+        },
+        {
+            "id": "manufacturer",
+            "word": "manufacturer"
+        },
+        {
+            "id": "markdown",
+            "word": "markdown"
+        },
+        {
+            "id": "market_analysis",
+            "word": "market analysis"
+        },
+        {
+            "id": "market_analyst",
+            "word": "market analyst"
+        },
+        {
+            "id": "market_cap",
+            "word": "market cap"
+        },
+        {
+            "id": "market_capitalization",
+            "word": "market capitalization"
+        },
+        {
+            "id": "marketeer",
+            "word": "marketeer"
+        },
+        {
+            "id": "marketer",
+            "word": "marketer"
+        },
+        {
+            "id": "marketing",
+            "word": "marketing"
+        },
+        {
+            "id": "marketing_campaign",
+            "word": "marketing campaign"
+        },
+        {
+            "id": "marketing_company",
+            "word": "marketing company"
+        },
+        {
+            "id": "marketing_exercise",
+            "word": "marketing exercise"
+        },
+        {
+            "id": "marketing_man",
+            "word": "marketing man"
+        },
+        {
+            "id": "marketing_mix",
+            "word": "marketing mix"
+        },
+        {
+            "id": "marketing_strategy",
+            "word": "marketing strategy"
+        },
+        {
+            "id": "market_leader",
+            "word": "market leader"
+        },
+        {
+            "id": "market_opportunity",
+            "word": "market opportunity"
+        },
+        {
+            "id": "market_penetration",
+            "word": "market penetration"
+        },
+        {
+            "id": "market_price",
+            "word": "market price"
+        },
+        {
+            "id": "market_research",
+            "word": "market research"
+        },
+        {
+            "id": "market_research_agency",
+            "word": "market research agency"
+        },
+        {
+            "id": "market_share",
+            "word": "market share"
+        },
+        {
+            "id": "market_survey",
+            "word": "market survey"
+        },
+        {
+            "id": "market_town",
+            "word": "market town"
+        },
+        {
+            "id": "market_value",
+            "word": "market value"
+        },
+        {
+            "id": "markup",
+            "word": "markup"
+        },
+        {
+            "id": "mart",
+            "word": "mart"
+        },
+        {
+            "id": "mass_market",
+            "word": "mass market"
+        },
+        {
+            "id": "mba",
+            "word": "mba"
+        },
+        {
+            "id": "mbo",
+            "word": "mbo"
+        },
+        {
+            "id": "mcom",
+            "word": "mcom"
+        },
+        {
+            "id": "media_company",
+            "word": "media company"
+        },
+        {
+            "id": "medical_insurance",
+            "word": "medical insurance"
+        },
+        {
+            "id": "meltdown",
+            "word": "meltdown"
+        },
+        {
+            "id": "memorandum",
+            "word": "memorandum"
+        },
+        {
+            "id": "mentee",
+            "word": "mentee"
+        },
+        {
+            "id": "mercantile",
+            "word": "mercantile"
+        },
+        {
+            "id": "merchandising",
+            "word": "merchandising"
+        },
+        {
+            "id": "merchant",
+            "word": "merchant"
+        },
+        {
+            "id": "merchant_navy",
+            "word": "merchant navy"
+        },
+        {
+            "id": "merger",
+            "word": "merger"
+        },
+        {
+            "id": "merit_system",
+            "word": "merit system"
+        },
+        {
+            "id": "microbusiness",
+            "word": "microbusiness"
+        },
+        {
+            "id": "microenterprise",
+            "word": "microenterprise"
+        },
+        {
+            "id": "microfinance",
+            "word": "microfinance"
+        },
+        {
+            "id": "micropayment",
+            "word": "micropayment"
+        },
+        {
+            "id": "middleman",
+            "word": "middleman"
+        },
+        {
+            "id": "middle_management",
+            "word": "middle management"
+        },
+        {
+            "id": "middle_manager",
+            "word": "middle manager"
+        },
+        {
+            "id": "mill_owner",
+            "word": "mill owner"
+        },
+        {
+            "id": "mindshare",
+            "word": "mindshare"
+        },
+        {
+            "id": "mis-sell",
+            "word": "mis-sell"
+        },
+        {
+            "id": "mixed_business",
+            "word": "mixed business"
+        },
+        {
+            "id": "mnc",
+            "word": "mnc"
+        },
+        {
+            "id": "monopolies_and_mergers_commission",
+            "word": "monopolies and mergers commission"
+        },
+        {
+            "id": "monopolist",
+            "word": "monopolist"
+        },
+        {
+            "id": "monopolistic",
+            "word": "monopolistic"
+        },
+        {
+            "id": "monopoly",
+            "word": "monopoly"
+        },
+        {
+            "id": "mortgage",
+            "word": "mortgage"
+        },
+        {
+            "id": "mortgagee",
+            "word": "mortgagee"
+        },
+        {
+            "id": "mortgagor",
+            "word": "mortgagor"
+        },
+        {
+            "id": "multiplier_effect",
+            "word": "multiplier effect"
+        },
+        {
+            "id": "multi-utility",
+            "word": "multi-utility"
+        },
+        {
+            "id": "mumpreneur",
+            "word": "mumpreneur"
+        },
+        {
+            "id": "nda",
+            "word": "nda"
+        },
+        {
+            "id": "nearshoring",
+            "word": "nearshoring"
+        },
+        {
+            "id": "negative_equity",
+            "word": "negative equity"
+        },
+        {
+            "id": "negotiable",
+            "word": "negotiable"
+        },
+        {
+            "id": "net",
+            "word": "net"
+        },
+        {
+            "id": "network_effect",
+            "word": "network effect"
+        },
+        {
+            "id": "network_marketing",
+            "word": "network marketing"
+        },
+        {
+            "id": "neuromarketing",
+            "word": "neuromarketing"
+        },
+        {
+            "id": "newsjacking",
+            "word": "newsjacking"
+        },
+        {
+            "id": "niche_market",
+            "word": "niche market"
+        },
+        {
+            "id": "niche_marketing",
+            "word": "niche marketing"
+        },
+        {
+            "id": "no-claims_bonus",
+            "word": "no-claims bonus"
+        },
+        {
+            "id": "no-fault",
+            "word": "no-fault"
+        },
+        {
+            "id": "non-disclosure_agreement",
+            "word": "non-disclosure agreement"
+        },
+        {
+            "id": "non-executive",
+            "word": "non-executive"
+        },
+        {
+            "id": "non-negotiable",
+            "word": "non-negotiable"
+        },
+        {
+            "id": "non-price_competition",
+            "word": "non-price competition"
+        },
+        {
+            "id": "non-tariff",
+            "word": "non-tariff"
+        },
+        {
+            "id": "nostro_account",
+            "word": "nostro account"
+        },
+        {
+            "id": "occupation",
+            "word": "occupation"
+        },
+        {
+            "id": "octroi",
+            "word": "octroi"
+        },
+        {
+            "id": "oem",
+            "word": "oem"
+        },
+        {
+            "id": "off-brand",
+            "word": "off-brand"
+        },
+        {
+            "id": "offer_document",
+            "word": "offer document"
+        },
+        {
+            "id": "offer_price",
+            "word": "offer price"
+        },
+        {
+            "id": "office_hours",
+            "word": "office hours"
+        },
+        {
+            "id": "office_manager",
+            "word": "office manager"
+        },
+        {
+            "id": "office_space",
+            "word": "office space"
+        },
+        {
+            "id": "offshoring",
+            "word": "offshoring"
+        },
+        {
+            "id": "oieo",
+            "word": "oieo"
+        },
+        {
+            "id": "oiro",
+            "word": "oiro"
+        },
+        {
+            "id": "old_spanish_custom",
+            "word": "old spanish custom"
+        },
+        {
+            "id": "oligopoly",
+            "word": "oligopoly"
+        },
+        {
+            "id": "on-brand",
+            "word": "on-brand"
+        },
+        {
+            "id": "oncost",
+            "word": "oncost"
+        },
+        {
+            "id": "on-lend",
+            "word": "on-lend"
+        },
+        {
+            "id": "o.n.o.",
+            "word": "o.n.o."
+        },
+        {
+            "id": "on_offer",
+            "word": "on offer"
+        },
+        {
+            "id": "onshoring",
+            "word": "onshoring"
+        },
+        {
+            "id": "on_the_knocker",
+            "word": "on the knocker"
+        },
+        {
+            "id": "open_home",
+            "word": "open home"
+        },
+        {
+            "id": "open_interest",
+            "word": "open interest"
+        },
+        {
+            "id": "open_market",
+            "word": "open market"
+        },
+        {
+            "id": "open_outcry",
+            "word": "open outcry"
+        },
+        {
+            "id": "operational_expenditure",
+            "word": "operational expenditure"
+        },
+        {
+            "id": "operational_research",
+            "word": "operational research"
+        },
+        {
+            "id": "operations_manager",
+            "word": "operations manager"
+        },
+        {
+            "id": "opex",
+            "word": "opex"
+        },
+        {
+            "id": "or",
+            "word": "or"
+        },
+        {
+            "id": "order_book",
+            "word": "order book"
+        },
+        {
+            "id": "order_to_view",
+            "word": "order to view"
+        },
+        {
+            "id": "organization",
+            "word": "organization"
+        },
+        {
+            "id": "organizational",
+            "word": "organizational"
+        },
+        {
+            "id": "organization_of_the_petroleum_exporting_countries",
+            "word": "organization of the petroleum exporting countries"
+        },
+        {
+            "id": "outlay",
+            "word": "outlay"
+        },
+        {
+            "id": "out-of-town",
+            "word": "out-of-town"
+        },
+        {
+            "id": "outplacement",
+            "word": "outplacement"
+        },
+        {
+            "id": "outsert",
+            "word": "outsert"
+        },
+        {
+            "id": "outside_director",
+            "word": "outside director"
+        },
+        {
+            "id": "outsource",
+            "word": "outsource"
+        },
+        {
+            "id": "overage",
+            "word": "overage"
+        },
+        {
+            "id": "overbuy",
+            "word": "overbuy"
+        },
+        {
+            "id": "overcapacity",
+            "word": "overcapacity"
+        },
+        {
+            "id": "overproduce",
+            "word": "overproduce"
+        },
+        {
+            "id": "overproduction",
+            "word": "overproduction"
+        },
+        {
+            "id": "oversell",
+            "word": "oversell"
+        },
+        {
+            "id": "oversubscribed",
+            "word": "oversubscribed"
+        },
+        {
+            "id": "overtrade",
+            "word": "overtrade"
+        },
+        {
+            "id": "overvalue",
+            "word": "overvalue"
+        },
+        {
+            "id": "p45",
+            "word": "p45"
+        },
+        {
+            "id": "packaging",
+            "word": "packaging"
+        },
+        {
+            "id": "paddy%27s_market",
+            "word": "paddy's market"
+        },
+        {
+            "id": "panic-buy",
+            "word": "panic-buy"
+        },
+        {
+            "id": "panic_buying",
+            "word": "panic buying"
+        },
+        {
+            "id": "panic_sell",
+            "word": "panic sell"
+        },
+        {
+            "id": "panic_selling",
+            "word": "panic selling"
+        },
+        {
+            "id": "parallel_importing",
+            "word": "parallel importing"
+        },
+        {
+            "id": "parallel_imports",
+            "word": "parallel imports"
+        },
+        {
+            "id": "party_plan",
+            "word": "party plan"
+        },
+        {
+            "id": "patent",
+            "word": "patent"
+        },
+        {
+            "id": "patentee",
+            "word": "patentee"
+        },
+        {
+            "id": "patent_troll",
+            "word": "patent troll"
+        },
+        {
+            "id": "patent_trolling",
+            "word": "patent trolling"
+        },
+        {
+            "id": "pawnbroker",
+            "word": "pawnbroker"
+        },
+        {
+            "id": "pawnshop",
+            "word": "pawnshop"
+        },
+        {
+            "id": "pax",
+            "word": "pax"
+        },
+        {
+            "id": "pay_envelope",
+            "word": "pay envelope"
+        },
+        {
+            "id": "payola",
+            "word": "payola"
+        },
+        {
+            "id": "pay-per-click",
+            "word": "pay-per-click"
+        },
+        {
+            "id": "payroll",
+            "word": "payroll"
+        },
+        {
+            "id": "pay-to-play",
+            "word": "pay-to-play"
+        },
+        {
+            "id": "peddle",
+            "word": "peddle"
+        },
+        {
+            "id": "penalty_rate",
+            "word": "penalty rate"
+        },
+        {
+            "id": "pensionary",
+            "word": "pensionary"
+        },
+        {
+            "id": "pensioner",
+            "word": "pensioner"
+        },
+        {
+            "id": "personnel_department",
+            "word": "personnel department"
+        },
+        {
+            "id": "pharma",
+            "word": "pharma"
+        },
+        {
+            "id": "pie_cart",
+            "word": "pie cart"
+        },
+        {
+            "id": "piece_rate",
+            "word": "piece rate"
+        },
+        {
+            "id": "piecework",
+            "word": "piecework"
+        },
+        {
+            "id": "pig_in_the_python",
+            "word": "pig in the python"
+        },
+        {
+            "id": "pink-collar",
+            "word": "pink-collar"
+        },
+        {
+            "id": "placing",
+            "word": "placing"
+        },
+        {
+            "id": "plain_time",
+            "word": "plain time"
+        },
+        {
+            "id": "planification",
+            "word": "planification"
+        },
+        {
+            "id": "planned_obsolescence",
+            "word": "planned obsolescence"
+        },
+        {
+            "id": "planning_blight",
+            "word": "planning blight"
+        },
+        {
+            "id": "planning_gain",
+            "word": "planning gain"
+        },
+        {
+            "id": "plc",
+            "word": "plc"
+        },
+        {
+            "id": "plugola",
+            "word": "plugola"
+        },
+        {
+            "id": "policy",
+            "word": "policy"
+        },
+        {
+            "id": "pop_shop",
+            "word": "pop shop"
+        },
+        {
+            "id": "port_of_london_authority",
+            "word": "port of london authority"
+        },
+        {
+            "id": "position_paper",
+            "word": "position paper"
+        },
+        {
+            "id": "post-industrial",
+            "word": "post-industrial"
+        },
+        {
+            "id": "poundage",
+            "word": "poundage"
+        },
+        {
+            "id": "power_lunch",
+            "word": "power lunch"
+        },
+        {
+            "id": "predatory_pricing",
+            "word": "predatory pricing"
+        },
+        {
+            "id": "pre-emptive",
+            "word": "pre-emptive"
+        },
+        {
+            "id": "preferred_partner",
+            "word": "preferred partner"
+        },
+        {
+            "id": "prestige_pricing",
+            "word": "prestige pricing"
+        },
+        {
+            "id": "price",
+            "word": "price"
+        },
+        {
+            "id": "price_discrimination",
+            "word": "price discrimination"
+        },
+        {
+            "id": "price-fixing",
+            "word": "price-fixing"
+        },
+        {
+            "id": "price_lining",
+            "word": "price lining"
+        },
+        {
+            "id": "price_list",
+            "word": "price list"
+        },
+        {
+            "id": "price_oneself_out_of_the_market",
+            "word": "price oneself out of the market"
+        },
+        {
+            "id": "price_ring",
+            "word": "price ring"
+        },
+        {
+            "id": "price-sensitive",
+            "word": "price-sensitive"
+        },
+        {
+            "id": "price_tag",
+            "word": "price tag"
+        },
+        {
+            "id": "price_war",
+            "word": "price war"
+        },
+        {
+            "id": "prime_cost",
+            "word": "prime cost"
+        },
+        {
+            "id": "prime_rate",
+            "word": "prime rate"
+        },
+        {
+            "id": "private_company",
+            "word": "private company"
+        },
+        {
+            "id": "private_enterprise",
+            "word": "private enterprise"
+        },
+        {
+            "id": "privatization",
+            "word": "privatization"
+        },
+        {
+            "id": "privatize",
+            "word": "privatize"
+        },
+        {
+            "id": "product_differentiation",
+            "word": "product differentiation"
+        },
+        {
+            "id": "production_costs",
+            "word": "production costs"
+        },
+        {
+            "id": "production_line",
+            "word": "production line"
+        },
+        {
+            "id": "productize",
+            "word": "productize"
+        },
+        {
+            "id": "product_liability",
+            "word": "product liability"
+        },
+        {
+            "id": "product_mix",
+            "word": "product mix"
+        },
+        {
+            "id": "product_placement",
+            "word": "product placement"
+        },
+        {
+            "id": "profit_centre",
+            "word": "profit centre"
+        },
+        {
+            "id": "profit_margin",
+            "word": "profit margin"
+        },
+        {
+            "id": "profit-sharing",
+            "word": "profit-sharing"
+        },
+        {
+            "id": "pro_forma",
+            "word": "pro forma"
+        },
+        {
+            "id": "programme_evaluation_and_review_technique",
+            "word": "programme evaluation and review technique"
+        },
+        {
+            "id": "progress_chaser",
+            "word": "progress chaser"
+        },
+        {
+            "id": "promote",
+            "word": "promote"
+        },
+        {
+            "id": "prompt_note",
+            "word": "prompt note"
+        },
+        {
+            "id": "property_developer",
+            "word": "property developer"
+        },
+        {
+            "id": "proprietary_company",
+            "word": "proprietary company"
+        },
+        {
+            "id": "proprietary_name",
+            "word": "proprietary name"
+        },
+        {
+            "id": "proprietor",
+            "word": "proprietor"
+        },
+        {
+            "id": "prosumer",
+            "word": "prosumer"
+        },
+        {
+            "id": "proximo",
+            "word": "proximo"
+        },
+        {
+            "id": "pty",
+            "word": "pty"
+        },
+        {
+            "id": "publicity",
+            "word": "publicity"
+        },
+        {
+            "id": "public_limited_company",
+            "word": "public limited company"
+        },
+        {
+            "id": "public_relations",
+            "word": "public relations"
+        },
+        {
+            "id": "purchasing_power",
+            "word": "purchasing power"
+        },
+        {
+            "id": "pure_play",
+            "word": "pure play"
+        },
+        {
+            "id": "pushback",
+            "word": "pushback"
+        },
+        {
+            "id": "put_something_out_to_tender",
+            "word": "put something out to tender"
+        },
+        {
+            "id": "pyramid_selling",
+            "word": "pyramid selling"
+        },
+        {
+            "id": "qa",
+            "word": "qa"
+        },
+        {
+            "id": "qc",
+            "word": "qc"
+        },
+        {
+            "id": "quality_assurance",
+            "word": "quality assurance"
+        },
+        {
+            "id": "quality_circle",
+            "word": "quality circle"
+        },
+        {
+            "id": "quality_control",
+            "word": "quality control"
+        },
+        {
+            "id": "quarter_day",
+            "word": "quarter day"
+        },
+        {
+            "id": "quota",
+            "word": "quota"
+        },
+        {
+            "id": "rachmanism",
+            "word": "rachmanism"
+        },
+        {
+            "id": "rag_trade",
+            "word": "rag trade"
+        },
+        {
+            "id": "re-advertise",
+            "word": "re-advertise"
+        },
+        {
+            "id": "ready_money",
+            "word": "ready money"
+        },
+        {
+            "id": "ready_reckoner",
+            "word": "ready reckoner"
+        },
+        {
+            "id": "realtor",
+            "word": "realtor"
+        },
+        {
+            "id": "rebadge",
+            "word": "rebadge"
+        },
+        {
+            "id": "rebrand",
+            "word": "rebrand"
+        },
+        {
+            "id": "recoup",
+            "word": "recoup"
+        },
+        {
+            "id": "recruiter",
+            "word": "recruiter"
+        },
+        {
+            "id": "re-employ",
+            "word": "re-employ"
+        },
+        {
+            "id": "re-engineer",
+            "word": "re-engineer"
+        },
+        {
+            "id": "re-export",
+            "word": "re-export"
+        },
+        {
+            "id": "refinance",
+            "word": "refinance"
+        },
+        {
+            "id": "reimport",
+            "word": "reimport"
+        },
+        {
+            "id": "reinsure",
+            "word": "reinsure"
+        },
+        {
+            "id": "relabel",
+            "word": "relabel"
+        },
+        {
+            "id": "relationship_management",
+            "word": "relationship management"
+        },
+        {
+            "id": "remunerate",
+            "word": "remunerate"
+        },
+        {
+            "id": "renationalize",
+            "word": "renationalize"
+        },
+        {
+            "id": "renegotiate",
+            "word": "renegotiate"
+        },
+        {
+            "id": "renegotiation",
+            "word": "renegotiation"
+        },
+        {
+            "id": "rent",
+            "word": "rent"
+        },
+        {
+            "id": "rental",
+            "word": "rental"
+        },
+        {
+            "id": "rent-seeking",
+            "word": "rent-seeking"
+        },
+        {
+            "id": "reorder",
+            "word": "reorder"
+        },
+        {
+            "id": "rep",
+            "word": "rep"
+        },
+        {
+            "id": "repackage",
+            "word": "repackage"
+        },
+        {
+            "id": "repackaging",
+            "word": "repackaging"
+        },
+        {
+            "id": "repayment_mortgage",
+            "word": "repayment mortgage"
+        },
+        {
+            "id": "reporting_company",
+            "word": "reporting company"
+        },
+        {
+            "id": "repossess",
+            "word": "repossess"
+        },
+        {
+            "id": "repossession",
+            "word": "repossession"
+        },
+        {
+            "id": "reprice",
+            "word": "reprice"
+        },
+        {
+            "id": "repurchase",
+            "word": "repurchase"
+        },
+        {
+            "id": "requisition",
+            "word": "requisition"
+        },
+        {
+            "id": "resale",
+            "word": "resale"
+        },
+        {
+            "id": "resell",
+            "word": "resell"
+        },
+        {
+            "id": "reseller",
+            "word": "reseller"
+        },
+        {
+            "id": "reserve_price",
+            "word": "reserve price"
+        },
+        {
+            "id": "reshore",
+            "word": "reshore"
+        },
+        {
+            "id": "reshoring",
+            "word": "reshoring"
+        },
+        {
+            "id": "resource",
+            "word": "resource"
+        },
+        {
+            "id": "resourceless",
+            "word": "resourceless"
+        },
+        {
+            "id": "restock",
+            "word": "restock"
+        },
+        {
+            "id": "restraint_of_trade",
+            "word": "restraint of trade"
+        },
+        {
+            "id": "restricted_stock",
+            "word": "restricted stock"
+        },
+        {
+            "id": "restrictive_practice",
+            "word": "restrictive practice"
+        },
+        {
+            "id": "reverse-engineer",
+            "word": "reverse-engineer"
+        },
+        {
+            "id": "reverse_engineering",
+            "word": "reverse engineering"
+        },
+        {
+            "id": "rfid",
+            "word": "rfid"
+        },
+        {
+            "id": "rfp",
+            "word": "rfp"
+        },
+        {
+            "id": "ringster",
+            "word": "ringster"
+        },
+        {
+            "id": "risk_management",
+            "word": "risk management"
+        },
+        {
+            "id": "rock-bottom",
+            "word": "rock-bottom"
+        },
+        {
+            "id": "rollback",
+            "word": "rollback"
+        },
+        {
+            "id": "roup",
+            "word": "roup"
+        },
+        {
+            "id": "royal_warrant",
+            "word": "royal warrant"
+        },
+        {
+            "id": "rpm",
+            "word": "rpm"
+        },
+        {
+            "id": "sale_of_work",
+            "word": "sale of work"
+        },
+        {
+            "id": "saleroom",
+            "word": "saleroom"
+        },
+        {
+            "id": "saleslady",
+            "word": "saleslady"
+        },
+        {
+            "id": "salesman",
+            "word": "salesman"
+        },
+        {
+            "id": "salesmanship",
+            "word": "salesmanship"
+        },
+        {
+            "id": "sales_talk",
+            "word": "sales talk"
+        },
+        {
+            "id": "satisfice",
+            "word": "satisfice"
+        },
+        {
+            "id": "sba",
+            "word": "sba"
+        },
+        {
+            "id": "secretary_general",
+            "word": "secretary general"
+        },
+        {
+            "id": "securitize",
+            "word": "securitize"
+        },
+        {
+            "id": "seller%27s_%28or_sellers%27%29_market",
+            "word": "seller's (or sellers') market"
+        },
+        {
+            "id": "sell-in",
+            "word": "sell-in"
+        },
+        {
+            "id": "selling_point",
+            "word": "selling point"
+        },
+        {
+            "id": "sell-through",
+            "word": "sell-through"
+        },
+        {
+            "id": "senior_management",
+            "word": "senior management"
+        },
+        {
+            "id": "senior_partner",
+            "word": "senior partner"
+        },
+        {
+            "id": "service_bureau",
+            "word": "service bureau"
+        },
+        {
+            "id": "service_industry",
+            "word": "service industry"
+        },
+        {
+            "id": "service_mark",
+            "word": "service mark"
+        },
+        {
+            "id": "severance_pay",
+            "word": "severance pay"
+        },
+        {
+            "id": "share",
+            "word": "share"
+        },
+        {
+            "id": "shareholder",
+            "word": "shareholder"
+        },
+        {
+            "id": "shareholding",
+            "word": "shareholding"
+        },
+        {
+            "id": "share_option",
+            "word": "share option"
+        },
+        {
+            "id": "shelf_life",
+            "word": "shelf life"
+        },
+        {
+            "id": "shell_company",
+            "word": "shell company"
+        },
+        {
+            "id": "shell_egg",
+            "word": "shell egg"
+        },
+        {
+            "id": "shift_work",
+            "word": "shift work"
+        },
+        {
+            "id": "ship%27s_husband",
+            "word": "ship's husband"
+        },
+        {
+            "id": "shipbroker",
+            "word": "shipbroker"
+        },
+        {
+            "id": "shipbuilder",
+            "word": "shipbuilder"
+        },
+        {
+            "id": "shipbuilding",
+            "word": "shipbuilding"
+        },
+        {
+            "id": "shipment",
+            "word": "shipment"
+        },
+        {
+            "id": "shipper",
+            "word": "shipper"
+        },
+        {
+            "id": "shipping_bill",
+            "word": "shipping bill"
+        },
+        {
+            "id": "shoddy_dropper",
+            "word": "shoddy dropper"
+        },
+        {
+            "id": "short-dated",
+            "word": "short-dated"
+        },
+        {
+            "id": "shortfall",
+            "word": "shortfall"
+        },
+        {
+            "id": "short_time",
+            "word": "short time"
+        },
+        {
+            "id": "shrinkage",
+            "word": "shrinkage"
+        },
+        {
+            "id": "shrinkflation",
+            "word": "shrinkflation"
+        },
+        {
+            "id": "sick_pay",
+            "word": "sick pay"
+        },
+        {
+            "id": "sightseer",
+            "word": "sightseer"
+        },
+        {
+            "id": "signboard",
+            "word": "signboard"
+        },
+        {
+            "id": "signee",
+            "word": "signee"
+        },
+        {
+            "id": "signwriter",
+            "word": "signwriter"
+        },
+        {
+            "id": "siloed",
+            "word": "siloed"
+        },
+        {
+            "id": "singles_bar",
+            "word": "singles bar"
+        },
+        {
+            "id": "single-source",
+            "word": "single-source"
+        },
+        {
+            "id": "six_sigma",
+            "word": "six sigma"
+        },
+        {
+            "id": "skunkworks",
+            "word": "skunkworks"
+        },
+        {
+            "id": "slamming",
+            "word": "slamming"
+        },
+        {
+            "id": "slash",
+            "word": "slash"
+        },
+        {
+            "id": "sleeping_partner",
+            "word": "sleeping partner"
+        },
+        {
+            "id": "slice_and_dice",
+            "word": "slice and dice"
+        },
+        {
+            "id": "sliding_scale",
+            "word": "sliding scale"
+        },
+        {
+            "id": "slogan",
+            "word": "slogan"
+        },
+        {
+            "id": "slowdown",
+            "word": "slowdown"
+        },
+        {
+            "id": "sme",
+            "word": "sme"
+        },
+        {
+            "id": "soft_launch",
+            "word": "soft launch"
+        },
+        {
+            "id": "soft_sell",
+            "word": "soft sell"
+        },
+        {
+            "id": "sogo_shosha",
+            "word": "sogo shosha"
+        },
+        {
+            "id": "sokaiya",
+            "word": "sokaiya"
+        },
+        {
+            "id": "sole_proprietor",
+            "word": "sole proprietor"
+        },
+        {
+            "id": "sole_trader",
+            "word": "sole trader"
+        },
+        {
+            "id": "solopreneur",
+            "word": "solopreneur"
+        },
+        {
+            "id": "solvency",
+            "word": "solvency"
+        },
+        {
+            "id": "solvent",
+            "word": "solvent"
+        },
+        {
+            "id": "soroptimist",
+            "word": "soroptimist"
+        },
+        {
+            "id": "speculative_builder",
+            "word": "speculative builder"
+        },
+        {
+            "id": "speculator",
+            "word": "speculator"
+        },
+        {
+            "id": "split_shift",
+            "word": "split shift"
+        },
+        {
+            "id": "spot_advertising",
+            "word": "spot advertising"
+        },
+        {
+            "id": "stallage",
+            "word": "stallage"
+        },
+        {
+            "id": "stallholder",
+            "word": "stallholder"
+        },
+        {
+            "id": "standard_cost",
+            "word": "standard cost"
+        },
+        {
+            "id": "standing_order",
+            "word": "standing order"
+        },
+        {
+            "id": "step_change",
+            "word": "step change"
+        },
+        {
+            "id": "stick_to_the_%28or_one%27s%29_knitting",
+            "word": "stick to the (or one's) knitting"
+        },
+        {
+            "id": "stipulation",
+            "word": "stipulation"
+        },
+        {
+            "id": "stock_book",
+            "word": "stock book"
+        },
+        {
+            "id": "stock_control",
+            "word": "stock control"
+        },
+        {
+            "id": "stock-out",
+            "word": "stock-out"
+        },
+        {
+            "id": "stockroom",
+            "word": "stockroom"
+        },
+        {
+            "id": "stocktake",
+            "word": "stocktake"
+        },
+        {
+            "id": "stocktaking",
+            "word": "stocktaking"
+        },
+        {
+            "id": "stop-loss",
+            "word": "stop-loss"
+        },
+        {
+            "id": "straight_time",
+            "word": "straight time"
+        },
+        {
+            "id": "street_trader",
+            "word": "street trader"
+        },
+        {
+            "id": "stretch_goal",
+            "word": "stretch goal"
+        },
+        {
+            "id": "sub-branch",
+            "word": "sub-branch"
+        },
+        {
+            "id": "subcontract",
+            "word": "subcontract"
+        },
+        {
+            "id": "subcontractor",
+            "word": "subcontractor"
+        },
+        {
+            "id": "subordinated_debt",
+            "word": "subordinated debt"
+        },
+        {
+            "id": "subsidize",
+            "word": "subsidize"
+        },
+        {
+            "id": "subsidized",
+            "word": "subsidized"
+        },
+        {
+            "id": "subsidy",
+            "word": "subsidy"
+        },
+        {
+            "id": "subtenant",
+            "word": "subtenant"
+        },
+        {
+            "id": "sunrise_industry",
+            "word": "sunrise industry"
+        },
+        {
+            "id": "sunset_industry",
+            "word": "sunset industry"
+        },
+        {
+            "id": "superannuant",
+            "word": "superannuant"
+        },
+        {
+            "id": "superannuation",
+            "word": "superannuation"
+        },
+        {
+            "id": "superannuitant",
+            "word": "superannuitant"
+        },
+        {
+            "id": "supplier",
+            "word": "supplier"
+        },
+        {
+            "id": "supply_chain",
+            "word": "supply chain"
+        },
+        {
+            "id": "support_price",
+            "word": "support price"
+        },
+        {
+            "id": "surge_pricing",
+            "word": "surge pricing"
+        },
+        {
+            "id": "suspend_payment",
+            "word": "suspend payment"
+        },
+        {
+            "id": "sweatshop",
+            "word": "sweatshop"
+        },
+        {
+            "id": "sweetheart_deal",
+            "word": "sweetheart deal"
+        },
+        {
+            "id": "swipe_card",
+            "word": "swipe card"
+        },
+        {
+            "id": "switch_selling",
+            "word": "switch selling"
+        },
+        {
+            "id": "swot_analysis",
+            "word": "swot analysis"
+        },
+        {
+            "id": "syndicate",
+            "word": "syndicate"
+        },
+        {
+            "id": "syndication",
+            "word": "syndication"
+        },
+        {
+            "id": "synergetic",
+            "word": "synergetic"
+        },
+        {
+            "id": "synergy",
+            "word": "synergy"
+        },
+        {
+            "id": "t%2Fa",
+            "word": "t/a"
+        },
+        {
+            "id": "taipan",
+            "word": "taipan"
+        },
+        {
+            "id": "take-home_pay",
+            "word": "take-home pay"
+        },
+        {
+            "id": "takeover",
+            "word": "takeover"
+        },
+        {
+            "id": "tallyman",
+            "word": "tallyman"
+        },
+        {
+            "id": "tally_system",
+            "word": "tally system"
+        },
+        {
+            "id": "tare",
+            "word": "tare"
+        },
+        {
+            "id": "tare_and_tret",
+            "word": "tare and tret"
+        },
+        {
+            "id": "target_market",
+            "word": "target market"
+        },
+        {
+            "id": "tariff",
+            "word": "tariff"
+        },
+        {
+            "id": "tco",
+            "word": "tco"
+        },
+        {
+            "id": "technopreneur",
+            "word": "technopreneur"
+        },
+        {
+            "id": "technostructure",
+            "word": "technostructure"
+        },
+        {
+            "id": "tele-ad",
+            "word": "tele-ad"
+        },
+        {
+            "id": "telemarketing",
+            "word": "telemarketing"
+        },
+        {
+            "id": "telesales",
+            "word": "telesales"
+        },
+        {
+            "id": "teleshopping",
+            "word": "teleshopping"
+        },
+        {
+            "id": "tenure_track",
+            "word": "tenure track"
+        },
+        {
+            "id": "throughput",
+            "word": "throughput"
+        },
+        {
+            "id": "timber_yard",
+            "word": "timber yard"
+        },
+        {
+            "id": "time_and_motion_study",
+            "word": "time and motion study"
+        },
+        {
+            "id": "tmt",
+            "word": "tmt"
+        },
+        {
+            "id": "ton-mile",
+            "word": "ton-mile"
+        },
+        {
+            "id": "tontine",
+            "word": "tontine"
+        },
+        {
+            "id": "top-selling",
+            "word": "top-selling"
+        },
+        {
+            "id": "tqm",
+            "word": "tqm"
+        },
+        {
+            "id": "trade",
+            "word": "trade"
+        },
+        {
+            "id": "trade_discount",
+            "word": "trade discount"
+        },
+        {
+            "id": "trade_dispute",
+            "word": "trade dispute"
+        },
+        {
+            "id": "trademark",
+            "word": "trademark"
+        },
+        {
+            "id": "trade_name",
+            "word": "trade name"
+        },
+        {
+            "id": "trade_route",
+            "word": "trade route"
+        },
+        {
+            "id": "trade-up",
+            "word": "trade-up"
+        },
+        {
+            "id": "trade_war",
+            "word": "trade war"
+        },
+        {
+            "id": "trading_post",
+            "word": "trading post"
+        },
+        {
+            "id": "trading_stamp",
+            "word": "trading stamp"
+        },
+        {
+            "id": "tranche",
+            "word": "tranche"
+        },
+        {
+            "id": "transire",
+            "word": "transire"
+        },
+        {
+            "id": "traveller%27s_cheque",
+            "word": "traveller's cheque"
+        },
+        {
+            "id": "travelling_salesman",
+            "word": "travelling salesman"
+        },
+        {
+            "id": "tret",
+            "word": "tret"
+        },
+        {
+            "id": "trial_balance",
+            "word": "trial balance"
+        },
+        {
+            "id": "truck",
+            "word": "truck"
+        },
+        {
+            "id": "trust_company",
+            "word": "trust company"
+        },
+        {
+            "id": "turnover",
+            "word": "turnover"
+        },
+        {
+            "id": "tycoon",
+            "word": "tycoon"
+        },
+        {
+            "id": "type_approval",
+            "word": "type approval"
+        },
+        {
+            "id": "tyre_kicker",
+            "word": "tyre kicker"
+        },
+        {
+            "id": "ubr",
+            "word": "ubr"
+        },
+        {
+            "id": "uk_plc",
+            "word": "uk plc"
+        },
+        {
+            "id": "ultimo",
+            "word": "ultimo"
+        },
+        {
+            "id": "unaffordable",
+            "word": "unaffordable"
+        },
+        {
+            "id": "unbranded",
+            "word": "unbranded"
+        },
+        {
+            "id": "unbundle",
+            "word": "unbundle"
+        },
+        {
+            "id": "unbundler",
+            "word": "unbundler"
+        },
+        {
+            "id": "uncashed",
+            "word": "uncashed"
+        },
+        {
+            "id": "uncommercial",
+            "word": "uncommercial"
+        },
+        {
+            "id": "uncompetitive",
+            "word": "uncompetitive"
+        },
+        {
+            "id": "unctad",
+            "word": "unctad"
+        },
+        {
+            "id": "undercharge",
+            "word": "undercharge"
+        },
+        {
+            "id": "undercut",
+            "word": "undercut"
+        },
+        {
+            "id": "underoccupancy",
+            "word": "underoccupancy"
+        },
+        {
+            "id": "underprice",
+            "word": "underprice"
+        },
+        {
+            "id": "underproduction",
+            "word": "underproduction"
+        },
+        {
+            "id": "underquote",
+            "word": "underquote"
+        },
+        {
+            "id": "undersell",
+            "word": "undersell"
+        },
+        {
+            "id": "underwrite",
+            "word": "underwrite"
+        },
+        {
+            "id": "underwriter",
+            "word": "underwriter"
+        },
+        {
+            "id": "undischarged",
+            "word": "undischarged"
+        },
+        {
+            "id": "unemployable",
+            "word": "unemployable"
+        },
+        {
+            "id": "unemployed",
+            "word": "unemployed"
+        },
+        {
+            "id": "unencumbered",
+            "word": "unencumbered"
+        },
+        {
+            "id": "unincorporated",
+            "word": "unincorporated"
+        },
+        {
+            "id": "uninsurable",
+            "word": "uninsurable"
+        },
+        {
+            "id": "uninsured",
+            "word": "uninsured"
+        },
+        {
+            "id": "universal_product_code",
+            "word": "universal product code"
+        },
+        {
+            "id": "unliquidated",
+            "word": "unliquidated"
+        },
+        {
+            "id": "unmarketable",
+            "word": "unmarketable"
+        },
+        {
+            "id": "unmerchantable",
+            "word": "unmerchantable"
+        },
+        {
+            "id": "unpriced",
+            "word": "unpriced"
+        },
+        {
+            "id": "unremunerative",
+            "word": "unremunerative"
+        },
+        {
+            "id": "unsold",
+            "word": "unsold"
+        },
+        {
+            "id": "upmarket",
+            "word": "upmarket"
+        },
+        {
+            "id": "upscale",
+            "word": "upscale"
+        },
+        {
+            "id": "upsell",
+            "word": "upsell"
+        },
+        {
+            "id": "upset_price",
+            "word": "upset price"
+        },
+        {
+            "id": "upskill",
+            "word": "upskill"
+        },
+        {
+            "id": "upskilling",
+            "word": "upskilling"
+        },
+        {
+            "id": "use-by_date",
+            "word": "use-by date"
+        },
+        {
+            "id": "user-led",
+            "word": "user-led"
+        },
+        {
+            "id": "usp",
+            "word": "usp"
+        },
+        {
+            "id": "usurer",
+            "word": "usurer"
+        },
+        {
+            "id": "usurious",
+            "word": "usurious"
+        },
+        {
+            "id": "usury",
+            "word": "usury"
+        },
+        {
+            "id": "valuation",
+            "word": "valuation"
+        },
+        {
+            "id": "valuation_date",
+            "word": "valuation date"
+        },
+        {
+            "id": "valuator",
+            "word": "valuator"
+        },
+        {
+            "id": "value_added_tax",
+            "word": "value added tax"
+        },
+        {
+            "id": "value_analysis",
+            "word": "value analysis"
+        },
+        {
+            "id": "value_engineering",
+            "word": "value engineering"
+        },
+        {
+            "id": "value_proposition",
+            "word": "value proposition"
+        },
+        {
+            "id": "valuer",
+            "word": "valuer"
+        },
+        {
+            "id": "value_received",
+            "word": "value received"
+        },
+        {
+            "id": "var",
+            "word": "var"
+        },
+        {
+            "id": "variable_cost",
+            "word": "variable cost"
+        },
+        {
+            "id": "variable-rate",
+            "word": "variable-rate"
+        },
+        {
+            "id": "vatman",
+            "word": "vatman"
+        },
+        {
+            "id": "vend",
+            "word": "vend"
+        },
+        {
+            "id": "vending_machine",
+            "word": "vending machine"
+        },
+        {
+            "id": "vendor",
+            "word": "vendor"
+        },
+        {
+            "id": "venturer",
+            "word": "venturer"
+        },
+        {
+            "id": "vertical_integration",
+            "word": "vertical integration"
+        },
+        {
+            "id": "vertical_market",
+            "word": "vertical market"
+        },
+        {
+            "id": "viral_marketing",
+            "word": "viral marketing"
+        },
+        {
+            "id": "visioning",
+            "word": "visioning"
+        },
+        {
+            "id": "vostro_account",
+            "word": "vostro account"
+        },
+        {
+            "id": "voucher",
+            "word": "voucher"
+        },
+        {
+            "id": "wage_bill",
+            "word": "wage bill"
+        },
+        {
+            "id": "waged",
+            "word": "waged"
+        },
+        {
+            "id": "want_ad",
+            "word": "want ad"
+        },
+        {
+            "id": "warehouse_club",
+            "word": "warehouse club"
+        },
+        {
+            "id": "warranty",
+            "word": "warranty"
+        },
+        {
+            "id": "waterborne",
+            "word": "waterborne"
+        },
+        {
+            "id": "waybill",
+            "word": "waybill"
+        },
+        {
+            "id": "way_leave",
+            "word": "way leave"
+        },
+        {
+            "id": "white_goods",
+            "word": "white goods"
+        },
+        {
+            "id": "whiteware",
+            "word": "whiteware"
+        },
+        {
+            "id": "whitley_council",
+            "word": "whitley council"
+        },
+        {
+            "id": "whole-life",
+            "word": "whole-life"
+        },
+        {
+            "id": "wholly_owned",
+            "word": "wholly owned"
+        },
+        {
+            "id": "wind_something_up",
+            "word": "wind something up"
+        },
+        {
+            "id": "with_interest",
+            "word": "with interest"
+        },
+        {
+            "id": "with-profits",
+            "word": "with-profits"
+        },
+        {
+            "id": "wool_bale",
+            "word": "wool bale"
+        },
+        {
+            "id": "wool-stapler",
+            "word": "wool-stapler"
+        },
+        {
+            "id": "work_experience",
+            "word": "work experience"
+        },
+        {
+            "id": "work_in_progress",
+            "word": "work in progress"
+        },
+        {
+            "id": "world_fair",
+            "word": "world fair"
+        },
+        {
+            "id": "world_intellectual_property_organization",
+            "word": "world intellectual property organization"
+        },
+        {
+            "id": "write_something_down",
+            "word": "write something down"
+        },
+        {
+            "id": "zaibatsu",
+            "word": "zaibatsu"
+        },
+        {
+            "id": "zero-rated",
+            "word": "zero-rated"
+        }
+    ]
+}

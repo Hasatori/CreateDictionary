@@ -1,0 +1,95 @@
+{
+    "results": [
+        {
+            "id": "botte",
+            "word": "botte"
+        },
+        {
+            "id": "%C3%A9p%C3%A9e",
+            "word": "épée"
+        },
+        {
+            "id": "feint",
+            "word": "feint"
+        },
+        {
+            "id": "fencing",
+            "word": "fencing"
+        },
+        {
+            "id": "foil",
+            "word": "foil"
+        },
+        {
+            "id": "lunge",
+            "word": "lunge"
+        },
+        {
+            "id": "parry",
+            "word": "parry"
+        },
+        {
+            "id": "plastron",
+            "word": "plastron"
+        },
+        {
+            "id": "quinte",
+            "word": "quinte"
+        },
+        {
+            "id": "rapier",
+            "word": "rapier"
+        },
+        {
+            "id": "remise",
+            "word": "remise"
+        },
+        {
+            "id": "sabreur",
+            "word": "sabreur"
+        },
+        {
+            "id": "seconde",
+            "word": "seconde"
+        },
+        {
+            "id": "septime",
+            "word": "septime"
+        },
+        {
+            "id": "single_stick",
+            "word": "single stick"
+        },
+        {
+            "id": "sixte",
+            "word": "sixte"
+        },
+        {
+            "id": "small-sword",
+            "word": "small-sword"
+        },
+        {
+            "id": "swordplay",
+            "word": "swordplay"
+        },
+        {
+            "id": "tac-au-tac",
+            "word": "tac-au-tac"
+        },
+        {
+            "id": "volt",
+            "word": "volt"
+        },
+        {
+            "id": "volte",
+            "word": "volte"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 21,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

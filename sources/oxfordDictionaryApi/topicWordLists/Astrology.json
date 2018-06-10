@@ -1,0 +1,223 @@
+{
+    "results": [
+        {
+            "id": "afflict",
+            "word": "afflict"
+        },
+        {
+            "id": "age_of_aquarius",
+            "word": "age of aquarius"
+        },
+        {
+            "id": "aquarian",
+            "word": "aquarian"
+        },
+        {
+            "id": "arian",
+            "word": "arian"
+        },
+        {
+            "id": "astrologer",
+            "word": "astrologer"
+        },
+        {
+            "id": "astrological",
+            "word": "astrological"
+        },
+        {
+            "id": "astrology",
+            "word": "astrology"
+        },
+        {
+            "id": "astromancy",
+            "word": "astromancy"
+        },
+        {
+            "id": "benefic",
+            "word": "benefic"
+        },
+        {
+            "id": "birth_sign",
+            "word": "birth sign"
+        },
+        {
+            "id": "cancerian",
+            "word": "cancerian"
+        },
+        {
+            "id": "capricorn",
+            "word": "capricorn"
+        },
+        {
+            "id": "capricornian",
+            "word": "capricornian"
+        },
+        {
+            "id": "decan",
+            "word": "decan"
+        },
+        {
+            "id": "direct",
+            "word": "direct"
+        },
+        {
+            "id": "dispositor",
+            "word": "dispositor"
+        },
+        {
+            "id": "dragon%27s_head",
+            "word": "dragon's head"
+        },
+        {
+            "id": "dragon%27s_tail",
+            "word": "dragon's tail"
+        },
+        {
+            "id": "ephemeris",
+            "word": "ephemeris"
+        },
+        {
+            "id": "geminian",
+            "word": "geminian"
+        },
+        {
+            "id": "grand_cross",
+            "word": "grand cross"
+        },
+        {
+            "id": "grand_trine",
+            "word": "grand trine"
+        },
+        {
+            "id": "horoscope",
+            "word": "horoscope"
+        },
+        {
+            "id": "leonian",
+            "word": "leonian"
+        },
+        {
+            "id": "libran",
+            "word": "libran"
+        },
+        {
+            "id": "malefic",
+            "word": "malefic"
+        },
+        {
+            "id": "midheaven",
+            "word": "midheaven"
+        },
+        {
+            "id": "moore%2C_francis",
+            "word": "moore, francis"
+        },
+        {
+            "id": "natal",
+            "word": "natal"
+        },
+        {
+            "id": "nativity",
+            "word": "nativity"
+        },
+        {
+            "id": "piscean",
+            "word": "piscean"
+        },
+        {
+            "id": "quadruplicity",
+            "word": "quadruplicity"
+        },
+        {
+            "id": "retrogradation",
+            "word": "retrogradation"
+        },
+        {
+            "id": "retrograde",
+            "word": "retrograde"
+        },
+        {
+            "id": "rising_sign",
+            "word": "rising sign"
+        },
+        {
+            "id": "ruler",
+            "word": "ruler"
+        },
+        {
+            "id": "ruling_planet",
+            "word": "ruling planet"
+        },
+        {
+            "id": "sagittarian",
+            "word": "sagittarian"
+        },
+        {
+            "id": "satellitium",
+            "word": "satellitium"
+        },
+        {
+            "id": "scorpian",
+            "word": "scorpian"
+        },
+        {
+            "id": "scorpio",
+            "word": "scorpio"
+        },
+        {
+            "id": "sextile",
+            "word": "sextile"
+        },
+        {
+            "id": "significator",
+            "word": "significator"
+        },
+        {
+            "id": "star_sign",
+            "word": "star sign"
+        },
+        {
+            "id": "stellium",
+            "word": "stellium"
+        },
+        {
+            "id": "sun_sign",
+            "word": "sun sign"
+        },
+        {
+            "id": "synastry",
+            "word": "synastry"
+        },
+        {
+            "id": "taurean",
+            "word": "taurean"
+        },
+        {
+            "id": "trine",
+            "word": "trine"
+        },
+        {
+            "id": "virgoan",
+            "word": "virgoan"
+        },
+        {
+            "id": "water_bearer",
+            "word": "water bearer"
+        },
+        {
+            "id": "water_carrier",
+            "word": "water carrier"
+        },
+        {
+            "id": "zodiac",
+            "word": "zodiac"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 53,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

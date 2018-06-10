@@ -1,0 +1,563 @@
+{
+    "results": [
+        {
+            "id": "accentuation",
+            "word": "accentuation"
+        },
+        {
+            "id": "affricate",
+            "word": "affricate"
+        },
+        {
+            "id": "agma",
+            "word": "agma"
+        },
+        {
+            "id": "allophone",
+            "word": "allophone"
+        },
+        {
+            "id": "anaptyxis",
+            "word": "anaptyxis"
+        },
+        {
+            "id": "apheresis",
+            "word": "apheresis"
+        },
+        {
+            "id": "apocope",
+            "word": "apocope"
+        },
+        {
+            "id": "articulation",
+            "word": "articulation"
+        },
+        {
+            "id": "arytenoid",
+            "word": "arytenoid"
+        },
+        {
+            "id": "aspirated",
+            "word": "aspirated"
+        },
+        {
+            "id": "assibilate",
+            "word": "assibilate"
+        },
+        {
+            "id": "atonic",
+            "word": "atonic"
+        },
+        {
+            "id": "bilabial",
+            "word": "bilabial"
+        },
+        {
+            "id": "breathy_voice",
+            "word": "breathy voice"
+        },
+        {
+            "id": "burr",
+            "word": "burr"
+        },
+        {
+            "id": "cacuminal",
+            "word": "cacuminal"
+        },
+        {
+            "id": "cardinal_vowel",
+            "word": "cardinal vowel"
+        },
+        {
+            "id": "click",
+            "word": "click"
+        },
+        {
+            "id": "clipped",
+            "word": "clipped"
+        },
+        {
+            "id": "closed_syllable",
+            "word": "closed syllable"
+        },
+        {
+            "id": "coarticulation",
+            "word": "coarticulation"
+        },
+        {
+            "id": "consonant",
+            "word": "consonant"
+        },
+        {
+            "id": "continuant",
+            "word": "continuant"
+        },
+        {
+            "id": "crasis",
+            "word": "crasis"
+        },
+        {
+            "id": "creaky_voice",
+            "word": "creaky voice"
+        },
+        {
+            "id": "dentilingual",
+            "word": "dentilingual"
+        },
+        {
+            "id": "devoice",
+            "word": "devoice"
+        },
+        {
+            "id": "diacritic",
+            "word": "diacritic"
+        },
+        {
+            "id": "diphthong",
+            "word": "diphthong"
+        },
+        {
+            "id": "diphthongize",
+            "word": "diphthongize"
+        },
+        {
+            "id": "downdrift",
+            "word": "downdrift"
+        },
+        {
+            "id": "egressive",
+            "word": "egressive"
+        },
+        {
+            "id": "ejective",
+            "word": "ejective"
+        },
+        {
+            "id": "elide",
+            "word": "elide"
+        },
+        {
+            "id": "elided",
+            "word": "elided"
+        },
+        {
+            "id": "elision",
+            "word": "elision"
+        },
+        {
+            "id": "epenthesis",
+            "word": "epenthesis"
+        },
+        {
+            "id": "formant",
+            "word": "formant"
+        },
+        {
+            "id": "fortis",
+            "word": "fortis"
+        },
+        {
+            "id": "fricative",
+            "word": "fricative"
+        },
+        {
+            "id": "geminate",
+            "word": "geminate"
+        },
+        {
+            "id": "glottal",
+            "word": "glottal"
+        },
+        {
+            "id": "glottal_stop",
+            "word": "glottal stop"
+        },
+        {
+            "id": "guttural",
+            "word": "guttural"
+        },
+        {
+            "id": "hamza",
+            "word": "hamza"
+        },
+        {
+            "id": "haplology",
+            "word": "haplology"
+        },
+        {
+            "id": "homorganic",
+            "word": "homorganic"
+        },
+        {
+            "id": "indeterminate_vowel",
+            "word": "indeterminate vowel"
+        },
+        {
+            "id": "international_phonetic_alphabet",
+            "word": "international phonetic alphabet"
+        },
+        {
+            "id": "intervocalic",
+            "word": "intervocalic"
+        },
+        {
+            "id": "jakobson%2C_roman",
+            "word": "jakobson, roman"
+        },
+        {
+            "id": "jones%2C_daniel",
+            "word": "jones, daniel"
+        },
+        {
+            "id": "labialize",
+            "word": "labialize"
+        },
+        {
+            "id": "labiodental",
+            "word": "labiodental"
+        },
+        {
+            "id": "labiovelar",
+            "word": "labiovelar"
+        },
+        {
+            "id": "lallation",
+            "word": "lallation"
+        },
+        {
+            "id": "laminal",
+            "word": "laminal"
+        },
+        {
+            "id": "lengthen",
+            "word": "lengthen"
+        },
+        {
+            "id": "length_mark",
+            "word": "length mark"
+        },
+        {
+            "id": "lenis",
+            "word": "lenis"
+        },
+        {
+            "id": "lenite",
+            "word": "lenite"
+        },
+        {
+            "id": "linking",
+            "word": "linking"
+        },
+        {
+            "id": "lisp",
+            "word": "lisp"
+        },
+        {
+            "id": "lisping",
+            "word": "lisping"
+        },
+        {
+            "id": "mid",
+            "word": "mid"
+        },
+        {
+            "id": "monophthong",
+            "word": "monophthong"
+        },
+        {
+            "id": "morphophoneme",
+            "word": "morphophoneme"
+        },
+        {
+            "id": "morphophonology",
+            "word": "morphophonology"
+        },
+        {
+            "id": "mouill%C3%A9",
+            "word": "mouillé"
+        },
+        {
+            "id": "nasalize",
+            "word": "nasalize"
+        },
+        {
+            "id": "nasalized",
+            "word": "nasalized"
+        },
+        {
+            "id": "non-rhotic",
+            "word": "non-rhotic"
+        },
+        {
+            "id": "obstruent",
+            "word": "obstruent"
+        },
+        {
+            "id": "off-glide",
+            "word": "off-glide"
+        },
+        {
+            "id": "on-glide",
+            "word": "on-glide"
+        },
+        {
+            "id": "orthoepy",
+            "word": "orthoepy"
+        },
+        {
+            "id": "oxytone",
+            "word": "oxytone"
+        },
+        {
+            "id": "palatalize",
+            "word": "palatalize"
+        },
+        {
+            "id": "paroxytone",
+            "word": "paroxytone"
+        },
+        {
+            "id": "pharyngealize",
+            "word": "pharyngealize"
+        },
+        {
+            "id": "phonaesthesia",
+            "word": "phonaesthesia"
+        },
+        {
+            "id": "phonaesthetics",
+            "word": "phonaesthetics"
+        },
+        {
+            "id": "phonate",
+            "word": "phonate"
+        },
+        {
+            "id": "phonation",
+            "word": "phonation"
+        },
+        {
+            "id": "phone",
+            "word": "phone"
+        },
+        {
+            "id": "phoneme",
+            "word": "phoneme"
+        },
+        {
+            "id": "phonemic",
+            "word": "phonemic"
+        },
+        {
+            "id": "phonemics",
+            "word": "phonemics"
+        },
+        {
+            "id": "phonetic",
+            "word": "phonetic"
+        },
+        {
+            "id": "phonetician",
+            "word": "phonetician"
+        },
+        {
+            "id": "phoneticize",
+            "word": "phoneticize"
+        },
+        {
+            "id": "phonetics",
+            "word": "phonetics"
+        },
+        {
+            "id": "phonetist",
+            "word": "phonetist"
+        },
+        {
+            "id": "phonic",
+            "word": "phonic"
+        },
+        {
+            "id": "phonics",
+            "word": "phonics"
+        },
+        {
+            "id": "phonogram",
+            "word": "phonogram"
+        },
+        {
+            "id": "phonology",
+            "word": "phonology"
+        },
+        {
+            "id": "plosion",
+            "word": "plosion"
+        },
+        {
+            "id": "plosive",
+            "word": "plosive"
+        },
+        {
+            "id": "postvocalic",
+            "word": "postvocalic"
+        },
+        {
+            "id": "prevocalic",
+            "word": "prevocalic"
+        },
+        {
+            "id": "primary_stress",
+            "word": "primary stress"
+        },
+        {
+            "id": "pronunciation",
+            "word": "pronunciation"
+        },
+        {
+            "id": "pulmonic_airstream",
+            "word": "pulmonic airstream"
+        },
+        {
+            "id": "received_pronunciation",
+            "word": "received pronunciation"
+        },
+        {
+            "id": "rhotacization",
+            "word": "rhotacization"
+        },
+        {
+            "id": "rhotic",
+            "word": "rhotic"
+        },
+        {
+            "id": "rp",
+            "word": "rp"
+        },
+        {
+            "id": "rs",
+            "word": "rs"
+        },
+        {
+            "id": "schwa",
+            "word": "schwa"
+        },
+        {
+            "id": "secondary_articulation",
+            "word": "secondary articulation"
+        },
+        {
+            "id": "secondary_stress",
+            "word": "secondary stress"
+        },
+        {
+            "id": "segmental",
+            "word": "segmental"
+        },
+        {
+            "id": "semivowel",
+            "word": "semivowel"
+        },
+        {
+            "id": "sibilant",
+            "word": "sibilant"
+        },
+        {
+            "id": "sibilate",
+            "word": "sibilate"
+        },
+        {
+            "id": "sonorant",
+            "word": "sonorant"
+        },
+        {
+            "id": "sonority",
+            "word": "sonority"
+        },
+        {
+            "id": "soundex",
+            "word": "soundex"
+        },
+        {
+            "id": "speech_sound",
+            "word": "speech sound"
+        },
+        {
+            "id": "spirant",
+            "word": "spirant"
+        },
+        {
+            "id": "spirantize",
+            "word": "spirantize"
+        },
+        {
+            "id": "strident",
+            "word": "strident"
+        },
+        {
+            "id": "syllable-timed",
+            "word": "syllable-timed"
+        },
+        {
+            "id": "syneresis",
+            "word": "syneresis"
+        },
+        {
+            "id": "tone_group",
+            "word": "tone group"
+        },
+        {
+            "id": "toneme",
+            "word": "toneme"
+        },
+        {
+            "id": "triphthong",
+            "word": "triphthong"
+        },
+        {
+            "id": "unaspirated",
+            "word": "unaspirated"
+        },
+        {
+            "id": "unstressed",
+            "word": "unstressed"
+        },
+        {
+            "id": "uvular",
+            "word": "uvular"
+        },
+        {
+            "id": "velaric_airstream",
+            "word": "velaric airstream"
+        },
+        {
+            "id": "velarization",
+            "word": "velarization"
+        },
+        {
+            "id": "velarize",
+            "word": "velarize"
+        },
+        {
+            "id": "vocalic",
+            "word": "vocalic"
+        },
+        {
+            "id": "vowel",
+            "word": "vowel"
+        },
+        {
+            "id": "vowel_height",
+            "word": "vowel height"
+        },
+        {
+            "id": "vowel_shift",
+            "word": "vowel shift"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 138,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

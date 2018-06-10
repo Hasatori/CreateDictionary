@@ -1,0 +1,411 @@
+{
+    "results": [
+        {
+            "id": "aspect_ratio",
+            "word": "aspect ratio"
+        },
+        {
+            "id": "betacam",
+            "word": "betacam"
+        },
+        {
+            "id": "betamax",
+            "word": "betamax"
+        },
+        {
+            "id": "blu-ray",
+            "word": "blu-ray"
+        },
+        {
+            "id": "body_camera",
+            "word": "body camera"
+        },
+        {
+            "id": "camcorder",
+            "word": "camcorder"
+        },
+        {
+            "id": "cameraman",
+            "word": "cameraman"
+        },
+        {
+            "id": "camerawoman",
+            "word": "camerawoman"
+        },
+        {
+            "id": "cassette",
+            "word": "cassette"
+        },
+        {
+            "id": "cassette_tape",
+            "word": "cassette tape"
+        },
+        {
+            "id": "cd_video",
+            "word": "cd video"
+        },
+        {
+            "id": "chromakey",
+            "word": "chromakey"
+        },
+        {
+            "id": "chrominance",
+            "word": "chrominance"
+        },
+        {
+            "id": "closed-circuit_television",
+            "word": "closed-circuit television"
+        },
+        {
+            "id": "cut-in",
+            "word": "cut-in"
+        },
+        {
+            "id": "dashcam",
+            "word": "dashcam"
+        },
+        {
+            "id": "decoder",
+            "word": "decoder"
+        },
+        {
+            "id": "dvd",
+            "word": "dvd"
+        },
+        {
+            "id": "dvr",
+            "word": "dvr"
+        },
+        {
+            "id": "edit_suite",
+            "word": "edit suite"
+        },
+        {
+            "id": "fader",
+            "word": "fader"
+        },
+        {
+            "id": "fast_forward",
+            "word": "fast forward"
+        },
+        {
+            "id": "flat_screen",
+            "word": "flat screen"
+        },
+        {
+            "id": "freeze-frame",
+            "word": "freeze-frame"
+        },
+        {
+            "id": "full-motion_video",
+            "word": "full-motion video"
+        },
+        {
+            "id": "gain-up",
+            "word": "gain-up"
+        },
+        {
+            "id": "genlock",
+            "word": "genlock"
+        },
+        {
+            "id": "goldmark%2C_peter_carl",
+            "word": "goldmark, peter carl"
+        },
+        {
+            "id": "haul_video",
+            "word": "haul video"
+        },
+        {
+            "id": "hdmi",
+            "word": "hdmi"
+        },
+        {
+            "id": "hdtv",
+            "word": "hdtv"
+        },
+        {
+            "id": "headcam",
+            "word": "headcam"
+        },
+        {
+            "id": "high-band",
+            "word": "high-band"
+        },
+        {
+            "id": "hi-res",
+            "word": "hi-res"
+        },
+        {
+            "id": "home_cinema",
+            "word": "home cinema"
+        },
+        {
+            "id": "home_screen",
+            "word": "home screen"
+        },
+        {
+            "id": "interlaced",
+            "word": "interlaced"
+        },
+        {
+            "id": "jog-shuttle",
+            "word": "jog-shuttle"
+        },
+        {
+            "id": "jumbotron",
+            "word": "jumbotron"
+        },
+        {
+            "id": "kiss_cam",
+            "word": "kiss cam"
+        },
+        {
+            "id": "laserdisc",
+            "word": "laserdisc"
+        },
+        {
+            "id": "laservision",
+            "word": "laservision"
+        },
+        {
+            "id": "mid-roll",
+            "word": "mid-roll"
+        },
+        {
+            "id": "minicam",
+            "word": "minicam"
+        },
+        {
+            "id": "mpeg",
+            "word": "mpeg"
+        },
+        {
+            "id": "nicam",
+            "word": "nicam"
+        },
+        {
+            "id": "non-interlaced",
+            "word": "non-interlaced"
+        },
+        {
+            "id": "ntsc",
+            "word": "ntsc"
+        },
+        {
+            "id": "palmcorder",
+            "word": "palmcorder"
+        },
+        {
+            "id": "phono",
+            "word": "phono"
+        },
+        {
+            "id": "pixelvision",
+            "word": "pixelvision"
+        },
+        {
+            "id": "playback",
+            "word": "playback"
+        },
+        {
+            "id": "post-roll",
+            "word": "post-roll"
+        },
+        {
+            "id": "post-synch",
+            "word": "post-synch"
+        },
+        {
+            "id": "pre-roll",
+            "word": "pre-roll"
+        },
+        {
+            "id": "pvr",
+            "word": "pvr"
+        },
+        {
+            "id": "recording",
+            "word": "recording"
+        },
+        {
+            "id": "scart",
+            "word": "scart"
+        },
+        {
+            "id": "screencast",
+            "word": "screencast"
+        },
+        {
+            "id": "secam",
+            "word": "secam"
+        },
+        {
+            "id": "sizzle_reel",
+            "word": "sizzle reel"
+        },
+        {
+            "id": "smpte",
+            "word": "smpte"
+        },
+        {
+            "id": "steadicam",
+            "word": "steadicam"
+        },
+        {
+            "id": "storyboard",
+            "word": "storyboard"
+        },
+        {
+            "id": "streaming",
+            "word": "streaming"
+        },
+        {
+            "id": "stuntman",
+            "word": "stuntman"
+        },
+        {
+            "id": "stuntwoman",
+            "word": "stuntwoman"
+        },
+        {
+            "id": "s-vhs",
+            "word": "s-vhs"
+        },
+        {
+            "id": "s-video",
+            "word": "s-video"
+        },
+        {
+            "id": "time_code",
+            "word": "time code"
+        },
+        {
+            "id": "u-matic",
+            "word": "u-matic"
+        },
+        {
+            "id": "upscaling",
+            "word": "upscaling"
+        },
+        {
+            "id": "vcr",
+            "word": "vcr"
+        },
+        {
+            "id": "veejay",
+            "word": "veejay"
+        },
+        {
+            "id": "vhs",
+            "word": "vhs"
+        },
+        {
+            "id": "vhs-c",
+            "word": "vhs-c"
+        },
+        {
+            "id": "video",
+            "word": "video"
+        },
+        {
+            "id": "video_amplifier",
+            "word": "video amplifier"
+        },
+        {
+            "id": "video_camera",
+            "word": "video camera"
+        },
+        {
+            "id": "videocassette",
+            "word": "videocassette"
+        },
+        {
+            "id": "video_diary",
+            "word": "video diary"
+        },
+        {
+            "id": "videodisc",
+            "word": "videodisc"
+        },
+        {
+            "id": "video_frequency",
+            "word": "video frequency"
+        },
+        {
+            "id": "videogram",
+            "word": "videogram"
+        },
+        {
+            "id": "videographer",
+            "word": "videographer"
+        },
+        {
+            "id": "videographic",
+            "word": "videographic"
+        },
+        {
+            "id": "videography",
+            "word": "videography"
+        },
+        {
+            "id": "video_link",
+            "word": "video link"
+        },
+        {
+            "id": "videophile",
+            "word": "videophile"
+        },
+        {
+            "id": "videoplus",
+            "word": "videoplus"
+        },
+        {
+            "id": "video_recorder",
+            "word": "video recorder"
+        },
+        {
+            "id": "video_selfie",
+            "word": "video selfie"
+        },
+        {
+            "id": "videotape",
+            "word": "videotape"
+        },
+        {
+            "id": "videotaped",
+            "word": "videotaped"
+        },
+        {
+            "id": "videotape_recorder",
+            "word": "videotape recorder"
+        },
+        {
+            "id": "videotelephony",
+            "word": "videotelephony"
+        },
+        {
+            "id": "vod",
+            "word": "vod"
+        },
+        {
+            "id": "vtr",
+            "word": "vtr"
+        },
+        {
+            "id": "webcam",
+            "word": "webcam"
+        },
+        {
+            "id": "white_balance",
+            "word": "white balance"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 100,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

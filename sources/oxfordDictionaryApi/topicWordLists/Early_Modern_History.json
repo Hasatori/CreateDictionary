@@ -1,0 +1,1067 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 264,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "addled_parliament",
+            "word": "addled parliament"
+        },
+        {
+            "id": "agrarian_revolution",
+            "word": "agrarian revolution"
+        },
+        {
+            "id": "albuquerque%2C_alfonso_de",
+            "word": "albuquerque, alfonso de"
+        },
+        {
+            "id": "anabaptism",
+            "word": "anabaptism"
+        },
+        {
+            "id": "anne",
+            "word": "anne"
+        },
+        {
+            "id": "anne_of_cleves",
+            "word": "anne of cleves"
+        },
+        {
+            "id": "arminian",
+            "word": "arminian"
+        },
+        {
+            "id": "ascham%2C_roger",
+            "word": "ascham, roger"
+        },
+        {
+            "id": "ashmole%2C_elias",
+            "word": "ashmole, elias"
+        },
+        {
+            "id": "augsburg_confession",
+            "word": "augsburg confession"
+        },
+        {
+            "id": "austrian_succession%2C_war_of_the",
+            "word": "austrian succession, war of the"
+        },
+        {
+            "id": "auto-da-f%C3%A9",
+            "word": "auto-da-fé"
+        },
+        {
+            "id": "bacon%2C_francis",
+            "word": "bacon, francis"
+        },
+        {
+            "id": "baffin%2C_william",
+            "word": "baffin, william"
+        },
+        {
+            "id": "balboa%2C_vasco_n%C3%BA%C3%B1ez_de",
+            "word": "balboa, vasco núñez de"
+        },
+        {
+            "id": "barbarossa",
+            "word": "barbarossa"
+        },
+        {
+            "id": "barbary",
+            "word": "barbary"
+        },
+        {
+            "id": "barebones_parliament",
+            "word": "barebones parliament"
+        },
+        {
+            "id": "barents%2C_willem",
+            "word": "barents, willem"
+        },
+        {
+            "id": "bayard%2C_pierre_du_terrail",
+            "word": "bayard, pierre du terrail"
+        },
+        {
+            "id": "bering%2C_vitus",
+            "word": "bering, vitus"
+        },
+        {
+            "id": "bill_of_rights",
+            "word": "bill of rights"
+        },
+        {
+            "id": "blenheim",
+            "word": "blenheim"
+        },
+        {
+            "id": "bloody_assizes",
+            "word": "bloody assizes"
+        },
+        {
+            "id": "bodley%2C_sir_thomas",
+            "word": "bodley, sir thomas"
+        },
+        {
+            "id": "boleyn%2C_anne",
+            "word": "boleyn, anne"
+        },
+        {
+            "id": "borgia%2C_lucrezia",
+            "word": "borgia, lucrezia"
+        },
+        {
+            "id": "bothwell%2C_james_hepburn",
+            "word": "bothwell, james hepburn"
+        },
+        {
+            "id": "bourbon",
+            "word": "bourbon"
+        },
+        {
+            "id": "boyne%2C_battle_of_the",
+            "word": "boyne, battle of the"
+        },
+        {
+            "id": "bruno%2C_giordano",
+            "word": "bruno, giordano"
+        },
+        {
+            "id": "burghley%2C_1st_baron",
+            "word": "burghley, 1st baron"
+        },
+        {
+            "id": "calvin%2C_john",
+            "word": "calvin, john"
+        },
+        {
+            "id": "calvinism",
+            "word": "calvinism"
+        },
+        {
+            "id": "campion%2C_st_edmund",
+            "word": "campion, st edmund"
+        },
+        {
+            "id": "caravel",
+            "word": "caravel"
+        },
+        {
+            "id": "caroline",
+            "word": "caroline"
+        },
+        {
+            "id": "carrack",
+            "word": "carrack"
+        },
+        {
+            "id": "cartier%2C_jacques",
+            "word": "cartier, jacques"
+        },
+        {
+            "id": "catherine_de%27_medici",
+            "word": "catherine de' medici"
+        },
+        {
+            "id": "catherine_of_aragon",
+            "word": "catherine of aragon"
+        },
+        {
+            "id": "champlain%2C_samuel_de",
+            "word": "champlain, samuel de"
+        },
+        {
+            "id": "charles",
+            "word": "charles"
+        },
+        {
+            "id": "colbert%2C_jean_baptiste",
+            "word": "colbert, jean baptiste"
+        },
+        {
+            "id": "conquistador",
+            "word": "conquistador"
+        },
+        {
+            "id": "copernican",
+            "word": "copernican"
+        },
+        {
+            "id": "copernicus%2C_nicolaus",
+            "word": "copernicus, nicolaus"
+        },
+        {
+            "id": "cort%C3%A9s%2C_hernando",
+            "word": "cortés, hernando"
+        },
+        {
+            "id": "counter-reformation",
+            "word": "counter-reformation"
+        },
+        {
+            "id": "covenanter",
+            "word": "covenanter"
+        },
+        {
+            "id": "coverdale%2C_miles",
+            "word": "coverdale, miles"
+        },
+        {
+            "id": "cranmer%2C_thomas",
+            "word": "cranmer, thomas"
+        },
+        {
+            "id": "crichton%2C_james",
+            "word": "crichton, james"
+        },
+        {
+            "id": "cromwell%2C_thomas",
+            "word": "cromwell, thomas"
+        },
+        {
+            "id": "culloden%2C_battle_of",
+            "word": "culloden, battle of"
+        },
+        {
+            "id": "culverin",
+            "word": "culverin"
+        },
+        {
+            "id": "cumberland%2C_duke_of",
+            "word": "cumberland, duke of"
+        },
+        {
+            "id": "da_gama%2C_vasco",
+            "word": "da gama, vasco"
+        },
+        {
+            "id": "dampier%2C_william",
+            "word": "dampier, william"
+        },
+        {
+            "id": "darnley%2C_henry_stewart",
+            "word": "darnley, henry stewart"
+        },
+        {
+            "id": "declaration_of_indulgence",
+            "word": "declaration of indulgence"
+        },
+        {
+            "id": "declaration_of_rights",
+            "word": "declaration of rights"
+        },
+        {
+            "id": "dee%2C_john",
+            "word": "dee, john"
+        },
+        {
+            "id": "descartes%2C_ren%C3%A9",
+            "word": "descartes, rené"
+        },
+        {
+            "id": "diet_of_worms",
+            "word": "diet of worms"
+        },
+        {
+            "id": "dissolution_of_the_monasteries",
+            "word": "dissolution of the monasteries"
+        },
+        {
+            "id": "divine_right_of_kings",
+            "word": "divine right of kings"
+        },
+        {
+            "id": "drake%2C_sir_francis",
+            "word": "drake, sir francis"
+        },
+        {
+            "id": "dudley%2C_robert",
+            "word": "dudley, robert"
+        },
+        {
+            "id": "dutch_east_india_company",
+            "word": "dutch east india company"
+        },
+        {
+            "id": "dutch_west_india_company",
+            "word": "dutch west india company"
+        },
+        {
+            "id": "east_india_company",
+            "word": "east india company"
+        },
+        {
+            "id": "elizabethan",
+            "word": "elizabethan"
+        },
+        {
+            "id": "elizabeth_i",
+            "word": "elizabeth i"
+        },
+        {
+            "id": "elzevir",
+            "word": "elzevir"
+        },
+        {
+            "id": "encomienda",
+            "word": "encomienda"
+        },
+        {
+            "id": "erasmus%2C_desiderius",
+            "word": "erasmus, desiderius"
+        },
+        {
+            "id": "erastus",
+            "word": "erastus"
+        },
+        {
+            "id": "farnese%2C_alessandro",
+            "word": "farnese, alessandro"
+        },
+        {
+            "id": "fawkes%2C_guy",
+            "word": "fawkes, guy"
+        },
+        {
+            "id": "field_of_the_cloth_of_gold",
+            "word": "field of the cloth of gold"
+        },
+        {
+            "id": "fire_of_london",
+            "word": "fire of london"
+        },
+        {
+            "id": "fisher%2C_st_john",
+            "word": "fisher, st john"
+        },
+        {
+            "id": "flodden%2C_battle_of",
+            "word": "flodden, battle of"
+        },
+        {
+            "id": "fox%2C_george",
+            "word": "fox, george"
+        },
+        {
+            "id": "foxe%2C_john",
+            "word": "foxe, john"
+        },
+        {
+            "id": "francis_i",
+            "word": "francis i"
+        },
+        {
+            "id": "francis_of_sales%2C_st",
+            "word": "francis of sales, st"
+        },
+        {
+            "id": "frederick_william",
+            "word": "frederick william"
+        },
+        {
+            "id": "french_wars_of_religion",
+            "word": "french wars of religion"
+        },
+        {
+            "id": "frobisher%2C_sir_martin",
+            "word": "frobisher, sir martin"
+        },
+        {
+            "id": "fronde",
+            "word": "fronde"
+        },
+        {
+            "id": "fuller%2C_thomas",
+            "word": "fuller, thomas"
+        },
+        {
+            "id": "galileo_galilei",
+            "word": "galileo galilei"
+        },
+        {
+            "id": "galleon",
+            "word": "galleon"
+        },
+        {
+            "id": "galliass",
+            "word": "galliass"
+        },
+        {
+            "id": "george",
+            "word": "george"
+        },
+        {
+            "id": "georgian",
+            "word": "georgian"
+        },
+        {
+            "id": "gilbert%2C_sir_humphrey",
+            "word": "gilbert, sir humphrey"
+        },
+        {
+            "id": "glencoe%2C_massacre_of",
+            "word": "glencoe, massacre of"
+        },
+        {
+            "id": "gloriana",
+            "word": "gloriana"
+        },
+        {
+            "id": "glorious_revolution",
+            "word": "glorious revolution"
+        },
+        {
+            "id": "gobelins",
+            "word": "gobelins"
+        },
+        {
+            "id": "godunov%2C_boris",
+            "word": "godunov, boris"
+        },
+        {
+            "id": "grand_inquisitor",
+            "word": "grand inquisitor"
+        },
+        {
+            "id": "great_bible",
+            "word": "great bible"
+        },
+        {
+            "id": "great_northern_war",
+            "word": "great northern war"
+        },
+        {
+            "id": "great_plague",
+            "word": "great plague"
+        },
+        {
+            "id": "gresham%2C_sir_thomas",
+            "word": "gresham, sir thomas"
+        },
+        {
+            "id": "grey%2C_lady_jane",
+            "word": "grey, lady jane"
+        },
+        {
+            "id": "grotius%2C_hugo",
+            "word": "grotius, hugo"
+        },
+        {
+            "id": "guericke%2C_otto_von",
+            "word": "guericke, otto von"
+        },
+        {
+            "id": "gunpowder_plot",
+            "word": "gunpowder plot"
+        },
+        {
+            "id": "gustavus_adolphus",
+            "word": "gustavus adolphus"
+        },
+        {
+            "id": "gwyn%2C_nell",
+            "word": "gwyn, nell"
+        },
+        {
+            "id": "hakluyt%2C_richard",
+            "word": "hakluyt, richard"
+        },
+        {
+            "id": "hawkins%2C_sir_john",
+            "word": "hawkins, sir john"
+        },
+        {
+            "id": "henrician",
+            "word": "henrician"
+        },
+        {
+            "id": "henrietta_maria",
+            "word": "henrietta maria"
+        },
+        {
+            "id": "henry_iv",
+            "word": "henry iv"
+        },
+        {
+            "id": "hobbes%2C_thomas",
+            "word": "hobbes, thomas"
+        },
+        {
+            "id": "hobbesian",
+            "word": "hobbesian"
+        },
+        {
+            "id": "holy_league",
+            "word": "holy league"
+        },
+        {
+            "id": "howard%2C_catherine",
+            "word": "howard, catherine"
+        },
+        {
+            "id": "hudson%27s_bay_company",
+            "word": "hudson's bay company"
+        },
+        {
+            "id": "hudson%2C_henry",
+            "word": "hudson, henry"
+        },
+        {
+            "id": "huguenot",
+            "word": "huguenot"
+        },
+        {
+            "id": "hutterite",
+            "word": "hutterite"
+        },
+        {
+            "id": "iatrochemistry",
+            "word": "iatrochemistry"
+        },
+        {
+            "id": "ignatius_loyola%2C_st",
+            "word": "ignatius loyola, st"
+        },
+        {
+            "id": "impanation",
+            "word": "impanation"
+        },
+        {
+            "id": "inquisitor",
+            "word": "inquisitor"
+        },
+        {
+            "id": "inquisitor_general",
+            "word": "inquisitor general"
+        },
+        {
+            "id": "jacobean",
+            "word": "jacobean"
+        },
+        {
+            "id": "jacobite",
+            "word": "jacobite"
+        },
+        {
+            "id": "james",
+            "word": "james"
+        },
+        {
+            "id": "jansen%2C_cornelius_otto",
+            "word": "jansen, cornelius otto"
+        },
+        {
+            "id": "jansenism",
+            "word": "jansenism"
+        },
+        {
+            "id": "jeffreys%2C_george",
+            "word": "jeffreys, george"
+        },
+        {
+            "id": "jenkins%27s_ear%2C_war_of",
+            "word": "jenkins's ear, war of"
+        },
+        {
+            "id": "jim%C3%A9nez_de_cisneros%2C_francisco",
+            "word": "jiménez de cisneros, francisco"
+        },
+        {
+            "id": "john_iii",
+            "word": "john iii"
+        },
+        {
+            "id": "john_of_the_cross%2C_st",
+            "word": "john of the cross, st"
+        },
+        {
+            "id": "kidd%2C_william",
+            "word": "kidd, william"
+        },
+        {
+            "id": "kit-cat_club",
+            "word": "kit-cat club"
+        },
+        {
+            "id": "knox%2C_john",
+            "word": "knox, john"
+        },
+        {
+            "id": "landsknecht",
+            "word": "landsknecht"
+        },
+        {
+            "id": "la_salle%2C_ren%C3%A9-robert_cavelier",
+            "word": "la salle, rené-robert cavelier"
+        },
+        {
+            "id": "latimer%2C_hugh",
+            "word": "latimer, hugh"
+        },
+        {
+            "id": "laud%2C_william",
+            "word": "laud, william"
+        },
+        {
+            "id": "lenclos%2C_ninon_de",
+            "word": "lenclos, ninon de"
+        },
+        {
+            "id": "leo_x",
+            "word": "leo x"
+        },
+        {
+            "id": "lepanto%2C_battle_of",
+            "word": "lepanto, battle of"
+        },
+        {
+            "id": "linacre%2C_thomas",
+            "word": "linacre, thomas"
+        },
+        {
+            "id": "little_ice_age",
+            "word": "little ice age"
+        },
+        {
+            "id": "luther%2C_martin",
+            "word": "luther, martin"
+        },
+        {
+            "id": "lutheran",
+            "word": "lutheran"
+        },
+        {
+            "id": "machiavelli%2C_niccol%C3%B2",
+            "word": "machiavelli, niccolò"
+        },
+        {
+            "id": "magellan%2C_ferdinand",
+            "word": "magellan, ferdinand"
+        },
+        {
+            "id": "maintenon%2C_marquise_de",
+            "word": "maintenon, marquise de"
+        },
+        {
+            "id": "malplaquet%2C_battle_of",
+            "word": "malplaquet, battle of"
+        },
+        {
+            "id": "marie_de_m%C3%A9dicis",
+            "word": "marie de médicis"
+        },
+        {
+            "id": "marlborough%2C_1st_duke_of",
+            "word": "marlborough, 1st duke of"
+        },
+        {
+            "id": "marquette%2C_jacques",
+            "word": "marquette, jacques"
+        },
+        {
+            "id": "mary",
+            "word": "mary"
+        },
+        {
+            "id": "mary%2C_queen_of_scots",
+            "word": "mary, queen of scots"
+        },
+        {
+            "id": "mary_rose",
+            "word": "mary rose"
+        },
+        {
+            "id": "massacre_of_st_bartholomew",
+            "word": "massacre of st bartholomew"
+        },
+        {
+            "id": "maunder_minimum",
+            "word": "maunder minimum"
+        },
+        {
+            "id": "mazarin%2C_jules",
+            "word": "mazarin, jules"
+        },
+        {
+            "id": "melanchthon%2C_philipp",
+            "word": "melanchthon, philipp"
+        },
+        {
+            "id": "mendoza%2C_antonio_de",
+            "word": "mendoza, antonio de"
+        },
+        {
+            "id": "mercator%2C_gerardus",
+            "word": "mercator, gerardus"
+        },
+        {
+            "id": "monmouth%2C_duke_of",
+            "word": "monmouth, duke of"
+        },
+        {
+            "id": "montespan%2C_marquise_de",
+            "word": "montespan, marquise de"
+        },
+        {
+            "id": "montesquieu%2C_charles",
+            "word": "montesquieu, charles"
+        },
+        {
+            "id": "more%2C_sir_thomas",
+            "word": "more, sir thomas"
+        },
+        {
+            "id": "morion",
+            "word": "morion"
+        },
+        {
+            "id": "mosstrooper",
+            "word": "mosstrooper"
+        },
+        {
+            "id": "musketeer",
+            "word": "musketeer"
+        },
+        {
+            "id": "nantes%2C_edict_of",
+            "word": "nantes, edict of"
+        },
+        {
+            "id": "nash%2C_richard",
+            "word": "nash, richard"
+        },
+        {
+            "id": "newcomen%2C_thomas",
+            "word": "newcomen, thomas"
+        },
+        {
+            "id": "newgate",
+            "word": "newgate"
+        },
+        {
+            "id": "newton%2C_sir_isaac",
+            "word": "newton, sir isaac"
+        },
+        {
+            "id": "oates%2C_titus",
+            "word": "oates, titus"
+        },
+        {
+            "id": "orange%2C_house_of",
+            "word": "orange, house of"
+        },
+        {
+            "id": "oudenarde%2C_battle_of",
+            "word": "oudenarde, battle of"
+        },
+        {
+            "id": "palatinate",
+            "word": "palatinate"
+        },
+        {
+            "id": "parr%2C_katherine",
+            "word": "parr, katherine"
+        },
+        {
+            "id": "paul_iii",
+            "word": "paul iii"
+        },
+        {
+            "id": "peel",
+            "word": "peel"
+        },
+        {
+            "id": "pelham%2C_henry",
+            "word": "pelham, henry"
+        },
+        {
+            "id": "penal_laws",
+            "word": "penal laws"
+        },
+        {
+            "id": "penn%2C_william",
+            "word": "penn, william"
+        },
+        {
+            "id": "pepys%2C_samuel",
+            "word": "pepys, samuel"
+        },
+        {
+            "id": "peter_i",
+            "word": "peter i"
+        },
+        {
+            "id": "petition_of_right",
+            "word": "petition of right"
+        },
+        {
+            "id": "philip",
+            "word": "philip"
+        },
+        {
+            "id": "pietism",
+            "word": "pietism"
+        },
+        {
+            "id": "pilgrim_fathers",
+            "word": "pilgrim fathers"
+        },
+        {
+            "id": "pizarro%2C_francisco",
+            "word": "pizarro, francisco"
+        },
+        {
+            "id": "ponce_de_le%C3%B3n%2C_juan",
+            "word": "ponce de león, juan"
+        },
+        {
+            "id": "popish_plot",
+            "word": "popish plot"
+        },
+        {
+            "id": "prestonpans%2C_battle_of",
+            "word": "prestonpans, battle of"
+        },
+        {
+            "id": "puritan",
+            "word": "puritan"
+        },
+        {
+            "id": "puritanism",
+            "word": "puritanism"
+        },
+        {
+            "id": "queen_anne%27s_bounty",
+            "word": "queen anne's bounty"
+        },
+        {
+            "id": "raleigh%2C_sir_walter",
+            "word": "raleigh, sir walter"
+        },
+        {
+            "id": "ramillies%2C_battle_of",
+            "word": "ramillies, battle of"
+        },
+        {
+            "id": "rapparee",
+            "word": "rapparee"
+        },
+        {
+            "id": "remonstrance",
+            "word": "remonstrance"
+        },
+        {
+            "id": "renaissance",
+            "word": "renaissance"
+        },
+        {
+            "id": "richelieu%2C_duc_de",
+            "word": "richelieu, duc de"
+        },
+        {
+            "id": "ridley%2C_nicholas",
+            "word": "ridley, nicholas"
+        },
+        {
+            "id": "rob_roy",
+            "word": "rob roy"
+        },
+        {
+            "id": "robsart%2C_amy",
+            "word": "robsart, amy"
+        },
+        {
+            "id": "savery%2C_thomas",
+            "word": "savery, thomas"
+        },
+        {
+            "id": "scaliger%2C_julius_caesar",
+            "word": "scaliger, julius caesar"
+        },
+        {
+            "id": "sedgemoor%2C_battle_of",
+            "word": "sedgemoor, battle of"
+        },
+        {
+            "id": "selkirk%2C_alexander",
+            "word": "selkirk, alexander"
+        },
+        {
+            "id": "settlement%2C_act_of",
+            "word": "settlement, act of"
+        },
+        {
+            "id": "seymour%2C_jane",
+            "word": "seymour, jane"
+        },
+        {
+            "id": "short_parliament",
+            "word": "short parliament"
+        },
+        {
+            "id": "south_sea_bubble",
+            "word": "south sea bubble"
+        },
+        {
+            "id": "spanish_inquisition",
+            "word": "spanish inquisition"
+        },
+        {
+            "id": "spanish_succession%2C_war_of_the",
+            "word": "spanish succession, war of the"
+        },
+        {
+            "id": "stewartry",
+            "word": "stewartry"
+        },
+        {
+            "id": "stuart",
+            "word": "stuart"
+        },
+        {
+            "id": "stuart%2C_charles_edward",
+            "word": "stuart, charles edward"
+        },
+        {
+            "id": "stuart%2C_james",
+            "word": "stuart, james"
+        },
+        {
+            "id": "succession%2C_act_of",
+            "word": "succession, act of"
+        },
+        {
+            "id": "supremacy%2C_act_of",
+            "word": "supremacy, act of"
+        },
+        {
+            "id": "sweating_sickness",
+            "word": "sweating sickness"
+        },
+        {
+            "id": "tarantism",
+            "word": "tarantism"
+        },
+        {
+            "id": "tasman%2C_abel",
+            "word": "tasman, abel"
+        },
+        {
+            "id": "taylor%2C_jeremy",
+            "word": "taylor, jeremy"
+        },
+        {
+            "id": "teresa_of_%C3%A1vila%2C_st",
+            "word": "teresa of ávila, st"
+        },
+        {
+            "id": "the_forty-five",
+            "word": "the forty-five"
+        },
+        {
+            "id": "thirty_years_war",
+            "word": "thirty years war"
+        },
+        {
+            "id": "toleration_act",
+            "word": "toleration act"
+        },
+        {
+            "id": "tradescant%2C_john",
+            "word": "tradescant, john"
+        },
+        {
+            "id": "trainband",
+            "word": "trainband"
+        },
+        {
+            "id": "trent%2C_council_of",
+            "word": "trent, council of"
+        },
+        {
+            "id": "tudor",
+            "word": "tudor"
+        },
+        {
+            "id": "tull%2C_jethro",
+            "word": "tull, jethro"
+        },
+        {
+            "id": "tyndale%2C_william",
+            "word": "tyndale, william"
+        },
+        {
+            "id": "uniformity%2C_act_of",
+            "word": "uniformity, act of"
+        },
+        {
+            "id": "union",
+            "word": "union"
+        },
+        {
+            "id": "union%2C_act_of",
+            "word": "union, act of"
+        },
+        {
+            "id": "utrecht%2C_peace_of",
+            "word": "utrecht, peace of"
+        },
+        {
+            "id": "vel%C3%A1zquez_de_cu%C3%A9llar%2C_diego",
+            "word": "velázquez de cuéllar, diego"
+        },
+        {
+            "id": "vespucci%2C_amerigo",
+            "word": "vespucci, amerigo"
+        },
+        {
+            "id": "vincent_de_paul%2C_st",
+            "word": "vincent de paul, st"
+        },
+        {
+            "id": "wade%2C_george",
+            "word": "wade, george"
+        },
+        {
+            "id": "walpole%2C_sir_robert",
+            "word": "walpole, sir robert"
+        },
+        {
+            "id": "walsingham%2C_sir_francis",
+            "word": "walsingham, sir francis"
+        },
+        {
+            "id": "westminster_confession",
+            "word": "westminster confession"
+        },
+        {
+            "id": "westphalia%2C_treaty_of",
+            "word": "westphalia, treaty of"
+        },
+        {
+            "id": "william_i",
+            "word": "william i"
+        },
+        {
+            "id": "wolsey%2C_thomas",
+            "word": "wolsey, thomas"
+        },
+        {
+            "id": "xavier%2C_st_francis",
+            "word": "xavier, st francis"
+        },
+        {
+            "id": "zwingli%2C_ulrich",
+            "word": "zwingli, ulrich"
+        },
+        {
+            "id": "zwinglian",
+            "word": "zwinglian"
+        }
+    ]
+}

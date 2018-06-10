@@ -1,0 +1,3759 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 937,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "abaxial",
+            "word": "abaxial"
+        },
+        {
+            "id": "abscise",
+            "word": "abscise"
+        },
+        {
+            "id": "abscission",
+            "word": "abscission"
+        },
+        {
+            "id": "accumbent",
+            "word": "accumbent"
+        },
+        {
+            "id": "-aceae",
+            "word": "-aceae"
+        },
+        {
+            "id": "-aceous",
+            "word": "-aceous"
+        },
+        {
+            "id": "achene",
+            "word": "achene"
+        },
+        {
+            "id": "acorn",
+            "word": "acorn"
+        },
+        {
+            "id": "acotyledon",
+            "word": "acotyledon"
+        },
+        {
+            "id": "acropetal",
+            "word": "acropetal"
+        },
+        {
+            "id": "adaxial",
+            "word": "adaxial"
+        },
+        {
+            "id": "adnate",
+            "word": "adnate"
+        },
+        {
+            "id": "adpressed",
+            "word": "adpressed"
+        },
+        {
+            "id": "-ae",
+            "word": "-ae"
+        },
+        {
+            "id": "aerenchyma",
+            "word": "aerenchyma"
+        },
+        {
+            "id": "agamospermy",
+            "word": "agamospermy"
+        },
+        {
+            "id": "aggregate_fruit",
+            "word": "aggregate fruit"
+        },
+        {
+            "id": "agrestal",
+            "word": "agrestal"
+        },
+        {
+            "id": "agrostology",
+            "word": "agrostology"
+        },
+        {
+            "id": "air_bladder",
+            "word": "air bladder"
+        },
+        {
+            "id": "alate",
+            "word": "alate"
+        },
+        {
+            "id": "-ales",
+            "word": "-ales"
+        },
+        {
+            "id": "aleurone",
+            "word": "aleurone"
+        },
+        {
+            "id": "algology",
+            "word": "algology"
+        },
+        {
+            "id": "alliaceous",
+            "word": "alliaceous"
+        },
+        {
+            "id": "allogamy",
+            "word": "allogamy"
+        },
+        {
+            "id": "ament",
+            "word": "ament"
+        },
+        {
+            "id": "ampelographer",
+            "word": "ampelographer"
+        },
+        {
+            "id": "amphimixis",
+            "word": "amphimixis"
+        },
+        {
+            "id": "amygdalin",
+            "word": "amygdalin"
+        },
+        {
+            "id": "androecium",
+            "word": "androecium"
+        },
+        {
+            "id": "-androus",
+            "word": "-androus"
+        },
+        {
+            "id": "anemophilous",
+            "word": "anemophilous"
+        },
+        {
+            "id": "angiosperm",
+            "word": "angiosperm"
+        },
+        {
+            "id": "annual_ring",
+            "word": "annual ring"
+        },
+        {
+            "id": "anther",
+            "word": "anther"
+        },
+        {
+            "id": "antheridium",
+            "word": "antheridium"
+        },
+        {
+            "id": "antherozoid",
+            "word": "antherozoid"
+        },
+        {
+            "id": "anthesis",
+            "word": "anthesis"
+        },
+        {
+            "id": "anthracnose",
+            "word": "anthracnose"
+        },
+        {
+            "id": "antifeedant",
+            "word": "antifeedant"
+        },
+        {
+            "id": "apetalous",
+            "word": "apetalous"
+        },
+        {
+            "id": "apocarpous",
+            "word": "apocarpous"
+        },
+        {
+            "id": "apomict",
+            "word": "apomict"
+        },
+        {
+            "id": "apomixis",
+            "word": "apomixis"
+        },
+        {
+            "id": "apple_core",
+            "word": "apple core"
+        },
+        {
+            "id": "aquaculture",
+            "word": "aquaculture"
+        },
+        {
+            "id": "aquatic",
+            "word": "aquatic"
+        },
+        {
+            "id": "arborescent",
+            "word": "arborescent"
+        },
+        {
+            "id": "arboretum",
+            "word": "arboretum"
+        },
+        {
+            "id": "arboriculture",
+            "word": "arboriculture"
+        },
+        {
+            "id": "archegonium",
+            "word": "archegonium"
+        },
+        {
+            "id": "areole",
+            "word": "areole"
+        },
+        {
+            "id": "aril",
+            "word": "aril"
+        },
+        {
+            "id": "ascus",
+            "word": "ascus"
+        },
+        {
+            "id": "ash_key",
+            "word": "ash key"
+        },
+        {
+            "id": "auriculate",
+            "word": "auriculate"
+        },
+        {
+            "id": "auxin",
+            "word": "auxin"
+        },
+        {
+            "id": "awn",
+            "word": "awn"
+        },
+        {
+            "id": "axil",
+            "word": "axil"
+        },
+        {
+            "id": "bakeapple",
+            "word": "bakeapple"
+        },
+        {
+            "id": "banks%2C_sir_joseph",
+            "word": "banks, sir joseph"
+        },
+        {
+            "id": "banksia_man",
+            "word": "banksia man"
+        },
+        {
+            "id": "bark",
+            "word": "bark"
+        },
+        {
+            "id": "barked",
+            "word": "barked"
+        },
+        {
+            "id": "basipetal",
+            "word": "basipetal"
+        },
+        {
+            "id": "bast",
+            "word": "bast"
+        },
+        {
+            "id": "beechmast",
+            "word": "beechmast"
+        },
+        {
+            "id": "beechnut",
+            "word": "beechnut"
+        },
+        {
+            "id": "bifacial",
+            "word": "bifacial"
+        },
+        {
+            "id": "bifid",
+            "word": "bifid"
+        },
+        {
+            "id": "big_bud",
+            "word": "big bud"
+        },
+        {
+            "id": "bigener",
+            "word": "bigener"
+        },
+        {
+            "id": "bigeneric",
+            "word": "bigeneric"
+        },
+        {
+            "id": "binate",
+            "word": "binate"
+        },
+        {
+            "id": "bine",
+            "word": "bine"
+        },
+        {
+            "id": "binomial_nomenclature",
+            "word": "binomial nomenclature"
+        },
+        {
+            "id": "biological_control",
+            "word": "biological control"
+        },
+        {
+            "id": "bipinnate",
+            "word": "bipinnate"
+        },
+        {
+            "id": "biserial",
+            "word": "biserial"
+        },
+        {
+            "id": "biternate",
+            "word": "biternate"
+        },
+        {
+            "id": "bitter_pit",
+            "word": "bitter pit"
+        },
+        {
+            "id": "blight",
+            "word": "blight"
+        },
+        {
+            "id": "bog_oak",
+            "word": "bog oak"
+        },
+        {
+            "id": "bole",
+            "word": "bole"
+        },
+        {
+            "id": "boll",
+            "word": "boll"
+        },
+        {
+            "id": "boraginaceous",
+            "word": "boraginaceous"
+        },
+        {
+            "id": "bot.",
+            "word": "bot."
+        },
+        {
+            "id": "botanical",
+            "word": "botanical"
+        },
+        {
+            "id": "botanic_garden",
+            "word": "botanic garden"
+        },
+        {
+            "id": "botanist",
+            "word": "botanist"
+        },
+        {
+            "id": "botanize",
+            "word": "botanize"
+        },
+        {
+            "id": "botany",
+            "word": "botany"
+        },
+        {
+            "id": "bract",
+            "word": "bract"
+        },
+        {
+            "id": "bracteate",
+            "word": "bracteate"
+        },
+        {
+            "id": "broadleaved",
+            "word": "broadleaved"
+        },
+        {
+            "id": "brown_rot",
+            "word": "brown rot"
+        },
+        {
+            "id": "bryology",
+            "word": "bryology"
+        },
+        {
+            "id": "bryophyta",
+            "word": "bryophyta"
+        },
+        {
+            "id": "bryophyte",
+            "word": "bryophyte"
+        },
+        {
+            "id": "bud",
+            "word": "bud"
+        },
+        {
+            "id": "bulb",
+            "word": "bulb"
+        },
+        {
+            "id": "bulbil",
+            "word": "bulbil"
+        },
+        {
+            "id": "bullate",
+            "word": "bullate"
+        },
+        {
+            "id": "burgeon",
+            "word": "burgeon"
+        },
+        {
+            "id": "bush",
+            "word": "bush"
+        },
+        {
+            "id": "bushline",
+            "word": "bushline"
+        },
+        {
+            "id": "caducous",
+            "word": "caducous"
+        },
+        {
+            "id": "calci-",
+            "word": "calci-"
+        },
+        {
+            "id": "calcicole",
+            "word": "calcicole"
+        },
+        {
+            "id": "calcifuge",
+            "word": "calcifuge"
+        },
+        {
+            "id": "calyx",
+            "word": "calyx"
+        },
+        {
+            "id": "cambium",
+            "word": "cambium"
+        },
+        {
+            "id": "campanulate",
+            "word": "campanulate"
+        },
+        {
+            "id": "candolle%2C_augustin_pyrame_de",
+            "word": "candolle, augustin pyrame de"
+        },
+        {
+            "id": "cane",
+            "word": "cane"
+        },
+        {
+            "id": "canker",
+            "word": "canker"
+        },
+        {
+            "id": "capitate",
+            "word": "capitate"
+        },
+        {
+            "id": "capitulum",
+            "word": "capitulum"
+        },
+        {
+            "id": "carpel",
+            "word": "carpel"
+        },
+        {
+            "id": "carpology",
+            "word": "carpology"
+        },
+        {
+            "id": "carpophore",
+            "word": "carpophore"
+        },
+        {
+            "id": "caryophyllaceous",
+            "word": "caryophyllaceous"
+        },
+        {
+            "id": "caryopsis",
+            "word": "caryopsis"
+        },
+        {
+            "id": "castor_bean",
+            "word": "castor bean"
+        },
+        {
+            "id": "castor_oil",
+            "word": "castor oil"
+        },
+        {
+            "id": "catkin",
+            "word": "catkin"
+        },
+        {
+            "id": "caudex",
+            "word": "caudex"
+        },
+        {
+            "id": "chamaephyte",
+            "word": "chamaephyte"
+        },
+        {
+            "id": "charophyta",
+            "word": "charophyta"
+        },
+        {
+            "id": "charophyte",
+            "word": "charophyte"
+        },
+        {
+            "id": "cheeser",
+            "word": "cheeser"
+        },
+        {
+            "id": "chlamydospore",
+            "word": "chlamydospore"
+        },
+        {
+            "id": "chlorophyta",
+            "word": "chlorophyta"
+        },
+        {
+            "id": "chlorophyte",
+            "word": "chlorophyte"
+        },
+        {
+            "id": "chloroplast",
+            "word": "chloroplast"
+        },
+        {
+            "id": "chlorosis",
+            "word": "chlorosis"
+        },
+        {
+            "id": "chromoplast",
+            "word": "chromoplast"
+        },
+        {
+            "id": "circinate",
+            "word": "circinate"
+        },
+        {
+            "id": "citric",
+            "word": "citric"
+        },
+        {
+            "id": "cladode",
+            "word": "cladode"
+        },
+        {
+            "id": "clavate",
+            "word": "clavate"
+        },
+        {
+            "id": "cleistogamy",
+            "word": "cleistogamy"
+        },
+        {
+            "id": "coenocyte",
+            "word": "coenocyte"
+        },
+        {
+            "id": "cohn%2C_ferdinand",
+            "word": "cohn, ferdinand"
+        },
+        {
+            "id": "cola_nut",
+            "word": "cola nut"
+        },
+        {
+            "id": "coleoptile",
+            "word": "coleoptile"
+        },
+        {
+            "id": "coleorhiza",
+            "word": "coleorhiza"
+        },
+        {
+            "id": "collenchyma",
+            "word": "collenchyma"
+        },
+        {
+            "id": "coloration",
+            "word": "coloration"
+        },
+        {
+            "id": "compound_leaf",
+            "word": "compound leaf"
+        },
+        {
+            "id": "conidiophore",
+            "word": "conidiophore"
+        },
+        {
+            "id": "conidium",
+            "word": "conidium"
+        },
+        {
+            "id": "conker",
+            "word": "conker"
+        },
+        {
+            "id": "copra",
+            "word": "copra"
+        },
+        {
+            "id": "cordate",
+            "word": "cordate"
+        },
+        {
+            "id": "core",
+            "word": "core"
+        },
+        {
+            "id": "cork",
+            "word": "cork"
+        },
+        {
+            "id": "cork_cambium",
+            "word": "cork cambium"
+        },
+        {
+            "id": "corm",
+            "word": "corm"
+        },
+        {
+            "id": "corn",
+            "word": "corn"
+        },
+        {
+            "id": "cornsilk",
+            "word": "cornsilk"
+        },
+        {
+            "id": "cornstalk",
+            "word": "cornstalk"
+        },
+        {
+            "id": "corolla",
+            "word": "corolla"
+        },
+        {
+            "id": "corticate",
+            "word": "corticate"
+        },
+        {
+            "id": "cortina",
+            "word": "cortina"
+        },
+        {
+            "id": "corymb",
+            "word": "corymb"
+        },
+        {
+            "id": "costa",
+            "word": "costa"
+        },
+        {
+            "id": "costate",
+            "word": "costate"
+        },
+        {
+            "id": "cotyledon",
+            "word": "cotyledon"
+        },
+        {
+            "id": "crab_apple",
+            "word": "crab apple"
+        },
+        {
+            "id": "creeper",
+            "word": "creeper"
+        },
+        {
+            "id": "creeping",
+            "word": "creeping"
+        },
+        {
+            "id": "crenate",
+            "word": "crenate"
+        },
+        {
+            "id": "crenulate",
+            "word": "crenulate"
+        },
+        {
+            "id": "crinite",
+            "word": "crinite"
+        },
+        {
+            "id": "crispate",
+            "word": "crispate"
+        },
+        {
+            "id": "cross-fertilize",
+            "word": "cross-fertilize"
+        },
+        {
+            "id": "cross-pollinate",
+            "word": "cross-pollinate"
+        },
+        {
+            "id": "cross-pollination",
+            "word": "cross-pollination"
+        },
+        {
+            "id": "crown_gall",
+            "word": "crown gall"
+        },
+        {
+            "id": "cruciferous",
+            "word": "cruciferous"
+        },
+        {
+            "id": "crustose",
+            "word": "crustose"
+        },
+        {
+            "id": "cryptogam",
+            "word": "cryptogam"
+        },
+        {
+            "id": "cryptogamic",
+            "word": "cryptogamic"
+        },
+        {
+            "id": "cucumber_mosaic",
+            "word": "cucumber mosaic"
+        },
+        {
+            "id": "cucurbit",
+            "word": "cucurbit"
+        },
+        {
+            "id": "culm",
+            "word": "culm"
+        },
+        {
+            "id": "culpeper%2C_nicholas",
+            "word": "culpeper, nicholas"
+        },
+        {
+            "id": "cultigen",
+            "word": "cultigen"
+        },
+        {
+            "id": "cuneate",
+            "word": "cuneate"
+        },
+        {
+            "id": "cupule",
+            "word": "cupule"
+        },
+        {
+            "id": "cyanogenesis",
+            "word": "cyanogenesis"
+        },
+        {
+            "id": "cyanogenic",
+            "word": "cyanogenic"
+        },
+        {
+            "id": "cyathium",
+            "word": "cyathium"
+        },
+        {
+            "id": "cyme",
+            "word": "cyme"
+        },
+        {
+            "id": "cypsela",
+            "word": "cypsela"
+        },
+        {
+            "id": "dandelion_clock",
+            "word": "dandelion clock"
+        },
+        {
+            "id": "dark_reaction",
+            "word": "dark reaction"
+        },
+        {
+            "id": "deciduous",
+            "word": "deciduous"
+        },
+        {
+            "id": "decumbent",
+            "word": "decumbent"
+        },
+        {
+            "id": "decurrent",
+            "word": "decurrent"
+        },
+        {
+            "id": "decurved",
+            "word": "decurved"
+        },
+        {
+            "id": "deflexed",
+            "word": "deflexed"
+        },
+        {
+            "id": "dehisce",
+            "word": "dehisce"
+        },
+        {
+            "id": "dehiscence",
+            "word": "dehiscence"
+        },
+        {
+            "id": "dehiscent",
+            "word": "dehiscent"
+        },
+        {
+            "id": "dendrochronology",
+            "word": "dendrochronology"
+        },
+        {
+            "id": "dendrology",
+            "word": "dendrology"
+        },
+        {
+            "id": "dentate",
+            "word": "dentate"
+        },
+        {
+            "id": "depauperate",
+            "word": "depauperate"
+        },
+        {
+            "id": "determinate",
+            "word": "determinate"
+        },
+        {
+            "id": "diadelphous",
+            "word": "diadelphous"
+        },
+        {
+            "id": "diaspore",
+            "word": "diaspore"
+        },
+        {
+            "id": "dichasium",
+            "word": "dichasium"
+        },
+        {
+            "id": "dichogamy",
+            "word": "dichogamy"
+        },
+        {
+            "id": "dicotyledon",
+            "word": "dicotyledon"
+        },
+        {
+            "id": "digitate",
+            "word": "digitate"
+        },
+        {
+            "id": "digitation",
+            "word": "digitation"
+        },
+        {
+            "id": "dimerous",
+            "word": "dimerous"
+        },
+        {
+            "id": "diplohaplontic",
+            "word": "diplohaplontic"
+        },
+        {
+            "id": "diplontic",
+            "word": "diplontic"
+        },
+        {
+            "id": "disc_floret",
+            "word": "disc floret"
+        },
+        {
+            "id": "dissection",
+            "word": "dissection"
+        },
+        {
+            "id": "disseminule",
+            "word": "disseminule"
+        },
+        {
+            "id": "dissepiment",
+            "word": "dissepiment"
+        },
+        {
+            "id": "distichous",
+            "word": "distichous"
+        },
+        {
+            "id": "dormant",
+            "word": "dormant"
+        },
+        {
+            "id": "dorsal",
+            "word": "dorsal"
+        },
+        {
+            "id": "dorsiventral",
+            "word": "dorsiventral"
+        },
+        {
+            "id": "drupaceous",
+            "word": "drupaceous"
+        },
+        {
+            "id": "drupe",
+            "word": "drupe"
+        },
+        {
+            "id": "drupel",
+            "word": "drupel"
+        },
+        {
+            "id": "drupelet",
+            "word": "drupelet"
+        },
+        {
+            "id": "duramen",
+            "word": "duramen"
+        },
+        {
+            "id": "ear",
+            "word": "ear"
+        },
+        {
+            "id": "ecotype",
+            "word": "ecotype"
+        },
+        {
+            "id": "emerse",
+            "word": "emerse"
+        },
+        {
+            "id": "emersed",
+            "word": "emersed"
+        },
+        {
+            "id": "enation",
+            "word": "enation"
+        },
+        {
+            "id": "endangered",
+            "word": "endangered"
+        },
+        {
+            "id": "endangered_species",
+            "word": "endangered species"
+        },
+        {
+            "id": "endemism",
+            "word": "endemism"
+        },
+        {
+            "id": "endocarp",
+            "word": "endocarp"
+        },
+        {
+            "id": "endodermis",
+            "word": "endodermis"
+        },
+        {
+            "id": "endophyte",
+            "word": "endophyte"
+        },
+        {
+            "id": "endosperm",
+            "word": "endosperm"
+        },
+        {
+            "id": "ensiform",
+            "word": "ensiform"
+        },
+        {
+            "id": "entomophilous",
+            "word": "entomophilous"
+        },
+        {
+            "id": "epicarp",
+            "word": "epicarp"
+        },
+        {
+            "id": "epicormic",
+            "word": "epicormic"
+        },
+        {
+            "id": "epicotyl",
+            "word": "epicotyl"
+        },
+        {
+            "id": "epicuticle",
+            "word": "epicuticle"
+        },
+        {
+            "id": "epigeal",
+            "word": "epigeal"
+        },
+        {
+            "id": "epigynous",
+            "word": "epigynous"
+        },
+        {
+            "id": "epilithic",
+            "word": "epilithic"
+        },
+        {
+            "id": "epiphyte",
+            "word": "epiphyte"
+        },
+        {
+            "id": "epizoic",
+            "word": "epizoic"
+        },
+        {
+            "id": "equitant",
+            "word": "equitant"
+        },
+        {
+            "id": "ericaceous",
+            "word": "ericaceous"
+        },
+        {
+            "id": "ethnobotany",
+            "word": "ethnobotany"
+        },
+        {
+            "id": "etiolated",
+            "word": "etiolated"
+        },
+        {
+            "id": "evergreen",
+            "word": "evergreen"
+        },
+        {
+            "id": "exine",
+            "word": "exine"
+        },
+        {
+            "id": "exocarp",
+            "word": "exocarp"
+        },
+        {
+            "id": "exodermis",
+            "word": "exodermis"
+        },
+        {
+            "id": "extrafloral",
+            "word": "extrafloral"
+        },
+        {
+            "id": "extrorse",
+            "word": "extrorse"
+        },
+        {
+            "id": "falcate",
+            "word": "falcate"
+        },
+        {
+            "id": "false_fruit",
+            "word": "false fruit"
+        },
+        {
+            "id": "fasciated",
+            "word": "fasciated"
+        },
+        {
+            "id": "fastigiate",
+            "word": "fastigiate"
+        },
+        {
+            "id": "fenestrate",
+            "word": "fenestrate"
+        },
+        {
+            "id": "fernbrake",
+            "word": "fernbrake"
+        },
+        {
+            "id": "fern_gully",
+            "word": "fern gully"
+        },
+        {
+            "id": "filicopsida",
+            "word": "filicopsida"
+        },
+        {
+            "id": "fir_cone",
+            "word": "fir cone"
+        },
+        {
+            "id": "flaccid",
+            "word": "flaccid"
+        },
+        {
+            "id": "flax_bush",
+            "word": "flax bush"
+        },
+        {
+            "id": "floccose",
+            "word": "floccose"
+        },
+        {
+            "id": "flora",
+            "word": "flora"
+        },
+        {
+            "id": "florescence",
+            "word": "florescence"
+        },
+        {
+            "id": "floret",
+            "word": "floret"
+        },
+        {
+            "id": "floribunda",
+            "word": "floribunda"
+        },
+        {
+            "id": "floriculture",
+            "word": "floriculture"
+        },
+        {
+            "id": "floriferous",
+            "word": "floriferous"
+        },
+        {
+            "id": "floristic",
+            "word": "floristic"
+        },
+        {
+            "id": "floristics",
+            "word": "floristics"
+        },
+        {
+            "id": "flower",
+            "word": "flower"
+        },
+        {
+            "id": "flower_head",
+            "word": "flower head"
+        },
+        {
+            "id": "flowering_plant",
+            "word": "flowering plant"
+        },
+        {
+            "id": "foliage",
+            "word": "foliage"
+        },
+        {
+            "id": "foliage_leaf",
+            "word": "foliage leaf"
+        },
+        {
+            "id": "foliar",
+            "word": "foliar"
+        },
+        {
+            "id": "foliole",
+            "word": "foliole"
+        },
+        {
+            "id": "foliose",
+            "word": "foliose"
+        },
+        {
+            "id": "follicular",
+            "word": "follicular"
+        },
+        {
+            "id": "food_body",
+            "word": "food body"
+        },
+        {
+            "id": "footstalk",
+            "word": "footstalk"
+        },
+        {
+            "id": "forb",
+            "word": "forb"
+        },
+        {
+            "id": "forest_tree",
+            "word": "forest tree"
+        },
+        {
+            "id": "forma",
+            "word": "forma"
+        },
+        {
+            "id": "frankum",
+            "word": "frankum"
+        },
+        {
+            "id": "frond",
+            "word": "frond"
+        },
+        {
+            "id": "fructification",
+            "word": "fructification"
+        },
+        {
+            "id": "fruited",
+            "word": "fruited"
+        },
+        {
+            "id": "fruiting",
+            "word": "fruiting"
+        },
+        {
+            "id": "fruiting_body",
+            "word": "fruiting body"
+        },
+        {
+            "id": "fruitlet",
+            "word": "fruitlet"
+        },
+        {
+            "id": "frustule",
+            "word": "frustule"
+        },
+        {
+            "id": "fruticose",
+            "word": "fruticose"
+        },
+        {
+            "id": "fungal",
+            "word": "fungal"
+        },
+        {
+            "id": "fungoid",
+            "word": "fungoid"
+        },
+        {
+            "id": "fungous",
+            "word": "fungous"
+        },
+        {
+            "id": "fungus",
+            "word": "fungus"
+        },
+        {
+            "id": "funicle",
+            "word": "funicle"
+        },
+        {
+            "id": "furfuraceous",
+            "word": "furfuraceous"
+        },
+        {
+            "id": "fusiform",
+            "word": "fusiform"
+        },
+        {
+            "id": "fustic",
+            "word": "fustic"
+        },
+        {
+            "id": "galea",
+            "word": "galea"
+        },
+        {
+            "id": "gametangium",
+            "word": "gametangium"
+        },
+        {
+            "id": "gametophyte",
+            "word": "gametophyte"
+        },
+        {
+            "id": "geitonogamy",
+            "word": "geitonogamy"
+        },
+        {
+            "id": "gemma",
+            "word": "gemma"
+        },
+        {
+            "id": "gemmation",
+            "word": "gemmation"
+        },
+        {
+            "id": "gemmiparous",
+            "word": "gemmiparous"
+        },
+        {
+            "id": "geotropism",
+            "word": "geotropism"
+        },
+        {
+            "id": "gerard%2C_john",
+            "word": "gerard, john"
+        },
+        {
+            "id": "germinate",
+            "word": "germinate"
+        },
+        {
+            "id": "germination",
+            "word": "germination"
+        },
+        {
+            "id": "gibberellic_acid",
+            "word": "gibberellic acid"
+        },
+        {
+            "id": "gibberellin",
+            "word": "gibberellin"
+        },
+        {
+            "id": "glabrate",
+            "word": "glabrate"
+        },
+        {
+            "id": "glabrous",
+            "word": "glabrous"
+        },
+        {
+            "id": "glochid",
+            "word": "glochid"
+        },
+        {
+            "id": "glume",
+            "word": "glume"
+        },
+        {
+            "id": "go_%28or_run%29_to_seed",
+            "word": "go (or run) to seed"
+        },
+        {
+            "id": "graminaceous",
+            "word": "graminaceous"
+        },
+        {
+            "id": "grana",
+            "word": "grana"
+        },
+        {
+            "id": "graniferous",
+            "word": "graniferous"
+        },
+        {
+            "id": "grape",
+            "word": "grape"
+        },
+        {
+            "id": "grass_seed",
+            "word": "grass seed"
+        },
+        {
+            "id": "gray%2C_asa",
+            "word": "gray, asa"
+        },
+        {
+            "id": "growing_point",
+            "word": "growing point"
+        },
+        {
+            "id": "guard_cell",
+            "word": "guard cell"
+        },
+        {
+            "id": "gum",
+            "word": "gum"
+        },
+        {
+            "id": "gummosis",
+            "word": "gummosis"
+        },
+        {
+            "id": "gumnut",
+            "word": "gumnut"
+        },
+        {
+            "id": "gum_resin",
+            "word": "gum resin"
+        },
+        {
+            "id": "guttation",
+            "word": "guttation"
+        },
+        {
+            "id": "gymnosperm",
+            "word": "gymnosperm"
+        },
+        {
+            "id": "gynandrous",
+            "word": "gynandrous"
+        },
+        {
+            "id": "gynoecium",
+            "word": "gynoecium"
+        },
+        {
+            "id": "-gynous",
+            "word": "-gynous"
+        },
+        {
+            "id": "half-hardy",
+            "word": "half-hardy"
+        },
+        {
+            "id": "halophyte",
+            "word": "halophyte"
+        },
+        {
+            "id": "haplontic",
+            "word": "haplontic"
+        },
+        {
+            "id": "harden_something_off",
+            "word": "harden something off"
+        },
+        {
+            "id": "hastate",
+            "word": "hastate"
+        },
+        {
+            "id": "haulm",
+            "word": "haulm"
+        },
+        {
+            "id": "haustorium",
+            "word": "haustorium"
+        },
+        {
+            "id": "haw",
+            "word": "haw"
+        },
+        {
+            "id": "hazelnut",
+            "word": "hazelnut"
+        },
+        {
+            "id": "heartwood",
+            "word": "heartwood"
+        },
+        {
+            "id": "hedgerow",
+            "word": "hedgerow"
+        },
+        {
+            "id": "heliotropism",
+            "word": "heliotropism"
+        },
+        {
+            "id": "hemiparasite",
+            "word": "hemiparasite"
+        },
+        {
+            "id": "hepaticae",
+            "word": "hepaticae"
+        },
+        {
+            "id": "heptamerous",
+            "word": "heptamerous"
+        },
+        {
+            "id": "herbaceous",
+            "word": "herbaceous"
+        },
+        {
+            "id": "herbage",
+            "word": "herbage"
+        },
+        {
+            "id": "herbal",
+            "word": "herbal"
+        },
+        {
+            "id": "herbarium",
+            "word": "herbarium"
+        },
+        {
+            "id": "herbary",
+            "word": "herbary"
+        },
+        {
+            "id": "herbicide",
+            "word": "herbicide"
+        },
+        {
+            "id": "hesperidium",
+            "word": "hesperidium"
+        },
+        {
+            "id": "heterostyly",
+            "word": "heterostyly"
+        },
+        {
+            "id": "hexamerous",
+            "word": "hexamerous"
+        },
+        {
+            "id": "higher_plants",
+            "word": "higher plants"
+        },
+        {
+            "id": "hilar",
+            "word": "hilar"
+        },
+        {
+            "id": "hilum",
+            "word": "hilum"
+        },
+        {
+            "id": "hip",
+            "word": "hip"
+        },
+        {
+            "id": "hispid",
+            "word": "hispid"
+        },
+        {
+            "id": "histoplasmosis",
+            "word": "histoplasmosis"
+        },
+        {
+            "id": "holotype",
+            "word": "holotype"
+        },
+        {
+            "id": "honky_nut",
+            "word": "honky nut"
+        },
+        {
+            "id": "hooker%2C_sir_joseph_dalton",
+            "word": "hooker, sir joseph dalton"
+        },
+        {
+            "id": "hop_bine",
+            "word": "hop bine"
+        },
+        {
+            "id": "hortus_siccus",
+            "word": "hortus siccus"
+        },
+        {
+            "id": "hose-in-hose",
+            "word": "hose-in-hose"
+        },
+        {
+            "id": "hothouse_plant",
+            "word": "hothouse plant"
+        },
+        {
+            "id": "hull",
+            "word": "hull"
+        },
+        {
+            "id": "husk",
+            "word": "husk"
+        },
+        {
+            "id": "hydathode",
+            "word": "hydathode"
+        },
+        {
+            "id": "hydrophilous",
+            "word": "hydrophilous"
+        },
+        {
+            "id": "hydrophyte",
+            "word": "hydrophyte"
+        },
+        {
+            "id": "hydrotropism",
+            "word": "hydrotropism"
+        },
+        {
+            "id": "hygrophilous",
+            "word": "hygrophilous"
+        },
+        {
+            "id": "hygrophyte",
+            "word": "hygrophyte"
+        },
+        {
+            "id": "hymenium",
+            "word": "hymenium"
+        },
+        {
+            "id": "hyoscine",
+            "word": "hyoscine"
+        },
+        {
+            "id": "hypanthium",
+            "word": "hypanthium"
+        },
+        {
+            "id": "hypha",
+            "word": "hypha"
+        },
+        {
+            "id": "hypocotyl",
+            "word": "hypocotyl"
+        },
+        {
+            "id": "hypogeal",
+            "word": "hypogeal"
+        },
+        {
+            "id": "hypogynous",
+            "word": "hypogynous"
+        },
+        {
+            "id": "imbibition",
+            "word": "imbibition"
+        },
+        {
+            "id": "imbricate",
+            "word": "imbricate"
+        },
+        {
+            "id": "incubous",
+            "word": "incubous"
+        },
+        {
+            "id": "indehiscent",
+            "word": "indehiscent"
+        },
+        {
+            "id": "indumentum",
+            "word": "indumentum"
+        },
+        {
+            "id": "indusium",
+            "word": "indusium"
+        },
+        {
+            "id": "inflorescence",
+            "word": "inflorescence"
+        },
+        {
+            "id": "infructescence",
+            "word": "infructescence"
+        },
+        {
+            "id": "in_fruit",
+            "word": "in fruit"
+        },
+        {
+            "id": "ingenhousz%2C_jan",
+            "word": "ingenhousz, jan"
+        },
+        {
+            "id": "integument",
+            "word": "integument"
+        },
+        {
+            "id": "interbreed",
+            "word": "interbreed"
+        },
+        {
+            "id": "internode",
+            "word": "internode"
+        },
+        {
+            "id": "interrupted",
+            "word": "interrupted"
+        },
+        {
+            "id": "introrse",
+            "word": "introrse"
+        },
+        {
+            "id": "iridaceous",
+            "word": "iridaceous"
+        },
+        {
+            "id": "isodiametric",
+            "word": "isodiametric"
+        },
+        {
+            "id": "jalap",
+            "word": "jalap"
+        },
+        {
+            "id": "jizz",
+            "word": "jizz"
+        },
+        {
+            "id": "jussieu%2C_antoine_laurent_de",
+            "word": "jussieu, antoine laurent de"
+        },
+        {
+            "id": "kauri_gum",
+            "word": "kauri gum"
+        },
+        {
+            "id": "kernel",
+            "word": "kernel"
+        },
+        {
+            "id": "kidney_bean",
+            "word": "kidney bean"
+        },
+        {
+            "id": "laciniate",
+            "word": "laciniate"
+        },
+        {
+            "id": "lactescent",
+            "word": "lactescent"
+        },
+        {
+            "id": "lactiferous",
+            "word": "lactiferous"
+        },
+        {
+            "id": "lamb%27s-tails",
+            "word": "lamb's-tails"
+        },
+        {
+            "id": "laticifer",
+            "word": "laticifer"
+        },
+        {
+            "id": "leaf",
+            "word": "leaf"
+        },
+        {
+            "id": "leaf_bud",
+            "word": "leaf bud"
+        },
+        {
+            "id": "leaf_curl",
+            "word": "leaf curl"
+        },
+        {
+            "id": "leaf-fall",
+            "word": "leaf-fall"
+        },
+        {
+            "id": "leaf_trace",
+            "word": "leaf trace"
+        },
+        {
+            "id": "leafy",
+            "word": "leafy"
+        },
+        {
+            "id": "leaved",
+            "word": "leaved"
+        },
+        {
+            "id": "leguminous",
+            "word": "leguminous"
+        },
+        {
+            "id": "lemma",
+            "word": "lemma"
+        },
+        {
+            "id": "lenticel",
+            "word": "lenticel"
+        },
+        {
+            "id": "leucoplast",
+            "word": "leucoplast"
+        },
+        {
+            "id": "liana",
+            "word": "liana"
+        },
+        {
+            "id": "lichenology",
+            "word": "lichenology"
+        },
+        {
+            "id": "lignify",
+            "word": "lignify"
+        },
+        {
+            "id": "lignin",
+            "word": "lignin"
+        },
+        {
+            "id": "lignocellulose",
+            "word": "lignocellulose"
+        },
+        {
+            "id": "lignotuber",
+            "word": "lignotuber"
+        },
+        {
+            "id": "ligulate",
+            "word": "ligulate"
+        },
+        {
+            "id": "ligule",
+            "word": "ligule"
+        },
+        {
+            "id": "liliaceous",
+            "word": "liliaceous"
+        },
+        {
+            "id": "lily_pad",
+            "word": "lily pad"
+        },
+        {
+            "id": "lingulate",
+            "word": "lingulate"
+        },
+        {
+            "id": "linnaean",
+            "word": "linnaean"
+        },
+        {
+            "id": "linnaeus%2C_carolus",
+            "word": "linnaeus, carolus"
+        },
+        {
+            "id": "lithophyte",
+            "word": "lithophyte"
+        },
+        {
+            "id": "locule",
+            "word": "locule"
+        },
+        {
+            "id": "loculus",
+            "word": "loculus"
+        },
+        {
+            "id": "lodicule",
+            "word": "lodicule"
+        },
+        {
+            "id": "loment",
+            "word": "loment"
+        },
+        {
+            "id": "long-day",
+            "word": "long-day"
+        },
+        {
+            "id": "lower_plants",
+            "word": "lower plants"
+        },
+        {
+            "id": "lupulin",
+            "word": "lupulin"
+        },
+        {
+            "id": "luteofulvous",
+            "word": "luteofulvous"
+        },
+        {
+            "id": "lycopod",
+            "word": "lycopod"
+        },
+        {
+            "id": "lycopsida",
+            "word": "lycopsida"
+        },
+        {
+            "id": "macaronesia",
+            "word": "macaronesia"
+        },
+        {
+            "id": "macaronesian",
+            "word": "macaronesian"
+        },
+        {
+            "id": "macrophyte",
+            "word": "macrophyte"
+        },
+        {
+            "id": "malesia",
+            "word": "malesia"
+        },
+        {
+            "id": "malesian",
+            "word": "malesian"
+        },
+        {
+            "id": "malvaceous",
+            "word": "malvaceous"
+        },
+        {
+            "id": "marcescent",
+            "word": "marcescent"
+        },
+        {
+            "id": "mast",
+            "word": "mast"
+        },
+        {
+            "id": "megaspore",
+            "word": "megaspore"
+        },
+        {
+            "id": "meristem",
+            "word": "meristem"
+        },
+        {
+            "id": "meristematic",
+            "word": "meristematic"
+        },
+        {
+            "id": "mesocarp",
+            "word": "mesocarp"
+        },
+        {
+            "id": "mesophyll",
+            "word": "mesophyll"
+        },
+        {
+            "id": "mesophyte",
+            "word": "mesophyte"
+        },
+        {
+            "id": "mesquite_bean",
+            "word": "mesquite bean"
+        },
+        {
+            "id": "microphyll",
+            "word": "microphyll"
+        },
+        {
+            "id": "micropyle",
+            "word": "micropyle"
+        },
+        {
+            "id": "microsporangium",
+            "word": "microsporangium"
+        },
+        {
+            "id": "microspore",
+            "word": "microspore"
+        },
+        {
+            "id": "midrib",
+            "word": "midrib"
+        },
+        {
+            "id": "monadelphous",
+            "word": "monadelphous"
+        },
+        {
+            "id": "moniliform",
+            "word": "moniliform"
+        },
+        {
+            "id": "monkey_nut",
+            "word": "monkey nut"
+        },
+        {
+            "id": "monocarpic",
+            "word": "monocarpic"
+        },
+        {
+            "id": "monochasium",
+            "word": "monochasium"
+        },
+        {
+            "id": "monocot",
+            "word": "monocot"
+        },
+        {
+            "id": "monocotyledon",
+            "word": "monocotyledon"
+        },
+        {
+            "id": "monoecious",
+            "word": "monoecious"
+        },
+        {
+            "id": "monogynous",
+            "word": "monogynous"
+        },
+        {
+            "id": "monopodium",
+            "word": "monopodium"
+        },
+        {
+            "id": "motile",
+            "word": "motile"
+        },
+        {
+            "id": "mucro",
+            "word": "mucro"
+        },
+        {
+            "id": "mucronate",
+            "word": "mucronate"
+        },
+        {
+            "id": "mulga_apple",
+            "word": "mulga apple"
+        },
+        {
+            "id": "multifid",
+            "word": "multifid"
+        },
+        {
+            "id": "multiple_fruit",
+            "word": "multiple fruit"
+        },
+        {
+            "id": "mundulla_yellows",
+            "word": "mundulla yellows"
+        },
+        {
+            "id": "muricate",
+            "word": "muricate"
+        },
+        {
+            "id": "musci",
+            "word": "musci"
+        },
+        {
+            "id": "mycelium",
+            "word": "mycelium"
+        },
+        {
+            "id": "myco-",
+            "word": "myco-"
+        },
+        {
+            "id": "mycology",
+            "word": "mycology"
+        },
+        {
+            "id": "mycorrhiza",
+            "word": "mycorrhiza"
+        },
+        {
+            "id": "mycotrophic",
+            "word": "mycotrophic"
+        },
+        {
+            "id": "myrtaceous",
+            "word": "myrtaceous"
+        },
+        {
+            "id": "nastic",
+            "word": "nastic"
+        },
+        {
+            "id": "natural_history",
+            "word": "natural history"
+        },
+        {
+            "id": "naturalist",
+            "word": "naturalist"
+        },
+        {
+            "id": "nectar",
+            "word": "nectar"
+        },
+        {
+            "id": "nectariferous",
+            "word": "nectariferous"
+        },
+        {
+            "id": "nectary",
+            "word": "nectary"
+        },
+        {
+            "id": "negative_geotropism",
+            "word": "negative geotropism"
+        },
+        {
+            "id": "neotropics",
+            "word": "neotropics"
+        },
+        {
+            "id": "neroli",
+            "word": "neroli"
+        },
+        {
+            "id": "nervation",
+            "word": "nervation"
+        },
+        {
+            "id": "nitrophilous",
+            "word": "nitrophilous"
+        },
+        {
+            "id": "nodulated",
+            "word": "nodulated"
+        },
+        {
+            "id": "noxious_weed",
+            "word": "noxious weed"
+        },
+        {
+            "id": "nucellar",
+            "word": "nucellar"
+        },
+        {
+            "id": "nucellus",
+            "word": "nucellus"
+        },
+        {
+            "id": "nuci-",
+            "word": "nuci-"
+        },
+        {
+            "id": "nuciferous",
+            "word": "nuciferous"
+        },
+        {
+            "id": "nut",
+            "word": "nut"
+        },
+        {
+            "id": "nutlet",
+            "word": "nutlet"
+        },
+        {
+            "id": "nutmeg",
+            "word": "nutmeg"
+        },
+        {
+            "id": "nutshell",
+            "word": "nutshell"
+        },
+        {
+            "id": "nut_tree",
+            "word": "nut tree"
+        },
+        {
+            "id": "nyctinastic",
+            "word": "nyctinastic"
+        },
+        {
+            "id": "oak_wilt",
+            "word": "oak wilt"
+        },
+        {
+            "id": "obconical",
+            "word": "obconical"
+        },
+        {
+            "id": "obcordate",
+            "word": "obcordate"
+        },
+        {
+            "id": "oblanceolate",
+            "word": "oblanceolate"
+        },
+        {
+            "id": "obovate",
+            "word": "obovate"
+        },
+        {
+            "id": "obvolute",
+            "word": "obvolute"
+        },
+        {
+            "id": "ochrea",
+            "word": "ochrea"
+        },
+        {
+            "id": "octamerous",
+            "word": "octamerous"
+        },
+        {
+            "id": "odd-pinnate",
+            "word": "odd-pinnate"
+        },
+        {
+            "id": "offshoot",
+            "word": "offshoot"
+        },
+        {
+            "id": "oidium",
+            "word": "oidium"
+        },
+        {
+            "id": "oil_gland",
+            "word": "oil gland"
+        },
+        {
+            "id": "oilseed",
+            "word": "oilseed"
+        },
+        {
+            "id": "oleaceous",
+            "word": "oleaceous"
+        },
+        {
+            "id": "oleiferous",
+            "word": "oleiferous"
+        },
+        {
+            "id": "-ome",
+            "word": "-ome"
+        },
+        {
+            "id": "oogonium",
+            "word": "oogonium"
+        },
+        {
+            "id": "oosphere",
+            "word": "oosphere"
+        },
+        {
+            "id": "oospore",
+            "word": "oospore"
+        },
+        {
+            "id": "opercular",
+            "word": "opercular"
+        },
+        {
+            "id": "operculum",
+            "word": "operculum"
+        },
+        {
+            "id": "opposite",
+            "word": "opposite"
+        },
+        {
+            "id": "orbicular",
+            "word": "orbicular"
+        },
+        {
+            "id": "orchidaceous",
+            "word": "orchidaceous"
+        },
+        {
+            "id": "orthostichy",
+            "word": "orthostichy"
+        },
+        {
+            "id": "orthotropic",
+            "word": "orthotropic"
+        },
+        {
+            "id": "ostiole",
+            "word": "ostiole"
+        },
+        {
+            "id": "ovule",
+            "word": "ovule"
+        },
+        {
+            "id": "palaeobotany",
+            "word": "palaeobotany"
+        },
+        {
+            "id": "palaeotropical",
+            "word": "palaeotropical"
+        },
+        {
+            "id": "palea",
+            "word": "palea"
+        },
+        {
+            "id": "palisade_layer",
+            "word": "palisade layer"
+        },
+        {
+            "id": "palmate",
+            "word": "palmate"
+        },
+        {
+            "id": "palm_oil",
+            "word": "palm oil"
+        },
+        {
+            "id": "palynology",
+            "word": "palynology"
+        },
+        {
+            "id": "panama_disease",
+            "word": "panama disease"
+        },
+        {
+            "id": "panicle",
+            "word": "panicle"
+        },
+        {
+            "id": "papaveraceous",
+            "word": "papaveraceous"
+        },
+        {
+            "id": "papilionaceous",
+            "word": "papilionaceous"
+        },
+        {
+            "id": "papillary",
+            "word": "papillary"
+        },
+        {
+            "id": "pappus",
+            "word": "pappus"
+        },
+        {
+            "id": "paraphysis",
+            "word": "paraphysis"
+        },
+        {
+            "id": "parastichy",
+            "word": "parastichy"
+        },
+        {
+            "id": "parenchymatous",
+            "word": "parenchymatous"
+        },
+        {
+            "id": "parietal",
+            "word": "parietal"
+        },
+        {
+            "id": "parthenocarpy",
+            "word": "parthenocarpy"
+        },
+        {
+            "id": "partite",
+            "word": "partite"
+        },
+        {
+            "id": "patulous",
+            "word": "patulous"
+        },
+        {
+            "id": "pea_flower",
+            "word": "pea flower"
+        },
+        {
+            "id": "pedicel",
+            "word": "pedicel"
+        },
+        {
+            "id": "peduncle",
+            "word": "peduncle"
+        },
+        {
+            "id": "pedunculate",
+            "word": "pedunculate"
+        },
+        {
+            "id": "pellicle",
+            "word": "pellicle"
+        },
+        {
+            "id": "peltate",
+            "word": "peltate"
+        },
+        {
+            "id": "pendulous",
+            "word": "pendulous"
+        },
+        {
+            "id": "pennate",
+            "word": "pennate"
+        },
+        {
+            "id": "pentamerous",
+            "word": "pentamerous"
+        },
+        {
+            "id": "pepo",
+            "word": "pepo"
+        },
+        {
+            "id": "perennate",
+            "word": "perennate"
+        },
+        {
+            "id": "perfoliate",
+            "word": "perfoliate"
+        },
+        {
+            "id": "perianth",
+            "word": "perianth"
+        },
+        {
+            "id": "pericarp",
+            "word": "pericarp"
+        },
+        {
+            "id": "periclinal",
+            "word": "periclinal"
+        },
+        {
+            "id": "pericycle",
+            "word": "pericycle"
+        },
+        {
+            "id": "periderm",
+            "word": "periderm"
+        },
+        {
+            "id": "peridium",
+            "word": "peridium"
+        },
+        {
+            "id": "perigynous",
+            "word": "perigynous"
+        },
+        {
+            "id": "perisperm",
+            "word": "perisperm"
+        },
+        {
+            "id": "perithecium",
+            "word": "perithecium"
+        },
+        {
+            "id": "petal",
+            "word": "petal"
+        },
+        {
+            "id": "petiole",
+            "word": "petiole"
+        },
+        {
+            "id": "petitgrain",
+            "word": "petitgrain"
+        },
+        {
+            "id": "phaeophyceae",
+            "word": "phaeophyceae"
+        },
+        {
+            "id": "phanerogam",
+            "word": "phanerogam"
+        },
+        {
+            "id": "phloem",
+            "word": "phloem"
+        },
+        {
+            "id": "photomorphogenesis",
+            "word": "photomorphogenesis"
+        },
+        {
+            "id": "photoperiod",
+            "word": "photoperiod"
+        },
+        {
+            "id": "photoperiodism",
+            "word": "photoperiodism"
+        },
+        {
+            "id": "photorespiration",
+            "word": "photorespiration"
+        },
+        {
+            "id": "phototropism",
+            "word": "phototropism"
+        },
+        {
+            "id": "phreatophyte",
+            "word": "phreatophyte"
+        },
+        {
+            "id": "phycomycete",
+            "word": "phycomycete"
+        },
+        {
+            "id": "phyllo-",
+            "word": "phyllo-"
+        },
+        {
+            "id": "phylloclade",
+            "word": "phylloclade"
+        },
+        {
+            "id": "phyllode",
+            "word": "phyllode"
+        },
+        {
+            "id": "phyllotaxis",
+            "word": "phyllotaxis"
+        },
+        {
+            "id": "-phyte",
+            "word": "-phyte"
+        },
+        {
+            "id": "phyto-",
+            "word": "phyto-"
+        },
+        {
+            "id": "phytoalexin",
+            "word": "phytoalexin"
+        },
+        {
+            "id": "phytochemistry",
+            "word": "phytochemistry"
+        },
+        {
+            "id": "phytogenetic",
+            "word": "phytogenetic"
+        },
+        {
+            "id": "phytogeographical_kingdom",
+            "word": "phytogeographical kingdom"
+        },
+        {
+            "id": "phytogeography",
+            "word": "phytogeography"
+        },
+        {
+            "id": "phytolith",
+            "word": "phytolith"
+        },
+        {
+            "id": "phytopathology",
+            "word": "phytopathology"
+        },
+        {
+            "id": "phytoplankton",
+            "word": "phytoplankton"
+        },
+        {
+            "id": "phytotoxic",
+            "word": "phytotoxic"
+        },
+        {
+            "id": "phytotoxin",
+            "word": "phytotoxin"
+        },
+        {
+            "id": "pileus",
+            "word": "pileus"
+        },
+        {
+            "id": "pine_cone",
+            "word": "pine cone"
+        },
+        {
+            "id": "pinetum",
+            "word": "pinetum"
+        },
+        {
+            "id": "pinnate",
+            "word": "pinnate"
+        },
+        {
+            "id": "pinnatifid",
+            "word": "pinnatifid"
+        },
+        {
+            "id": "pinnule",
+            "word": "pinnule"
+        },
+        {
+            "id": "pip",
+            "word": "pip"
+        },
+        {
+            "id": "pistil",
+            "word": "pistil"
+        },
+        {
+            "id": "pistillate",
+            "word": "pistillate"
+        },
+        {
+            "id": "pith",
+            "word": "pith"
+        },
+        {
+            "id": "plant",
+            "word": "plant"
+        },
+        {
+            "id": "plasmodesma",
+            "word": "plasmodesma"
+        },
+        {
+            "id": "plasmolyse",
+            "word": "plasmolyse"
+        },
+        {
+            "id": "plasmolysis",
+            "word": "plasmolysis"
+        },
+        {
+            "id": "plastid",
+            "word": "plastid"
+        },
+        {
+            "id": "plumate",
+            "word": "plumate"
+        },
+        {
+            "id": "plumose",
+            "word": "plumose"
+        },
+        {
+            "id": "plumular",
+            "word": "plumular"
+        },
+        {
+            "id": "plumule",
+            "word": "plumule"
+        },
+        {
+            "id": "pod",
+            "word": "pod"
+        },
+        {
+            "id": "pollen",
+            "word": "pollen"
+        },
+        {
+            "id": "pollen_grain",
+            "word": "pollen grain"
+        },
+        {
+            "id": "pollen_tube",
+            "word": "pollen tube"
+        },
+        {
+            "id": "pollen_zone",
+            "word": "pollen zone"
+        },
+        {
+            "id": "pollinium",
+            "word": "pollinium"
+        },
+        {
+            "id": "pome",
+            "word": "pome"
+        },
+        {
+            "id": "poppy_head",
+            "word": "poppy head"
+        },
+        {
+            "id": "porose",
+            "word": "porose"
+        },
+        {
+            "id": "positive_geotropism",
+            "word": "positive geotropism"
+        },
+        {
+            "id": "poverty_bush",
+            "word": "poverty bush"
+        },
+        {
+            "id": "prickle",
+            "word": "prickle"
+        },
+        {
+            "id": "primulaceous",
+            "word": "primulaceous"
+        },
+        {
+            "id": "procumbent",
+            "word": "procumbent"
+        },
+        {
+            "id": "proliferous",
+            "word": "proliferous"
+        },
+        {
+            "id": "propagule",
+            "word": "propagule"
+        },
+        {
+            "id": "prosenchyma",
+            "word": "prosenchyma"
+        },
+        {
+            "id": "protandrous",
+            "word": "protandrous"
+        },
+        {
+            "id": "protective_colouring",
+            "word": "protective colouring"
+        },
+        {
+            "id": "prothallus",
+            "word": "prothallus"
+        },
+        {
+            "id": "protogynous",
+            "word": "protogynous"
+        },
+        {
+            "id": "protoplast",
+            "word": "protoplast"
+        },
+        {
+            "id": "pruinose",
+            "word": "pruinose"
+        },
+        {
+            "id": "pseudobulb",
+            "word": "pseudobulb"
+        },
+        {
+            "id": "pteridology",
+            "word": "pteridology"
+        },
+        {
+            "id": "pteridophyta",
+            "word": "pteridophyta"
+        },
+        {
+            "id": "pteridophyte",
+            "word": "pteridophyte"
+        },
+        {
+            "id": "pulvinus",
+            "word": "pulvinus"
+        },
+        {
+            "id": "pyxidium",
+            "word": "pyxidium"
+        },
+        {
+            "id": "race",
+            "word": "race"
+        },
+        {
+            "id": "raceme",
+            "word": "raceme"
+        },
+        {
+            "id": "racemose",
+            "word": "racemose"
+        },
+        {
+            "id": "rachis",
+            "word": "rachis"
+        },
+        {
+            "id": "radicle",
+            "word": "radicle"
+        },
+        {
+            "id": "ramose",
+            "word": "ramose"
+        },
+        {
+            "id": "ranunculaceous",
+            "word": "ranunculaceous"
+        },
+        {
+            "id": "raphide",
+            "word": "raphide"
+        },
+        {
+            "id": "ray%2C_john",
+            "word": "ray, john"
+        },
+        {
+            "id": "rayed",
+            "word": "rayed"
+        },
+        {
+            "id": "ray_floret",
+            "word": "ray floret"
+        },
+        {
+            "id": "reed_bed",
+            "word": "reed bed"
+        },
+        {
+            "id": "regerminate",
+            "word": "regerminate"
+        },
+        {
+            "id": "reniform",
+            "word": "reniform"
+        },
+        {
+            "id": "resin",
+            "word": "resin"
+        },
+        {
+            "id": "resupinate",
+            "word": "resupinate"
+        },
+        {
+            "id": "retroflex",
+            "word": "retroflex"
+        },
+        {
+            "id": "revolute",
+            "word": "revolute"
+        },
+        {
+            "id": "rhizo-",
+            "word": "rhizo-"
+        },
+        {
+            "id": "rhizoctonia",
+            "word": "rhizoctonia"
+        },
+        {
+            "id": "rhizoid",
+            "word": "rhizoid"
+        },
+        {
+            "id": "rhizome",
+            "word": "rhizome"
+        },
+        {
+            "id": "rhizomorph",
+            "word": "rhizomorph"
+        },
+        {
+            "id": "rhodophyta",
+            "word": "rhodophyta"
+        },
+        {
+            "id": "rhodophyte",
+            "word": "rhodophyte"
+        },
+        {
+            "id": "rock_plant",
+            "word": "rock plant"
+        },
+        {
+            "id": "root",
+            "word": "root"
+        },
+        {
+            "id": "root_hair",
+            "word": "root hair"
+        },
+        {
+            "id": "root-knot",
+            "word": "root-knot"
+        },
+        {
+            "id": "rootstock",
+            "word": "rootstock"
+        },
+        {
+            "id": "rosaceous",
+            "word": "rosaceous"
+        },
+        {
+            "id": "rosebud",
+            "word": "rosebud"
+        },
+        {
+            "id": "ruderal",
+            "word": "ruderal"
+        },
+        {
+            "id": "sac",
+            "word": "sac"
+        },
+        {
+            "id": "saccate",
+            "word": "saccate"
+        },
+        {
+            "id": "sagittate",
+            "word": "sagittate"
+        },
+        {
+            "id": "samara",
+            "word": "samara"
+        },
+        {
+            "id": "sap",
+            "word": "sap"
+        },
+        {
+            "id": "sapwood",
+            "word": "sapwood"
+        },
+        {
+            "id": "scalariform",
+            "word": "scalariform"
+        },
+        {
+            "id": "scale_leaf",
+            "word": "scale leaf"
+        },
+        {
+            "id": "scandent",
+            "word": "scandent"
+        },
+        {
+            "id": "scape",
+            "word": "scape"
+        },
+        {
+            "id": "schizocarp",
+            "word": "schizocarp"
+        },
+        {
+            "id": "schizogenous",
+            "word": "schizogenous"
+        },
+        {
+            "id": "scion",
+            "word": "scion"
+        },
+        {
+            "id": "sclerenchyma",
+            "word": "sclerenchyma"
+        },
+        {
+            "id": "scleroid",
+            "word": "scleroid"
+        },
+        {
+            "id": "sclerophyll",
+            "word": "sclerophyll"
+        },
+        {
+            "id": "sclerotium",
+            "word": "sclerotium"
+        },
+        {
+            "id": "scutellar",
+            "word": "scutellar"
+        },
+        {
+            "id": "scutellum",
+            "word": "scutellum"
+        },
+        {
+            "id": "secondary_thickening",
+            "word": "secondary thickening"
+        },
+        {
+            "id": "secund",
+            "word": "secund"
+        },
+        {
+            "id": "seed",
+            "word": "seed"
+        },
+        {
+            "id": "seed_coat",
+            "word": "seed coat"
+        },
+        {
+            "id": "seeded",
+            "word": "seeded"
+        },
+        {
+            "id": "seed_head",
+            "word": "seed head"
+        },
+        {
+            "id": "seed_leaf",
+            "word": "seed leaf"
+        },
+        {
+            "id": "seedless",
+            "word": "seedless"
+        },
+        {
+            "id": "seed_plant",
+            "word": "seed plant"
+        },
+        {
+            "id": "self-compatible",
+            "word": "self-compatible"
+        },
+        {
+            "id": "self-fertile",
+            "word": "self-fertile"
+        },
+        {
+            "id": "self-incompatible",
+            "word": "self-incompatible"
+        },
+        {
+            "id": "selfing",
+            "word": "selfing"
+        },
+        {
+            "id": "self-pollinating",
+            "word": "self-pollinating"
+        },
+        {
+            "id": "self-pollination",
+            "word": "self-pollination"
+        },
+        {
+            "id": "self-seed",
+            "word": "self-seed"
+        },
+        {
+            "id": "self-seeding",
+            "word": "self-seeding"
+        },
+        {
+            "id": "self-sow",
+            "word": "self-sow"
+        },
+        {
+            "id": "self-sown",
+            "word": "self-sown"
+        },
+        {
+            "id": "semi-double",
+            "word": "semi-double"
+        },
+        {
+            "id": "sepal",
+            "word": "sepal"
+        },
+        {
+            "id": "septal",
+            "word": "septal"
+        },
+        {
+            "id": "septate",
+            "word": "septate"
+        },
+        {
+            "id": "septum",
+            "word": "septum"
+        },
+        {
+            "id": "serrate",
+            "word": "serrate"
+        },
+        {
+            "id": "sheath",
+            "word": "sheath"
+        },
+        {
+            "id": "shed",
+            "word": "shed"
+        },
+        {
+            "id": "shin-tangle",
+            "word": "shin-tangle"
+        },
+        {
+            "id": "short-day",
+            "word": "short-day"
+        },
+        {
+            "id": "shrub",
+            "word": "shrub"
+        },
+        {
+            "id": "shuck",
+            "word": "shuck"
+        },
+        {
+            "id": "sieve_cell",
+            "word": "sieve cell"
+        },
+        {
+            "id": "sieve_element",
+            "word": "sieve element"
+        },
+        {
+            "id": "sieve_plate",
+            "word": "sieve plate"
+        },
+        {
+            "id": "sieve_tube",
+            "word": "sieve tube"
+        },
+        {
+            "id": "sieve_tube_element",
+            "word": "sieve tube element"
+        },
+        {
+            "id": "siliqua",
+            "word": "siliqua"
+        },
+        {
+            "id": "sinuate",
+            "word": "sinuate"
+        },
+        {
+            "id": "siphonostele",
+            "word": "siphonostele"
+        },
+        {
+            "id": "skeleton",
+            "word": "skeleton"
+        },
+        {
+            "id": "solanaceous",
+            "word": "solanaceous"
+        },
+        {
+            "id": "sorb",
+            "word": "sorb"
+        },
+        {
+            "id": "sorosis",
+            "word": "sorosis"
+        },
+        {
+            "id": "sorus",
+            "word": "sorus"
+        },
+        {
+            "id": "spadix",
+            "word": "spadix"
+        },
+        {
+            "id": "spathe",
+            "word": "spathe"
+        },
+        {
+            "id": "spatulate",
+            "word": "spatulate"
+        },
+        {
+            "id": "specific_epithet",
+            "word": "specific epithet"
+        },
+        {
+            "id": "specific_name",
+            "word": "specific name"
+        },
+        {
+            "id": "spermatophyte",
+            "word": "spermatophyte"
+        },
+        {
+            "id": "spermatozoid",
+            "word": "spermatozoid"
+        },
+        {
+            "id": "sphenopsida",
+            "word": "sphenopsida"
+        },
+        {
+            "id": "spicula",
+            "word": "spicula"
+        },
+        {
+            "id": "spike",
+            "word": "spike"
+        },
+        {
+            "id": "spikelet",
+            "word": "spikelet"
+        },
+        {
+            "id": "spinose",
+            "word": "spinose"
+        },
+        {
+            "id": "spinulose",
+            "word": "spinulose"
+        },
+        {
+            "id": "sporangiophore",
+            "word": "sporangiophore"
+        },
+        {
+            "id": "sporangium",
+            "word": "sporangium"
+        },
+        {
+            "id": "sporogenesis",
+            "word": "sporogenesis"
+        },
+        {
+            "id": "sporogenous",
+            "word": "sporogenous"
+        },
+        {
+            "id": "sporophore",
+            "word": "sporophore"
+        },
+        {
+            "id": "sporophyte",
+            "word": "sporophyte"
+        },
+        {
+            "id": "sporulate",
+            "word": "sporulate"
+        },
+        {
+            "id": "spraing",
+            "word": "spraing"
+        },
+        {
+            "id": "squamule",
+            "word": "squamule"
+        },
+        {
+            "id": "stalk",
+            "word": "stalk"
+        },
+        {
+            "id": "stalked",
+            "word": "stalked"
+        },
+        {
+            "id": "stamen",
+            "word": "stamen"
+        },
+        {
+            "id": "staminate",
+            "word": "staminate"
+        },
+        {
+            "id": "staminode",
+            "word": "staminode"
+        },
+        {
+            "id": "stelar",
+            "word": "stelar"
+        },
+        {
+            "id": "stele",
+            "word": "stele"
+        },
+        {
+            "id": "stem",
+            "word": "stem"
+        },
+        {
+            "id": "stemmed",
+            "word": "stemmed"
+        },
+        {
+            "id": "sterigma",
+            "word": "sterigma"
+        },
+        {
+            "id": "stipe",
+            "word": "stipe"
+        },
+        {
+            "id": "stipitate",
+            "word": "stipitate"
+        },
+        {
+            "id": "stipulate",
+            "word": "stipulate"
+        },
+        {
+            "id": "stipule",
+            "word": "stipule"
+        },
+        {
+            "id": "stolon",
+            "word": "stolon"
+        },
+        {
+            "id": "stoma",
+            "word": "stoma"
+        },
+        {
+            "id": "stomatal",
+            "word": "stomatal"
+        },
+        {
+            "id": "stomate",
+            "word": "stomate"
+        },
+        {
+            "id": "stone_fruit",
+            "word": "stone fruit"
+        },
+        {
+            "id": "storax",
+            "word": "storax"
+        },
+        {
+            "id": "strain",
+            "word": "strain"
+        },
+        {
+            "id": "stramonium",
+            "word": "stramonium"
+        },
+        {
+            "id": "stria",
+            "word": "stria"
+        },
+        {
+            "id": "striate",
+            "word": "striate"
+        },
+        {
+            "id": "strigose",
+            "word": "strigose"
+        },
+        {
+            "id": "strobilus",
+            "word": "strobilus"
+        },
+        {
+            "id": "stromatic",
+            "word": "stromatic"
+        },
+        {
+            "id": "stylar",
+            "word": "stylar"
+        },
+        {
+            "id": "suberin",
+            "word": "suberin"
+        },
+        {
+            "id": "suberize",
+            "word": "suberize"
+        },
+        {
+            "id": "subregion",
+            "word": "subregion"
+        },
+        {
+            "id": "subshrub",
+            "word": "subshrub"
+        },
+        {
+            "id": "subulate",
+            "word": "subulate"
+        },
+        {
+            "id": "succubous",
+            "word": "succubous"
+        },
+        {
+            "id": "sulcate",
+            "word": "sulcate"
+        },
+        {
+            "id": "sun_scald",
+            "word": "sun scald"
+        },
+        {
+            "id": "syconium",
+            "word": "syconium"
+        },
+        {
+            "id": "sympetalous",
+            "word": "sympetalous"
+        },
+        {
+            "id": "symplasm",
+            "word": "symplasm"
+        },
+        {
+            "id": "symplast",
+            "word": "symplast"
+        },
+        {
+            "id": "sympodium",
+            "word": "sympodium"
+        },
+        {
+            "id": "syncarpous",
+            "word": "syncarpous"
+        },
+        {
+            "id": "synoecious",
+            "word": "synoecious"
+        },
+        {
+            "id": "syntype",
+            "word": "syntype"
+        },
+        {
+            "id": "taproot",
+            "word": "taproot"
+        },
+        {
+            "id": "tautonym",
+            "word": "tautonym"
+        },
+        {
+            "id": "tea_oil",
+            "word": "tea oil"
+        },
+        {
+            "id": "tendril",
+            "word": "tendril"
+        },
+        {
+            "id": "tepal",
+            "word": "tepal"
+        },
+        {
+            "id": "terete",
+            "word": "terete"
+        },
+        {
+            "id": "terminator_seed",
+            "word": "terminator seed"
+        },
+        {
+            "id": "ternate",
+            "word": "ternate"
+        },
+        {
+            "id": "testa",
+            "word": "testa"
+        },
+        {
+            "id": "testiculate",
+            "word": "testiculate"
+        },
+        {
+            "id": "tetramerous",
+            "word": "tetramerous"
+        },
+        {
+            "id": "tetraspore",
+            "word": "tetraspore"
+        },
+        {
+            "id": "thallophyte",
+            "word": "thallophyte"
+        },
+        {
+            "id": "thallus",
+            "word": "thallus"
+        },
+        {
+            "id": "thickening",
+            "word": "thickening"
+        },
+        {
+            "id": "thistledown",
+            "word": "thistledown"
+        },
+        {
+            "id": "thorn",
+            "word": "thorn"
+        },
+        {
+            "id": "thornless",
+            "word": "thornless"
+        },
+        {
+            "id": "thylakoid",
+            "word": "thylakoid"
+        },
+        {
+            "id": "tiller",
+            "word": "tiller"
+        },
+        {
+            "id": "tod",
+            "word": "tod"
+        },
+        {
+            "id": "tomentum",
+            "word": "tomentum"
+        },
+        {
+            "id": "tonoplast",
+            "word": "tonoplast"
+        },
+        {
+            "id": "tracheid",
+            "word": "tracheid"
+        },
+        {
+            "id": "tradescant%2C_john",
+            "word": "tradescant, john"
+        },
+        {
+            "id": "transpiration",
+            "word": "transpiration"
+        },
+        {
+            "id": "transpiration_stream",
+            "word": "transpiration stream"
+        },
+        {
+            "id": "tree",
+            "word": "tree"
+        },
+        {
+            "id": "treeless",
+            "word": "treeless"
+        },
+        {
+            "id": "tree_ring",
+            "word": "tree ring"
+        },
+        {
+            "id": "trichome",
+            "word": "trichome"
+        },
+        {
+            "id": "trifoliate",
+            "word": "trifoliate"
+        },
+        {
+            "id": "trigonous",
+            "word": "trigonous"
+        },
+        {
+            "id": "trimerous",
+            "word": "trimerous"
+        },
+        {
+            "id": "-tropic",
+            "word": "-tropic"
+        },
+        {
+            "id": "true_leaf",
+            "word": "true leaf"
+        },
+        {
+            "id": "trunk",
+            "word": "trunk"
+        },
+        {
+            "id": "tuber",
+            "word": "tuber"
+        },
+        {
+            "id": "tubercle",
+            "word": "tubercle"
+        },
+        {
+            "id": "tuberculate",
+            "word": "tuberculate"
+        },
+        {
+            "id": "tuberous",
+            "word": "tuberous"
+        },
+        {
+            "id": "tuberous_root",
+            "word": "tuberous root"
+        },
+        {
+            "id": "turgor",
+            "word": "turgor"
+        },
+        {
+            "id": "turion",
+            "word": "turion"
+        },
+        {
+            "id": "twig",
+            "word": "twig"
+        },
+        {
+            "id": "type_locality",
+            "word": "type locality"
+        },
+        {
+            "id": "type_species",
+            "word": "type species"
+        },
+        {
+            "id": "type_specimen",
+            "word": "type specimen"
+        },
+        {
+            "id": "umbel",
+            "word": "umbel"
+        },
+        {
+            "id": "umbilicate",
+            "word": "umbilicate"
+        },
+        {
+            "id": "umbonal",
+            "word": "umbonal"
+        },
+        {
+            "id": "underbrush",
+            "word": "underbrush"
+        },
+        {
+            "id": "undergrowth",
+            "word": "undergrowth"
+        },
+        {
+            "id": "underwood",
+            "word": "underwood"
+        },
+        {
+            "id": "uniaxial",
+            "word": "uniaxial"
+        },
+        {
+            "id": "unilocular",
+            "word": "unilocular"
+        },
+        {
+            "id": "uniserial",
+            "word": "uniserial"
+        },
+        {
+            "id": "utricle",
+            "word": "utricle"
+        },
+        {
+            "id": "vallecula",
+            "word": "vallecula"
+        },
+        {
+            "id": "valvate",
+            "word": "valvate"
+        },
+        {
+            "id": "variegated",
+            "word": "variegated"
+        },
+        {
+            "id": "vascular_bundle",
+            "word": "vascular bundle"
+        },
+        {
+            "id": "vascular_cryptogam",
+            "word": "vascular cryptogam"
+        },
+        {
+            "id": "vascular_plant",
+            "word": "vascular plant"
+        },
+        {
+            "id": "vasculum",
+            "word": "vasculum"
+        },
+        {
+            "id": "vegetable_ivory",
+            "word": "vegetable ivory"
+        },
+        {
+            "id": "vegetation",
+            "word": "vegetation"
+        },
+        {
+            "id": "vegetative_cell",
+            "word": "vegetative cell"
+        },
+        {
+            "id": "velamen",
+            "word": "velamen"
+        },
+        {
+            "id": "venation",
+            "word": "venation"
+        },
+        {
+            "id": "ventral",
+            "word": "ventral"
+        },
+        {
+            "id": "vernation",
+            "word": "vernation"
+        },
+        {
+            "id": "viability",
+            "word": "viability"
+        },
+        {
+            "id": "viable",
+            "word": "viable"
+        },
+        {
+            "id": "villus",
+            "word": "villus"
+        },
+        {
+            "id": "vitta",
+            "word": "vitta"
+        },
+        {
+            "id": "volva",
+            "word": "volva"
+        },
+        {
+            "id": "wardian_case",
+            "word": "wardian case"
+        },
+        {
+            "id": "warrigal_greens",
+            "word": "warrigal greens"
+        },
+        {
+            "id": "water_shoot",
+            "word": "water shoot"
+        },
+        {
+            "id": "waterweed",
+            "word": "waterweed"
+        },
+        {
+            "id": "wild_flower",
+            "word": "wild flower"
+        },
+        {
+            "id": "wilding",
+            "word": "wilding"
+        },
+        {
+            "id": "wilt",
+            "word": "wilt"
+        },
+        {
+            "id": "wind-pollinated",
+            "word": "wind-pollinated"
+        },
+        {
+            "id": "wind_pollination",
+            "word": "wind pollination"
+        },
+        {
+            "id": "witches%27_broom",
+            "word": "witches' broom"
+        },
+        {
+            "id": "xenogamy",
+            "word": "xenogamy"
+        },
+        {
+            "id": "xerophilous",
+            "word": "xerophilous"
+        },
+        {
+            "id": "xerophyte",
+            "word": "xerophyte"
+        },
+        {
+            "id": "xylem",
+            "word": "xylem"
+        },
+        {
+            "id": "zygomorphic",
+            "word": "zygomorphic"
+        }
+    ]
+}

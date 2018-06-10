@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 43,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "barm",
+            "word": "barm"
+        },
+        {
+            "id": "beer",
+            "word": "beer"
+        },
+        {
+            "id": "bottom_fermentation",
+            "word": "bottom fermentation"
+        },
+        {
+            "id": "brew",
+            "word": "brew"
+        },
+        {
+            "id": "brewer",
+            "word": "brewer"
+        },
+        {
+            "id": "brewer%27s_yeast",
+            "word": "brewer's yeast"
+        },
+        {
+            "id": "brewery",
+            "word": "brewery"
+        },
+        {
+            "id": "brewhouse",
+            "word": "brewhouse"
+        },
+        {
+            "id": "brewing",
+            "word": "brewing"
+        },
+        {
+            "id": "brewmaster",
+            "word": "brewmaster"
+        },
+        {
+            "id": "brewpub",
+            "word": "brewpub"
+        },
+        {
+            "id": "cask_beer",
+            "word": "cask beer"
+        },
+        {
+            "id": "cask-conditioned",
+            "word": "cask-conditioned"
+        },
+        {
+            "id": "cidery",
+            "word": "cidery"
+        },
+        {
+            "id": "craft_beer",
+            "word": "craft beer"
+        },
+        {
+            "id": "craft_brewer",
+            "word": "craft brewer"
+        },
+        {
+            "id": "craft_brewery",
+            "word": "craft brewery"
+        },
+        {
+            "id": "craft_brewing",
+            "word": "craft brewing"
+        },
+        {
+            "id": "drayman",
+            "word": "drayman"
+        },
+        {
+            "id": "ferment",
+            "word": "ferment"
+        },
+        {
+            "id": "fermenter",
+            "word": "fermenter"
+        },
+        {
+            "id": "fining",
+            "word": "fining"
+        },
+        {
+            "id": "fuggle",
+            "word": "fuggle"
+        },
+        {
+            "id": "home_brew",
+            "word": "home brew"
+        },
+        {
+            "id": "hop_tree",
+            "word": "hop tree"
+        },
+        {
+            "id": "malt",
+            "word": "malt"
+        },
+        {
+            "id": "malt_extract",
+            "word": "malt extract"
+        },
+        {
+            "id": "malthouse",
+            "word": "malthouse"
+        },
+        {
+            "id": "maltings",
+            "word": "maltings"
+        },
+        {
+            "id": "malt_liquor",
+            "word": "malt liquor"
+        },
+        {
+            "id": "malty",
+            "word": "malty"
+        },
+        {
+            "id": "mash_tun",
+            "word": "mash tun"
+        },
+        {
+            "id": "microbrew",
+            "word": "microbrew"
+        },
+        {
+            "id": "microbrewery",
+            "word": "microbrewery"
+        },
+        {
+            "id": "original_gravity",
+            "word": "original gravity"
+        },
+        {
+            "id": "rack",
+            "word": "rack"
+        },
+        {
+            "id": "real_ale",
+            "word": "real ale"
+        },
+        {
+            "id": "session_beer",
+            "word": "session beer"
+        },
+        {
+            "id": "sparge",
+            "word": "sparge"
+        },
+        {
+            "id": "top_fermentation",
+            "word": "top fermentation"
+        },
+        {
+            "id": "tun",
+            "word": "tun"
+        },
+        {
+            "id": "unfermented",
+            "word": "unfermented"
+        },
+        {
+            "id": "zymurgy",
+            "word": "zymurgy"
+        }
+    ]
+}

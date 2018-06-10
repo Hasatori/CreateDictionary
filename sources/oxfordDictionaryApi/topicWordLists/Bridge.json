@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 41
+    },
+    "results": [
+        {
+            "id": "acol",
+            "word": "acol"
+        },
+        {
+            "id": "auction_bridge",
+            "word": "auction bridge"
+        },
+        {
+            "id": "bridge",
+            "word": "bridge"
+        },
+        {
+            "id": "business_double",
+            "word": "business double"
+        },
+        {
+            "id": "contract_bridge",
+            "word": "contract bridge"
+        },
+        {
+            "id": "cross-ruff",
+            "word": "cross-ruff"
+        },
+        {
+            "id": "cue_bid",
+            "word": "cue bid"
+        },
+        {
+            "id": "culbertson%2C_ely",
+            "word": "culbertson, ely"
+        },
+        {
+            "id": "declarer",
+            "word": "declarer"
+        },
+        {
+            "id": "defender",
+            "word": "defender"
+        },
+        {
+            "id": "discard",
+            "word": "discard"
+        },
+        {
+            "id": "doubleton",
+            "word": "doubleton"
+        },
+        {
+            "id": "duplicate_bridge",
+            "word": "duplicate bridge"
+        },
+        {
+            "id": "endplay",
+            "word": "endplay"
+        },
+        {
+            "id": "false_card",
+            "word": "false card"
+        },
+        {
+            "id": "forcing",
+            "word": "forcing"
+        },
+        {
+            "id": "informatory",
+            "word": "informatory"
+        },
+        {
+            "id": "jump_shift",
+            "word": "jump shift"
+        },
+        {
+            "id": "limit_bid",
+            "word": "limit bid"
+        },
+        {
+            "id": "little_slam",
+            "word": "little slam"
+        },
+        {
+            "id": "long_suit",
+            "word": "long suit"
+        },
+        {
+            "id": "major_suit",
+            "word": "major suit"
+        },
+        {
+            "id": "minor_suit",
+            "word": "minor suit"
+        },
+        {
+            "id": "no-trumper",
+            "word": "no-trumper"
+        },
+        {
+            "id": "no_trumps",
+            "word": "no trumps"
+        },
+        {
+            "id": "overcall",
+            "word": "overcall"
+        },
+        {
+            "id": "overruff",
+            "word": "overruff"
+        },
+        {
+            "id": "overtrick",
+            "word": "overtrick"
+        },
+        {
+            "id": "penalty_double",
+            "word": "penalty double"
+        },
+        {
+            "id": "quick_trick",
+            "word": "quick trick"
+        },
+        {
+            "id": "rebid",
+            "word": "rebid"
+        },
+        {
+            "id": "redouble",
+            "word": "redouble"
+        },
+        {
+            "id": "short_suit",
+            "word": "short suit"
+        },
+        {
+            "id": "show_out",
+            "word": "show out"
+        },
+        {
+            "id": "shut-out_bid",
+            "word": "shut-out bid"
+        },
+        {
+            "id": "side_suit",
+            "word": "side suit"
+        },
+        {
+            "id": "small_slam",
+            "word": "small slam"
+        },
+        {
+            "id": "take-out_double",
+            "word": "take-out double"
+        },
+        {
+            "id": "undertrick",
+            "word": "undertrick"
+        },
+        {
+            "id": "vulnerability",
+            "word": "vulnerability"
+        },
+        {
+            "id": "yarborough",
+            "word": "yarborough"
+        }
+    ]
+}

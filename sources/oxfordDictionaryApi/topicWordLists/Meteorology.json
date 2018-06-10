@@ -1,0 +1,1607 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 399,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "acid_rain",
+            "word": "acid rain"
+        },
+        {
+            "id": "adiabatic_lapse_rate",
+            "word": "adiabatic lapse rate"
+        },
+        {
+            "id": "advect",
+            "word": "advect"
+        },
+        {
+            "id": "advection",
+            "word": "advection"
+        },
+        {
+            "id": "aerology",
+            "word": "aerology"
+        },
+        {
+            "id": "aeronomy",
+            "word": "aeronomy"
+        },
+        {
+            "id": "agw",
+            "word": "agw"
+        },
+        {
+            "id": "air_mass",
+            "word": "air mass"
+        },
+        {
+            "id": "air_quality",
+            "word": "air quality"
+        },
+        {
+            "id": "airstream",
+            "word": "airstream"
+        },
+        {
+            "id": "albany_doctor",
+            "word": "albany doctor"
+        },
+        {
+            "id": "altocumulus",
+            "word": "altocumulus"
+        },
+        {
+            "id": "altostratus",
+            "word": "altostratus"
+        },
+        {
+            "id": "anabatic",
+            "word": "anabatic"
+        },
+        {
+            "id": "anemograph",
+            "word": "anemograph"
+        },
+        {
+            "id": "anemometer",
+            "word": "anemometer"
+        },
+        {
+            "id": "aneroid",
+            "word": "aneroid"
+        },
+        {
+            "id": "anthelion",
+            "word": "anthelion"
+        },
+        {
+            "id": "anticyclone",
+            "word": "anticyclone"
+        },
+        {
+            "id": "antitrades",
+            "word": "antitrades"
+        },
+        {
+            "id": "atmospheric",
+            "word": "atmospheric"
+        },
+        {
+            "id": "atmospherical",
+            "word": "atmospherical"
+        },
+        {
+            "id": "atmospherics",
+            "word": "atmospherics"
+        },
+        {
+            "id": "ball_lightning",
+            "word": "ball lightning"
+        },
+        {
+            "id": "bar",
+            "word": "bar"
+        },
+        {
+            "id": "barbecue_summer",
+            "word": "barbecue summer"
+        },
+        {
+            "id": "barograph",
+            "word": "barograph"
+        },
+        {
+            "id": "barometer",
+            "word": "barometer"
+        },
+        {
+            "id": "beaufort_scale",
+            "word": "beaufort scale"
+        },
+        {
+            "id": "bedourie",
+            "word": "bedourie"
+        },
+        {
+            "id": "berg_wind",
+            "word": "berg wind"
+        },
+        {
+            "id": "be_set_fair",
+            "word": "be set fair"
+        },
+        {
+            "id": "big_dry",
+            "word": "big dry"
+        },
+        {
+            "id": "big_wet",
+            "word": "big wet"
+        },
+        {
+            "id": "biometeorology",
+            "word": "biometeorology"
+        },
+        {
+            "id": "bjerknes%2C_vilhelm",
+            "word": "bjerknes, vilhelm"
+        },
+        {
+            "id": "black_frost",
+            "word": "black frost"
+        },
+        {
+            "id": "black_ice",
+            "word": "black ice"
+        },
+        {
+            "id": "blackthorn_winter",
+            "word": "blackthorn winter"
+        },
+        {
+            "id": "bleakness",
+            "word": "bleakness"
+        },
+        {
+            "id": "blizzard",
+            "word": "blizzard"
+        },
+        {
+            "id": "blow",
+            "word": "blow"
+        },
+        {
+            "id": "blowy",
+            "word": "blowy"
+        },
+        {
+            "id": "blue_jet",
+            "word": "blue jet"
+        },
+        {
+            "id": "bogan_shower",
+            "word": "bogan shower"
+        },
+        {
+            "id": "bombogenesis",
+            "word": "bombogenesis"
+        },
+        {
+            "id": "breeze",
+            "word": "breeze"
+        },
+        {
+            "id": "brickfielder",
+            "word": "brickfielder"
+        },
+        {
+            "id": "brocken_spectre",
+            "word": "brocken spectre"
+        },
+        {
+            "id": "buchan%2C_alexander",
+            "word": "buchan, alexander"
+        },
+        {
+            "id": "cape_doctor",
+            "word": "cape doctor"
+        },
+        {
+            "id": "carbon_sequestration",
+            "word": "carbon sequestration"
+        },
+        {
+            "id": "chill_factor",
+            "word": "chill factor"
+        },
+        {
+            "id": "chinook",
+            "word": "chinook"
+        },
+        {
+            "id": "cirrocumulus",
+            "word": "cirrocumulus"
+        },
+        {
+            "id": "cirrostratus",
+            "word": "cirrostratus"
+        },
+        {
+            "id": "cirrus",
+            "word": "cirrus"
+        },
+        {
+            "id": "climate",
+            "word": "climate"
+        },
+        {
+            "id": "climate_change",
+            "word": "climate change"
+        },
+        {
+            "id": "climate_refugee",
+            "word": "climate refugee"
+        },
+        {
+            "id": "climatic",
+            "word": "climatic"
+        },
+        {
+            "id": "climatology",
+            "word": "climatology"
+        },
+        {
+            "id": "cloud",
+            "word": "cloud"
+        },
+        {
+            "id": "cloud_base",
+            "word": "cloud base"
+        },
+        {
+            "id": "cloudburst",
+            "word": "cloudburst"
+        },
+        {
+            "id": "cloud_cover",
+            "word": "cloud cover"
+        },
+        {
+            "id": "cloudless",
+            "word": "cloudless"
+        },
+        {
+            "id": "cloud_seeding",
+            "word": "cloud seeding"
+        },
+        {
+            "id": "cockeye_bob",
+            "word": "cockeye bob"
+        },
+        {
+            "id": "cold_front",
+            "word": "cold front"
+        },
+        {
+            "id": "cold_wave",
+            "word": "cold wave"
+        },
+        {
+            "id": "continental_climate",
+            "word": "continental climate"
+        },
+        {
+            "id": "convection",
+            "word": "convection"
+        },
+        {
+            "id": "coriolis_effect",
+            "word": "coriolis effect"
+        },
+        {
+            "id": "corn_snow",
+            "word": "corn snow"
+        },
+        {
+            "id": "corposant",
+            "word": "corposant"
+        },
+        {
+            "id": "crosswind",
+            "word": "crosswind"
+        },
+        {
+            "id": "cumulonimbus",
+            "word": "cumulonimbus"
+        },
+        {
+            "id": "cumulus",
+            "word": "cumulus"
+        },
+        {
+            "id": "cyclogenesis",
+            "word": "cyclogenesis"
+        },
+        {
+            "id": "cyclone",
+            "word": "cyclone"
+        },
+        {
+            "id": "cyclonic",
+            "word": "cyclonic"
+        },
+        {
+            "id": "darling_shower",
+            "word": "darling shower"
+        },
+        {
+            "id": "derecho",
+            "word": "derecho"
+        },
+        {
+            "id": "dew_point",
+            "word": "dew point"
+        },
+        {
+            "id": "dobson_unit",
+            "word": "dobson unit"
+        },
+        {
+            "id": "downburst",
+            "word": "downburst"
+        },
+        {
+            "id": "downdraught",
+            "word": "downdraught"
+        },
+        {
+            "id": "downpour",
+            "word": "downpour"
+        },
+        {
+            "id": "downwelling",
+            "word": "downwelling"
+        },
+        {
+            "id": "drawky",
+            "word": "drawky"
+        },
+        {
+            "id": "drizzle",
+            "word": "drizzle"
+        },
+        {
+            "id": "drought",
+            "word": "drought"
+        },
+        {
+            "id": "drouth",
+            "word": "drouth"
+        },
+        {
+            "id": "dryness",
+            "word": "dryness"
+        },
+        {
+            "id": "dry_season",
+            "word": "dry season"
+        },
+        {
+            "id": "dry_spell",
+            "word": "dry spell"
+        },
+        {
+            "id": "dust_devil",
+            "word": "dust devil"
+        },
+        {
+            "id": "dust_storm",
+            "word": "dust storm"
+        },
+        {
+            "id": "earth_science",
+            "word": "earth science"
+        },
+        {
+            "id": "easterly",
+            "word": "easterly"
+        },
+        {
+            "id": "eastern",
+            "word": "eastern"
+        },
+        {
+            "id": "electrical_storm",
+            "word": "electrical storm"
+        },
+        {
+            "id": "electrojet",
+            "word": "electrojet"
+        },
+        {
+            "id": "el_ni%C3%B1o",
+            "word": "el niño"
+        },
+        {
+            "id": "esperance_doctor",
+            "word": "esperance doctor"
+        },
+        {
+            "id": "evapotranspiration",
+            "word": "evapotranspiration"
+        },
+        {
+            "id": "explosive_cyclogenesis",
+            "word": "explosive cyclogenesis"
+        },
+        {
+            "id": "extratropical",
+            "word": "extratropical"
+        },
+        {
+            "id": "fahr.",
+            "word": "fahr."
+        },
+        {
+            "id": "fata_morgana",
+            "word": "fata morgana"
+        },
+        {
+            "id": "f%C3%B6hn",
+            "word": "föhn"
+        },
+        {
+            "id": "ferrel%27s_law",
+            "word": "ferrel's law"
+        },
+        {
+            "id": "flash_flood",
+            "word": "flash flood"
+        },
+        {
+            "id": "fog",
+            "word": "fog"
+        },
+        {
+            "id": "fog_bank",
+            "word": "fog bank"
+        },
+        {
+            "id": "fogbow",
+            "word": "fogbow"
+        },
+        {
+            "id": "forked_lightning",
+            "word": "forked lightning"
+        },
+        {
+            "id": "freezing_rain",
+            "word": "freezing rain"
+        },
+        {
+            "id": "fresh_breeze",
+            "word": "fresh breeze"
+        },
+        {
+            "id": "fret",
+            "word": "fret"
+        },
+        {
+            "id": "frigid_zone",
+            "word": "frigid zone"
+        },
+        {
+            "id": "frost",
+            "word": "frost"
+        },
+        {
+            "id": "frost_hollow",
+            "word": "frost hollow"
+        },
+        {
+            "id": "funnel_cloud",
+            "word": "funnel cloud"
+        },
+        {
+            "id": "gale",
+            "word": "gale"
+        },
+        {
+            "id": "gale_warning",
+            "word": "gale warning"
+        },
+        {
+            "id": "gentle_breeze",
+            "word": "gentle breeze"
+        },
+        {
+            "id": "geostrophic",
+            "word": "geostrophic"
+        },
+        {
+            "id": "ghibli",
+            "word": "ghibli"
+        },
+        {
+            "id": "glazed_frost",
+            "word": "glazed frost"
+        },
+        {
+            "id": "global_warming",
+            "word": "global warming"
+        },
+        {
+            "id": "greenhouse_effect",
+            "word": "greenhouse effect"
+        },
+        {
+            "id": "greenhouse_gas",
+            "word": "greenhouse gas"
+        },
+        {
+            "id": "ground_frost",
+            "word": "ground frost"
+        },
+        {
+            "id": "gust",
+            "word": "gust"
+        },
+        {
+            "id": "haar",
+            "word": "haar"
+        },
+        {
+            "id": "haboob",
+            "word": "haboob"
+        },
+        {
+            "id": "hadley_cell",
+            "word": "hadley cell"
+        },
+        {
+            "id": "hail",
+            "word": "hail"
+        },
+        {
+            "id": "hailstone",
+            "word": "hailstone"
+        },
+        {
+            "id": "hailstorm",
+            "word": "hailstorm"
+        },
+        {
+            "id": "harmattan",
+            "word": "harmattan"
+        },
+        {
+            "id": "haze",
+            "word": "haze"
+        },
+        {
+            "id": "headwind",
+            "word": "headwind"
+        },
+        {
+            "id": "heat_haze",
+            "word": "heat haze"
+        },
+        {
+            "id": "heatwave",
+            "word": "heatwave"
+        },
+        {
+            "id": "high_pressure",
+            "word": "high pressure"
+        },
+        {
+            "id": "hoar_frost",
+            "word": "hoar frost"
+        },
+        {
+            "id": "horse_latitudes",
+            "word": "horse latitudes"
+        },
+        {
+            "id": "hot_wind",
+            "word": "hot wind"
+        },
+        {
+            "id": "humboldt%2C_alexander_von",
+            "word": "humboldt, alexander von"
+        },
+        {
+            "id": "humid",
+            "word": "humid"
+        },
+        {
+            "id": "humidex",
+            "word": "humidex"
+        },
+        {
+            "id": "humidity",
+            "word": "humidity"
+        },
+        {
+            "id": "hurricane",
+            "word": "hurricane"
+        },
+        {
+            "id": "hydrometeor",
+            "word": "hydrometeor"
+        },
+        {
+            "id": "hygrometer",
+            "word": "hygrometer"
+        },
+        {
+            "id": "hygroscope",
+            "word": "hygroscope"
+        },
+        {
+            "id": "iceblink",
+            "word": "iceblink"
+        },
+        {
+            "id": "ice_fog",
+            "word": "ice fog"
+        },
+        {
+            "id": "ice_station",
+            "word": "ice station"
+        },
+        {
+            "id": "ice_storm",
+            "word": "ice storm"
+        },
+        {
+            "id": "indian_summer",
+            "word": "indian summer"
+        },
+        {
+            "id": "intertropical_convergence_zone",
+            "word": "intertropical convergence zone"
+        },
+        {
+            "id": "ionosphere",
+            "word": "ionosphere"
+        },
+        {
+            "id": "isallobar",
+            "word": "isallobar"
+        },
+        {
+            "id": "isobar",
+            "word": "isobar"
+        },
+        {
+            "id": "isocheim",
+            "word": "isocheim"
+        },
+        {
+            "id": "isohel",
+            "word": "isohel"
+        },
+        {
+            "id": "isohyet",
+            "word": "isohyet"
+        },
+        {
+            "id": "isopleth",
+            "word": "isopleth"
+        },
+        {
+            "id": "isothere",
+            "word": "isothere"
+        },
+        {
+            "id": "isotherm",
+            "word": "isotherm"
+        },
+        {
+            "id": "isothermal",
+            "word": "isothermal"
+        },
+        {
+            "id": "jack_frost",
+            "word": "jack frost"
+        },
+        {
+            "id": "jet_stream",
+            "word": "jet stream"
+        },
+        {
+            "id": "katabatic",
+            "word": "katabatic"
+        },
+        {
+            "id": "khamsin",
+            "word": "khamsin"
+        },
+        {
+            "id": "land_breeze",
+            "word": "land breeze"
+        },
+        {
+            "id": "la_ni%C3%B1a",
+            "word": "la niña"
+        },
+        {
+            "id": "lapse_rate",
+            "word": "lapse rate"
+        },
+        {
+            "id": "lee",
+            "word": "lee"
+        },
+        {
+            "id": "lee_wave",
+            "word": "lee wave"
+        },
+        {
+            "id": "levanter",
+            "word": "levanter"
+        },
+        {
+            "id": "levin",
+            "word": "levin"
+        },
+        {
+            "id": "libeccio",
+            "word": "libeccio"
+        },
+        {
+            "id": "light_air",
+            "word": "light air"
+        },
+        {
+            "id": "light_breeze",
+            "word": "light breeze"
+        },
+        {
+            "id": "lightning",
+            "word": "lightning"
+        },
+        {
+            "id": "lightning_conductor",
+            "word": "lightning conductor"
+        },
+        {
+            "id": "line_squall",
+            "word": "line squall"
+        },
+        {
+            "id": "lower",
+            "word": "lower"
+        },
+        {
+            "id": "low_pressure",
+            "word": "low pressure"
+        },
+        {
+            "id": "mackerel_sky",
+            "word": "mackerel sky"
+        },
+        {
+            "id": "mediterranean_climate",
+            "word": "mediterranean climate"
+        },
+        {
+            "id": "meltemi",
+            "word": "meltemi"
+        },
+        {
+            "id": "mesopause",
+            "word": "mesopause"
+        },
+        {
+            "id": "mesoscale",
+            "word": "mesoscale"
+        },
+        {
+            "id": "mesosphere",
+            "word": "mesosphere"
+        },
+        {
+            "id": "meteorograph",
+            "word": "meteorograph"
+        },
+        {
+            "id": "meteorological",
+            "word": "meteorological"
+        },
+        {
+            "id": "meteorological_office",
+            "word": "meteorological office"
+        },
+        {
+            "id": "meteorologist",
+            "word": "meteorologist"
+        },
+        {
+            "id": "meteorology",
+            "word": "meteorology"
+        },
+        {
+            "id": "microburst",
+            "word": "microburst"
+        },
+        {
+            "id": "microclimate",
+            "word": "microclimate"
+        },
+        {
+            "id": "micrometeorology",
+            "word": "micrometeorology"
+        },
+        {
+            "id": "mild",
+            "word": "mild"
+        },
+        {
+            "id": "millibar",
+            "word": "millibar"
+        },
+        {
+            "id": "mirage",
+            "word": "mirage"
+        },
+        {
+            "id": "mist",
+            "word": "mist"
+        },
+        {
+            "id": "mistral",
+            "word": "mistral"
+        },
+        {
+            "id": "misty",
+            "word": "misty"
+        },
+        {
+            "id": "mizzle",
+            "word": "mizzle"
+        },
+        {
+            "id": "mochy",
+            "word": "mochy"
+        },
+        {
+            "id": "moderate_breeze",
+            "word": "moderate breeze"
+        },
+        {
+            "id": "monkey%27s_wedding",
+            "word": "monkey's wedding"
+        },
+        {
+            "id": "monsoon",
+            "word": "monsoon"
+        },
+        {
+            "id": "near_gale",
+            "word": "near gale"
+        },
+        {
+            "id": "nephology",
+            "word": "nephology"
+        },
+        {
+            "id": "nimbostratus",
+            "word": "nimbostratus"
+        },
+        {
+            "id": "noctilucent_cloud",
+            "word": "noctilucent cloud"
+        },
+        {
+            "id": "nor%27west_arch",
+            "word": "nor'west arch"
+        },
+        {
+            "id": "northeaster",
+            "word": "northeaster"
+        },
+        {
+            "id": "north-eastern",
+            "word": "north-eastern"
+        },
+        {
+            "id": "norther",
+            "word": "norther"
+        },
+        {
+            "id": "northerly",
+            "word": "northerly"
+        },
+        {
+            "id": "northern",
+            "word": "northern"
+        },
+        {
+            "id": "northwester",
+            "word": "northwester"
+        },
+        {
+            "id": "north-western",
+            "word": "north-western"
+        },
+        {
+            "id": "nowcast",
+            "word": "nowcast"
+        },
+        {
+            "id": "observatory",
+            "word": "observatory"
+        },
+        {
+            "id": "occluded_front",
+            "word": "occluded front"
+        },
+        {
+            "id": "offshore",
+            "word": "offshore"
+        },
+        {
+            "id": "okta",
+            "word": "okta"
+        },
+        {
+            "id": "old_man_winter",
+            "word": "old man winter"
+        },
+        {
+            "id": "ozone_hole",
+            "word": "ozone hole"
+        },
+        {
+            "id": "ozone_layer",
+            "word": "ozone layer"
+        },
+        {
+            "id": "palaeoclimate",
+            "word": "palaeoclimate"
+        },
+        {
+            "id": "palaeoclimatology",
+            "word": "palaeoclimatology"
+        },
+        {
+            "id": "palaeotemperature",
+            "word": "palaeotemperature"
+        },
+        {
+            "id": "pampero",
+            "word": "pampero"
+        },
+        {
+            "id": "paraselene",
+            "word": "paraselene"
+        },
+        {
+            "id": "parhelion",
+            "word": "parhelion"
+        },
+        {
+            "id": "pea-souper",
+            "word": "pea-souper"
+        },
+        {
+            "id": "perfect_storm",
+            "word": "perfect storm"
+        },
+        {
+            "id": "photochemical_smog",
+            "word": "photochemical smog"
+        },
+        {
+            "id": "pilot_balloon",
+            "word": "pilot balloon"
+        },
+        {
+            "id": "pluvial",
+            "word": "pluvial"
+        },
+        {
+            "id": "prevailing_wind",
+            "word": "prevailing wind"
+        },
+        {
+            "id": "psychrometer",
+            "word": "psychrometer"
+        },
+        {
+            "id": "puff",
+            "word": "puff"
+        },
+        {
+            "id": "radiosonde",
+            "word": "radiosonde"
+        },
+        {
+            "id": "rain",
+            "word": "rain"
+        },
+        {
+            "id": "rainbow",
+            "word": "rainbow"
+        },
+        {
+            "id": "raindrop",
+            "word": "raindrop"
+        },
+        {
+            "id": "rainfall",
+            "word": "rainfall"
+        },
+        {
+            "id": "rain_gauge",
+            "word": "rain gauge"
+        },
+        {
+            "id": "rainmaker",
+            "word": "rainmaker"
+        },
+        {
+            "id": "rain_shadow",
+            "word": "rain shadow"
+        },
+        {
+            "id": "rainstorm",
+            "word": "rainstorm"
+        },
+        {
+            "id": "rainy",
+            "word": "rainy"
+        },
+        {
+            "id": "relative_humidity",
+            "word": "relative humidity"
+        },
+        {
+            "id": "rime",
+            "word": "rime"
+        },
+        {
+            "id": "rimy",
+            "word": "rimy"
+        },
+        {
+            "id": "sandstorm",
+            "word": "sandstorm"
+        },
+        {
+            "id": "scorcher",
+            "word": "scorcher"
+        },
+        {
+            "id": "scotch_mist",
+            "word": "scotch mist"
+        },
+        {
+            "id": "sea_breeze",
+            "word": "sea breeze"
+        },
+        {
+            "id": "shamal",
+            "word": "shamal"
+        },
+        {
+            "id": "sheet_lightning",
+            "word": "sheet lightning"
+        },
+        {
+            "id": "shipping_forecast",
+            "word": "shipping forecast"
+        },
+        {
+            "id": "shower",
+            "word": "shower"
+        },
+        {
+            "id": "side_wind",
+            "word": "side wind"
+        },
+        {
+            "id": "silver_thaw",
+            "word": "silver thaw"
+        },
+        {
+            "id": "simoom",
+            "word": "simoom"
+        },
+        {
+            "id": "sirocco",
+            "word": "sirocco"
+        },
+        {
+            "id": "sleet",
+            "word": "sleet"
+        },
+        {
+            "id": "smog",
+            "word": "smog"
+        },
+        {
+            "id": "snow",
+            "word": "snow"
+        },
+        {
+            "id": "snowdrift",
+            "word": "snowdrift"
+        },
+        {
+            "id": "snowfall",
+            "word": "snowfall"
+        },
+        {
+            "id": "snowstorm",
+            "word": "snowstorm"
+        },
+        {
+            "id": "snowy",
+            "word": "snowy"
+        },
+        {
+            "id": "sonde",
+            "word": "sonde"
+        },
+        {
+            "id": "southeaster",
+            "word": "southeaster"
+        },
+        {
+            "id": "south-eastern",
+            "word": "south-eastern"
+        },
+        {
+            "id": "southerly",
+            "word": "southerly"
+        },
+        {
+            "id": "southerly_buster",
+            "word": "southerly buster"
+        },
+        {
+            "id": "southern",
+            "word": "southern"
+        },
+        {
+            "id": "southwester",
+            "word": "southwester"
+        },
+        {
+            "id": "south-western",
+            "word": "south-western"
+        },
+        {
+            "id": "squall",
+            "word": "squall"
+        },
+        {
+            "id": "squall_line",
+            "word": "squall line"
+        },
+        {
+            "id": "st_elmo%27s_fire",
+            "word": "st elmo's fire"
+        },
+        {
+            "id": "st_luke%27s_summer",
+            "word": "st luke's summer"
+        },
+        {
+            "id": "st_martin%27s_summer",
+            "word": "st martin's summer"
+        },
+        {
+            "id": "storm",
+            "word": "storm"
+        },
+        {
+            "id": "storm_centre",
+            "word": "storm centre"
+        },
+        {
+            "id": "storm_chaser",
+            "word": "storm chaser"
+        },
+        {
+            "id": "storm_chasing",
+            "word": "storm chasing"
+        },
+        {
+            "id": "storm_cloud",
+            "word": "storm cloud"
+        },
+        {
+            "id": "storm_cone",
+            "word": "storm cone"
+        },
+        {
+            "id": "storm_glass",
+            "word": "storm glass"
+        },
+        {
+            "id": "storm_signal",
+            "word": "storm signal"
+        },
+        {
+            "id": "storm_spotter",
+            "word": "storm spotter"
+        },
+        {
+            "id": "storm_surge",
+            "word": "storm surge"
+        },
+        {
+            "id": "storm_track",
+            "word": "storm track"
+        },
+        {
+            "id": "storm_warning",
+            "word": "storm warning"
+        },
+        {
+            "id": "storm_water",
+            "word": "storm water"
+        },
+        {
+            "id": "stratocumulus",
+            "word": "stratocumulus"
+        },
+        {
+            "id": "stratopause",
+            "word": "stratopause"
+        },
+        {
+            "id": "stratosphere",
+            "word": "stratosphere"
+        },
+        {
+            "id": "stratospheric",
+            "word": "stratospheric"
+        },
+        {
+            "id": "stratus",
+            "word": "stratus"
+        },
+        {
+            "id": "strong_breeze",
+            "word": "strong breeze"
+        },
+        {
+            "id": "strong_gale",
+            "word": "strong gale"
+        },
+        {
+            "id": "substorm",
+            "word": "substorm"
+        },
+        {
+            "id": "sub-zero",
+            "word": "sub-zero"
+        },
+        {
+            "id": "summer",
+            "word": "summer"
+        },
+        {
+            "id": "summer_lightning",
+            "word": "summer lightning"
+        },
+        {
+            "id": "sunburst",
+            "word": "sunburst"
+        },
+        {
+            "id": "sunshine",
+            "word": "sunshine"
+        },
+        {
+            "id": "sunshower",
+            "word": "sunshower"
+        },
+        {
+            "id": "superadiabatic",
+            "word": "superadiabatic"
+        },
+        {
+            "id": "supercell",
+            "word": "supercell"
+        },
+        {
+            "id": "superstorm",
+            "word": "superstorm"
+        },
+        {
+            "id": "temp",
+            "word": "temp"
+        },
+        {
+            "id": "temperate",
+            "word": "temperate"
+        },
+        {
+            "id": "temperate_zone",
+            "word": "temperate zone"
+        },
+        {
+            "id": "temperature%E2%80%93humidity_index",
+            "word": "temperature–humidity index"
+        },
+        {
+            "id": "tempest",
+            "word": "tempest"
+        },
+        {
+            "id": "thaw",
+            "word": "thaw"
+        },
+        {
+            "id": "thermosphere",
+            "word": "thermosphere"
+        },
+        {
+            "id": "thi",
+            "word": "thi"
+        },
+        {
+            "id": "throughfall",
+            "word": "throughfall"
+        },
+        {
+            "id": "thunder",
+            "word": "thunder"
+        },
+        {
+            "id": "thunderclap",
+            "word": "thunderclap"
+        },
+        {
+            "id": "thundercloud",
+            "word": "thundercloud"
+        },
+        {
+            "id": "thunderhead",
+            "word": "thunderhead"
+        },
+        {
+            "id": "thunder-plump",
+            "word": "thunder-plump"
+        },
+        {
+            "id": "thundershower",
+            "word": "thundershower"
+        },
+        {
+            "id": "thundersnow",
+            "word": "thundersnow"
+        },
+        {
+            "id": "thunderstorm",
+            "word": "thunderstorm"
+        },
+        {
+            "id": "tornadic",
+            "word": "tornadic"
+        },
+        {
+            "id": "tornado",
+            "word": "tornado"
+        },
+        {
+            "id": "torr",
+            "word": "torr"
+        },
+        {
+            "id": "torrid_zone",
+            "word": "torrid zone"
+        },
+        {
+            "id": "trade_wind",
+            "word": "trade wind"
+        },
+        {
+            "id": "tramontana",
+            "word": "tramontana"
+        },
+        {
+            "id": "tropical_storm",
+            "word": "tropical storm"
+        },
+        {
+            "id": "tropopause",
+            "word": "tropopause"
+        },
+        {
+            "id": "troposphere",
+            "word": "troposphere"
+        },
+        {
+            "id": "turbulence",
+            "word": "turbulence"
+        },
+        {
+            "id": "turbulent",
+            "word": "turbulent"
+        },
+        {
+            "id": "typhoon",
+            "word": "typhoon"
+        },
+        {
+            "id": "updraught",
+            "word": "updraught"
+        },
+        {
+            "id": "variable",
+            "word": "variable"
+        },
+        {
+            "id": "verglas",
+            "word": "verglas"
+        },
+        {
+            "id": "violent_storm",
+            "word": "violent storm"
+        },
+        {
+            "id": "virga",
+            "word": "virga"
+        },
+        {
+            "id": "visibility",
+            "word": "visibility"
+        },
+        {
+            "id": "vog",
+            "word": "vog"
+        },
+        {
+            "id": "warm_front",
+            "word": "warm front"
+        },
+        {
+            "id": "water_cycle",
+            "word": "water cycle"
+        },
+        {
+            "id": "waterspout",
+            "word": "waterspout"
+        },
+        {
+            "id": "weather",
+            "word": "weather"
+        },
+        {
+            "id": "weather_balloon",
+            "word": "weather balloon"
+        },
+        {
+            "id": "weather_bomb",
+            "word": "weather bomb"
+        },
+        {
+            "id": "weather_chart",
+            "word": "weather chart"
+        },
+        {
+            "id": "weathercock",
+            "word": "weathercock"
+        },
+        {
+            "id": "weathered",
+            "word": "weathered"
+        },
+        {
+            "id": "weather_forecast",
+            "word": "weather forecast"
+        },
+        {
+            "id": "weather_glass",
+            "word": "weather glass"
+        },
+        {
+            "id": "weather_spotter",
+            "word": "weather spotter"
+        },
+        {
+            "id": "weather_station",
+            "word": "weather station"
+        },
+        {
+            "id": "weathervane",
+            "word": "weathervane"
+        },
+        {
+            "id": "westerly",
+            "word": "westerly"
+        },
+        {
+            "id": "western",
+            "word": "western"
+        },
+        {
+            "id": "wet",
+            "word": "wet"
+        },
+        {
+            "id": "wetness",
+            "word": "wetness"
+        },
+        {
+            "id": "wet_season",
+            "word": "wet season"
+        },
+        {
+            "id": "whirlwind",
+            "word": "whirlwind"
+        },
+        {
+            "id": "white-out",
+            "word": "white-out"
+        },
+        {
+            "id": "williwaw",
+            "word": "williwaw"
+        },
+        {
+            "id": "willy-willy",
+            "word": "willy-willy"
+        },
+        {
+            "id": "wind",
+            "word": "wind"
+        },
+        {
+            "id": "wind_chill",
+            "word": "wind chill"
+        },
+        {
+            "id": "wind_gauge",
+            "word": "wind gauge"
+        },
+        {
+            "id": "wind_rose",
+            "word": "wind rose"
+        },
+        {
+            "id": "wind_shear",
+            "word": "wind shear"
+        },
+        {
+            "id": "windsock",
+            "word": "windsock"
+        },
+        {
+            "id": "wind_speed",
+            "word": "wind speed"
+        },
+        {
+            "id": "windstorm",
+            "word": "windstorm"
+        },
+        {
+            "id": "windy",
+            "word": "windy"
+        },
+        {
+            "id": "wintry_mix",
+            "word": "wintry mix"
+        },
+        {
+            "id": "world_meteorological_organization",
+            "word": "world meteorological organization"
+        },
+        {
+            "id": "zephyr",
+            "word": "zephyr"
+        }
+    ]
+}

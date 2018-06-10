@@ -1,0 +1,511 @@
+{
+    "results": [
+        {
+            "id": "acicular",
+            "word": "acicular"
+        },
+        {
+            "id": "aciform",
+            "word": "aciform"
+        },
+        {
+            "id": "anhedral",
+            "word": "anhedral"
+        },
+        {
+            "id": "basal_pinacoid",
+            "word": "basal pinacoid"
+        },
+        {
+            "id": "biaxial",
+            "word": "biaxial"
+        },
+        {
+            "id": "body-centred",
+            "word": "body-centred"
+        },
+        {
+            "id": "botryoidal",
+            "word": "botryoidal"
+        },
+        {
+            "id": "ccp",
+            "word": "ccp"
+        },
+        {
+            "id": "centrosymmetrical",
+            "word": "centrosymmetrical"
+        },
+        {
+            "id": "centrosymmetry",
+            "word": "centrosymmetry"
+        },
+        {
+            "id": "cryptocrystalline",
+            "word": "cryptocrystalline"
+        },
+        {
+            "id": "crystal",
+            "word": "crystal"
+        },
+        {
+            "id": "crystal_axis",
+            "word": "crystal axis"
+        },
+        {
+            "id": "crystal_class",
+            "word": "crystal class"
+        },
+        {
+            "id": "crystal_form",
+            "word": "crystal form"
+        },
+        {
+            "id": "crystal_lattice",
+            "word": "crystal lattice"
+        },
+        {
+            "id": "crystallography",
+            "word": "crystallography"
+        },
+        {
+            "id": "crystal_system",
+            "word": "crystal system"
+        },
+        {
+            "id": "cubic",
+            "word": "cubic"
+        },
+        {
+            "id": "decrepitate",
+            "word": "decrepitate"
+        },
+        {
+            "id": "dichroic",
+            "word": "dichroic"
+        },
+        {
+            "id": "diffractometer",
+            "word": "diffractometer"
+        },
+        {
+            "id": "discalenohedron",
+            "word": "discalenohedron"
+        },
+        {
+            "id": "dissymmetry",
+            "word": "dissymmetry"
+        },
+        {
+            "id": "edge_dislocation",
+            "word": "edge dislocation"
+        },
+        {
+            "id": "enantiomorph",
+            "word": "enantiomorph"
+        },
+        {
+            "id": "epitaxy",
+            "word": "epitaxy"
+        },
+        {
+            "id": "euhedral",
+            "word": "euhedral"
+        },
+        {
+            "id": "face-centred",
+            "word": "face-centred"
+        },
+        {
+            "id": "face_symbol",
+            "word": "face symbol"
+        },
+        {
+            "id": "goniometer",
+            "word": "goniometer"
+        },
+        {
+            "id": "indicatrix",
+            "word": "indicatrix"
+        },
+        {
+            "id": "interfacial",
+            "word": "interfacial"
+        },
+        {
+            "id": "intergrow",
+            "word": "intergrow"
+        },
+        {
+            "id": "intergrowth",
+            "word": "intergrowth"
+        },
+        {
+            "id": "interstice",
+            "word": "interstice"
+        },
+        {
+            "id": "interstitial",
+            "word": "interstitial"
+        },
+        {
+            "id": "isomorph",
+            "word": "isomorph"
+        },
+        {
+            "id": "labradorescence",
+            "word": "labradorescence"
+        },
+        {
+            "id": "lustre",
+            "word": "lustre"
+        },
+        {
+            "id": "macle",
+            "word": "macle"
+        },
+        {
+            "id": "macro-axis",
+            "word": "macro-axis"
+        },
+        {
+            "id": "macrocrystalline",
+            "word": "macrocrystalline"
+        },
+        {
+            "id": "macrocrystallinity",
+            "word": "macrocrystallinity"
+        },
+        {
+            "id": "macrodome",
+            "word": "macrodome"
+        },
+        {
+            "id": "macropinacoid",
+            "word": "macropinacoid"
+        },
+        {
+            "id": "mamillary",
+            "word": "mamillary"
+        },
+        {
+            "id": "mamillated",
+            "word": "mamillated"
+        },
+        {
+            "id": "merohedral",
+            "word": "merohedral"
+        },
+        {
+            "id": "merohedric",
+            "word": "merohedric"
+        },
+        {
+            "id": "merohedrism",
+            "word": "merohedrism"
+        },
+        {
+            "id": "merohedry",
+            "word": "merohedry"
+        },
+        {
+            "id": "merosymmetric",
+            "word": "merosymmetric"
+        },
+        {
+            "id": "merosymmetrical",
+            "word": "merosymmetrical"
+        },
+        {
+            "id": "metastrophic",
+            "word": "metastrophic"
+        },
+        {
+            "id": "microcrystalline",
+            "word": "microcrystalline"
+        },
+        {
+            "id": "millerian",
+            "word": "millerian"
+        },
+        {
+            "id": "mixed_crystal",
+            "word": "mixed crystal"
+        },
+        {
+            "id": "mohs%27_scale",
+            "word": "mohs' scale"
+        },
+        {
+            "id": "monoclinic",
+            "word": "monoclinic"
+        },
+        {
+            "id": "monocrystalline",
+            "word": "monocrystalline"
+        },
+        {
+            "id": "morphological_axis",
+            "word": "morphological axis"
+        },
+        {
+            "id": "morphotropic",
+            "word": "morphotropic"
+        },
+        {
+            "id": "morphotropism",
+            "word": "morphotropism"
+        },
+        {
+            "id": "morphotropy",
+            "word": "morphotropy"
+        },
+        {
+            "id": "nearest_neighbour",
+            "word": "nearest neighbour"
+        },
+        {
+            "id": "ortho-axis",
+            "word": "ortho-axis"
+        },
+        {
+            "id": "orthodome",
+            "word": "orthodome"
+        },
+        {
+            "id": "orthopinacoid",
+            "word": "orthopinacoid"
+        },
+        {
+            "id": "orthorhombic",
+            "word": "orthorhombic"
+        },
+        {
+            "id": "paracrystal",
+            "word": "paracrystal"
+        },
+        {
+            "id": "parametral",
+            "word": "parametral"
+        },
+        {
+            "id": "pedial",
+            "word": "pedial"
+        },
+        {
+            "id": "pedion",
+            "word": "pedion"
+        },
+        {
+            "id": "penetration_twin",
+            "word": "penetration twin"
+        },
+        {
+            "id": "pentagon-dodecahedron",
+            "word": "pentagon-dodecahedron"
+        },
+        {
+            "id": "pericline_twin",
+            "word": "pericline twin"
+        },
+        {
+            "id": "pericline_twinning",
+            "word": "pericline twinning"
+        },
+        {
+            "id": "pinacoid",
+            "word": "pinacoid"
+        },
+        {
+            "id": "pinacoidal",
+            "word": "pinacoidal"
+        },
+        {
+            "id": "plagihedral",
+            "word": "plagihedral"
+        },
+        {
+            "id": "pleochroic",
+            "word": "pleochroic"
+        },
+        {
+            "id": "pleochroic_halo",
+            "word": "pleochroic halo"
+        },
+        {
+            "id": "pleochroitic",
+            "word": "pleochroitic"
+        },
+        {
+            "id": "pleomorphism",
+            "word": "pleomorphism"
+        },
+        {
+            "id": "point_defect",
+            "word": "point defect"
+        },
+        {
+            "id": "point_group",
+            "word": "point group"
+        },
+        {
+            "id": "polychroic",
+            "word": "polychroic"
+        },
+        {
+            "id": "polytype",
+            "word": "polytype"
+        },
+        {
+            "id": "powder_pattern",
+            "word": "powder pattern"
+        },
+        {
+            "id": "preferred_orientation",
+            "word": "preferred orientation"
+        },
+        {
+            "id": "primitive_cell",
+            "word": "primitive cell"
+        },
+        {
+            "id": "primitive_lattice",
+            "word": "primitive lattice"
+        },
+        {
+            "id": "principal_section",
+            "word": "principal section"
+        },
+        {
+            "id": "protopyramid",
+            "word": "protopyramid"
+        },
+        {
+            "id": "pseudocubic",
+            "word": "pseudocubic"
+        },
+        {
+            "id": "pseudocubical",
+            "word": "pseudocubical"
+        },
+        {
+            "id": "pseudohexagonal",
+            "word": "pseudohexagonal"
+        },
+        {
+            "id": "pseudomorph",
+            "word": "pseudomorph"
+        },
+        {
+            "id": "pseudorhombohedral",
+            "word": "pseudorhombohedral"
+        },
+        {
+            "id": "pseudosymmetry",
+            "word": "pseudosymmetry"
+        },
+        {
+            "id": "pseudotetragonal",
+            "word": "pseudotetragonal"
+        },
+        {
+            "id": "pyritohedral",
+            "word": "pyritohedral"
+        },
+        {
+            "id": "pyritohedron",
+            "word": "pyritohedron"
+        },
+        {
+            "id": "pyritoid",
+            "word": "pyritoid"
+        },
+        {
+            "id": "quarter-wave_plate",
+            "word": "quarter-wave plate"
+        },
+        {
+            "id": "quasicrystal",
+            "word": "quasicrystal"
+        },
+        {
+            "id": "recrystallize",
+            "word": "recrystallize"
+        },
+        {
+            "id": "rhomb",
+            "word": "rhomb"
+        },
+        {
+            "id": "rhombohedral",
+            "word": "rhombohedral"
+        },
+        {
+            "id": "rhombohedric",
+            "word": "rhombohedric"
+        },
+        {
+            "id": "space_group",
+            "word": "space group"
+        },
+        {
+            "id": "space_lattice",
+            "word": "space lattice"
+        },
+        {
+            "id": "sublattice",
+            "word": "sublattice"
+        },
+        {
+            "id": "syntaxially",
+            "word": "syntaxially"
+        },
+        {
+            "id": "syntaxic",
+            "word": "syntaxic"
+        },
+        {
+            "id": "syntaxy",
+            "word": "syntaxy"
+        },
+        {
+            "id": "tautozonal",
+            "word": "tautozonal"
+        },
+        {
+            "id": "tetragonal",
+            "word": "tetragonal"
+        },
+        {
+            "id": "trichroic",
+            "word": "trichroic"
+        },
+        {
+            "id": "triclinic",
+            "word": "triclinic"
+        },
+        {
+            "id": "twinned",
+            "word": "twinned"
+        },
+        {
+            "id": "twinning",
+            "word": "twinning"
+        },
+        {
+            "id": "unit_cell",
+            "word": "unit cell"
+        },
+        {
+            "id": "x-ray_crystallography",
+            "word": "x-ray crystallography"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 125,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

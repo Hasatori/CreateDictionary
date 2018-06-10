@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "id": "bowl",
+            "word": "bowl"
+        },
+        {
+            "id": "bowling",
+            "word": "bowling"
+        },
+        {
+            "id": "bowling_green",
+            "word": "bowling green"
+        },
+        {
+            "id": "bowls",
+            "word": "bowls"
+        },
+        {
+            "id": "greenage",
+            "word": "greenage"
+        },
+        {
+            "id": "lawn_bowling",
+            "word": "lawn bowling"
+        },
+        {
+            "id": "skip",
+            "word": "skip"
+        },
+        {
+            "id": "toucher",
+            "word": "toucher"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 8,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

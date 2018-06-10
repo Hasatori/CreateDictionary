@@ -1,0 +1,687 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 169
+    },
+    "results": [
+        {
+            "id": "americano",
+            "word": "americano"
+        },
+        {
+            "id": "angostura_bitters",
+            "word": "angostura bitters"
+        },
+        {
+            "id": "aperitif",
+            "word": "aperitif"
+        },
+        {
+            "id": "arnold_palmer",
+            "word": "arnold palmer"
+        },
+        {
+            "id": "babycino",
+            "word": "babycino"
+        },
+        {
+            "id": "band_of_hope",
+            "word": "band of hope"
+        },
+        {
+            "id": "bibber",
+            "word": "bibber"
+        },
+        {
+            "id": "bitter_lemon",
+            "word": "bitter lemon"
+        },
+        {
+            "id": "bitterness",
+            "word": "bitterness"
+        },
+        {
+            "id": "bovril",
+            "word": "bovril"
+        },
+        {
+            "id": "brewski",
+            "word": "brewski"
+        },
+        {
+            "id": "bunghole",
+            "word": "bunghole"
+        },
+        {
+            "id": "cachaca",
+            "word": "cachaca"
+        },
+        {
+            "id": "caipirinha",
+            "word": "caipirinha"
+        },
+        {
+            "id": "camra",
+            "word": "camra"
+        },
+        {
+            "id": "carbonated",
+            "word": "carbonated"
+        },
+        {
+            "id": "cassis",
+            "word": "cassis"
+        },
+        {
+            "id": "cellarer",
+            "word": "cellarer"
+        },
+        {
+            "id": "citron_press%C3%A9",
+            "word": "citron pressé"
+        },
+        {
+            "id": "coca-cola",
+            "word": "coca-cola"
+        },
+        {
+            "id": "coconut_water",
+            "word": "coconut water"
+        },
+        {
+            "id": "cola",
+            "word": "cola"
+        },
+        {
+            "id": "cr%C3%A8me_de_cassis",
+            "word": "crème de cassis"
+        },
+        {
+            "id": "cream_soda",
+            "word": "cream soda"
+        },
+        {
+            "id": "crowler",
+            "word": "crowler"
+        },
+        {
+            "id": "crown_cork",
+            "word": "crown cork"
+        },
+        {
+            "id": "dandelion_coffee",
+            "word": "dandelion coffee"
+        },
+        {
+            "id": "darwin_stubby",
+            "word": "darwin stubby"
+        },
+        {
+            "id": "de-alcoholize",
+            "word": "de-alcoholize"
+        },
+        {
+            "id": "demijohn",
+            "word": "demijohn"
+        },
+        {
+            "id": "digestif",
+            "word": "digestif"
+        },
+        {
+            "id": "digestivo",
+            "word": "digestivo"
+        },
+        {
+            "id": "distiller",
+            "word": "distiller"
+        },
+        {
+            "id": "distillery",
+            "word": "distillery"
+        },
+        {
+            "id": "dram",
+            "word": "dram"
+        },
+        {
+            "id": "drinking-up_time",
+            "word": "drinking-up time"
+        },
+        {
+            "id": "drinking_water",
+            "word": "drinking water"
+        },
+        {
+            "id": "egg_cream",
+            "word": "egg cream"
+        },
+        {
+            "id": "elderflower",
+            "word": "elderflower"
+        },
+        {
+            "id": "energy_drink",
+            "word": "energy drink"
+        },
+        {
+            "id": "firewater",
+            "word": "firewater"
+        },
+        {
+            "id": "flagon",
+            "word": "flagon"
+        },
+        {
+            "id": "flat_water",
+            "word": "flat water"
+        },
+        {
+            "id": "frapp%C3%A9",
+            "word": "frappé"
+        },
+        {
+            "id": "fruit_cup",
+            "word": "fruit cup"
+        },
+        {
+            "id": "ginger_ale",
+            "word": "ginger ale"
+        },
+        {
+            "id": "ginger_beer",
+            "word": "ginger beer"
+        },
+        {
+            "id": "grenadine",
+            "word": "grenadine"
+        },
+        {
+            "id": "grogged_up",
+            "word": "grogged up"
+        },
+        {
+            "id": "grog_shop",
+            "word": "grog shop"
+        },
+        {
+            "id": "guest_beer",
+            "word": "guest beer"
+        },
+        {
+            "id": "half-bottle",
+            "word": "half-bottle"
+        },
+        {
+            "id": "half-g",
+            "word": "half-g"
+        },
+        {
+            "id": "hip_flask",
+            "word": "hip flask"
+        },
+        {
+            "id": "hokonui",
+            "word": "hokonui"
+        },
+        {
+            "id": "horchata",
+            "word": "horchata"
+        },
+        {
+            "id": "horlicks",
+            "word": "horlicks"
+        },
+        {
+            "id": "hot_chocolate",
+            "word": "hot chocolate"
+        },
+        {
+            "id": "hydromel",
+            "word": "hydromel"
+        },
+        {
+            "id": "ice_bucket",
+            "word": "ice bucket"
+        },
+        {
+            "id": "ice_cream_soda",
+            "word": "ice cream soda"
+        },
+        {
+            "id": "infusion",
+            "word": "infusion"
+        },
+        {
+            "id": "john_barleycorn",
+            "word": "john barleycorn"
+        },
+        {
+            "id": "jungle_juice",
+            "word": "jungle juice"
+        },
+        {
+            "id": "keeve",
+            "word": "keeve"
+        },
+        {
+            "id": "kefir",
+            "word": "kefir"
+        },
+        {
+            "id": "keg",
+            "word": "keg"
+        },
+        {
+            "id": "keg_beer",
+            "word": "keg beer"
+        },
+        {
+            "id": "knockout_drops",
+            "word": "knockout drops"
+        },
+        {
+            "id": "kool-aid",
+            "word": "kool-aid"
+        },
+        {
+            "id": "koozie",
+            "word": "koozie"
+        },
+        {
+            "id": "lady_blamey",
+            "word": "lady blamey"
+        },
+        {
+            "id": "lassi",
+            "word": "lassi"
+        },
+        {
+            "id": "lemonade",
+            "word": "lemonade"
+        },
+        {
+            "id": "licensing_trust",
+            "word": "licensing trust"
+        },
+        {
+            "id": "lime",
+            "word": "lime"
+        },
+        {
+            "id": "limeade",
+            "word": "limeade"
+        },
+        {
+            "id": "liquor",
+            "word": "liquor"
+        },
+        {
+            "id": "liquor_store",
+            "word": "liquor store"
+        },
+        {
+            "id": "lolly_water",
+            "word": "lolly water"
+        },
+        {
+            "id": "long_black",
+            "word": "long black"
+        },
+        {
+            "id": "long-sleever",
+            "word": "long-sleever"
+        },
+        {
+            "id": "loving_cup",
+            "word": "loving cup"
+        },
+        {
+            "id": "lunatic_soup",
+            "word": "lunatic soup"
+        },
+        {
+            "id": "malted_milk",
+            "word": "malted milk"
+        },
+        {
+            "id": "maltster",
+            "word": "maltster"
+        },
+        {
+            "id": "mat%C3%A9",
+            "word": "maté"
+        },
+        {
+            "id": "mauby",
+            "word": "mauby"
+        },
+        {
+            "id": "medium_dry",
+            "word": "medium dry"
+        },
+        {
+            "id": "middy",
+            "word": "middy"
+        },
+        {
+            "id": "milk_bar",
+            "word": "milk bar"
+        },
+        {
+            "id": "milkshake",
+            "word": "milkshake"
+        },
+        {
+            "id": "mineral_water",
+            "word": "mineral water"
+        },
+        {
+            "id": "minibar",
+            "word": "minibar"
+        },
+        {
+            "id": "mocktail",
+            "word": "mocktail"
+        },
+        {
+            "id": "monopole",
+            "word": "monopole"
+        },
+        {
+            "id": "mugaccino",
+            "word": "mugaccino"
+        },
+        {
+            "id": "mull",
+            "word": "mull"
+        },
+        {
+            "id": "non-alcoholic",
+            "word": "non-alcoholic"
+        },
+        {
+            "id": "non-drinker",
+            "word": "non-drinker"
+        },
+        {
+            "id": "noni_juice",
+            "word": "noni juice"
+        },
+        {
+            "id": "off-licence",
+            "word": "off-licence"
+        },
+        {
+            "id": "oj",
+            "word": "oj"
+        },
+        {
+            "id": "on_tap",
+            "word": "on tap"
+        },
+        {
+            "id": "orangeade",
+            "word": "orangeade"
+        },
+        {
+            "id": "orange_juice",
+            "word": "orange juice"
+        },
+        {
+            "id": "orange_squash",
+            "word": "orange squash"
+        },
+        {
+            "id": "orgeat",
+            "word": "orgeat"
+        },
+        {
+            "id": "peaberry",
+            "word": "peaberry"
+        },
+        {
+            "id": "pint_pot",
+            "word": "pint pot"
+        },
+        {
+            "id": "pomace",
+            "word": "pomace"
+        },
+        {
+            "id": "porterhouse",
+            "word": "porterhouse"
+        },
+        {
+            "id": "post-and-rail_tea",
+            "word": "post-and-rail tea"
+        },
+        {
+            "id": "poteen",
+            "word": "poteen"
+        },
+        {
+            "id": "prairie_oyster",
+            "word": "prairie oyster"
+        },
+        {
+            "id": "press%C3%A9",
+            "word": "pressé"
+        },
+        {
+            "id": "publican",
+            "word": "publican"
+        },
+        {
+            "id": "pub_owner",
+            "word": "pub owner"
+        },
+        {
+            "id": "punch",
+            "word": "punch"
+        },
+        {
+            "id": "quaich",
+            "word": "quaich"
+        },
+        {
+            "id": "quencher",
+            "word": "quencher"
+        },
+        {
+            "id": "red_ned",
+            "word": "red ned"
+        },
+        {
+            "id": "repast",
+            "word": "repast"
+        },
+        {
+            "id": "ristretto",
+            "word": "ristretto"
+        },
+        {
+            "id": "root_beer",
+            "word": "root beer"
+        },
+        {
+            "id": "rosiner",
+            "word": "rosiner"
+        },
+        {
+            "id": "rotgut",
+            "word": "rotgut"
+        },
+        {
+            "id": "rubbity-dub",
+            "word": "rubbity-dub"
+        },
+        {
+            "id": "rummer",
+            "word": "rummer"
+        },
+        {
+            "id": "saloon_keeper",
+            "word": "saloon keeper"
+        },
+        {
+            "id": "seltzer",
+            "word": "seltzer"
+        },
+        {
+            "id": "shypoo",
+            "word": "shypoo"
+        },
+        {
+            "id": "simple_syrup",
+            "word": "simple syrup"
+        },
+        {
+            "id": "six_o%27clock_swill",
+            "word": "six o'clock swill"
+        },
+        {
+            "id": "sizzurp",
+            "word": "sizzurp"
+        },
+        {
+            "id": "sly_grogger",
+            "word": "sly grogger"
+        },
+        {
+            "id": "sly-groggery",
+            "word": "sly-groggery"
+        },
+        {
+            "id": "sly-grog_shop",
+            "word": "sly-grog shop"
+        },
+        {
+            "id": "soda",
+            "word": "soda"
+        },
+        {
+            "id": "soda_fountain",
+            "word": "soda fountain"
+        },
+        {
+            "id": "soda_pop",
+            "word": "soda pop"
+        },
+        {
+            "id": "soda_siphon",
+            "word": "soda siphon"
+        },
+        {
+            "id": "sorbet",
+            "word": "sorbet"
+        },
+        {
+            "id": "sour_mix",
+            "word": "sour mix"
+        },
+        {
+            "id": "spirituous",
+            "word": "spirituous"
+        },
+        {
+            "id": "sports_drink",
+            "word": "sports drink"
+        },
+        {
+            "id": "spring_water",
+            "word": "spring water"
+        },
+        {
+            "id": "st_clements",
+            "word": "st clements"
+        },
+        {
+            "id": "stein",
+            "word": "stein"
+        },
+        {
+            "id": "still",
+            "word": "still"
+        },
+        {
+            "id": "stirrup_cup",
+            "word": "stirrup cup"
+        },
+        {
+            "id": "stubby_holder",
+            "word": "stubby holder"
+        },
+        {
+            "id": "stum",
+            "word": "stum"
+        },
+        {
+            "id": "switchel",
+            "word": "switchel"
+        },
+        {
+            "id": "swizzle_stick",
+            "word": "swizzle stick"
+        },
+        {
+            "id": "tantalus",
+            "word": "tantalus"
+        },
+        {
+            "id": "tapster",
+            "word": "tapster"
+        },
+        {
+            "id": "tap_water",
+            "word": "tap water"
+        },
+        {
+            "id": "tassie",
+            "word": "tassie"
+        },
+        {
+            "id": "tazza",
+            "word": "tazza"
+        },
+        {
+            "id": "teetotal",
+            "word": "teetotal"
+        },
+        {
+            "id": "teetotaller",
+            "word": "teetotaller"
+        },
+        {
+            "id": "temperance",
+            "word": "temperance"
+        },
+        {
+            "id": "thandai",
+            "word": "thandai"
+        },
+        {
+            "id": "thermos",
+            "word": "thermos"
+        },
+        {
+            "id": "tonic_water",
+            "word": "tonic water"
+        },
+        {
+            "id": "total_abstinence",
+            "word": "total abstinence"
+        },
+        {
+            "id": "vat",
+            "word": "vat"
+        },
+        {
+            "id": "yard_of_ale",
+            "word": "yard of ale"
+        }
+    ]
+}

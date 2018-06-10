@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 22,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "3d_printer",
+            "word": "3d printer"
+        },
+        {
+            "id": "3d_printing",
+            "word": "3d printing"
+        },
+        {
+            "id": "4d_printing",
+            "word": "4d printing"
+        },
+        {
+            "id": "biomimicry",
+            "word": "biomimicry"
+        },
+        {
+            "id": "bioprinter",
+            "word": "bioprinter"
+        },
+        {
+            "id": "bioprinting",
+            "word": "bioprinting"
+        },
+        {
+            "id": "cord_cutter",
+            "word": "cord cutter"
+        },
+        {
+            "id": "cord_cutting",
+            "word": "cord cutting"
+        },
+        {
+            "id": "data-driven",
+            "word": "data-driven"
+        },
+        {
+            "id": "eye_tracking",
+            "word": "eye tracking"
+        },
+        {
+            "id": "fintech",
+            "word": "fintech"
+        },
+        {
+            "id": "hackerspace",
+            "word": "hackerspace"
+        },
+        {
+            "id": "large_hadron_collider",
+            "word": "large hadron collider"
+        },
+        {
+            "id": "makerspace",
+            "word": "makerspace"
+        },
+        {
+            "id": "regtech",
+            "word": "regtech"
+        },
+        {
+            "id": "technologization",
+            "word": "technologization"
+        },
+        {
+            "id": "technologize",
+            "word": "technologize"
+        },
+        {
+            "id": "transhumanism",
+            "word": "transhumanism"
+        },
+        {
+            "id": "trending",
+            "word": "trending"
+        },
+        {
+            "id": "unboxing",
+            "word": "unboxing"
+        },
+        {
+            "id": "use_case",
+            "word": "use case"
+        },
+        {
+            "id": "vehicle-to-vehicle",
+            "word": "vehicle-to-vehicle"
+        }
+    ]
+}

@@ -1,0 +1,915 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 226,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "all-rounder",
+            "word": "all-rounder"
+        },
+        {
+            "id": "appeal",
+            "word": "appeal"
+        },
+        {
+            "id": "asking_rate",
+            "word": "asking rate"
+        },
+        {
+            "id": "a_sticky_wicket",
+            "word": "a sticky wicket"
+        },
+        {
+            "id": "at_the_wicket",
+            "word": "at the wicket"
+        },
+        {
+            "id": "baggy_green",
+            "word": "baggy green"
+        },
+        {
+            "id": "bail",
+            "word": "bail"
+        },
+        {
+            "id": "ball-by-ball",
+            "word": "ball-by-ball"
+        },
+        {
+            "id": "ball_doctoring",
+            "word": "ball doctoring"
+        },
+        {
+            "id": "ball-tampering",
+            "word": "ball-tampering"
+        },
+        {
+            "id": "batsman",
+            "word": "batsman"
+        },
+        {
+            "id": "batting",
+            "word": "batting"
+        },
+        {
+            "id": "batting_average",
+            "word": "batting average"
+        },
+        {
+            "id": "batting_order",
+            "word": "batting order"
+        },
+        {
+            "id": "beamer",
+            "word": "beamer"
+        },
+        {
+            "id": "bodyline",
+            "word": "bodyline"
+        },
+        {
+            "id": "border%2C_allan",
+            "word": "border, allan"
+        },
+        {
+            "id": "botham%2C_sir_ian",
+            "word": "botham, sir ian"
+        },
+        {
+            "id": "bowler",
+            "word": "bowler"
+        },
+        {
+            "id": "bowling_action",
+            "word": "bowling action"
+        },
+        {
+            "id": "bowling_average",
+            "word": "bowling average"
+        },
+        {
+            "id": "bowling_crease",
+            "word": "bowling crease"
+        },
+        {
+            "id": "boycott%2C_geoffrey",
+            "word": "boycott, geoffrey"
+        },
+        {
+            "id": "bradman%2C_sir_don",
+            "word": "bradman, sir don"
+        },
+        {
+            "id": "break_one%27s_duck",
+            "word": "break one's duck"
+        },
+        {
+            "id": "c",
+            "word": "c"
+        },
+        {
+            "id": "carrom_ball",
+            "word": "carrom ball"
+        },
+        {
+            "id": "carry_one%27s_bat",
+            "word": "carry one's bat"
+        },
+        {
+            "id": "chappell%2C_greg",
+            "word": "chappell, greg"
+        },
+        {
+            "id": "chuck",
+            "word": "chuck"
+        },
+        {
+            "id": "compton%2C_denis",
+            "word": "compton, denis"
+        },
+        {
+            "id": "corridor_of_uncertainty",
+            "word": "corridor of uncertainty"
+        },
+        {
+            "id": "county_cricket",
+            "word": "county cricket"
+        },
+        {
+            "id": "county_match",
+            "word": "county match"
+        },
+        {
+            "id": "cover_drive",
+            "word": "cover drive"
+        },
+        {
+            "id": "cover_point",
+            "word": "cover point"
+        },
+        {
+            "id": "cowdrey%2C_colin",
+            "word": "cowdrey, colin"
+        },
+        {
+            "id": "cricket",
+            "word": "cricket"
+        },
+        {
+            "id": "cricketer",
+            "word": "cricketer"
+        },
+        {
+            "id": "cricketing",
+            "word": "cricketing"
+        },
+        {
+            "id": "d%27oliveira%2C_basil",
+            "word": "d'oliveira, basil"
+        },
+        {
+            "id": "daisy-cutter",
+            "word": "daisy-cutter"
+        },
+        {
+            "id": "dead_bat",
+            "word": "dead bat"
+        },
+        {
+            "id": "demon_bowler",
+            "word": "demon bowler"
+        },
+        {
+            "id": "doosra",
+            "word": "doosra"
+        },
+        {
+            "id": "draw_stumps",
+            "word": "draw stumps"
+        },
+        {
+            "id": "duck",
+            "word": "duck"
+        },
+        {
+            "id": "duckworth%E2%80%93lewis",
+            "word": "duckworth–lewis"
+        },
+        {
+            "id": "ecb",
+            "word": "ecb"
+        },
+        {
+            "id": "extra_cover",
+            "word": "extra cover"
+        },
+        {
+            "id": "fielder",
+            "word": "fielder"
+        },
+        {
+            "id": "fieldsman",
+            "word": "fieldsman"
+        },
+        {
+            "id": "fine_leg",
+            "word": "fine leg"
+        },
+        {
+            "id": "finger_spin",
+            "word": "finger spin"
+        },
+        {
+            "id": "finger-spinner",
+            "word": "finger-spinner"
+        },
+        {
+            "id": "follow_on",
+            "word": "follow on"
+        },
+        {
+            "id": "follow-on",
+            "word": "follow-on"
+        },
+        {
+            "id": "free_hit",
+            "word": "free hit"
+        },
+        {
+            "id": "full_pitch",
+            "word": "full pitch"
+        },
+        {
+            "id": "full-pitched",
+            "word": "full-pitched"
+        },
+        {
+            "id": "full_toss",
+            "word": "full toss"
+        },
+        {
+            "id": "gabba",
+            "word": "gabba"
+        },
+        {
+            "id": "gavaskar%2C_sunil",
+            "word": "gavaskar, sunil"
+        },
+        {
+            "id": "golden_duck",
+            "word": "golden duck"
+        },
+        {
+            "id": "goodish_length",
+            "word": "goodish length"
+        },
+        {
+            "id": "good-length",
+            "word": "good-length"
+        },
+        {
+            "id": "googly",
+            "word": "googly"
+        },
+        {
+            "id": "grace%2C_w._g.",
+            "word": "grace, w. g."
+        },
+        {
+            "id": "grade_cricket",
+            "word": "grade cricket"
+        },
+        {
+            "id": "hadlee%2C_sir_richard",
+            "word": "hadlee, sir richard"
+        },
+        {
+            "id": "half-century",
+            "word": "half-century"
+        },
+        {
+            "id": "hat-trick",
+            "word": "hat-trick"
+        },
+        {
+            "id": "hit_wicket",
+            "word": "hit wicket"
+        },
+        {
+            "id": "hobbs%2C_sir_jack",
+            "word": "hobbs, sir jack"
+        },
+        {
+            "id": "hole_out",
+            "word": "hole out"
+        },
+        {
+            "id": "howzat",
+            "word": "howzat"
+        },
+        {
+            "id": "hutton%2C_sir_leonard",
+            "word": "hutton, sir leonard"
+        },
+        {
+            "id": "innings",
+            "word": "innings"
+        },
+        {
+            "id": "inswing",
+            "word": "inswing"
+        },
+        {
+            "id": "inswinger",
+            "word": "inswinger"
+        },
+        {
+            "id": "kanga_cricket",
+            "word": "kanga cricket"
+        },
+        {
+            "id": "kapil_dev",
+            "word": "kapil dev"
+        },
+        {
+            "id": "keep_wicket",
+            "word": "keep wicket"
+        },
+        {
+            "id": "khan%2C_imran",
+            "word": "khan, imran"
+        },
+        {
+            "id": "kilikiti",
+            "word": "kilikiti"
+        },
+        {
+            "id": "lara%2C_brian",
+            "word": "lara, brian"
+        },
+        {
+            "id": "larwood%2C_harold",
+            "word": "larwood, harold"
+        },
+        {
+            "id": "last_man",
+            "word": "last man"
+        },
+        {
+            "id": "last_wicket",
+            "word": "last wicket"
+        },
+        {
+            "id": "late_cut",
+            "word": "late cut"
+        },
+        {
+            "id": "lbw",
+            "word": "lbw"
+        },
+        {
+            "id": "left-arm",
+            "word": "left-arm"
+        },
+        {
+            "id": "left-armer",
+            "word": "left-armer"
+        },
+        {
+            "id": "leg_bail",
+            "word": "leg bail"
+        },
+        {
+            "id": "leg_before_wicket",
+            "word": "leg before wicket"
+        },
+        {
+            "id": "leg_break",
+            "word": "leg break"
+        },
+        {
+            "id": "leg_bye",
+            "word": "leg bye"
+        },
+        {
+            "id": "leg-cutter",
+            "word": "leg-cutter"
+        },
+        {
+            "id": "leg_pad",
+            "word": "leg pad"
+        },
+        {
+            "id": "leg_slip",
+            "word": "leg slip"
+        },
+        {
+            "id": "leg_spin",
+            "word": "leg spin"
+        },
+        {
+            "id": "leg_stump",
+            "word": "leg stump"
+        },
+        {
+            "id": "leg_trap",
+            "word": "leg trap"
+        },
+        {
+            "id": "lillee%2C_dennis",
+            "word": "lillee, dennis"
+        },
+        {
+            "id": "limited-over",
+            "word": "limited-over"
+        },
+        {
+            "id": "limited-overs",
+            "word": "limited-overs"
+        },
+        {
+            "id": "long_field",
+            "word": "long field"
+        },
+        {
+            "id": "long_fielder",
+            "word": "long fielder"
+        },
+        {
+            "id": "long_hop",
+            "word": "long hop"
+        },
+        {
+            "id": "long_leg",
+            "word": "long leg"
+        },
+        {
+            "id": "long_off",
+            "word": "long off"
+        },
+        {
+            "id": "long_on",
+            "word": "long on"
+        },
+        {
+            "id": "longstop",
+            "word": "longstop"
+        },
+        {
+            "id": "lord%27s",
+            "word": "lord's"
+        },
+        {
+            "id": "lose_a_wicket",
+            "word": "lose a wicket"
+        },
+        {
+            "id": "m",
+            "word": "m"
+        },
+        {
+            "id": "mcc",
+            "word": "mcc"
+        },
+        {
+            "id": "medium-pacer",
+            "word": "medium-pacer"
+        },
+        {
+            "id": "middle_guard",
+            "word": "middle guard"
+        },
+        {
+            "id": "mid-off",
+            "word": "mid-off"
+        },
+        {
+            "id": "mid-on",
+            "word": "mid-on"
+        },
+        {
+            "id": "midwicket",
+            "word": "midwicket"
+        },
+        {
+            "id": "minor_county",
+            "word": "minor county"
+        },
+        {
+            "id": "misfield",
+            "word": "misfield"
+        },
+        {
+            "id": "mishook",
+            "word": "mishook"
+        },
+        {
+            "id": "mullygrubber",
+            "word": "mullygrubber"
+        },
+        {
+            "id": "nb",
+            "word": "nb"
+        },
+        {
+            "id": "n.o.",
+            "word": "n.o."
+        },
+        {
+            "id": "no-ball",
+            "word": "no-ball"
+        },
+        {
+            "id": "non-striker",
+            "word": "non-striker"
+        },
+        {
+            "id": "not_out",
+            "word": "not out"
+        },
+        {
+            "id": "odi",
+            "word": "odi"
+        },
+        {
+            "id": "off_break",
+            "word": "off break"
+        },
+        {
+            "id": "off-breaking",
+            "word": "off-breaking"
+        },
+        {
+            "id": "off-cutter",
+            "word": "off-cutter"
+        },
+        {
+            "id": "off_drive",
+            "word": "off drive"
+        },
+        {
+            "id": "off_spin",
+            "word": "off spin"
+        },
+        {
+            "id": "off_stump",
+            "word": "off stump"
+        },
+        {
+            "id": "on_drive",
+            "word": "on drive"
+        },
+        {
+            "id": "one-dayer",
+            "word": "one-dayer"
+        },
+        {
+            "id": "open_the_batting",
+            "word": "open the batting"
+        },
+        {
+            "id": "outcricket",
+            "word": "outcricket"
+        },
+        {
+            "id": "outfield",
+            "word": "outfield"
+        },
+        {
+            "id": "outfielder",
+            "word": "outfielder"
+        },
+        {
+            "id": "outfielding",
+            "word": "outfielding"
+        },
+        {
+            "id": "outfieldsman",
+            "word": "outfieldsman"
+        },
+        {
+            "id": "outgoer",
+            "word": "outgoer"
+        },
+        {
+            "id": "outswing",
+            "word": "outswing"
+        },
+        {
+            "id": "outswinger",
+            "word": "outswinger"
+        },
+        {
+            "id": "overarm",
+            "word": "overarm"
+        },
+        {
+            "id": "overbowl",
+            "word": "overbowl"
+        },
+        {
+            "id": "overpitch",
+            "word": "overpitch"
+        },
+        {
+            "id": "overspinner",
+            "word": "overspinner"
+        },
+        {
+            "id": "over_the_wicket",
+            "word": "over the wicket"
+        },
+        {
+            "id": "pace_attack",
+            "word": "pace attack"
+        },
+        {
+            "id": "pace_bowler",
+            "word": "pace bowler"
+        },
+        {
+            "id": "pace_bowling",
+            "word": "pace bowling"
+        },
+        {
+            "id": "paceman",
+            "word": "paceman"
+        },
+        {
+            "id": "pad_play",
+            "word": "pad play"
+        },
+        {
+            "id": "pavilion",
+            "word": "pavilion"
+        },
+        {
+            "id": "perhapser",
+            "word": "perhapser"
+        },
+        {
+            "id": "pitch_something_up_%28or_pitch_up%29",
+            "word": "pitch something up (or pitch up)"
+        },
+        {
+            "id": "popping_crease",
+            "word": "popping crease"
+        },
+        {
+            "id": "practice_wicket",
+            "word": "practice wicket"
+        },
+        {
+            "id": "protected_area",
+            "word": "protected area"
+        },
+        {
+            "id": "push_drive",
+            "word": "push drive"
+        },
+        {
+            "id": "ranjitsinhji_vibhaji%2C_kumar_shri",
+            "word": "ranjitsinhji vibhaji, kumar shri"
+        },
+        {
+            "id": "return_catch",
+            "word": "return catch"
+        },
+        {
+            "id": "return_crease",
+            "word": "return crease"
+        },
+        {
+            "id": "reverse_swing",
+            "word": "reverse swing"
+        },
+        {
+            "id": "rhodes%2C_wilfred",
+            "word": "rhodes, wilfred"
+        },
+        {
+            "id": "rib_roaster",
+            "word": "rib roaster"
+        },
+        {
+            "id": "richards%2C_viv",
+            "word": "richards, viv"
+        },
+        {
+            "id": "round-arm",
+            "word": "round-arm"
+        },
+        {
+            "id": "round-armer",
+            "word": "round-armer"
+        },
+        {
+            "id": "round_the_wicket",
+            "word": "round the wicket"
+        },
+        {
+            "id": "runathon",
+            "word": "runathon"
+        },
+        {
+            "id": "run_chase",
+            "word": "run chase"
+        },
+        {
+            "id": "runless",
+            "word": "runless"
+        },
+        {
+            "id": "run-out",
+            "word": "run-out"
+        },
+        {
+            "id": "run_rate",
+            "word": "run rate"
+        },
+        {
+            "id": "run_someone_out",
+            "word": "run someone out"
+        },
+        {
+            "id": "sandshoe_crusher",
+            "word": "sandshoe crusher"
+        },
+        {
+            "id": "scorebox",
+            "word": "scorebox"
+        },
+        {
+            "id": "scorecard",
+            "word": "scorecard"
+        },
+        {
+            "id": "seam_bowler",
+            "word": "seam bowler"
+        },
+        {
+            "id": "seamer",
+            "word": "seamer"
+        },
+        {
+            "id": "send_something_down",
+            "word": "send something down"
+        },
+        {
+            "id": "short-pitched",
+            "word": "short-pitched"
+        },
+        {
+            "id": "sight_screen",
+            "word": "sight screen"
+        },
+        {
+            "id": "skyer",
+            "word": "skyer"
+        },
+        {
+            "id": "sledge",
+            "word": "sledge"
+        },
+        {
+            "id": "sledging",
+            "word": "sledging"
+        },
+        {
+            "id": "slog-sweep",
+            "word": "slog-sweep"
+        },
+        {
+            "id": "snick",
+            "word": "snick"
+        },
+        {
+            "id": "sobers%2C_gary",
+            "word": "sobers, gary"
+        },
+        {
+            "id": "spin_bowler",
+            "word": "spin bowler"
+        },
+        {
+            "id": "square_cut",
+            "word": "square cut"
+        },
+        {
+            "id": "square_leg",
+            "word": "square leg"
+        },
+        {
+            "id": "stonewall",
+            "word": "stonewall"
+        },
+        {
+            "id": "tail_end",
+            "word": "tail end"
+        },
+        {
+            "id": "tailender",
+            "word": "tailender"
+        },
+        {
+            "id": "take_a_wicket",
+            "word": "take a wicket"
+        },
+        {
+            "id": "take_guard",
+            "word": "take guard"
+        },
+        {
+            "id": "tccb",
+            "word": "tccb"
+        },
+        {
+            "id": "tendulkar%2C_sachin",
+            "word": "tendulkar, sachin"
+        },
+        {
+            "id": "test_match",
+            "word": "test match"
+        },
+        {
+            "id": "third_man",
+            "word": "third man"
+        },
+        {
+            "id": "tip-and-run",
+            "word": "tip-and-run"
+        },
+        {
+            "id": "top_edge",
+            "word": "top edge"
+        },
+        {
+            "id": "top-score",
+            "word": "top-score"
+        },
+        {
+            "id": "trueman%2C_fred",
+            "word": "trueman, fred"
+        },
+        {
+            "id": "twelfth_man",
+            "word": "twelfth man"
+        },
+        {
+            "id": "twenty20",
+            "word": "twenty20"
+        },
+        {
+            "id": "waca",
+            "word": "waca"
+        },
+        {
+            "id": "walsh%2C_courtney",
+            "word": "walsh, courtney"
+        },
+        {
+            "id": "warne%2C_shane",
+            "word": "warne, shane"
+        },
+        {
+            "id": "waugh%2C_steve",
+            "word": "waugh, steve"
+        },
+        {
+            "id": "white_ferns",
+            "word": "white ferns"
+        },
+        {
+            "id": "wicket",
+            "word": "wicket"
+        },
+        {
+            "id": "wicketkeeper",
+            "word": "wicketkeeper"
+        },
+        {
+            "id": "windies",
+            "word": "windies"
+        },
+        {
+            "id": "wisden%2C_john",
+            "word": "wisden, john"
+        },
+        {
+            "id": "wristy",
+            "word": "wristy"
+        },
+        {
+            "id": "york",
+            "word": "york"
+        },
+        {
+            "id": "yorker",
+            "word": "yorker"
+        }
+    ]
+}

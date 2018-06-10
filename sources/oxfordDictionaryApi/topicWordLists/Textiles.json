@@ -1,0 +1,2007 @@
+{
+    "results": [
+        {
+            "id": "acrilan",
+            "word": "acrilan"
+        },
+        {
+            "id": "acrylic",
+            "word": "acrylic"
+        },
+        {
+            "id": "aertex",
+            "word": "aertex"
+        },
+        {
+            "id": "aida",
+            "word": "aida"
+        },
+        {
+            "id": "angora_wool",
+            "word": "angora wool"
+        },
+        {
+            "id": "antron",
+            "word": "antron"
+        },
+        {
+            "id": "aramid",
+            "word": "aramid"
+        },
+        {
+            "id": "arnel",
+            "word": "arnel"
+        },
+        {
+            "id": "arras",
+            "word": "arras"
+        },
+        {
+            "id": "astrakhan",
+            "word": "astrakhan"
+        },
+        {
+            "id": "aubusson",
+            "word": "aubusson"
+        },
+        {
+            "id": "austrian_blind",
+            "word": "austrian blind"
+        },
+        {
+            "id": "axminster",
+            "word": "axminster"
+        },
+        {
+            "id": "bafta",
+            "word": "bafta"
+        },
+        {
+            "id": "baize",
+            "word": "baize"
+        },
+        {
+            "id": "balbriggan",
+            "word": "balbriggan"
+        },
+        {
+            "id": "barathea",
+            "word": "barathea"
+        },
+        {
+            "id": "bar%C3%A8ge",
+            "word": "barège"
+        },
+        {
+            "id": "bargello",
+            "word": "bargello"
+        },
+        {
+            "id": "barkcloth",
+            "word": "barkcloth"
+        },
+        {
+            "id": "basket_weave",
+            "word": "basket weave"
+        },
+        {
+            "id": "basketwork",
+            "word": "basketwork"
+        },
+        {
+            "id": "batik",
+            "word": "batik"
+        },
+        {
+            "id": "batiste",
+            "word": "batiste"
+        },
+        {
+            "id": "batting",
+            "word": "batting"
+        },
+        {
+            "id": "beaver_lamb",
+            "word": "beaver lamb"
+        },
+        {
+            "id": "bedford_cord",
+            "word": "bedford cord"
+        },
+        {
+            "id": "bengaline",
+            "word": "bengaline"
+        },
+        {
+            "id": "blanketing",
+            "word": "blanketing"
+        },
+        {
+            "id": "bleacher",
+            "word": "bleacher"
+        },
+        {
+            "id": "bobbinet",
+            "word": "bobbinet"
+        },
+        {
+            "id": "bobbin_lace",
+            "word": "bobbin lace"
+        },
+        {
+            "id": "bolt",
+            "word": "bolt"
+        },
+        {
+            "id": "bombazine",
+            "word": "bombazine"
+        },
+        {
+            "id": "boucl%C3%A9",
+            "word": "bouclé"
+        },
+        {
+            "id": "breathable",
+            "word": "breathable"
+        },
+        {
+            "id": "broadcloth",
+            "word": "broadcloth"
+        },
+        {
+            "id": "broadloom",
+            "word": "broadloom"
+        },
+        {
+            "id": "brocade",
+            "word": "brocade"
+        },
+        {
+            "id": "brocaded",
+            "word": "brocaded"
+        },
+        {
+            "id": "brocading",
+            "word": "brocading"
+        },
+        {
+            "id": "brown_holland",
+            "word": "brown holland"
+        },
+        {
+            "id": "buckram",
+            "word": "buckram"
+        },
+        {
+            "id": "buckskin",
+            "word": "buckskin"
+        },
+        {
+            "id": "buntal",
+            "word": "buntal"
+        },
+        {
+            "id": "bunting",
+            "word": "bunting"
+        },
+        {
+            "id": "burl",
+            "word": "burl"
+        },
+        {
+            "id": "burlap",
+            "word": "burlap"
+        },
+        {
+            "id": "burp_cloth",
+            "word": "burp cloth"
+        },
+        {
+            "id": "butter_muslin",
+            "word": "butter muslin"
+        },
+        {
+            "id": "byssus",
+            "word": "byssus"
+        },
+        {
+            "id": "calamanco",
+            "word": "calamanco"
+        },
+        {
+            "id": "calender",
+            "word": "calender"
+        },
+        {
+            "id": "calico",
+            "word": "calico"
+        },
+        {
+            "id": "cambrelle",
+            "word": "cambrelle"
+        },
+        {
+            "id": "cambric",
+            "word": "cambric"
+        },
+        {
+            "id": "camel_hair",
+            "word": "camel hair"
+        },
+        {
+            "id": "candlewick",
+            "word": "candlewick"
+        },
+        {
+            "id": "canvas",
+            "word": "canvas"
+        },
+        {
+            "id": "card",
+            "word": "card"
+        },
+        {
+            "id": "carding_wool",
+            "word": "carding wool"
+        },
+        {
+            "id": "carpeting",
+            "word": "carpeting"
+        },
+        {
+            "id": "cashmere",
+            "word": "cashmere"
+        },
+        {
+            "id": "cavalry_twill",
+            "word": "cavalry twill"
+        },
+        {
+            "id": "cerecloth",
+            "word": "cerecloth"
+        },
+        {
+            "id": "cerement",
+            "word": "cerement"
+        },
+        {
+            "id": "challis",
+            "word": "challis"
+        },
+        {
+            "id": "chambray",
+            "word": "chambray"
+        },
+        {
+            "id": "chantilly_lace",
+            "word": "chantilly lace"
+        },
+        {
+            "id": "charmeuse",
+            "word": "charmeuse"
+        },
+        {
+            "id": "check",
+            "word": "check"
+        },
+        {
+            "id": "cheesecloth",
+            "word": "cheesecloth"
+        },
+        {
+            "id": "chenille",
+            "word": "chenille"
+        },
+        {
+            "id": "chiffon",
+            "word": "chiffon"
+        },
+        {
+            "id": "chino",
+            "word": "chino"
+        },
+        {
+            "id": "chintz",
+            "word": "chintz"
+        },
+        {
+            "id": "cir%C3%A9",
+            "word": "ciré"
+        },
+        {
+            "id": "cloqu%C3%A9",
+            "word": "cloqué"
+        },
+        {
+            "id": "cloth",
+            "word": "cloth"
+        },
+        {
+            "id": "cloth_of_gold",
+            "word": "cloth of gold"
+        },
+        {
+            "id": "coconut_matting",
+            "word": "coconut matting"
+        },
+        {
+            "id": "combing_wool",
+            "word": "combing wool"
+        },
+        {
+            "id": "coolmax",
+            "word": "coolmax"
+        },
+        {
+            "id": "coonskin",
+            "word": "coonskin"
+        },
+        {
+            "id": "cop",
+            "word": "cop"
+        },
+        {
+            "id": "corded",
+            "word": "corded"
+        },
+        {
+            "id": "cordura",
+            "word": "cordura"
+        },
+        {
+            "id": "corduroy",
+            "word": "corduroy"
+        },
+        {
+            "id": "cotton",
+            "word": "cotton"
+        },
+        {
+            "id": "cotton_gin",
+            "word": "cotton gin"
+        },
+        {
+            "id": "crash",
+            "word": "crash"
+        },
+        {
+            "id": "cr%C3%A9pon",
+            "word": "crépon"
+        },
+        {
+            "id": "cr%C3%AApe",
+            "word": "crêpe"
+        },
+        {
+            "id": "cr%C3%AApe_de_chine",
+            "word": "crêpe de chine"
+        },
+        {
+            "id": "crease-resistant",
+            "word": "crease-resistant"
+        },
+        {
+            "id": "cretonne",
+            "word": "cretonne"
+        },
+        {
+            "id": "crewel",
+            "word": "crewel"
+        },
+        {
+            "id": "crimplene",
+            "word": "crimplene"
+        },
+        {
+            "id": "crushed_velvet",
+            "word": "crushed velvet"
+        },
+        {
+            "id": "cupro",
+            "word": "cupro"
+        },
+        {
+            "id": "dacron",
+            "word": "dacron"
+        },
+        {
+            "id": "damask",
+            "word": "damask"
+        },
+        {
+            "id": "delustre",
+            "word": "delustre"
+        },
+        {
+            "id": "denim",
+            "word": "denim"
+        },
+        {
+            "id": "devor%C3%A9",
+            "word": "devoré"
+        },
+        {
+            "id": "dimity",
+            "word": "dimity"
+        },
+        {
+            "id": "dip-dye",
+            "word": "dip-dye"
+        },
+        {
+            "id": "dobby_weave",
+            "word": "dobby weave"
+        },
+        {
+            "id": "donegal",
+            "word": "donegal"
+        },
+        {
+            "id": "double-faced",
+            "word": "double-faced"
+        },
+        {
+            "id": "dralon",
+            "word": "dralon"
+        },
+        {
+            "id": "draper",
+            "word": "draper"
+        },
+        {
+            "id": "drapery",
+            "word": "drapery"
+        },
+        {
+            "id": "drill",
+            "word": "drill"
+        },
+        {
+            "id": "drugget",
+            "word": "drugget"
+        },
+        {
+            "id": "duchesse",
+            "word": "duchesse"
+        },
+        {
+            "id": "duchesse_lace",
+            "word": "duchesse lace"
+        },
+        {
+            "id": "duck",
+            "word": "duck"
+        },
+        {
+            "id": "duffel",
+            "word": "duffel"
+        },
+        {
+            "id": "dupion",
+            "word": "dupion"
+        },
+        {
+            "id": "durham_quilt",
+            "word": "durham quilt"
+        },
+        {
+            "id": "dye",
+            "word": "dye"
+        },
+        {
+            "id": "dyer",
+            "word": "dyer"
+        },
+        {
+            "id": "easy-care",
+            "word": "easy-care"
+        },
+        {
+            "id": "egyptian_cotton",
+            "word": "egyptian cotton"
+        },
+        {
+            "id": "elastane",
+            "word": "elastane"
+        },
+        {
+            "id": "fabric",
+            "word": "fabric"
+        },
+        {
+            "id": "facecloth",
+            "word": "facecloth"
+        },
+        {
+            "id": "faille",
+            "word": "faille"
+        },
+        {
+            "id": "felt",
+            "word": "felt"
+        },
+        {
+            "id": "fibre",
+            "word": "fibre"
+        },
+        {
+            "id": "fibrefill",
+            "word": "fibrefill"
+        },
+        {
+            "id": "filature",
+            "word": "filature"
+        },
+        {
+            "id": "filoselle",
+            "word": "filoselle"
+        },
+        {
+            "id": "fingering",
+            "word": "fingering"
+        },
+        {
+            "id": "fishnet",
+            "word": "fishnet"
+        },
+        {
+            "id": "flannel",
+            "word": "flannel"
+        },
+        {
+            "id": "flannelette",
+            "word": "flannelette"
+        },
+        {
+            "id": "flat-woven",
+            "word": "flat-woven"
+        },
+        {
+            "id": "flock",
+            "word": "flock"
+        },
+        {
+            "id": "flock_wallpaper",
+            "word": "flock wallpaper"
+        },
+        {
+            "id": "folkweave",
+            "word": "folkweave"
+        },
+        {
+            "id": "foulard",
+            "word": "foulard"
+        },
+        {
+            "id": "four-ply",
+            "word": "four-ply"
+        },
+        {
+            "id": "frieze",
+            "word": "frieze"
+        },
+        {
+            "id": "fringe",
+            "word": "fringe"
+        },
+        {
+            "id": "full",
+            "word": "full"
+        },
+        {
+            "id": "fuller",
+            "word": "fuller"
+        },
+        {
+            "id": "fuller%27s_earth",
+            "word": "fuller's earth"
+        },
+        {
+            "id": "fun_fur",
+            "word": "fun fur"
+        },
+        {
+            "id": "fustian",
+            "word": "fustian"
+        },
+        {
+            "id": "gaberdine",
+            "word": "gaberdine"
+        },
+        {
+            "id": "gauze",
+            "word": "gauze"
+        },
+        {
+            "id": "gazar",
+            "word": "gazar"
+        },
+        {
+            "id": "georgette",
+            "word": "georgette"
+        },
+        {
+            "id": "gimp",
+            "word": "gimp"
+        },
+        {
+            "id": "gingham",
+            "word": "gingham"
+        },
+        {
+            "id": "glass_cloth",
+            "word": "glass cloth"
+        },
+        {
+            "id": "glass_fibre",
+            "word": "glass fibre"
+        },
+        {
+            "id": "gobelin",
+            "word": "gobelin"
+        },
+        {
+            "id": "gobelins",
+            "word": "gobelins"
+        },
+        {
+            "id": "godet",
+            "word": "godet"
+        },
+        {
+            "id": "gore-tex",
+            "word": "gore-tex"
+        },
+        {
+            "id": "grasscloth",
+            "word": "grasscloth"
+        },
+        {
+            "id": "grenadine",
+            "word": "grenadine"
+        },
+        {
+            "id": "grogram",
+            "word": "grogram"
+        },
+        {
+            "id": "grosgrain",
+            "word": "grosgrain"
+        },
+        {
+            "id": "guipure",
+            "word": "guipure"
+        },
+        {
+            "id": "gunny",
+            "word": "gunny"
+        },
+        {
+            "id": "haircloth",
+            "word": "haircloth"
+        },
+        {
+            "id": "handloom",
+            "word": "handloom"
+        },
+        {
+            "id": "handwoven",
+            "word": "handwoven"
+        },
+        {
+            "id": "harris_tweed",
+            "word": "harris tweed"
+        },
+        {
+            "id": "heddle",
+            "word": "heddle"
+        },
+        {
+            "id": "herringbone",
+            "word": "herringbone"
+        },
+        {
+            "id": "hessian",
+            "word": "hessian"
+        },
+        {
+            "id": "hodden",
+            "word": "hodden"
+        },
+        {
+            "id": "holland",
+            "word": "holland"
+        },
+        {
+            "id": "houndstooth",
+            "word": "houndstooth"
+        },
+        {
+            "id": "huckaback",
+            "word": "huckaback"
+        },
+        {
+            "id": "hudson%27s_bay_blanket",
+            "word": "hudson's bay blanket"
+        },
+        {
+            "id": "ikat",
+            "word": "ikat"
+        },
+        {
+            "id": "ingrain",
+            "word": "ingrain"
+        },
+        {
+            "id": "ingrain_carpet",
+            "word": "ingrain carpet"
+        },
+        {
+            "id": "inkle",
+            "word": "inkle"
+        },
+        {
+            "id": "inwrought",
+            "word": "inwrought"
+        },
+        {
+            "id": "iron-on",
+            "word": "iron-on"
+        },
+        {
+            "id": "jaconet",
+            "word": "jaconet"
+        },
+        {
+            "id": "jacquard",
+            "word": "jacquard"
+        },
+        {
+            "id": "jean",
+            "word": "jean"
+        },
+        {
+            "id": "jute",
+            "word": "jute"
+        },
+        {
+            "id": "kalamkari",
+            "word": "kalamkari"
+        },
+        {
+            "id": "kemp",
+            "word": "kemp"
+        },
+        {
+            "id": "kenaf",
+            "word": "kenaf"
+        },
+        {
+            "id": "kendal_green",
+            "word": "kendal green"
+        },
+        {
+            "id": "kente",
+            "word": "kente"
+        },
+        {
+            "id": "kersey",
+            "word": "kersey"
+        },
+        {
+            "id": "kerseymere",
+            "word": "kerseymere"
+        },
+        {
+            "id": "khadi",
+            "word": "khadi"
+        },
+        {
+            "id": "khaki",
+            "word": "khaki"
+        },
+        {
+            "id": "khanga",
+            "word": "khanga"
+        },
+        {
+            "id": "kidderminster_carpet",
+            "word": "kidderminster carpet"
+        },
+        {
+            "id": "kikoi",
+            "word": "kikoi"
+        },
+        {
+            "id": "kilim",
+            "word": "kilim"
+        },
+        {
+            "id": "kirman",
+            "word": "kirman"
+        },
+        {
+            "id": "kitenge",
+            "word": "kitenge"
+        },
+        {
+            "id": "knop",
+            "word": "knop"
+        },
+        {
+            "id": "knotting",
+            "word": "knotting"
+        },
+        {
+            "id": "krimmer",
+            "word": "krimmer"
+        },
+        {
+            "id": "lace",
+            "word": "lace"
+        },
+        {
+            "id": "lake",
+            "word": "lake"
+        },
+        {
+            "id": "lambskin",
+            "word": "lambskin"
+        },
+        {
+            "id": "lambswool",
+            "word": "lambswool"
+        },
+        {
+            "id": "lam%C3%A9",
+            "word": "lamé"
+        },
+        {
+            "id": "lampas",
+            "word": "lampas"
+        },
+        {
+            "id": "lawn",
+            "word": "lawn"
+        },
+        {
+            "id": "leathercloth",
+            "word": "leathercloth"
+        },
+        {
+            "id": "leatherette",
+            "word": "leatherette"
+        },
+        {
+            "id": "leno",
+            "word": "leno"
+        },
+        {
+            "id": "lincoln_green",
+            "word": "lincoln green"
+        },
+        {
+            "id": "linen",
+            "word": "linen"
+        },
+        {
+            "id": "linoleum",
+            "word": "linoleum"
+        },
+        {
+            "id": "linsey-woolsey",
+            "word": "linsey-woolsey"
+        },
+        {
+            "id": "lint",
+            "word": "lint"
+        },
+        {
+            "id": "linter",
+            "word": "linter"
+        },
+        {
+            "id": "lisle",
+            "word": "lisle"
+        },
+        {
+            "id": "lock-knit",
+            "word": "lock-knit"
+        },
+        {
+            "id": "loden",
+            "word": "loden"
+        },
+        {
+            "id": "log_cabin",
+            "word": "log cabin"
+        },
+        {
+            "id": "loom",
+            "word": "loom"
+        },
+        {
+            "id": "lurex",
+            "word": "lurex"
+        },
+        {
+            "id": "lustring",
+            "word": "lustring"
+        },
+        {
+            "id": "lycra",
+            "word": "lycra"
+        },
+        {
+            "id": "lyocell",
+            "word": "lyocell"
+        },
+        {
+            "id": "macram%C3%A9",
+            "word": "macramé"
+        },
+        {
+            "id": "madras",
+            "word": "madras"
+        },
+        {
+            "id": "man-made",
+            "word": "man-made"
+        },
+        {
+            "id": "marl",
+            "word": "marl"
+        },
+        {
+            "id": "marled",
+            "word": "marled"
+        },
+        {
+            "id": "marocain",
+            "word": "marocain"
+        },
+        {
+            "id": "marquisette",
+            "word": "marquisette"
+        },
+        {
+            "id": "matelass%C3%A9",
+            "word": "matelassé"
+        },
+        {
+            "id": "matting",
+            "word": "matting"
+        },
+        {
+            "id": "mechlin",
+            "word": "mechlin"
+        },
+        {
+            "id": "melton",
+            "word": "melton"
+        },
+        {
+            "id": "mercer",
+            "word": "mercer"
+        },
+        {
+            "id": "mercerize",
+            "word": "mercerize"
+        },
+        {
+            "id": "microfibre",
+            "word": "microfibre"
+        },
+        {
+            "id": "micromesh",
+            "word": "micromesh"
+        },
+        {
+            "id": "milanese_silk",
+            "word": "milanese silk"
+        },
+        {
+            "id": "modacrylic",
+            "word": "modacrylic"
+        },
+        {
+            "id": "mohair",
+            "word": "mohair"
+        },
+        {
+            "id": "moire",
+            "word": "moire"
+        },
+        {
+            "id": "moit",
+            "word": "moit"
+        },
+        {
+            "id": "moquette",
+            "word": "moquette"
+        },
+        {
+            "id": "moreen",
+            "word": "moreen"
+        },
+        {
+            "id": "mousseline",
+            "word": "mousseline"
+        },
+        {
+            "id": "mouton",
+            "word": "mouton"
+        },
+        {
+            "id": "moygashel",
+            "word": "moygashel"
+        },
+        {
+            "id": "muka",
+            "word": "muka"
+        },
+        {
+            "id": "mull",
+            "word": "mull"
+        },
+        {
+            "id": "multifilament",
+            "word": "multifilament"
+        },
+        {
+            "id": "mungo",
+            "word": "mungo"
+        },
+        {
+            "id": "murrey",
+            "word": "murrey"
+        },
+        {
+            "id": "muslin",
+            "word": "muslin"
+        },
+        {
+            "id": "nainsook",
+            "word": "nainsook"
+        },
+        {
+            "id": "nankeen",
+            "word": "nankeen"
+        },
+        {
+            "id": "nap",
+            "word": "nap"
+        },
+        {
+            "id": "napped",
+            "word": "napped"
+        },
+        {
+            "id": "naugahyde",
+            "word": "naugahyde"
+        },
+        {
+            "id": "needlecord",
+            "word": "needlecord"
+        },
+        {
+            "id": "needlepoint",
+            "word": "needlepoint"
+        },
+        {
+            "id": "ninon",
+            "word": "ninon"
+        },
+        {
+            "id": "noil",
+            "word": "noil"
+        },
+        {
+            "id": "non-iron",
+            "word": "non-iron"
+        },
+        {
+            "id": "nottingham_lace",
+            "word": "nottingham lace"
+        },
+        {
+            "id": "numdah",
+            "word": "numdah"
+        },
+        {
+            "id": "oilcloth",
+            "word": "oilcloth"
+        },
+        {
+            "id": "oiled_silk",
+            "word": "oiled silk"
+        },
+        {
+            "id": "oilskin",
+            "word": "oilskin"
+        },
+        {
+            "id": "ombr%C3%A9",
+            "word": "ombré"
+        },
+        {
+            "id": "organdie",
+            "word": "organdie"
+        },
+        {
+            "id": "organza",
+            "word": "organza"
+        },
+        {
+            "id": "organzine",
+            "word": "organzine"
+        },
+        {
+            "id": "orlon",
+            "word": "orlon"
+        },
+        {
+            "id": "osnaburg",
+            "word": "osnaburg"
+        },
+        {
+            "id": "outing_flannel",
+            "word": "outing flannel"
+        },
+        {
+            "id": "oxford",
+            "word": "oxford"
+        },
+        {
+            "id": "packcloth",
+            "word": "packcloth"
+        },
+        {
+            "id": "padding",
+            "word": "padding"
+        },
+        {
+            "id": "paduasoy",
+            "word": "paduasoy"
+        },
+        {
+            "id": "paisley",
+            "word": "paisley"
+        },
+        {
+            "id": "panne",
+            "word": "panne"
+        },
+        {
+            "id": "paper_taffeta",
+            "word": "paper taffeta"
+        },
+        {
+            "id": "parramatta",
+            "word": "parramatta"
+        },
+        {
+            "id": "pashm",
+            "word": "pashm"
+        },
+        {
+            "id": "pashmina",
+            "word": "pashmina"
+        },
+        {
+            "id": "pattern_book",
+            "word": "pattern book"
+        },
+        {
+            "id": "peau_de_soie",
+            "word": "peau de soie"
+        },
+        {
+            "id": "penistone",
+            "word": "penistone"
+        },
+        {
+            "id": "percale",
+            "word": "percale"
+        },
+        {
+            "id": "persian_carpet",
+            "word": "persian carpet"
+        },
+        {
+            "id": "pertex",
+            "word": "pertex"
+        },
+        {
+            "id": "petersham",
+            "word": "petersham"
+        },
+        {
+            "id": "phulkari",
+            "word": "phulkari"
+        },
+        {
+            "id": "picot",
+            "word": "picot"
+        },
+        {
+            "id": "piece-dyed",
+            "word": "piece-dyed"
+        },
+        {
+            "id": "piece_goods",
+            "word": "piece goods"
+        },
+        {
+            "id": "piecer",
+            "word": "piecer"
+        },
+        {
+            "id": "pile",
+            "word": "pile"
+        },
+        {
+            "id": "pillow_lace",
+            "word": "pillow lace"
+        },
+        {
+            "id": "pilot_cloth",
+            "word": "pilot cloth"
+        },
+        {
+            "id": "pinstripe",
+            "word": "pinstripe"
+        },
+        {
+            "id": "pinstriped",
+            "word": "pinstriped"
+        },
+        {
+            "id": "pinwale",
+            "word": "pinwale"
+        },
+        {
+            "id": "piqu%C3%A9",
+            "word": "piqué"
+        },
+        {
+            "id": "plaid",
+            "word": "plaid"
+        },
+        {
+            "id": "plain_weave",
+            "word": "plain weave"
+        },
+        {
+            "id": "pleather",
+            "word": "pleather"
+        },
+        {
+            "id": "pliss%C3%A9",
+            "word": "plissé"
+        },
+        {
+            "id": "plush",
+            "word": "plush"
+        },
+        {
+            "id": "plush_velvet",
+            "word": "plush velvet"
+        },
+        {
+            "id": "point_blanket",
+            "word": "point blanket"
+        },
+        {
+            "id": "point_lace",
+            "word": "point lace"
+        },
+        {
+            "id": "polka_dot",
+            "word": "polka dot"
+        },
+        {
+            "id": "polka-dotted",
+            "word": "polka-dotted"
+        },
+        {
+            "id": "poly",
+            "word": "poly"
+        },
+        {
+            "id": "polycotton",
+            "word": "polycotton"
+        },
+        {
+            "id": "polynosic",
+            "word": "polynosic"
+        },
+        {
+            "id": "pongee",
+            "word": "pongee"
+        },
+        {
+            "id": "poplin",
+            "word": "poplin"
+        },
+        {
+            "id": "poult",
+            "word": "poult"
+        },
+        {
+            "id": "power_loom",
+            "word": "power loom"
+        },
+        {
+            "id": "prince_of_wales_check",
+            "word": "prince of wales check"
+        },
+        {
+            "id": "printworks",
+            "word": "printworks"
+        },
+        {
+            "id": "prunella",
+            "word": "prunella"
+        },
+        {
+            "id": "rag_rug",
+            "word": "rag rug"
+        },
+        {
+            "id": "ramie",
+            "word": "ramie"
+        },
+        {
+            "id": "ravelling",
+            "word": "ravelling"
+        },
+        {
+            "id": "rayon",
+            "word": "rayon"
+        },
+        {
+            "id": "rebato",
+            "word": "rebato"
+        },
+        {
+            "id": "remnant",
+            "word": "remnant"
+        },
+        {
+            "id": "rep",
+            "word": "rep"
+        },
+        {
+            "id": "ret",
+            "word": "ret"
+        },
+        {
+            "id": "retexture",
+            "word": "retexture"
+        },
+        {
+            "id": "rexine",
+            "word": "rexine"
+        },
+        {
+            "id": "ripstop",
+            "word": "ripstop"
+        },
+        {
+            "id": "rose-point",
+            "word": "rose-point"
+        },
+        {
+            "id": "rove",
+            "word": "rove"
+        },
+        {
+            "id": "rover",
+            "word": "rover"
+        },
+        {
+            "id": "sackcloth",
+            "word": "sackcloth"
+        },
+        {
+            "id": "sailcloth",
+            "word": "sailcloth"
+        },
+        {
+            "id": "samite",
+            "word": "samite"
+        },
+        {
+            "id": "sanforized",
+            "word": "sanforized"
+        },
+        {
+            "id": "sarsenet",
+            "word": "sarsenet"
+        },
+        {
+            "id": "sateen",
+            "word": "sateen"
+        },
+        {
+            "id": "satin",
+            "word": "satin"
+        },
+        {
+            "id": "satinette",
+            "word": "satinette"
+        },
+        {
+            "id": "satin_weave",
+            "word": "satin weave"
+        },
+        {
+            "id": "savonnerie_carpet",
+            "word": "savonnerie carpet"
+        },
+        {
+            "id": "saxony",
+            "word": "saxony"
+        },
+        {
+            "id": "schappe",
+            "word": "schappe"
+        },
+        {
+            "id": "scotchlite",
+            "word": "scotchlite"
+        },
+        {
+            "id": "scribble",
+            "word": "scribble"
+        },
+        {
+            "id": "scrim",
+            "word": "scrim"
+        },
+        {
+            "id": "scutch",
+            "word": "scutch"
+        },
+        {
+            "id": "sea_island_cotton",
+            "word": "sea island cotton"
+        },
+        {
+            "id": "seersucker",
+            "word": "seersucker"
+        },
+        {
+            "id": "self-coloured",
+            "word": "self-coloured"
+        },
+        {
+            "id": "selvedge",
+            "word": "selvedge"
+        },
+        {
+            "id": "sendal",
+            "word": "sendal"
+        },
+        {
+            "id": "serge",
+            "word": "serge"
+        },
+        {
+            "id": "sericulture",
+            "word": "sericulture"
+        },
+        {
+            "id": "shahtoosh",
+            "word": "shahtoosh"
+        },
+        {
+            "id": "shantung",
+            "word": "shantung"
+        },
+        {
+            "id": "sheepskin",
+            "word": "sheepskin"
+        },
+        {
+            "id": "sheeting",
+            "word": "sheeting"
+        },
+        {
+            "id": "shepherd%27s_plaid",
+            "word": "shepherd's plaid"
+        },
+        {
+            "id": "shetland_lace",
+            "word": "shetland lace"
+        },
+        {
+            "id": "shetland_wool",
+            "word": "shetland wool"
+        },
+        {
+            "id": "shirting",
+            "word": "shirting"
+        },
+        {
+            "id": "shrink-resistant",
+            "word": "shrink-resistant"
+        },
+        {
+            "id": "silk",
+            "word": "silk"
+        },
+        {
+            "id": "silken",
+            "word": "silken"
+        },
+        {
+            "id": "size",
+            "word": "size"
+        },
+        {
+            "id": "skein",
+            "word": "skein"
+        },
+        {
+            "id": "sley",
+            "word": "sley"
+        },
+        {
+            "id": "slipper_satin",
+            "word": "slipper satin"
+        },
+        {
+            "id": "slub",
+            "word": "slub"
+        },
+        {
+            "id": "soft_goods",
+            "word": "soft goods"
+        },
+        {
+            "id": "spandex",
+            "word": "spandex"
+        },
+        {
+            "id": "spindle",
+            "word": "spindle"
+        },
+        {
+            "id": "spinning",
+            "word": "spinning"
+        },
+        {
+            "id": "spinning_jenny",
+            "word": "spinning jenny"
+        },
+        {
+            "id": "spinning_machine",
+            "word": "spinning machine"
+        },
+        {
+            "id": "spinning_wheel",
+            "word": "spinning wheel"
+        },
+        {
+            "id": "sponge_cloth",
+            "word": "sponge cloth"
+        },
+        {
+            "id": "sponge_rubber",
+            "word": "sponge rubber"
+        },
+        {
+            "id": "sprigged",
+            "word": "sprigged"
+        },
+        {
+            "id": "spun_silk",
+            "word": "spun silk"
+        },
+        {
+            "id": "stevengraph",
+            "word": "stevengraph"
+        },
+        {
+            "id": "stockinette",
+            "word": "stockinette"
+        },
+        {
+            "id": "stroud",
+            "word": "stroud"
+        },
+        {
+            "id": "suiting",
+            "word": "suiting"
+        },
+        {
+            "id": "sunfast",
+            "word": "sunfast"
+        },
+        {
+            "id": "sunn",
+            "word": "sunn"
+        },
+        {
+            "id": "supplex",
+            "word": "supplex"
+        },
+        {
+            "id": "surah",
+            "word": "surah"
+        },
+        {
+            "id": "swatch",
+            "word": "swatch"
+        },
+        {
+            "id": "tabaret",
+            "word": "tabaret"
+        },
+        {
+            "id": "tabriz_rug",
+            "word": "tabriz rug"
+        },
+        {
+            "id": "tactel",
+            "word": "tactel"
+        },
+        {
+            "id": "taffeta",
+            "word": "taffeta"
+        },
+        {
+            "id": "tailor%27s_twist",
+            "word": "tailor's twist"
+        },
+        {
+            "id": "tapa",
+            "word": "tapa"
+        },
+        {
+            "id": "tapestry",
+            "word": "tapestry"
+        },
+        {
+            "id": "tapis",
+            "word": "tapis"
+        },
+        {
+            "id": "tarlatan",
+            "word": "tarlatan"
+        },
+        {
+            "id": "tarpaulin",
+            "word": "tarpaulin"
+        },
+        {
+            "id": "tartan",
+            "word": "tartan"
+        },
+        {
+            "id": "tattersall",
+            "word": "tattersall"
+        },
+        {
+            "id": "tatting",
+            "word": "tatting"
+        },
+        {
+            "id": "temple",
+            "word": "temple"
+        },
+        {
+            "id": "tencel",
+            "word": "tencel"
+        },
+        {
+            "id": "tenter",
+            "word": "tenter"
+        },
+        {
+            "id": "tenterhook",
+            "word": "tenterhook"
+        },
+        {
+            "id": "terry",
+            "word": "terry"
+        },
+        {
+            "id": "terylene",
+            "word": "terylene"
+        },
+        {
+            "id": "textile",
+            "word": "textile"
+        },
+        {
+            "id": "texture",
+            "word": "texture"
+        },
+        {
+            "id": "texturize",
+            "word": "texturize"
+        },
+        {
+            "id": "thread",
+            "word": "thread"
+        },
+        {
+            "id": "three-ply",
+            "word": "three-ply"
+        },
+        {
+            "id": "throwster",
+            "word": "throwster"
+        },
+        {
+            "id": "thrum",
+            "word": "thrum"
+        },
+        {
+            "id": "tick",
+            "word": "tick"
+        },
+        {
+            "id": "ticking",
+            "word": "ticking"
+        },
+        {
+            "id": "tie-dye",
+            "word": "tie-dye"
+        },
+        {
+            "id": "tiffany",
+            "word": "tiffany"
+        },
+        {
+            "id": "toile_de_jouy",
+            "word": "toile de jouy"
+        },
+        {
+            "id": "tone-on-tone",
+            "word": "tone-on-tone"
+        },
+        {
+            "id": "torchon",
+            "word": "torchon"
+        },
+        {
+            "id": "tow",
+            "word": "tow"
+        },
+        {
+            "id": "towelling",
+            "word": "towelling"
+        },
+        {
+            "id": "tragacanth",
+            "word": "tragacanth"
+        },
+        {
+            "id": "trevira",
+            "word": "trevira"
+        },
+        {
+            "id": "triacetate",
+            "word": "triacetate"
+        },
+        {
+            "id": "tricel",
+            "word": "tricel"
+        },
+        {
+            "id": "tricot",
+            "word": "tricot"
+        },
+        {
+            "id": "tulle",
+            "word": "tulle"
+        },
+        {
+            "id": "turkish_carpet",
+            "word": "turkish carpet"
+        },
+        {
+            "id": "tussore",
+            "word": "tussore"
+        },
+        {
+            "id": "tweed",
+            "word": "tweed"
+        },
+        {
+            "id": "twill",
+            "word": "twill"
+        },
+        {
+            "id": "two-ply",
+            "word": "two-ply"
+        },
+        {
+            "id": "uncrushable",
+            "word": "uncrushable"
+        },
+        {
+            "id": "undyed",
+            "word": "undyed"
+        },
+        {
+            "id": "unshrinkable",
+            "word": "unshrinkable"
+        },
+        {
+            "id": "unstarched",
+            "word": "unstarched"
+        },
+        {
+            "id": "unwoven",
+            "word": "unwoven"
+        },
+        {
+            "id": "upholstery",
+            "word": "upholstery"
+        },
+        {
+            "id": "utrecht_velvet",
+            "word": "utrecht velvet"
+        },
+        {
+            "id": "valenciennes",
+            "word": "valenciennes"
+        },
+        {
+            "id": "vandyke",
+            "word": "vandyke"
+        },
+        {
+            "id": "veiling",
+            "word": "veiling"
+        },
+        {
+            "id": "velcro",
+            "word": "velcro"
+        },
+        {
+            "id": "velour",
+            "word": "velour"
+        },
+        {
+            "id": "velvet",
+            "word": "velvet"
+        },
+        {
+            "id": "velveteen",
+            "word": "velveteen"
+        },
+        {
+            "id": "visking",
+            "word": "visking"
+        },
+        {
+            "id": "visqueen",
+            "word": "visqueen"
+        },
+        {
+            "id": "viyella",
+            "word": "viyella"
+        },
+        {
+            "id": "voile",
+            "word": "voile"
+        },
+        {
+            "id": "wale",
+            "word": "wale"
+        },
+        {
+            "id": "watered_silk",
+            "word": "watered silk"
+        },
+        {
+            "id": "waxcloth",
+            "word": "waxcloth"
+        },
+        {
+            "id": "weave",
+            "word": "weave"
+        },
+        {
+            "id": "weaver",
+            "word": "weaver"
+        },
+        {
+            "id": "weaver%27s_knot",
+            "word": "weaver's knot"
+        },
+        {
+            "id": "weaving",
+            "word": "weaving"
+        },
+        {
+            "id": "webbing",
+            "word": "webbing"
+        },
+        {
+            "id": "wet_look",
+            "word": "wet look"
+        },
+        {
+            "id": "whole_cloth",
+            "word": "whole cloth"
+        },
+        {
+            "id": "wild_silk",
+            "word": "wild silk"
+        },
+        {
+            "id": "wilton",
+            "word": "wilton"
+        },
+        {
+            "id": "wince",
+            "word": "wince"
+        },
+        {
+            "id": "wincey",
+            "word": "wincey"
+        },
+        {
+            "id": "winceyette",
+            "word": "winceyette"
+        },
+        {
+            "id": "windproof",
+            "word": "windproof"
+        },
+        {
+            "id": "wire_cloth",
+            "word": "wire cloth"
+        },
+        {
+            "id": "wool",
+            "word": "wool"
+        },
+        {
+            "id": "woollen",
+            "word": "woollen"
+        },
+        {
+            "id": "woolly",
+            "word": "woolly"
+        },
+        {
+            "id": "woolmark",
+            "word": "woolmark"
+        },
+        {
+            "id": "wool_scour",
+            "word": "wool scour"
+        },
+        {
+            "id": "worsted",
+            "word": "worsted"
+        },
+        {
+            "id": "yarn",
+            "word": "yarn"
+        },
+        {
+            "id": "yarn-dyed",
+            "word": "yarn-dyed"
+        },
+        {
+            "id": "zari",
+            "word": "zari"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 499,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

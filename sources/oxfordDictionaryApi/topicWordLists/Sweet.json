@@ -1,0 +1,1603 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 398,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "acid_drop",
+            "word": "acid drop"
+        },
+        {
+            "id": "affogato",
+            "word": "affogato"
+        },
+        {
+            "id": "afters",
+            "word": "afters"
+        },
+        {
+            "id": "almond_paste",
+            "word": "almond paste"
+        },
+        {
+            "id": "amaretti",
+            "word": "amaretti"
+        },
+        {
+            "id": "angel_cake",
+            "word": "angel cake"
+        },
+        {
+            "id": "apple_butter",
+            "word": "apple butter"
+        },
+        {
+            "id": "apple_pie",
+            "word": "apple pie"
+        },
+        {
+            "id": "apple_sauce",
+            "word": "apple sauce"
+        },
+        {
+            "id": "baba",
+            "word": "baba"
+        },
+        {
+            "id": "baked_alaska",
+            "word": "baked alaska"
+        },
+        {
+            "id": "bakewell_tart",
+            "word": "bakewell tart"
+        },
+        {
+            "id": "baklava",
+            "word": "baklava"
+        },
+        {
+            "id": "banana_split",
+            "word": "banana split"
+        },
+        {
+            "id": "banbury_cake",
+            "word": "banbury cake"
+        },
+        {
+            "id": "banoffi_pie",
+            "word": "banoffi pie"
+        },
+        {
+            "id": "bara_brith",
+            "word": "bara brith"
+        },
+        {
+            "id": "barley_sugar",
+            "word": "barley sugar"
+        },
+        {
+            "id": "bath_bun",
+            "word": "bath bun"
+        },
+        {
+            "id": "battenberg",
+            "word": "battenberg"
+        },
+        {
+            "id": "bavarois",
+            "word": "bavarois"
+        },
+        {
+            "id": "bicky",
+            "word": "bicky"
+        },
+        {
+            "id": "biscotti",
+            "word": "biscotti"
+        },
+        {
+            "id": "biscuit",
+            "word": "biscuit"
+        },
+        {
+            "id": "bittersweet_chocolate",
+            "word": "bittersweet chocolate"
+        },
+        {
+            "id": "black_bun",
+            "word": "black bun"
+        },
+        {
+            "id": "black_forest_gateau",
+            "word": "black forest gateau"
+        },
+        {
+            "id": "blancmange",
+            "word": "blancmange"
+        },
+        {
+            "id": "boiled_sweet",
+            "word": "boiled sweet"
+        },
+        {
+            "id": "bombe",
+            "word": "bombe"
+        },
+        {
+            "id": "bonbon",
+            "word": "bonbon"
+        },
+        {
+            "id": "bonne_bouche",
+            "word": "bonne bouche"
+        },
+        {
+            "id": "bourbon",
+            "word": "bourbon"
+        },
+        {
+            "id": "brack",
+            "word": "brack"
+        },
+        {
+            "id": "brandy_butter",
+            "word": "brandy butter"
+        },
+        {
+            "id": "brandy_snap",
+            "word": "brandy snap"
+        },
+        {
+            "id": "br%C3%BBl%C3%A9e",
+            "word": "brûlée"
+        },
+        {
+            "id": "bread-and-butter_pudding",
+            "word": "bread-and-butter pudding"
+        },
+        {
+            "id": "bread_pudding",
+            "word": "bread pudding"
+        },
+        {
+            "id": "breath_mint",
+            "word": "breath mint"
+        },
+        {
+            "id": "brioche",
+            "word": "brioche"
+        },
+        {
+            "id": "brown_betty",
+            "word": "brown betty"
+        },
+        {
+            "id": "brownie",
+            "word": "brownie"
+        },
+        {
+            "id": "bun",
+            "word": "bun"
+        },
+        {
+            "id": "bundt",
+            "word": "bundt"
+        },
+        {
+            "id": "burfi",
+            "word": "burfi"
+        },
+        {
+            "id": "buttercream",
+            "word": "buttercream"
+        },
+        {
+            "id": "butterfly_cake",
+            "word": "butterfly cake"
+        },
+        {
+            "id": "butterscotch",
+            "word": "butterscotch"
+        },
+        {
+            "id": "butter_tart",
+            "word": "butter tart"
+        },
+        {
+            "id": "cabinet_pudding",
+            "word": "cabinet pudding"
+        },
+        {
+            "id": "cake",
+            "word": "cake"
+        },
+        {
+            "id": "cake_pop",
+            "word": "cake pop"
+        },
+        {
+            "id": "candy",
+            "word": "candy"
+        },
+        {
+            "id": "candy_apple",
+            "word": "candy apple"
+        },
+        {
+            "id": "candy_cane",
+            "word": "candy cane"
+        },
+        {
+            "id": "candyfloss",
+            "word": "candyfloss"
+        },
+        {
+            "id": "cannoli",
+            "word": "cannoli"
+        },
+        {
+            "id": "caramel",
+            "word": "caramel"
+        },
+        {
+            "id": "caramelly",
+            "word": "caramelly"
+        },
+        {
+            "id": "carlsbad_plum",
+            "word": "carlsbad plum"
+        },
+        {
+            "id": "carrot_cake",
+            "word": "carrot cake"
+        },
+        {
+            "id": "cassata",
+            "word": "cassata"
+        },
+        {
+            "id": "cereal_bar",
+            "word": "cereal bar"
+        },
+        {
+            "id": "chantilly_cream",
+            "word": "chantilly cream"
+        },
+        {
+            "id": "charlotte",
+            "word": "charlotte"
+        },
+        {
+            "id": "charlotte_russe",
+            "word": "charlotte russe"
+        },
+        {
+            "id": "cheesecake",
+            "word": "cheesecake"
+        },
+        {
+            "id": "chelsea_bun",
+            "word": "chelsea bun"
+        },
+        {
+            "id": "chewing_gum",
+            "word": "chewing gum"
+        },
+        {
+            "id": "choc",
+            "word": "choc"
+        },
+        {
+            "id": "choccy",
+            "word": "choccy"
+        },
+        {
+            "id": "choc_ice",
+            "word": "choc ice"
+        },
+        {
+            "id": "chocolate",
+            "word": "chocolate"
+        },
+        {
+            "id": "chocolate_chip",
+            "word": "chocolate chip"
+        },
+        {
+            "id": "chocolate_drop",
+            "word": "chocolate drop"
+        },
+        {
+            "id": "christmas_cake",
+            "word": "christmas cake"
+        },
+        {
+            "id": "christmas_pudding",
+            "word": "christmas pudding"
+        },
+        {
+            "id": "churro",
+            "word": "churro"
+        },
+        {
+            "id": "cinder_toffee",
+            "word": "cinder toffee"
+        },
+        {
+            "id": "cinnamon_toast",
+            "word": "cinnamon toast"
+        },
+        {
+            "id": "clafoutis",
+            "word": "clafoutis"
+        },
+        {
+            "id": "coconut_ice",
+            "word": "coconut ice"
+        },
+        {
+            "id": "coffee_cake",
+            "word": "coffee cake"
+        },
+        {
+            "id": "college_pudding",
+            "word": "college pudding"
+        },
+        {
+            "id": "comfit",
+            "word": "comfit"
+        },
+        {
+            "id": "compote",
+            "word": "compote"
+        },
+        {
+            "id": "confection",
+            "word": "confection"
+        },
+        {
+            "id": "confectioner",
+            "word": "confectioner"
+        },
+        {
+            "id": "confectioner%27s_custard",
+            "word": "confectioner's custard"
+        },
+        {
+            "id": "confectionery",
+            "word": "confectionery"
+        },
+        {
+            "id": "confiture",
+            "word": "confiture"
+        },
+        {
+            "id": "conversation_lolly",
+            "word": "conversation lolly"
+        },
+        {
+            "id": "cookie",
+            "word": "cookie"
+        },
+        {
+            "id": "cookie_butter",
+            "word": "cookie butter"
+        },
+        {
+            "id": "cornflakes",
+            "word": "cornflakes"
+        },
+        {
+            "id": "coulis",
+            "word": "coulis"
+        },
+        {
+            "id": "couverture",
+            "word": "couverture"
+        },
+        {
+            "id": "cracknel",
+            "word": "cracknel"
+        },
+        {
+            "id": "cranachan",
+            "word": "cranachan"
+        },
+        {
+            "id": "cr%C3%A8me_anglaise",
+            "word": "crème anglaise"
+        },
+        {
+            "id": "cr%C3%A8me_br%C3%BBl%C3%A9e",
+            "word": "crème brûlée"
+        },
+        {
+            "id": "cr%C3%A8me_caramel",
+            "word": "crème caramel"
+        },
+        {
+            "id": "cr%C3%A8me_patissi%C3%A8re",
+            "word": "crème patissière"
+        },
+        {
+            "id": "cr%C3%AApe_suzette",
+            "word": "crêpe suzette"
+        },
+        {
+            "id": "cream_bun",
+            "word": "cream bun"
+        },
+        {
+            "id": "cream_horn",
+            "word": "cream horn"
+        },
+        {
+            "id": "cream_pie",
+            "word": "cream pie"
+        },
+        {
+            "id": "cream_puff",
+            "word": "cream puff"
+        },
+        {
+            "id": "cream_tea",
+            "word": "cream tea"
+        },
+        {
+            "id": "croquembouche",
+            "word": "croquembouche"
+        },
+        {
+            "id": "cruller",
+            "word": "cruller"
+        },
+        {
+            "id": "cupcake",
+            "word": "cupcake"
+        },
+        {
+            "id": "custard",
+            "word": "custard"
+        },
+        {
+            "id": "custard_cream",
+            "word": "custard cream"
+        },
+        {
+            "id": "custard_pie",
+            "word": "custard pie"
+        },
+        {
+            "id": "custard_tart",
+            "word": "custard tart"
+        },
+        {
+            "id": "dacquoise",
+            "word": "dacquoise"
+        },
+        {
+            "id": "damson_cheese",
+            "word": "damson cheese"
+        },
+        {
+            "id": "danish_pastry",
+            "word": "danish pastry"
+        },
+        {
+            "id": "dessert",
+            "word": "dessert"
+        },
+        {
+            "id": "devil%27s_food_cake",
+            "word": "devil's food cake"
+        },
+        {
+            "id": "dobos_torte",
+            "word": "dobos torte"
+        },
+        {
+            "id": "dolly_mixtures",
+            "word": "dolly mixtures"
+        },
+        {
+            "id": "doughboy",
+            "word": "doughboy"
+        },
+        {
+            "id": "doughnut",
+            "word": "doughnut"
+        },
+        {
+            "id": "doughnut_hole",
+            "word": "doughnut hole"
+        },
+        {
+            "id": "drag%C3%A9e",
+            "word": "dragée"
+        },
+        {
+            "id": "drinking_chocolate",
+            "word": "drinking chocolate"
+        },
+        {
+            "id": "drizzle_cake",
+            "word": "drizzle cake"
+        },
+        {
+            "id": "drop_scone",
+            "word": "drop scone"
+        },
+        {
+            "id": "duff",
+            "word": "duff"
+        },
+        {
+            "id": "dump_cake",
+            "word": "dump cake"
+        },
+        {
+            "id": "dundee_cake",
+            "word": "dundee cake"
+        },
+        {
+            "id": "dundee_marmalade",
+            "word": "dundee marmalade"
+        },
+        {
+            "id": "easter_egg",
+            "word": "easter egg"
+        },
+        {
+            "id": "eccles_cake",
+            "word": "eccles cake"
+        },
+        {
+            "id": "eclair",
+            "word": "eclair"
+        },
+        {
+            "id": "egg_custard",
+            "word": "egg custard"
+        },
+        {
+            "id": "egg_wash",
+            "word": "egg wash"
+        },
+        {
+            "id": "ensaimada",
+            "word": "ensaimada"
+        },
+        {
+            "id": "eskimo_pie",
+            "word": "eskimo pie"
+        },
+        {
+            "id": "eton_mess",
+            "word": "eton mess"
+        },
+        {
+            "id": "fairy_cake",
+            "word": "fairy cake"
+        },
+        {
+            "id": "fairy_floss",
+            "word": "fairy floss"
+        },
+        {
+            "id": "figgy_pudding",
+            "word": "figgy pudding"
+        },
+        {
+            "id": "filo",
+            "word": "filo"
+        },
+        {
+            "id": "finger_biscuit",
+            "word": "finger biscuit"
+        },
+        {
+            "id": "firni",
+            "word": "firni"
+        },
+        {
+            "id": "flaky_pastry",
+            "word": "flaky pastry"
+        },
+        {
+            "id": "flapjack",
+            "word": "flapjack"
+        },
+        {
+            "id": "fondant",
+            "word": "fondant"
+        },
+        {
+            "id": "fool",
+            "word": "fool"
+        },
+        {
+            "id": "frangipane",
+            "word": "frangipane"
+        },
+        {
+            "id": "french_meringue",
+            "word": "french meringue"
+        },
+        {
+            "id": "frosting",
+            "word": "frosting"
+        },
+        {
+            "id": "froyo",
+            "word": "froyo"
+        },
+        {
+            "id": "frozen_yogurt",
+            "word": "frozen yogurt"
+        },
+        {
+            "id": "fruit_cake",
+            "word": "fruit cake"
+        },
+        {
+            "id": "fruit_cocktail",
+            "word": "fruit cocktail"
+        },
+        {
+            "id": "fruit_drop",
+            "word": "fruit drop"
+        },
+        {
+            "id": "fruit_gum",
+            "word": "fruit gum"
+        },
+        {
+            "id": "fruit_salad",
+            "word": "fruit salad"
+        },
+        {
+            "id": "frumenty",
+            "word": "frumenty"
+        },
+        {
+            "id": "fudge",
+            "word": "fudge"
+        },
+        {
+            "id": "funnel_cake",
+            "word": "funnel cake"
+        },
+        {
+            "id": "ganache",
+            "word": "ganache"
+        },
+        {
+            "id": "garibaldi",
+            "word": "garibaldi"
+        },
+        {
+            "id": "gateau",
+            "word": "gateau"
+        },
+        {
+            "id": "gelato",
+            "word": "gelato"
+        },
+        {
+            "id": "gianduja",
+            "word": "gianduja"
+        },
+        {
+            "id": "gingerbread",
+            "word": "gingerbread"
+        },
+        {
+            "id": "gingerbread_man",
+            "word": "gingerbread man"
+        },
+        {
+            "id": "ginger_nut",
+            "word": "ginger nut"
+        },
+        {
+            "id": "girl_scout_cookie",
+            "word": "girl scout cookie"
+        },
+        {
+            "id": "glac%C3%A9_icing",
+            "word": "glacé icing"
+        },
+        {
+            "id": "gobstopper",
+            "word": "gobstopper"
+        },
+        {
+            "id": "golden_syrup",
+            "word": "golden syrup"
+        },
+        {
+            "id": "gravy_ring",
+            "word": "gravy ring"
+        },
+        {
+            "id": "griddle_cake",
+            "word": "griddle cake"
+        },
+        {
+            "id": "gulab_jamun",
+            "word": "gulab jamun"
+        },
+        {
+            "id": "gumball",
+            "word": "gumball"
+        },
+        {
+            "id": "gumdrop",
+            "word": "gumdrop"
+        },
+        {
+            "id": "halo-halo",
+            "word": "halo-halo"
+        },
+        {
+            "id": "halva",
+            "word": "halva"
+        },
+        {
+            "id": "halwa",
+            "word": "halwa"
+        },
+        {
+            "id": "hard_sauce",
+            "word": "hard sauce"
+        },
+        {
+            "id": "hasty_pudding",
+            "word": "hasty pudding"
+        },
+        {
+            "id": "hokey-pokey",
+            "word": "hokey-pokey"
+        },
+        {
+            "id": "hot_cake",
+            "word": "hot cake"
+        },
+        {
+            "id": "hot_cross_bun",
+            "word": "hot cross bun"
+        },
+        {
+            "id": "hundreds_and_thousands",
+            "word": "hundreds and thousands"
+        },
+        {
+            "id": "iceblock",
+            "word": "iceblock"
+        },
+        {
+            "id": "ice_cream",
+            "word": "ice cream"
+        },
+        {
+            "id": "ice_cream_cake",
+            "word": "ice cream cake"
+        },
+        {
+            "id": "ice_cream_cone",
+            "word": "ice cream cone"
+        },
+        {
+            "id": "ice_cream_cornet",
+            "word": "ice cream cornet"
+        },
+        {
+            "id": "ice_cream_sundae",
+            "word": "ice cream sundae"
+        },
+        {
+            "id": "ice_lolly",
+            "word": "ice lolly"
+        },
+        {
+            "id": "ice_milk",
+            "word": "ice milk"
+        },
+        {
+            "id": "italian_meringue",
+            "word": "italian meringue"
+        },
+        {
+            "id": "jaffa_cake",
+            "word": "jaffa cake"
+        },
+        {
+            "id": "jalebi",
+            "word": "jalebi"
+        },
+        {
+            "id": "jam",
+            "word": "jam"
+        },
+        {
+            "id": "jello",
+            "word": "jello"
+        },
+        {
+            "id": "jelly",
+            "word": "jelly"
+        },
+        {
+            "id": "jelly_baby",
+            "word": "jelly baby"
+        },
+        {
+            "id": "jelly_bean",
+            "word": "jelly bean"
+        },
+        {
+            "id": "jelly_roll",
+            "word": "jelly roll"
+        },
+        {
+            "id": "jube",
+            "word": "jube"
+        },
+        {
+            "id": "junket",
+            "word": "junket"
+        },
+        {
+            "id": "kendal_mint_cake",
+            "word": "kendal mint cake"
+        },
+        {
+            "id": "ket",
+            "word": "ket"
+        },
+        {
+            "id": "khir",
+            "word": "khir"
+        },
+        {
+            "id": "kissel",
+            "word": "kissel"
+        },
+        {
+            "id": "kitchener_bun",
+            "word": "kitchener bun"
+        },
+        {
+            "id": "knickerbocker_glory",
+            "word": "knickerbocker glory"
+        },
+        {
+            "id": "koeksister",
+            "word": "koeksister"
+        },
+        {
+            "id": "konfyt",
+            "word": "konfyt"
+        },
+        {
+            "id": "kuchen",
+            "word": "kuchen"
+        },
+        {
+            "id": "kulfi",
+            "word": "kulfi"
+        },
+        {
+            "id": "laddu",
+            "word": "laddu"
+        },
+        {
+            "id": "lamington",
+            "word": "lamington"
+        },
+        {
+            "id": "langue_de_chat",
+            "word": "langue de chat"
+        },
+        {
+            "id": "lardy_cake",
+            "word": "lardy cake"
+        },
+        {
+            "id": "layer_cake",
+            "word": "layer cake"
+        },
+        {
+            "id": "lebkuchen",
+            "word": "lebkuchen"
+        },
+        {
+            "id": "lemon_curd",
+            "word": "lemon curd"
+        },
+        {
+            "id": "lemon_drop",
+            "word": "lemon drop"
+        },
+        {
+            "id": "liqueur_chocolate",
+            "word": "liqueur chocolate"
+        },
+        {
+            "id": "liquorice",
+            "word": "liquorice"
+        },
+        {
+            "id": "lollipop",
+            "word": "lollipop"
+        },
+        {
+            "id": "lolly",
+            "word": "lolly"
+        },
+        {
+            "id": "macaron",
+            "word": "macaron"
+        },
+        {
+            "id": "mac%C3%A9doine",
+            "word": "macédoine"
+        },
+        {
+            "id": "madeira_cake",
+            "word": "madeira cake"
+        },
+        {
+            "id": "madeleine",
+            "word": "madeleine"
+        },
+        {
+            "id": "marble_cake",
+            "word": "marble cake"
+        },
+        {
+            "id": "marmalade",
+            "word": "marmalade"
+        },
+        {
+            "id": "marron_glac%C3%A9",
+            "word": "marron glacé"
+        },
+        {
+            "id": "marzipan",
+            "word": "marzipan"
+        },
+        {
+            "id": "melba_sauce",
+            "word": "melba sauce"
+        },
+        {
+            "id": "meringue",
+            "word": "meringue"
+        },
+        {
+            "id": "milk_chocolate",
+            "word": "milk chocolate"
+        },
+        {
+            "id": "milk_pudding",
+            "word": "milk pudding"
+        },
+        {
+            "id": "millefeuille",
+            "word": "millefeuille"
+        },
+        {
+            "id": "millionaire%27s_shortbread",
+            "word": "millionaire's shortbread"
+        },
+        {
+            "id": "mince_pie",
+            "word": "mince pie"
+        },
+        {
+            "id": "mintie",
+            "word": "mintie"
+        },
+        {
+            "id": "mississippi_mud_pie",
+            "word": "mississippi mud pie"
+        },
+        {
+            "id": "mithai",
+            "word": "mithai"
+        },
+        {
+            "id": "mix-in",
+            "word": "mix-in"
+        },
+        {
+            "id": "monkey%27s_blood",
+            "word": "monkey's blood"
+        },
+        {
+            "id": "moon_cake",
+            "word": "moon cake"
+        },
+        {
+            "id": "mosbolletjie",
+            "word": "mosbolletjie"
+        },
+        {
+            "id": "mousse",
+            "word": "mousse"
+        },
+        {
+            "id": "muesli",
+            "word": "muesli"
+        },
+        {
+            "id": "muffin",
+            "word": "muffin"
+        },
+        {
+            "id": "neapolitan_ice_cream",
+            "word": "neapolitan ice cream"
+        },
+        {
+            "id": "neenish_tart",
+            "word": "neenish tart"
+        },
+        {
+            "id": "ninety-nine",
+            "word": "ninety-nine"
+        },
+        {
+            "id": "nougat",
+            "word": "nougat"
+        },
+        {
+            "id": "nougatine",
+            "word": "nougatine"
+        },
+        {
+            "id": "oreo",
+            "word": "oreo"
+        },
+        {
+            "id": "paddle_pop",
+            "word": "paddle pop"
+        },
+        {
+            "id": "palacsinta",
+            "word": "palacsinta"
+        },
+        {
+            "id": "palmier",
+            "word": "palmier"
+        },
+        {
+            "id": "pancake",
+            "word": "pancake"
+        },
+        {
+            "id": "pandowdy",
+            "word": "pandowdy"
+        },
+        {
+            "id": "panettone",
+            "word": "panettone"
+        },
+        {
+            "id": "panforte",
+            "word": "panforte"
+        },
+        {
+            "id": "panna_cotta",
+            "word": "panna cotta"
+        },
+        {
+            "id": "parfait",
+            "word": "parfait"
+        },
+        {
+            "id": "paris_bun",
+            "word": "paris bun"
+        },
+        {
+            "id": "parkin",
+            "word": "parkin"
+        },
+        {
+            "id": "parma_violet",
+            "word": "parma violet"
+        },
+        {
+            "id": "paskha",
+            "word": "paskha"
+        },
+        {
+            "id": "pastille",
+            "word": "pastille"
+        },
+        {
+            "id": "pastry_cream",
+            "word": "pastry cream"
+        },
+        {
+            "id": "patisserie",
+            "word": "patisserie"
+        },
+        {
+            "id": "patissier",
+            "word": "patissier"
+        },
+        {
+            "id": "pavlova",
+            "word": "pavlova"
+        },
+        {
+            "id": "peach_melba",
+            "word": "peach melba"
+        },
+        {
+            "id": "pear_drop",
+            "word": "pear drop"
+        },
+        {
+            "id": "petit_beurre",
+            "word": "petit beurre"
+        },
+        {
+            "id": "petit_four",
+            "word": "petit four"
+        },
+        {
+            "id": "pikelet",
+            "word": "pikelet"
+        },
+        {
+            "id": "pithivier",
+            "word": "pithivier"
+        },
+        {
+            "id": "plain_chocolate",
+            "word": "plain chocolate"
+        },
+        {
+            "id": "plum_duff",
+            "word": "plum duff"
+        },
+        {
+            "id": "plum_pudding",
+            "word": "plum pudding"
+        },
+        {
+            "id": "poke_cake",
+            "word": "poke cake"
+        },
+        {
+            "id": "pokey_hat",
+            "word": "pokey hat"
+        },
+        {
+            "id": "pontefract_cake",
+            "word": "pontefract cake"
+        },
+        {
+            "id": "pop",
+            "word": "pop"
+        },
+        {
+            "id": "popover",
+            "word": "popover"
+        },
+        {
+            "id": "popsicle",
+            "word": "popsicle"
+        },
+        {
+            "id": "porridge",
+            "word": "porridge"
+        },
+        {
+            "id": "pound_cake",
+            "word": "pound cake"
+        },
+        {
+            "id": "praline",
+            "word": "praline"
+        },
+        {
+            "id": "profiterole",
+            "word": "profiterole"
+        },
+        {
+            "id": "pudding",
+            "word": "pudding"
+        },
+        {
+            "id": "puff_pastry",
+            "word": "puff pastry"
+        },
+        {
+            "id": "puftaloon",
+            "word": "puftaloon"
+        },
+        {
+            "id": "pumpkin_pie_spice",
+            "word": "pumpkin pie spice"
+        },
+        {
+            "id": "puto",
+            "word": "puto"
+        },
+        {
+            "id": "queen_cake",
+            "word": "queen cake"
+        },
+        {
+            "id": "queen_of_puddings",
+            "word": "queen of puddings"
+        },
+        {
+            "id": "rasgulla",
+            "word": "rasgulla"
+        },
+        {
+            "id": "ras_malai",
+            "word": "ras malai"
+        },
+        {
+            "id": "red_velvet_cake",
+            "word": "red velvet cake"
+        },
+        {
+            "id": "rock_cake",
+            "word": "rock cake"
+        },
+        {
+            "id": "rock_candy",
+            "word": "rock candy"
+        },
+        {
+            "id": "rocky_road",
+            "word": "rocky road"
+        },
+        {
+            "id": "rough_puff",
+            "word": "rough puff"
+        },
+        {
+            "id": "roulade",
+            "word": "roulade"
+        },
+        {
+            "id": "royal_icing",
+            "word": "royal icing"
+        },
+        {
+            "id": "rum_butter",
+            "word": "rum butter"
+        },
+        {
+            "id": "s%27more",
+            "word": "s'more"
+        },
+        {
+            "id": "sachertorte",
+            "word": "sachertorte"
+        },
+        {
+            "id": "sally_lunn",
+            "word": "sally lunn"
+        },
+        {
+            "id": "sandesh",
+            "word": "sandesh"
+        },
+        {
+            "id": "sante_bar",
+            "word": "sante bar"
+        },
+        {
+            "id": "savarin",
+            "word": "savarin"
+        },
+        {
+            "id": "scone",
+            "word": "scone"
+        },
+        {
+            "id": "seed_cake",
+            "word": "seed cake"
+        },
+        {
+            "id": "semifreddo",
+            "word": "semifreddo"
+        },
+        {
+            "id": "shaved_ice",
+            "word": "shaved ice"
+        },
+        {
+            "id": "shave_ice",
+            "word": "shave ice"
+        },
+        {
+            "id": "sheet_cake",
+            "word": "sheet cake"
+        },
+        {
+            "id": "sherbet",
+            "word": "sherbet"
+        },
+        {
+            "id": "shoo-fly_pie",
+            "word": "shoo-fly pie"
+        },
+        {
+            "id": "shortbread",
+            "word": "shortbread"
+        },
+        {
+            "id": "shortcake",
+            "word": "shortcake"
+        },
+        {
+            "id": "simnel_cake",
+            "word": "simnel cake"
+        },
+        {
+            "id": "singing_hinny",
+            "word": "singing hinny"
+        },
+        {
+            "id": "skyr",
+            "word": "skyr"
+        },
+        {
+            "id": "slapjack",
+            "word": "slapjack"
+        },
+        {
+            "id": "snow_cone",
+            "word": "snow cone"
+        },
+        {
+            "id": "soft_serve",
+            "word": "soft serve"
+        },
+        {
+            "id": "sopaipilla",
+            "word": "sopaipilla"
+        },
+        {
+            "id": "sorbet",
+            "word": "sorbet"
+        },
+        {
+            "id": "sorbetes",
+            "word": "sorbetes"
+        },
+        {
+            "id": "sponge_pudding",
+            "word": "sponge pudding"
+        },
+        {
+            "id": "spotted_dick",
+            "word": "spotted dick"
+        },
+        {
+            "id": "spumoni",
+            "word": "spumoni"
+        },
+        {
+            "id": "squirty_cream",
+            "word": "squirty cream"
+        },
+        {
+            "id": "stem_ginger",
+            "word": "stem ginger"
+        },
+        {
+            "id": "stollen",
+            "word": "stollen"
+        },
+        {
+            "id": "streusel",
+            "word": "streusel"
+        },
+        {
+            "id": "strudel",
+            "word": "strudel"
+        },
+        {
+            "id": "suet_pudding",
+            "word": "suet pudding"
+        },
+        {
+            "id": "sugar_cone",
+            "word": "sugar cone"
+        },
+        {
+            "id": "sugarplum",
+            "word": "sugarplum"
+        },
+        {
+            "id": "summer_pudding",
+            "word": "summer pudding"
+        },
+        {
+            "id": "sundae",
+            "word": "sundae"
+        },
+        {
+            "id": "sweetie",
+            "word": "sweetie"
+        },
+        {
+            "id": "sweetmeal",
+            "word": "sweetmeal"
+        },
+        {
+            "id": "sweetmeat",
+            "word": "sweetmeat"
+        },
+        {
+            "id": "swiss_meringue",
+            "word": "swiss meringue"
+        },
+        {
+            "id": "swiss_roll",
+            "word": "swiss roll"
+        },
+        {
+            "id": "syllabub",
+            "word": "syllabub"
+        },
+        {
+            "id": "taffy",
+            "word": "taffy"
+        },
+        {
+            "id": "tapioca",
+            "word": "tapioca"
+        },
+        {
+            "id": "tart",
+            "word": "tart"
+        },
+        {
+            "id": "tarte_tatin",
+            "word": "tarte tatin"
+        },
+        {
+            "id": "tea_bread",
+            "word": "tea bread"
+        },
+        {
+            "id": "teacake",
+            "word": "teacake"
+        },
+        {
+            "id": "tipsy_cake",
+            "word": "tipsy cake"
+        },
+        {
+            "id": "tiramisu",
+            "word": "tiramisu"
+        },
+        {
+            "id": "toffee",
+            "word": "toffee"
+        },
+        {
+            "id": "toffee_apple",
+            "word": "toffee apple"
+        },
+        {
+            "id": "tollhouse_cookie",
+            "word": "tollhouse cookie"
+        },
+        {
+            "id": "torte",
+            "word": "torte"
+        },
+        {
+            "id": "tray_bake",
+            "word": "tray bake"
+        },
+        {
+            "id": "treacle",
+            "word": "treacle"
+        },
+        {
+            "id": "treacle_tart",
+            "word": "treacle tart"
+        },
+        {
+            "id": "tuile",
+            "word": "tuile"
+        },
+        {
+            "id": "turkish_delight",
+            "word": "turkish delight"
+        },
+        {
+            "id": "turon",
+            "word": "turon"
+        },
+        {
+            "id": "turron",
+            "word": "turron"
+        },
+        {
+            "id": "tutti-frutti",
+            "word": "tutti-frutti"
+        },
+        {
+            "id": "twinkie",
+            "word": "twinkie"
+        },
+        {
+            "id": "upside-down_cake",
+            "word": "upside-down cake"
+        },
+        {
+            "id": "victoria_sponge",
+            "word": "victoria sponge"
+        },
+        {
+            "id": "vinarterta",
+            "word": "vinarterta"
+        },
+        {
+            "id": "wafer",
+            "word": "wafer"
+        },
+        {
+            "id": "wafer_cone",
+            "word": "wafer cone"
+        },
+        {
+            "id": "waffle",
+            "word": "waffle"
+        },
+        {
+            "id": "waffle_cone",
+            "word": "waffle cone"
+        },
+        {
+            "id": "water_ice",
+            "word": "water ice"
+        },
+        {
+            "id": "wedding_cake",
+            "word": "wedding cake"
+        },
+        {
+            "id": "whipped_cream",
+            "word": "whipped cream"
+        },
+        {
+            "id": "whoopie_pie",
+            "word": "whoopie pie"
+        },
+        {
+            "id": "wine_gum",
+            "word": "wine gum"
+        },
+        {
+            "id": "zabaglione",
+            "word": "zabaglione"
+        },
+        {
+            "id": "zuppa_inglese",
+            "word": "zuppa inglese"
+        },
+        {
+            "id": "zwieback",
+            "word": "zwieback"
+        }
+    ]
+}

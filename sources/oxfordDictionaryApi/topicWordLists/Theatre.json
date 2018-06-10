@@ -1,0 +1,2267 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 564,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "actability",
+            "word": "actability"
+        },
+        {
+            "id": "actable",
+            "word": "actable"
+        },
+        {
+            "id": "acting",
+            "word": "acting"
+        },
+        {
+            "id": "actor",
+            "word": "actor"
+        },
+        {
+            "id": "actor-manager",
+            "word": "actor-manager"
+        },
+        {
+            "id": "actors%27_studio",
+            "word": "actors' studio"
+        },
+        {
+            "id": "actress",
+            "word": "actress"
+        },
+        {
+            "id": "aerialist",
+            "word": "aerialist"
+        },
+        {
+            "id": "aeschylus",
+            "word": "aeschylus"
+        },
+        {
+            "id": "albee%2C_edward",
+            "word": "albee, edward"
+        },
+        {
+            "id": "alternative_comedy",
+            "word": "alternative comedy"
+        },
+        {
+            "id": "am-dram",
+            "word": "am-dram"
+        },
+        {
+            "id": "anouilh%2C_jean",
+            "word": "anouilh, jean"
+        },
+        {
+            "id": "aristophanes",
+            "word": "aristophanes"
+        },
+        {
+            "id": "artaud%2C_antonin",
+            "word": "artaud, antonin"
+        },
+        {
+            "id": "artiste",
+            "word": "artiste"
+        },
+        {
+            "id": "artistic_director",
+            "word": "artistic director"
+        },
+        {
+            "id": "ashcroft%2C_dame_peggy",
+            "word": "ashcroft, dame peggy"
+        },
+        {
+            "id": "audition",
+            "word": "audition"
+        },
+        {
+            "id": "auditorium",
+            "word": "auditorium"
+        },
+        {
+            "id": "ayckbourn%2C_sir_alan",
+            "word": "ayckbourn, sir alan"
+        },
+        {
+            "id": "backdrop",
+            "word": "backdrop"
+        },
+        {
+            "id": "backstage",
+            "word": "backstage"
+        },
+        {
+            "id": "ballad_opera",
+            "word": "ballad opera"
+        },
+        {
+            "id": "barnstorm",
+            "word": "barnstorm"
+        },
+        {
+            "id": "barrie%2C_sir_j._m.",
+            "word": "barrie, sir j. m."
+        },
+        {
+            "id": "barrymore",
+            "word": "barrymore"
+        },
+        {
+            "id": "baylis%2C_lilian",
+            "word": "baylis, lilian"
+        },
+        {
+            "id": "beaumarchais%2C_pierre_de",
+            "word": "beaumarchais, pierre de"
+        },
+        {
+            "id": "beaumont%2C_francis",
+            "word": "beaumont, francis"
+        },
+        {
+            "id": "beckett%2C_samuel",
+            "word": "beckett, samuel"
+        },
+        {
+            "id": "beckettian",
+            "word": "beckettian"
+        },
+        {
+            "id": "behn%2C_aphra",
+            "word": "behn, aphra"
+        },
+        {
+            "id": "bennett%2C_alan",
+            "word": "bennett, alan"
+        },
+        {
+            "id": "berkoff%2C_steven",
+            "word": "berkoff, steven"
+        },
+        {
+            "id": "bernhardt%2C_sarah",
+            "word": "bernhardt, sarah"
+        },
+        {
+            "id": "betterton%2C_thomas",
+            "word": "betterton, thomas"
+        },
+        {
+            "id": "betti%2C_ugo",
+            "word": "betti, ugo"
+        },
+        {
+            "id": "billing",
+            "word": "billing"
+        },
+        {
+            "id": "bit_part",
+            "word": "bit part"
+        },
+        {
+            "id": "black_box_theatre",
+            "word": "black box theatre"
+        },
+        {
+            "id": "black_comedy",
+            "word": "black comedy"
+        },
+        {
+            "id": "bolt%2C_robert",
+            "word": "bolt, robert"
+        },
+        {
+            "id": "bond%2C_edward",
+            "word": "bond, edward"
+        },
+        {
+            "id": "booker",
+            "word": "booker"
+        },
+        {
+            "id": "booking_office",
+            "word": "booking office"
+        },
+        {
+            "id": "box_office",
+            "word": "box office"
+        },
+        {
+            "id": "box_seat",
+            "word": "box seat"
+        },
+        {
+            "id": "branagh%2C_kenneth",
+            "word": "branagh, kenneth"
+        },
+        {
+            "id": "brecht%2C_bertolt",
+            "word": "brecht, bertolt"
+        },
+        {
+            "id": "brechtian",
+            "word": "brechtian"
+        },
+        {
+            "id": "brook%2C_peter",
+            "word": "brook, peter"
+        },
+        {
+            "id": "brownface",
+            "word": "brownface"
+        },
+        {
+            "id": "burbage%2C_richard",
+            "word": "burbage, richard"
+        },
+        {
+            "id": "burlesque",
+            "word": "burlesque"
+        },
+        {
+            "id": "burton%2C_richard",
+            "word": "burton, richard"
+        },
+        {
+            "id": "byplay",
+            "word": "byplay"
+        },
+        {
+            "id": "calder%C3%B3n_de_la_barca%2C_pedro",
+            "word": "calderón de la barca, pedro"
+        },
+        {
+            "id": "call_boy",
+            "word": "call boy"
+        },
+        {
+            "id": "campbell%2C_mrs_patrick",
+            "word": "campbell, mrs patrick"
+        },
+        {
+            "id": "cast",
+            "word": "cast"
+        },
+        {
+            "id": "casting_couch",
+            "word": "casting couch"
+        },
+        {
+            "id": "casting_director",
+            "word": "casting director"
+        },
+        {
+            "id": "cattle_call",
+            "word": "cattle call"
+        },
+        {
+            "id": "centre_stage",
+            "word": "centre stage"
+        },
+        {
+            "id": "character_actor",
+            "word": "character actor"
+        },
+        {
+            "id": "checkroom",
+            "word": "checkroom"
+        },
+        {
+            "id": "chekhov%2C_anton",
+            "word": "chekhov, anton"
+        },
+        {
+            "id": "chekhovian",
+            "word": "chekhovian"
+        },
+        {
+            "id": "chitlin_circuit",
+            "word": "chitlin circuit"
+        },
+        {
+            "id": "churchill%2C_caryl",
+            "word": "churchill, caryl"
+        },
+        {
+            "id": "cibber%2C_colley",
+            "word": "cibber, colley"
+        },
+        {
+            "id": "closer",
+            "word": "closer"
+        },
+        {
+            "id": "closet_play",
+            "word": "closet play"
+        },
+        {
+            "id": "cochran%2C_sir_charles_blake",
+            "word": "cochran, sir charles blake"
+        },
+        {
+            "id": "cocteau%2C_jean",
+            "word": "cocteau, jean"
+        },
+        {
+            "id": "coliseum",
+            "word": "coliseum"
+        },
+        {
+            "id": "com%C3%A9die-fran%C3%A7aise",
+            "word": "comédie-française"
+        },
+        {
+            "id": "comedy_club",
+            "word": "comedy club"
+        },
+        {
+            "id": "comedy_of_manners",
+            "word": "comedy of manners"
+        },
+        {
+            "id": "comic_relief",
+            "word": "comic relief"
+        },
+        {
+            "id": "command_performance",
+            "word": "command performance"
+        },
+        {
+            "id": "comm%C3%A8re",
+            "word": "commère"
+        },
+        {
+            "id": "commedia_dell%27arte",
+            "word": "commedia dell'arte"
+        },
+        {
+            "id": "commissionaire",
+            "word": "commissionaire"
+        },
+        {
+            "id": "concert_party",
+            "word": "concert party"
+        },
+        {
+            "id": "congreve%2C_william",
+            "word": "congreve, william"
+        },
+        {
+            "id": "conjuror",
+            "word": "conjuror"
+        },
+        {
+            "id": "contortionist",
+            "word": "contortionist"
+        },
+        {
+            "id": "co-produce",
+            "word": "co-produce"
+        },
+        {
+            "id": "co-producer",
+            "word": "co-producer"
+        },
+        {
+            "id": "co-production",
+            "word": "co-production"
+        },
+        {
+            "id": "corneille%2C_pierre",
+            "word": "corneille, pierre"
+        },
+        {
+            "id": "co-star",
+            "word": "co-star"
+        },
+        {
+            "id": "costume_drama",
+            "word": "costume drama"
+        },
+        {
+            "id": "costumier",
+            "word": "costumier"
+        },
+        {
+            "id": "coulisse",
+            "word": "coulisse"
+        },
+        {
+            "id": "coup_de_th%C3%A9%C3%A2tre",
+            "word": "coup de théâtre"
+        },
+        {
+            "id": "coward%2C_sir_no%C3%ABl",
+            "word": "coward, sir noël"
+        },
+        {
+            "id": "crape_hair",
+            "word": "crape hair"
+        },
+        {
+            "id": "crush_bar",
+            "word": "crush bar"
+        },
+        {
+            "id": "cue",
+            "word": "cue"
+        },
+        {
+            "id": "curtain_call",
+            "word": "curtain call"
+        },
+        {
+            "id": "curtain-raiser",
+            "word": "curtain-raiser"
+        },
+        {
+            "id": "curtain_speech",
+            "word": "curtain speech"
+        },
+        {
+            "id": "curtain-up",
+            "word": "curtain-up"
+        },
+        {
+            "id": "cyclorama",
+            "word": "cyclorama"
+        },
+        {
+            "id": "d%27oyly_carte%2C_richard",
+            "word": "d'oyly carte, richard"
+        },
+        {
+            "id": "dance_drama",
+            "word": "dance drama"
+        },
+        {
+            "id": "dark",
+            "word": "dark"
+        },
+        {
+            "id": "decor",
+            "word": "decor"
+        },
+        {
+            "id": "dekker%2C_thomas",
+            "word": "dekker, thomas"
+        },
+        {
+            "id": "delfont%2C_bernard",
+            "word": "delfont, bernard"
+        },
+        {
+            "id": "dench%2C_dame_judi",
+            "word": "dench, dame judi"
+        },
+        {
+            "id": "denouement",
+            "word": "denouement"
+        },
+        {
+            "id": "deus_ex_machina",
+            "word": "deus ex machina"
+        },
+        {
+            "id": "deuteragonist",
+            "word": "deuteragonist"
+        },
+        {
+            "id": "directorial",
+            "word": "directorial"
+        },
+        {
+            "id": "diseuse",
+            "word": "diseuse"
+        },
+        {
+            "id": "double_act",
+            "word": "double act"
+        },
+        {
+            "id": "double_bill",
+            "word": "double bill"
+        },
+        {
+            "id": "downstage",
+            "word": "downstage"
+        },
+        {
+            "id": "drama",
+            "word": "drama"
+        },
+        {
+            "id": "dramatis_personae",
+            "word": "dramatis personae"
+        },
+        {
+            "id": "dramatist",
+            "word": "dramatist"
+        },
+        {
+            "id": "dramatization",
+            "word": "dramatization"
+        },
+        {
+            "id": "dramaturge",
+            "word": "dramaturge"
+        },
+        {
+            "id": "dramaturgist",
+            "word": "dramaturgist"
+        },
+        {
+            "id": "dramaturgy",
+            "word": "dramaturgy"
+        },
+        {
+            "id": "dress_circle",
+            "word": "dress circle"
+        },
+        {
+            "id": "dressing_room",
+            "word": "dressing room"
+        },
+        {
+            "id": "dress_rehearsal",
+            "word": "dress rehearsal"
+        },
+        {
+            "id": "drop_curtain",
+            "word": "drop curtain"
+        },
+        {
+            "id": "drop_scene",
+            "word": "drop scene"
+        },
+        {
+            "id": "drury_lane",
+            "word": "drury lane"
+        },
+        {
+            "id": "duologue",
+            "word": "duologue"
+        },
+        {
+            "id": "duse%2C_eleonora",
+            "word": "duse, eleonora"
+        },
+        {
+            "id": "enter",
+            "word": "enter"
+        },
+        {
+            "id": "entr%27acte",
+            "word": "entr'acte"
+        },
+        {
+            "id": "en_travesti",
+            "word": "en travesti"
+        },
+        {
+            "id": "equilibrist",
+            "word": "equilibrist"
+        },
+        {
+            "id": "escapologist",
+            "word": "escapologist"
+        },
+        {
+            "id": "escapology",
+            "word": "escapology"
+        },
+        {
+            "id": "euripides",
+            "word": "euripides"
+        },
+        {
+            "id": "evans%2C_dame_edith",
+            "word": "evans, dame edith"
+        },
+        {
+            "id": "exeunt",
+            "word": "exeunt"
+        },
+        {
+            "id": "exit_line",
+            "word": "exit line"
+        },
+        {
+            "id": "extravaganza",
+            "word": "extravaganza"
+        },
+        {
+            "id": "farce",
+            "word": "farce"
+        },
+        {
+            "id": "farceur",
+            "word": "farceur"
+        },
+        {
+            "id": "farquhar%2C_george",
+            "word": "farquhar, george"
+        },
+        {
+            "id": "feydeau%2C_georges",
+            "word": "feydeau, georges"
+        },
+        {
+            "id": "figurant",
+            "word": "figurant"
+        },
+        {
+            "id": "finale",
+            "word": "finale"
+        },
+        {
+            "id": "first_night",
+            "word": "first night"
+        },
+        {
+            "id": "first-nighter",
+            "word": "first-nighter"
+        },
+        {
+            "id": "flea_circus",
+            "word": "flea circus"
+        },
+        {
+            "id": "fleapit",
+            "word": "fleapit"
+        },
+        {
+            "id": "fleshings",
+            "word": "fleshings"
+        },
+        {
+            "id": "fletcher%2C_john",
+            "word": "fletcher, john"
+        },
+        {
+            "id": "floor_show",
+            "word": "floor show"
+        },
+        {
+            "id": "flyman",
+            "word": "flyman"
+        },
+        {
+            "id": "fo%2C_dario",
+            "word": "fo, dario"
+        },
+        {
+            "id": "folies-berg%C3%A8re",
+            "word": "folies-bergère"
+        },
+        {
+            "id": "footlights",
+            "word": "footlights"
+        },
+        {
+            "id": "ford%2C_john",
+            "word": "ford, john"
+        },
+        {
+            "id": "fourth_wall",
+            "word": "fourth wall"
+        },
+        {
+            "id": "foyer",
+            "word": "foyer"
+        },
+        {
+            "id": "freak_show",
+            "word": "freak show"
+        },
+        {
+            "id": "fringe_festival",
+            "word": "fringe festival"
+        },
+        {
+            "id": "front_of_house",
+            "word": "front of house"
+        },
+        {
+            "id": "fry%2C_christopher",
+            "word": "fry, christopher"
+        },
+        {
+            "id": "fugard%2C_athol",
+            "word": "fugard, athol"
+        },
+        {
+            "id": "full_house",
+            "word": "full house"
+        },
+        {
+            "id": "funambulist",
+            "word": "funambulist"
+        },
+        {
+            "id": "funny_man",
+            "word": "funny man"
+        },
+        {
+            "id": "gagster",
+            "word": "gagster"
+        },
+        {
+            "id": "gang_show",
+            "word": "gang show"
+        },
+        {
+            "id": "garrick%2C_david",
+            "word": "garrick, david"
+        },
+        {
+            "id": "gielgud%2C_sir_john",
+            "word": "gielgud, sir john"
+        },
+        {
+            "id": "gilbert%2C_sir_w._s.",
+            "word": "gilbert, sir w. s."
+        },
+        {
+            "id": "gilbertian",
+            "word": "gilbertian"
+        },
+        {
+            "id": "girlie_show",
+            "word": "girlie show"
+        },
+        {
+            "id": "globe_theatre",
+            "word": "globe theatre"
+        },
+        {
+            "id": "glove_puppet",
+            "word": "glove puppet"
+        },
+        {
+            "id": "grand_finale",
+            "word": "grand finale"
+        },
+        {
+            "id": "grand_guignol",
+            "word": "grand guignol"
+        },
+        {
+            "id": "granville-barker%2C_harley",
+            "word": "granville-barker, harley"
+        },
+        {
+            "id": "greasepaint",
+            "word": "greasepaint"
+        },
+        {
+            "id": "green_room",
+            "word": "green room"
+        },
+        {
+            "id": "guest_star",
+            "word": "guest star"
+        },
+        {
+            "id": "guignol",
+            "word": "guignol"
+        },
+        {
+            "id": "guiser",
+            "word": "guiser"
+        },
+        {
+            "id": "ham",
+            "word": "ham"
+        },
+        {
+            "id": "hamartia",
+            "word": "hamartia"
+        },
+        {
+            "id": "hammy",
+            "word": "hammy"
+        },
+        {
+            "id": "hare%2C_sir_david",
+            "word": "hare, sir david"
+        },
+        {
+            "id": "harlequin",
+            "word": "harlequin"
+        },
+        {
+            "id": "harlequinade",
+            "word": "harlequinade"
+        },
+        {
+            "id": "hauptmann%2C_gerhart",
+            "word": "hauptmann, gerhart"
+        },
+        {
+            "id": "havel%2C_v%C3%A1clav",
+            "word": "havel, václav"
+        },
+        {
+            "id": "headliner",
+            "word": "headliner"
+        },
+        {
+            "id": "hellman%2C_lillian",
+            "word": "hellman, lillian"
+        },
+        {
+            "id": "high_wire",
+            "word": "high wire"
+        },
+        {
+            "id": "hofmannsthal%2C_hugo_von",
+            "word": "hofmannsthal, hugo von"
+        },
+        {
+            "id": "hokum",
+            "word": "hokum"
+        },
+        {
+            "id": "hordern%2C_sir_michael",
+            "word": "hordern, sir michael"
+        },
+        {
+            "id": "house_lights",
+            "word": "house lights"
+        },
+        {
+            "id": "hubris",
+            "word": "hubris"
+        },
+        {
+            "id": "ibsen%2C_henrik",
+            "word": "ibsen, henrik"
+        },
+        {
+            "id": "ice_show",
+            "word": "ice show"
+        },
+        {
+            "id": "illusionist",
+            "word": "illusionist"
+        },
+        {
+            "id": "impresario",
+            "word": "impresario"
+        },
+        {
+            "id": "impro",
+            "word": "impro"
+        },
+        {
+            "id": "improvisation",
+            "word": "improvisation"
+        },
+        {
+            "id": "improvisational",
+            "word": "improvisational"
+        },
+        {
+            "id": "improvisatory",
+            "word": "improvisatory"
+        },
+        {
+            "id": "incidental_music",
+            "word": "incidental music"
+        },
+        {
+            "id": "intendant",
+            "word": "intendant"
+        },
+        {
+            "id": "interlude",
+            "word": "interlude"
+        },
+        {
+            "id": "intermission",
+            "word": "intermission"
+        },
+        {
+            "id": "ionesco%2C_eug%C3%A8ne",
+            "word": "ionesco, eugène"
+        },
+        {
+            "id": "irving%2C_sir_henry",
+            "word": "irving, sir henry"
+        },
+        {
+            "id": "jarry%2C_alfred",
+            "word": "jarry, alfred"
+        },
+        {
+            "id": "jones%2C_inigo",
+            "word": "jones, inigo"
+        },
+        {
+            "id": "jonson%2C_ben",
+            "word": "jonson, ben"
+        },
+        {
+            "id": "jonsonian",
+            "word": "jonsonian"
+        },
+        {
+            "id": "juggler",
+            "word": "juggler"
+        },
+        {
+            "id": "jukebox_musical",
+            "word": "jukebox musical"
+        },
+        {
+            "id": "juvenile",
+            "word": "juvenile"
+        },
+        {
+            "id": "juvenile_lead",
+            "word": "juvenile lead"
+        },
+        {
+            "id": "kabuki",
+            "word": "kabuki"
+        },
+        {
+            "id": "kaiser%2C_georg",
+            "word": "kaiser, georg"
+        },
+        {
+            "id": "kalidasa",
+            "word": "kalidasa"
+        },
+        {
+            "id": "kapoor%2C_prithviraj",
+            "word": "kapoor, prithviraj"
+        },
+        {
+            "id": "kean%2C_edmund",
+            "word": "kean, edmund"
+        },
+        {
+            "id": "kemble%2C_fanny",
+            "word": "kemble, fanny"
+        },
+        {
+            "id": "kemble%2C_john_philip",
+            "word": "kemble, john philip"
+        },
+        {
+            "id": "kitchen_sink_drama",
+            "word": "kitchen sink drama"
+        },
+        {
+            "id": "knife-throwing",
+            "word": "knife-throwing"
+        },
+        {
+            "id": "knockabout",
+            "word": "knockabout"
+        },
+        {
+            "id": "kotzebue%2C_august_von",
+            "word": "kotzebue, august von"
+        },
+        {
+            "id": "kyd%2C_thomas",
+            "word": "kyd, thomas"
+        },
+        {
+            "id": "langtry%2C_lillie",
+            "word": "langtry, lillie"
+        },
+        {
+            "id": "la_scala",
+            "word": "la scala"
+        },
+        {
+            "id": "laser_show",
+            "word": "laser show"
+        },
+        {
+            "id": "leading_lady",
+            "word": "leading lady"
+        },
+        {
+            "id": "leading_man",
+            "word": "leading man"
+        },
+        {
+            "id": "legerdemain",
+            "word": "legerdemain"
+        },
+        {
+            "id": "leg_show",
+            "word": "leg show"
+        },
+        {
+            "id": "lessing%2C_gotthold_ephraim",
+            "word": "lessing, gotthold ephraim"
+        },
+        {
+            "id": "liberty_horse",
+            "word": "liberty horse"
+        },
+        {
+            "id": "lighting_director",
+            "word": "lighting director"
+        },
+        {
+            "id": "lighting_effects",
+            "word": "lighting effects"
+        },
+        {
+            "id": "lighting_engineer",
+            "word": "lighting engineer"
+        },
+        {
+            "id": "light_show",
+            "word": "light show"
+        },
+        {
+            "id": "-liner",
+            "word": "-liner"
+        },
+        {
+            "id": "lion_tamer",
+            "word": "lion tamer"
+        },
+        {
+            "id": "little_theatre",
+            "word": "little theatre"
+        },
+        {
+            "id": "littlewood%2C_joan",
+            "word": "littlewood, joan"
+        },
+        {
+            "id": "loge",
+            "word": "loge"
+        },
+        {
+            "id": "loquitur",
+            "word": "loquitur"
+        },
+        {
+            "id": "lorca%2C_federico_garc%C3%ADa",
+            "word": "lorca, federico garcía"
+        },
+        {
+            "id": "low_comedy",
+            "word": "low comedy"
+        },
+        {
+            "id": "luvvie",
+            "word": "luvvie"
+        },
+        {
+            "id": "mamet%2C_david",
+            "word": "mamet, david"
+        },
+        {
+            "id": "marionette",
+            "word": "marionette"
+        },
+        {
+            "id": "marlovian",
+            "word": "marlovian"
+        },
+        {
+            "id": "marlowe%2C_christopher",
+            "word": "marlowe, christopher"
+        },
+        {
+            "id": "masque",
+            "word": "masque"
+        },
+        {
+            "id": "massinger%2C_philip",
+            "word": "massinger, philip"
+        },
+        {
+            "id": "medicine_show",
+            "word": "medicine show"
+        },
+        {
+            "id": "megastar",
+            "word": "megastar"
+        },
+        {
+            "id": "melodrama",
+            "word": "melodrama"
+        },
+        {
+            "id": "menander",
+            "word": "menander"
+        },
+        {
+            "id": "method_acting",
+            "word": "method acting"
+        },
+        {
+            "id": "method_actor",
+            "word": "method actor"
+        },
+        {
+            "id": "middleton%2C_thomas",
+            "word": "middleton, thomas"
+        },
+        {
+            "id": "miller%2C_arthur",
+            "word": "miller, arthur"
+        },
+        {
+            "id": "mime",
+            "word": "mime"
+        },
+        {
+            "id": "miracle_play",
+            "word": "miracle play"
+        },
+        {
+            "id": "miscast",
+            "word": "miscast"
+        },
+        {
+            "id": "mise_en_sc%C3%A8ne",
+            "word": "mise en scène"
+        },
+        {
+            "id": "modern_dress",
+            "word": "modern dress"
+        },
+        {
+            "id": "moli%C3%A8re",
+            "word": "molière"
+        },
+        {
+            "id": "monodrama",
+            "word": "monodrama"
+        },
+        {
+            "id": "monody",
+            "word": "monody"
+        },
+        {
+            "id": "monologic",
+            "word": "monologic"
+        },
+        {
+            "id": "monologist",
+            "word": "monologist"
+        },
+        {
+            "id": "monologue",
+            "word": "monologue"
+        },
+        {
+            "id": "morality_play",
+            "word": "morality play"
+        },
+        {
+            "id": "moulin_rouge",
+            "word": "moulin rouge"
+        },
+        {
+            "id": "mum",
+            "word": "mum"
+        },
+        {
+            "id": "mummer",
+            "word": "mummer"
+        },
+        {
+            "id": "mummers%27_play",
+            "word": "mummers' play"
+        },
+        {
+            "id": "mummery",
+            "word": "mummery"
+        },
+        {
+            "id": "musical_comedy",
+            "word": "musical comedy"
+        },
+        {
+            "id": "musical_director",
+            "word": "musical director"
+        },
+        {
+            "id": "musical_theatre",
+            "word": "musical theatre"
+        },
+        {
+            "id": "music_hall",
+            "word": "music hall"
+        },
+        {
+            "id": "music_theatre",
+            "word": "music theatre"
+        },
+        {
+            "id": "mystery_play",
+            "word": "mystery play"
+        },
+        {
+            "id": "noh",
+            "word": "noh"
+        },
+        {
+            "id": "non-naturalistic",
+            "word": "non-naturalistic"
+        },
+        {
+            "id": "o%27casey%2C_sean",
+            "word": "o'casey, sean"
+        },
+        {
+            "id": "o%27neill%2C_eugene",
+            "word": "o'neill, eugene"
+        },
+        {
+            "id": "odets%2C_clifford",
+            "word": "odets, clifford"
+        },
+        {
+            "id": "off-broadway",
+            "word": "off-broadway"
+        },
+        {
+            "id": "offstage",
+            "word": "offstage"
+        },
+        {
+            "id": "old_vic",
+            "word": "old vic"
+        },
+        {
+            "id": "olivier%2C_laurence",
+            "word": "olivier, laurence"
+        },
+        {
+            "id": "one-acter",
+            "word": "one-acter"
+        },
+        {
+            "id": "one-man_show",
+            "word": "one-man show"
+        },
+        {
+            "id": "one-woman_show",
+            "word": "one-woman show"
+        },
+        {
+            "id": "onstage",
+            "word": "onstage"
+        },
+        {
+            "id": "opening_night",
+            "word": "opening night"
+        },
+        {
+            "id": "opera_glasses",
+            "word": "opera glasses"
+        },
+        {
+            "id": "opera_house",
+            "word": "opera house"
+        },
+        {
+            "id": "opposite_prompt",
+            "word": "opposite prompt"
+        },
+        {
+            "id": "orchestra_seat",
+            "word": "orchestra seat"
+        },
+        {
+            "id": "orchestra_stalls",
+            "word": "orchestra stalls"
+        },
+        {
+            "id": "orton%2C_joe",
+            "word": "orton, joe"
+        },
+        {
+            "id": "ortonesque",
+            "word": "ortonesque"
+        },
+        {
+            "id": "osborne%2C_john",
+            "word": "osborne, john"
+        },
+        {
+            "id": "otway%2C_thomas",
+            "word": "otway, thomas"
+        },
+        {
+            "id": "out_front",
+            "word": "out front"
+        },
+        {
+            "id": "overacting",
+            "word": "overacting"
+        },
+        {
+            "id": "overparted",
+            "word": "overparted"
+        },
+        {
+            "id": "pantomime",
+            "word": "pantomime"
+        },
+        {
+            "id": "pantomime_horse",
+            "word": "pantomime horse"
+        },
+        {
+            "id": "pass_door",
+            "word": "pass door"
+        },
+        {
+            "id": "passion_play",
+            "word": "passion play"
+        },
+        {
+            "id": "peanut_gallery",
+            "word": "peanut gallery"
+        },
+        {
+            "id": "period_drama",
+            "word": "period drama"
+        },
+        {
+            "id": "personage",
+            "word": "personage"
+        },
+        {
+            "id": "photocall",
+            "word": "photocall"
+        },
+        {
+            "id": "physical_theatre",
+            "word": "physical theatre"
+        },
+        {
+            "id": "pierrot",
+            "word": "pierrot"
+        },
+        {
+            "id": "pinero%2C_sir_arthur_wing",
+            "word": "pinero, sir arthur wing"
+        },
+        {
+            "id": "pinspot",
+            "word": "pinspot"
+        },
+        {
+            "id": "pinter%2C_harold",
+            "word": "pinter, harold"
+        },
+        {
+            "id": "pinteresque",
+            "word": "pinteresque"
+        },
+        {
+            "id": "pirandello%2C_luigi",
+            "word": "pirandello, luigi"
+        },
+        {
+            "id": "plautus%2C_titus_maccius",
+            "word": "plautus, titus maccius"
+        },
+        {
+            "id": "play-act",
+            "word": "play-act"
+        },
+        {
+            "id": "playbill",
+            "word": "playbill"
+        },
+        {
+            "id": "playgoer",
+            "word": "playgoer"
+        },
+        {
+            "id": "playhouse",
+            "word": "playhouse"
+        },
+        {
+            "id": "playlet",
+            "word": "playlet"
+        },
+        {
+            "id": "playwright",
+            "word": "playwright"
+        },
+        {
+            "id": "playwriting",
+            "word": "playwriting"
+        },
+        {
+            "id": "plot_line",
+            "word": "plot line"
+        },
+        {
+            "id": "prima_donna",
+            "word": "prima donna"
+        },
+        {
+            "id": "principal_boy",
+            "word": "principal boy"
+        },
+        {
+            "id": "principal_girl",
+            "word": "principal girl"
+        },
+        {
+            "id": "production_number",
+            "word": "production number"
+        },
+        {
+            "id": "prologue",
+            "word": "prologue"
+        },
+        {
+            "id": "prompt_book",
+            "word": "prompt book"
+        },
+        {
+            "id": "prompt_box",
+            "word": "prompt box"
+        },
+        {
+            "id": "prompter",
+            "word": "prompter"
+        },
+        {
+            "id": "prompt_side",
+            "word": "prompt side"
+        },
+        {
+            "id": "prop",
+            "word": "prop"
+        },
+        {
+            "id": "property_man",
+            "word": "property man"
+        },
+        {
+            "id": "property_mistress",
+            "word": "property mistress"
+        },
+        {
+            "id": "proscenium",
+            "word": "proscenium"
+        },
+        {
+            "id": "proscenium_arch",
+            "word": "proscenium arch"
+        },
+        {
+            "id": "protagonist",
+            "word": "protagonist"
+        },
+        {
+            "id": "prs",
+            "word": "prs"
+        },
+        {
+            "id": "puppet",
+            "word": "puppet"
+        },
+        {
+            "id": "puppeteer",
+            "word": "puppeteer"
+        },
+        {
+            "id": "puppetry",
+            "word": "puppetry"
+        },
+        {
+            "id": "racine%2C_jean",
+            "word": "racine, jean"
+        },
+        {
+            "id": "rada",
+            "word": "rada"
+        },
+        {
+            "id": "rattigan%2C_sir_terence",
+            "word": "rattigan, sir terence"
+        },
+        {
+            "id": "read-through",
+            "word": "read-through"
+        },
+        {
+            "id": "redface",
+            "word": "redface"
+        },
+        {
+            "id": "redgrave",
+            "word": "redgrave"
+        },
+        {
+            "id": "regisseur",
+            "word": "regisseur"
+        },
+        {
+            "id": "rehearsal",
+            "word": "rehearsal"
+        },
+        {
+            "id": "rehearse",
+            "word": "rehearse"
+        },
+        {
+            "id": "reinhardt%2C_max",
+            "word": "reinhardt, max"
+        },
+        {
+            "id": "rendering",
+            "word": "rendering"
+        },
+        {
+            "id": "rendition",
+            "word": "rendition"
+        },
+        {
+            "id": "rep",
+            "word": "rep"
+        },
+        {
+            "id": "repertoire",
+            "word": "repertoire"
+        },
+        {
+            "id": "repertory",
+            "word": "repertory"
+        },
+        {
+            "id": "repertory_company",
+            "word": "repertory company"
+        },
+        {
+            "id": "restage",
+            "word": "restage"
+        },
+        {
+            "id": "restoration_comedy",
+            "word": "restoration comedy"
+        },
+        {
+            "id": "revenge_tragedy",
+            "word": "revenge tragedy"
+        },
+        {
+            "id": "revue",
+            "word": "revue"
+        },
+        {
+            "id": "rice%2C_sir_tim",
+            "word": "rice, sir tim"
+        },
+        {
+            "id": "richardson%2C_sir_ralph",
+            "word": "richardson, sir ralph"
+        },
+        {
+            "id": "ring_down_%28or_up%29_the_curtain",
+            "word": "ring down (or up) the curtain"
+        },
+        {
+            "id": "ringmaster",
+            "word": "ringmaster"
+        },
+        {
+            "id": "robson%2C_dame_flora",
+            "word": "robson, dame flora"
+        },
+        {
+            "id": "role",
+            "word": "role"
+        },
+        {
+            "id": "romantic_comedy",
+            "word": "romantic comedy"
+        },
+        {
+            "id": "roscius",
+            "word": "roscius"
+        },
+        {
+            "id": "rose_theatre",
+            "word": "rose theatre"
+        },
+        {
+            "id": "rostand%2C_edmond",
+            "word": "rostand, edmond"
+        },
+        {
+            "id": "routine",
+            "word": "routine"
+        },
+        {
+            "id": "rowe%2C_nicholas",
+            "word": "rowe, nicholas"
+        },
+        {
+            "id": "royal_shakespeare_company",
+            "word": "royal shakespeare company"
+        },
+        {
+            "id": "ruiz_de_alarc%C3%B3n%2C_juan",
+            "word": "ruiz de alarcón, juan"
+        },
+        {
+            "id": "rutherford%2C_dame_margaret",
+            "word": "rutherford, dame margaret"
+        },
+        {
+            "id": "sadler%27s_wells_theatre",
+            "word": "sadler's wells theatre"
+        },
+        {
+            "id": "safety_curtain",
+            "word": "safety curtain"
+        },
+        {
+            "id": "satire",
+            "word": "satire"
+        },
+        {
+            "id": "satirist",
+            "word": "satirist"
+        },
+        {
+            "id": "scenario",
+            "word": "scenario"
+        },
+        {
+            "id": "scene_dock",
+            "word": "scene dock"
+        },
+        {
+            "id": "scene_painter",
+            "word": "scene painter"
+        },
+        {
+            "id": "scene-shifter",
+            "word": "scene-shifter"
+        },
+        {
+            "id": "scenography",
+            "word": "scenography"
+        },
+        {
+            "id": "schiller%2C_friedrich_von",
+            "word": "schiller, friedrich von"
+        },
+        {
+            "id": "scottish_play",
+            "word": "scottish play"
+        },
+        {
+            "id": "scriptwriter",
+            "word": "scriptwriter"
+        },
+        {
+            "id": "seating",
+            "word": "seating"
+        },
+        {
+            "id": "sennet",
+            "word": "sennet"
+        },
+        {
+            "id": "shadow_theatre",
+            "word": "shadow theatre"
+        },
+        {
+            "id": "shakespeare%2C_william",
+            "word": "shakespeare, william"
+        },
+        {
+            "id": "shakespearean",
+            "word": "shakespearean"
+        },
+        {
+            "id": "shaw%2C_george_bernard",
+            "word": "shaw, george bernard"
+        },
+        {
+            "id": "sheridan%2C_richard_brinsley",
+            "word": "sheridan, richard brinsley"
+        },
+        {
+            "id": "showbiz",
+            "word": "showbiz"
+        },
+        {
+            "id": "showboat",
+            "word": "showboat"
+        },
+        {
+            "id": "show_business",
+            "word": "show business"
+        },
+        {
+            "id": "showgirl",
+            "word": "showgirl"
+        },
+        {
+            "id": "showground",
+            "word": "showground"
+        },
+        {
+            "id": "showman",
+            "word": "showman"
+        },
+        {
+            "id": "showmanship",
+            "word": "showmanship"
+        },
+        {
+            "id": "showreel",
+            "word": "showreel"
+        },
+        {
+            "id": "showstopper",
+            "word": "showstopper"
+        },
+        {
+            "id": "show_tune",
+            "word": "show tune"
+        },
+        {
+            "id": "shtick",
+            "word": "shtick"
+        },
+        {
+            "id": "siddons%2C_mrs_sarah",
+            "word": "siddons, mrs sarah"
+        },
+        {
+            "id": "sideshow",
+            "word": "sideshow"
+        },
+        {
+            "id": "sight-read",
+            "word": "sight-read"
+        },
+        {
+            "id": "signature_tune",
+            "word": "signature tune"
+        },
+        {
+            "id": "simon%2C_neil",
+            "word": "simon, neil"
+        },
+        {
+            "id": "singspiel",
+            "word": "singspiel"
+        },
+        {
+            "id": "sing-through",
+            "word": "sing-through"
+        },
+        {
+            "id": "skene",
+            "word": "skene"
+        },
+        {
+            "id": "sky_cloth",
+            "word": "sky cloth"
+        },
+        {
+            "id": "slapstick",
+            "word": "slapstick"
+        },
+        {
+            "id": "slow_handclap",
+            "word": "slow handclap"
+        },
+        {
+            "id": "sock_and_buskin",
+            "word": "sock and buskin"
+        },
+        {
+            "id": "sock_puppet",
+            "word": "sock puppet"
+        },
+        {
+            "id": "soliloquize",
+            "word": "soliloquize"
+        },
+        {
+            "id": "soliloquy",
+            "word": "soliloquy"
+        },
+        {
+            "id": "solus",
+            "word": "solus"
+        },
+        {
+            "id": "son_et_lumi%C3%A8re",
+            "word": "son et lumière"
+        },
+        {
+            "id": "sophocles",
+            "word": "sophocles"
+        },
+        {
+            "id": "soubrette",
+            "word": "soubrette"
+        },
+        {
+            "id": "soyinka%2C_wole",
+            "word": "soyinka, wole"
+        },
+        {
+            "id": "sparagmos",
+            "word": "sparagmos"
+        },
+        {
+            "id": "spirit_gum",
+            "word": "spirit gum"
+        },
+        {
+            "id": "spotlight",
+            "word": "spotlight"
+        },
+        {
+            "id": "stagecraft",
+            "word": "stagecraft"
+        },
+        {
+            "id": "stage_direction",
+            "word": "stage direction"
+        },
+        {
+            "id": "stage_door",
+            "word": "stage door"
+        },
+        {
+            "id": "stage_effect",
+            "word": "stage effect"
+        },
+        {
+            "id": "stage_fright",
+            "word": "stage fright"
+        },
+        {
+            "id": "stagehand",
+            "word": "stagehand"
+        },
+        {
+            "id": "stage-manage",
+            "word": "stage-manage"
+        },
+        {
+            "id": "stage_name",
+            "word": "stage name"
+        },
+        {
+            "id": "stage_play",
+            "word": "stage play"
+        },
+        {
+            "id": "stage_whisper",
+            "word": "stage whisper"
+        },
+        {
+            "id": "stand-in",
+            "word": "stand-in"
+        },
+        {
+            "id": "stanislavsky%2C_konstantin",
+            "word": "stanislavsky, konstantin"
+        },
+        {
+            "id": "starlet",
+            "word": "starlet"
+        },
+        {
+            "id": "star-struck",
+            "word": "star-struck"
+        },
+        {
+            "id": "star_turn",
+            "word": "star turn"
+        },
+        {
+            "id": "stichomythia",
+            "word": "stichomythia"
+        },
+        {
+            "id": "stock_company",
+            "word": "stock company"
+        },
+        {
+            "id": "stoppard%2C_sir_tom",
+            "word": "stoppard, sir tom"
+        },
+        {
+            "id": "straight_man",
+            "word": "straight man"
+        },
+        {
+            "id": "strasberg%2C_lee",
+            "word": "strasberg, lee"
+        },
+        {
+            "id": "street_entertainer",
+            "word": "street entertainer"
+        },
+        {
+            "id": "street_entertainment",
+            "word": "street entertainment"
+        },
+        {
+            "id": "street_theatre",
+            "word": "street theatre"
+        },
+        {
+            "id": "strindberg%2C_august",
+            "word": "strindberg, august"
+        },
+        {
+            "id": "strip_club",
+            "word": "strip club"
+        },
+        {
+            "id": "strolling_players",
+            "word": "strolling players"
+        },
+        {
+            "id": "studio_theatre",
+            "word": "studio theatre"
+        },
+        {
+            "id": "stunt_casting",
+            "word": "stunt casting"
+        },
+        {
+            "id": "succ%C3%A8s_de_scandale",
+            "word": "succès de scandale"
+        },
+        {
+            "id": "summer_stock",
+            "word": "summer stock"
+        },
+        {
+            "id": "superstar",
+            "word": "superstar"
+        },
+        {
+            "id": "superstardom",
+            "word": "superstardom"
+        },
+        {
+            "id": "supertitle",
+            "word": "supertitle"
+        },
+        {
+            "id": "surtitle",
+            "word": "surtitle"
+        },
+        {
+            "id": "sword_swallower",
+            "word": "sword swallower"
+        },
+        {
+            "id": "synge%2C_j._m.",
+            "word": "synge, j. m."
+        },
+        {
+            "id": "tableau_curtains",
+            "word": "tableau curtains"
+        },
+        {
+            "id": "tableau_vivant",
+            "word": "tableau vivant"
+        },
+        {
+            "id": "talent_scout",
+            "word": "talent scout"
+        },
+        {
+            "id": "tate%2C_nahum",
+            "word": "tate, nahum"
+        },
+        {
+            "id": "terence",
+            "word": "terence"
+        },
+        {
+            "id": "terry%2C_dame_ellen",
+            "word": "terry, dame ellen"
+        },
+        {
+            "id": "theatre",
+            "word": "theatre"
+        },
+        {
+            "id": "theatre-going",
+            "word": "theatre-going"
+        },
+        {
+            "id": "theatre-in-the-round",
+            "word": "theatre-in-the-round"
+        },
+        {
+            "id": "theatre_of_the_absurd",
+            "word": "theatre of the absurd"
+        },
+        {
+            "id": "theatrical",
+            "word": "theatrical"
+        },
+        {
+            "id": "theatricalize",
+            "word": "theatricalize"
+        },
+        {
+            "id": "theatricals",
+            "word": "theatricals"
+        },
+        {
+            "id": "thesp",
+            "word": "thesp"
+        },
+        {
+            "id": "thespian",
+            "word": "thespian"
+        },
+        {
+            "id": "thespianism",
+            "word": "thespianism"
+        },
+        {
+            "id": "thespis",
+            "word": "thespis"
+        },
+        {
+            "id": "thorndike%2C_dame_sybil",
+            "word": "thorndike, dame sybil"
+        },
+        {
+            "id": "thriller",
+            "word": "thriller"
+        },
+        {
+            "id": "thrust_stage",
+            "word": "thrust stage"
+        },
+        {
+            "id": "ticket_holder",
+            "word": "ticket holder"
+        },
+        {
+            "id": "tightrope",
+            "word": "tightrope"
+        },
+        {
+            "id": "time-shift",
+            "word": "time-shift"
+        },
+        {
+            "id": "title_role",
+            "word": "title role"
+        },
+        {
+            "id": "top-line",
+            "word": "top-line"
+        },
+        {
+            "id": "tragedian",
+            "word": "tragedian"
+        },
+        {
+            "id": "tragedienne",
+            "word": "tragedienne"
+        },
+        {
+            "id": "tragicomedy",
+            "word": "tragicomedy"
+        },
+        {
+            "id": "tragicomic",
+            "word": "tragicomic"
+        },
+        {
+            "id": "transformation",
+            "word": "transformation"
+        },
+        {
+            "id": "tread_%28or_walk%29_the_boards",
+            "word": "tread (or walk) the boards"
+        },
+        {
+            "id": "tritagonist",
+            "word": "tritagonist"
+        },
+        {
+            "id": "two-hander",
+            "word": "two-hander"
+        },
+        {
+            "id": "typecast",
+            "word": "typecast"
+        },
+        {
+            "id": "underact",
+            "word": "underact"
+        },
+        {
+            "id": "underplay",
+            "word": "underplay"
+        },
+        {
+            "id": "underplot",
+            "word": "underplot"
+        },
+        {
+            "id": "under-rehearsed",
+            "word": "under-rehearsed"
+        },
+        {
+            "id": "understudy",
+            "word": "understudy"
+        },
+        {
+            "id": "unstageable",
+            "word": "unstageable"
+        },
+        {
+            "id": "upper_circle",
+            "word": "upper circle"
+        },
+        {
+            "id": "upstage",
+            "word": "upstage"
+        },
+        {
+            "id": "usher",
+            "word": "usher"
+        },
+        {
+            "id": "ustinov%2C_sir_peter",
+            "word": "ustinov, sir peter"
+        },
+        {
+            "id": "vanbrugh%2C_sir_john",
+            "word": "vanbrugh, sir john"
+        },
+        {
+            "id": "vaudeville",
+            "word": "vaudeville"
+        },
+        {
+            "id": "vega%2C_lope_de",
+            "word": "vega, lope de"
+        },
+        {
+            "id": "ventriloquist",
+            "word": "ventriloquist"
+        },
+        {
+            "id": "ventriloquy",
+            "word": "ventriloquy"
+        },
+        {
+            "id": "vicente%2C_gil",
+            "word": "vicente, gil"
+        },
+        {
+            "id": "villain",
+            "word": "villain"
+        },
+        {
+            "id": "villainess",
+            "word": "villainess"
+        },
+        {
+            "id": "walk-on",
+            "word": "walk-on"
+        },
+        {
+            "id": "wardrobe_mistress",
+            "word": "wardrobe mistress"
+        },
+        {
+            "id": "wayang",
+            "word": "wayang"
+        },
+        {
+            "id": "webster%2C_john",
+            "word": "webster, john"
+        },
+        {
+            "id": "wedekind%2C_frank",
+            "word": "wedekind, frank"
+        },
+        {
+            "id": "wesker%2C_sir_arnold",
+            "word": "wesker, sir arnold"
+        },
+        {
+            "id": "whiteface",
+            "word": "whiteface"
+        },
+        {
+            "id": "whodunnit",
+            "word": "whodunnit"
+        },
+        {
+            "id": "wilde%2C_oscar",
+            "word": "wilde, oscar"
+        },
+        {
+            "id": "wildean",
+            "word": "wildean"
+        },
+        {
+            "id": "williams%2C_tennessee",
+            "word": "williams, tennessee"
+        },
+        {
+            "id": "wind_machine",
+            "word": "wind machine"
+        },
+        {
+            "id": "wire-walker",
+            "word": "wire-walker"
+        },
+        {
+            "id": "wycherley%2C_william",
+            "word": "wycherley, william"
+        },
+        {
+            "id": "yellowface",
+            "word": "yellowface"
+        },
+        {
+            "id": "zarzuela",
+            "word": "zarzuela"
+        },
+        {
+            "id": "ziegfeld%2C_florenz",
+            "word": "ziegfeld, florenz"
+        }
+    ]
+}

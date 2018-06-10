@@ -1,0 +1,1243 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 308
+    },
+    "results": [
+        {
+            "id": "aeroponics",
+            "word": "aeroponics"
+        },
+        {
+            "id": "air_layering",
+            "word": "air layering"
+        },
+        {
+            "id": "algicide",
+            "word": "algicide"
+        },
+        {
+            "id": "all%C3%A9e",
+            "word": "allée"
+        },
+        {
+            "id": "alpine_house",
+            "word": "alpine house"
+        },
+        {
+            "id": "ammonium_nitrate",
+            "word": "ammonium nitrate"
+        },
+        {
+            "id": "aquaponics",
+            "word": "aquaponics"
+        },
+        {
+            "id": "arboretum",
+            "word": "arboretum"
+        },
+        {
+            "id": "arborist",
+            "word": "arborist"
+        },
+        {
+            "id": "arbour",
+            "word": "arbour"
+        },
+        {
+            "id": "base_dressing",
+            "word": "base dressing"
+        },
+        {
+            "id": "bastard-trench",
+            "word": "bastard-trench"
+        },
+        {
+            "id": "beanpole",
+            "word": "beanpole"
+        },
+        {
+            "id": "bedder",
+            "word": "bedder"
+        },
+        {
+            "id": "bedding_plant",
+            "word": "bedding plant"
+        },
+        {
+            "id": "bedeguar",
+            "word": "bedeguar"
+        },
+        {
+            "id": "bell_glass",
+            "word": "bell glass"
+        },
+        {
+            "id": "bicolour",
+            "word": "bicolour"
+        },
+        {
+            "id": "billhook",
+            "word": "billhook"
+        },
+        {
+            "id": "bitter_pit",
+            "word": "bitter pit"
+        },
+        {
+            "id": "black_rot",
+            "word": "black rot"
+        },
+        {
+            "id": "blanch",
+            "word": "blanch"
+        },
+        {
+            "id": "blood_and_bone",
+            "word": "blood and bone"
+        },
+        {
+            "id": "blood_meal",
+            "word": "blood meal"
+        },
+        {
+            "id": "bloom",
+            "word": "bloom"
+        },
+        {
+            "id": "bloomer",
+            "word": "bloomer"
+        },
+        {
+            "id": "blossom",
+            "word": "blossom"
+        },
+        {
+            "id": "bog_garden",
+            "word": "bog garden"
+        },
+        {
+            "id": "bonemeal",
+            "word": "bonemeal"
+        },
+        {
+            "id": "bonsai",
+            "word": "bonsai"
+        },
+        {
+            "id": "bordeaux_mixture",
+            "word": "bordeaux mixture"
+        },
+        {
+            "id": "brassica",
+            "word": "brassica"
+        },
+        {
+            "id": "brown%2C_capability",
+            "word": "brown, capability"
+        },
+        {
+            "id": "bud-graft",
+            "word": "bud-graft"
+        },
+        {
+            "id": "budstick",
+            "word": "budstick"
+        },
+        {
+            "id": "budwood",
+            "word": "budwood"
+        },
+        {
+            "id": "bush",
+            "word": "bush"
+        },
+        {
+            "id": "bush_house",
+            "word": "bush house"
+        },
+        {
+            "id": "chit",
+            "word": "chit"
+        },
+        {
+            "id": "christmas_cactus",
+            "word": "christmas cactus"
+        },
+        {
+            "id": "cloche",
+            "word": "cloche"
+        },
+        {
+            "id": "cold_frame",
+            "word": "cold frame"
+        },
+        {
+            "id": "companion_planting",
+            "word": "companion planting"
+        },
+        {
+            "id": "compost",
+            "word": "compost"
+        },
+        {
+            "id": "compost_heap",
+            "word": "compost heap"
+        },
+        {
+            "id": "container-grown",
+            "word": "container-grown"
+        },
+        {
+            "id": "cormel",
+            "word": "cormel"
+        },
+        {
+            "id": "cormlet",
+            "word": "cormlet"
+        },
+        {
+            "id": "cottage_garden",
+            "word": "cottage garden"
+        },
+        {
+            "id": "crumb_structure",
+            "word": "crumb structure"
+        },
+        {
+            "id": "cultivar",
+            "word": "cultivar"
+        },
+        {
+            "id": "cut-and-come-again",
+            "word": "cut-and-come-again"
+        },
+        {
+            "id": "cv.",
+            "word": "cv."
+        },
+        {
+            "id": "dead_wood",
+            "word": "dead wood"
+        },
+        {
+            "id": "dibble",
+            "word": "dibble"
+        },
+        {
+            "id": "dieback",
+            "word": "dieback"
+        },
+        {
+            "id": "dimethoate",
+            "word": "dimethoate"
+        },
+        {
+            "id": "disbud",
+            "word": "disbud"
+        },
+        {
+            "id": "dot_plant",
+            "word": "dot plant"
+        },
+        {
+            "id": "double_digging",
+            "word": "double digging"
+        },
+        {
+            "id": "draw_hoe",
+            "word": "draw hoe"
+        },
+        {
+            "id": "dutch_hoe",
+            "word": "dutch hoe"
+        },
+        {
+            "id": "dutch_light",
+            "word": "dutch light"
+        },
+        {
+            "id": "early",
+            "word": "early"
+        },
+        {
+            "id": "espalier",
+            "word": "espalier"
+        },
+        {
+            "id": "established",
+            "word": "established"
+        },
+        {
+            "id": "etiolate",
+            "word": "etiolate"
+        },
+        {
+            "id": "fairy_ring",
+            "word": "fairy ring"
+        },
+        {
+            "id": "fertilizer",
+            "word": "fertilizer"
+        },
+        {
+            "id": "fillis",
+            "word": "fillis"
+        },
+        {
+            "id": "fishmeal",
+            "word": "fishmeal"
+        },
+        {
+            "id": "flame_gun",
+            "word": "flame gun"
+        },
+        {
+            "id": "floating_cloche",
+            "word": "floating cloche"
+        },
+        {
+            "id": "flore_pleno",
+            "word": "flore pleno"
+        },
+        {
+            "id": "flower_bed",
+            "word": "flower bed"
+        },
+        {
+            "id": "flowerer",
+            "word": "flowerer"
+        },
+        {
+            "id": "flower_garden",
+            "word": "flower garden"
+        },
+        {
+            "id": "flowering",
+            "word": "flowering"
+        },
+        {
+            "id": "flowerpot",
+            "word": "flowerpot"
+        },
+        {
+            "id": "flower_show",
+            "word": "flower show"
+        },
+        {
+            "id": "foliar_feed",
+            "word": "foliar feed"
+        },
+        {
+            "id": "forced",
+            "word": "forced"
+        },
+        {
+            "id": "forcing_house",
+            "word": "forcing house"
+        },
+        {
+            "id": "fork",
+            "word": "fork"
+        },
+        {
+            "id": "formal_garden",
+            "word": "formal garden"
+        },
+        {
+            "id": "fruit-bearing",
+            "word": "fruit-bearing"
+        },
+        {
+            "id": "fruiter",
+            "word": "fruiter"
+        },
+        {
+            "id": "fruit_tree",
+            "word": "fruit tree"
+        },
+        {
+            "id": "garden_centre",
+            "word": "garden centre"
+        },
+        {
+            "id": "gardener",
+            "word": "gardener"
+        },
+        {
+            "id": "gardening",
+            "word": "gardening"
+        },
+        {
+            "id": "garden_produce",
+            "word": "garden produce"
+        },
+        {
+            "id": "garden_shears",
+            "word": "garden shears"
+        },
+        {
+            "id": "garden_waste",
+            "word": "garden waste"
+        },
+        {
+            "id": "glasshouse",
+            "word": "glasshouse"
+        },
+        {
+            "id": "gloxinia",
+            "word": "gloxinia"
+        },
+        {
+            "id": "godwottery",
+            "word": "godwottery"
+        },
+        {
+            "id": "good_doer",
+            "word": "good doer"
+        },
+        {
+            "id": "graft",
+            "word": "graft"
+        },
+        {
+            "id": "graft_union",
+            "word": "graft union"
+        },
+        {
+            "id": "grandiflora",
+            "word": "grandiflora"
+        },
+        {
+            "id": "greenhouse",
+            "word": "greenhouse"
+        },
+        {
+            "id": "green_pick",
+            "word": "green pick"
+        },
+        {
+            "id": "ground_cover",
+            "word": "ground cover"
+        },
+        {
+            "id": "growing_season",
+            "word": "growing season"
+        },
+        {
+            "id": "growmore",
+            "word": "growmore"
+        },
+        {
+            "id": "guano",
+            "word": "guano"
+        },
+        {
+            "id": "half-hardy",
+            "word": "half-hardy"
+        },
+        {
+            "id": "half-standard",
+            "word": "half-standard"
+        },
+        {
+            "id": "hanging_basket",
+            "word": "hanging basket"
+        },
+        {
+            "id": "harden_something_off",
+            "word": "harden something off"
+        },
+        {
+            "id": "hardy",
+            "word": "hardy"
+        },
+        {
+            "id": "hardy_annual",
+            "word": "hardy annual"
+        },
+        {
+            "id": "hardy_perennial",
+            "word": "hardy perennial"
+        },
+        {
+            "id": "hedge",
+            "word": "hedge"
+        },
+        {
+            "id": "hedge_clippers",
+            "word": "hedge clippers"
+        },
+        {
+            "id": "hedge_trimmer",
+            "word": "hedge trimmer"
+        },
+        {
+            "id": "hedging",
+            "word": "hedging"
+        },
+        {
+            "id": "heel",
+            "word": "heel"
+        },
+        {
+            "id": "herbaceous_border",
+            "word": "herbaceous border"
+        },
+        {
+            "id": "herbaceous_perennial",
+            "word": "herbaceous perennial"
+        },
+        {
+            "id": "herbary",
+            "word": "herbary"
+        },
+        {
+            "id": "herb_garden",
+            "word": "herb garden"
+        },
+        {
+            "id": "hoe",
+            "word": "hoe"
+        },
+        {
+            "id": "horticultural",
+            "word": "horticultural"
+        },
+        {
+            "id": "horticulturalist",
+            "word": "horticulturalist"
+        },
+        {
+            "id": "horticulture",
+            "word": "horticulture"
+        },
+        {
+            "id": "horticulturist",
+            "word": "horticulturist"
+        },
+        {
+            "id": "hothouse",
+            "word": "hothouse"
+        },
+        {
+            "id": "houseplant",
+            "word": "houseplant"
+        },
+        {
+            "id": "humic",
+            "word": "humic"
+        },
+        {
+            "id": "humify",
+            "word": "humify"
+        },
+        {
+            "id": "humus",
+            "word": "humus"
+        },
+        {
+            "id": "hybridization",
+            "word": "hybridization"
+        },
+        {
+            "id": "hybridize",
+            "word": "hybridize"
+        },
+        {
+            "id": "hydroponic",
+            "word": "hydroponic"
+        },
+        {
+            "id": "hydroponics",
+            "word": "hydroponics"
+        },
+        {
+            "id": "inarch",
+            "word": "inarch"
+        },
+        {
+            "id": "italian_garden",
+            "word": "italian garden"
+        },
+        {
+            "id": "jardini%C3%A8re",
+            "word": "jardinière"
+        },
+        {
+            "id": "jekyll%2C_gertrude",
+            "word": "jekyll, gertrude"
+        },
+        {
+            "id": "kent%2C_william",
+            "word": "kent, william"
+        },
+        {
+            "id": "kitchen_garden",
+            "word": "kitchen garden"
+        },
+        {
+            "id": "knot_garden",
+            "word": "knot garden"
+        },
+        {
+            "id": "landscaped",
+            "word": "landscaped"
+        },
+        {
+            "id": "landscape_gardening",
+            "word": "landscape gardening"
+        },
+        {
+            "id": "lawn",
+            "word": "lawn"
+        },
+        {
+            "id": "lawnmower",
+            "word": "lawnmower"
+        },
+        {
+            "id": "leaf_mould",
+            "word": "leaf mould"
+        },
+        {
+            "id": "leaf_roll",
+            "word": "leaf roll"
+        },
+        {
+            "id": "leaf_spot",
+            "word": "leaf spot"
+        },
+        {
+            "id": "leaf_vegetable",
+            "word": "leaf vegetable"
+        },
+        {
+            "id": "le_n%C3%B4tre%2C_andr%C3%A9",
+            "word": "le nôtre, andré"
+        },
+        {
+            "id": "lignotuber",
+            "word": "lignotuber"
+        },
+        {
+            "id": "line_something_out",
+            "word": "line something out"
+        },
+        {
+            "id": "lop",
+            "word": "lop"
+        },
+        {
+            "id": "loppers",
+            "word": "loppers"
+        },
+        {
+            "id": "maincrop",
+            "word": "maincrop"
+        },
+        {
+            "id": "mali",
+            "word": "mali"
+        },
+        {
+            "id": "market_garden",
+            "word": "market garden"
+        },
+        {
+            "id": "meadowland",
+            "word": "meadowland"
+        },
+        {
+            "id": "micropropagation",
+            "word": "micropropagation"
+        },
+        {
+            "id": "mister",
+            "word": "mister"
+        },
+        {
+            "id": "motor_mower",
+            "word": "motor mower"
+        },
+        {
+            "id": "moutan",
+            "word": "moutan"
+        },
+        {
+            "id": "mower",
+            "word": "mower"
+        },
+        {
+            "id": "mulch",
+            "word": "mulch"
+        },
+        {
+            "id": "multiflora",
+            "word": "multiflora"
+        },
+        {
+            "id": "native_garden",
+            "word": "native garden"
+        },
+        {
+            "id": "nitrochalk",
+            "word": "nitrochalk"
+        },
+        {
+            "id": "nurseryman",
+            "word": "nurseryman"
+        },
+        {
+            "id": "oilcake",
+            "word": "oilcake"
+        },
+        {
+            "id": "old_rose",
+            "word": "old rose"
+        },
+        {
+            "id": "onion_hoe",
+            "word": "onion hoe"
+        },
+        {
+            "id": "onion_set",
+            "word": "onion set"
+        },
+        {
+            "id": "orangery",
+            "word": "orangery"
+        },
+        {
+            "id": "orchard",
+            "word": "orchard"
+        },
+        {
+            "id": "overwater",
+            "word": "overwater"
+        },
+        {
+            "id": "parterre",
+            "word": "parterre"
+        },
+        {
+            "id": "paxton%2C_sir_joseph",
+            "word": "paxton, sir joseph"
+        },
+        {
+            "id": "peat",
+            "word": "peat"
+        },
+        {
+            "id": "peat_moss",
+            "word": "peat moss"
+        },
+        {
+            "id": "pergola",
+            "word": "pergola"
+        },
+        {
+            "id": "pesticide",
+            "word": "pesticide"
+        },
+        {
+            "id": "physic_garden",
+            "word": "physic garden"
+        },
+        {
+            "id": "pillar_rose",
+            "word": "pillar rose"
+        },
+        {
+            "id": "pinch",
+            "word": "pinch"
+        },
+        {
+            "id": "plantsman",
+            "word": "plantsman"
+        },
+        {
+            "id": "plantswoman",
+            "word": "plantswoman"
+        },
+        {
+            "id": "plash",
+            "word": "plash"
+        },
+        {
+            "id": "pleach",
+            "word": "pleach"
+        },
+        {
+            "id": "pleasance",
+            "word": "pleasance"
+        },
+        {
+            "id": "plum_pox",
+            "word": "plum pox"
+        },
+        {
+            "id": "potager",
+            "word": "potager"
+        },
+        {
+            "id": "pot-bound",
+            "word": "pot-bound"
+        },
+        {
+            "id": "pot_plant",
+            "word": "pot plant"
+        },
+        {
+            "id": "potted",
+            "word": "potted"
+        },
+        {
+            "id": "potting_compost",
+            "word": "potting compost"
+        },
+        {
+            "id": "potting_shed",
+            "word": "potting shed"
+        },
+        {
+            "id": "propagate",
+            "word": "propagate"
+        },
+        {
+            "id": "propagation",
+            "word": "propagation"
+        },
+        {
+            "id": "propagator",
+            "word": "propagator"
+        },
+        {
+            "id": "prune",
+            "word": "prune"
+        },
+        {
+            "id": "pruning_hook",
+            "word": "pruning hook"
+        },
+        {
+            "id": "put_down_roots",
+            "word": "put down roots"
+        },
+        {
+            "id": "pyrethrin",
+            "word": "pyrethrin"
+        },
+        {
+            "id": "quickset",
+            "word": "quickset"
+        },
+        {
+            "id": "quincunx",
+            "word": "quincunx"
+        },
+        {
+            "id": "rake",
+            "word": "rake"
+        },
+        {
+            "id": "raspberry_cane",
+            "word": "raspberry cane"
+        },
+        {
+            "id": "recumbent",
+            "word": "recumbent"
+        },
+        {
+            "id": "remontant",
+            "word": "remontant"
+        },
+        {
+            "id": "replant",
+            "word": "replant"
+        },
+        {
+            "id": "repot",
+            "word": "repot"
+        },
+        {
+            "id": "repton%2C_humphry",
+            "word": "repton, humphry"
+        },
+        {
+            "id": "reseed",
+            "word": "reseed"
+        },
+        {
+            "id": "returf",
+            "word": "returf"
+        },
+        {
+            "id": "ride-on",
+            "word": "ride-on"
+        },
+        {
+            "id": "ringbark",
+            "word": "ringbark"
+        },
+        {
+            "id": "rockery",
+            "word": "rockery"
+        },
+        {
+            "id": "rock_garden",
+            "word": "rock garden"
+        },
+        {
+            "id": "roof_garden",
+            "word": "roof garden"
+        },
+        {
+            "id": "root_ball",
+            "word": "root ball"
+        },
+        {
+            "id": "root_run",
+            "word": "root run"
+        },
+        {
+            "id": "root_something_out",
+            "word": "root something out"
+        },
+        {
+            "id": "root_vegetable",
+            "word": "root vegetable"
+        },
+        {
+            "id": "rosarian",
+            "word": "rosarian"
+        },
+        {
+            "id": "rosarium",
+            "word": "rosarium"
+        },
+        {
+            "id": "rose_bush",
+            "word": "rose bush"
+        },
+        {
+            "id": "rotenone",
+            "word": "rotenone"
+        },
+        {
+            "id": "sackville-west%2C_vita",
+            "word": "sackville-west, vita"
+        },
+        {
+            "id": "scarifier",
+            "word": "scarifier"
+        },
+        {
+            "id": "scarify",
+            "word": "scarify"
+        },
+        {
+            "id": "scion",
+            "word": "scion"
+        },
+        {
+            "id": "secateurs",
+            "word": "secateurs"
+        },
+        {
+            "id": "seedbed",
+            "word": "seedbed"
+        },
+        {
+            "id": "seedling",
+            "word": "seedling"
+        },
+        {
+            "id": "seed_potato",
+            "word": "seed potato"
+        },
+        {
+            "id": "seedsman",
+            "word": "seedsman"
+        },
+        {
+            "id": "seed_time",
+            "word": "seed time"
+        },
+        {
+            "id": "self-coloured",
+            "word": "self-coloured"
+        },
+        {
+            "id": "self-seed",
+            "word": "self-seed"
+        },
+        {
+            "id": "self-seeding",
+            "word": "self-seeding"
+        },
+        {
+            "id": "self-sow",
+            "word": "self-sow"
+        },
+        {
+            "id": "self-sown",
+            "word": "self-sown"
+        },
+        {
+            "id": "semi-double",
+            "word": "semi-double"
+        },
+        {
+            "id": "shrubbery",
+            "word": "shrubbery"
+        },
+        {
+            "id": "side_shoot",
+            "word": "side shoot"
+        },
+        {
+            "id": "silver_sand",
+            "word": "silver sand"
+        },
+        {
+            "id": "single_digging",
+            "word": "single digging"
+        },
+        {
+            "id": "slash-and-burn",
+            "word": "slash-and-burn"
+        },
+        {
+            "id": "slug_pellet",
+            "word": "slug pellet"
+        },
+        {
+            "id": "soft_rot",
+            "word": "soft rot"
+        },
+        {
+            "id": "species_rose",
+            "word": "species rose"
+        },
+        {
+            "id": "specimen_plant",
+            "word": "specimen plant"
+        },
+        {
+            "id": "sprinkler",
+            "word": "sprinkler"
+        },
+        {
+            "id": "strim",
+            "word": "strim"
+        },
+        {
+            "id": "strimmer",
+            "word": "strimmer"
+        },
+        {
+            "id": "sublateral",
+            "word": "sublateral"
+        },
+        {
+            "id": "sunken_garden",
+            "word": "sunken garden"
+        },
+        {
+            "id": "superphosphate",
+            "word": "superphosphate"
+        },
+        {
+            "id": "take_root",
+            "word": "take root"
+        },
+        {
+            "id": "tanglefoot",
+            "word": "tanglefoot"
+        },
+        {
+            "id": "tank-farming",
+            "word": "tank-farming"
+        },
+        {
+            "id": "tar_oil",
+            "word": "tar oil"
+        },
+        {
+            "id": "thinnings",
+            "word": "thinnings"
+        },
+        {
+            "id": "thremmatology",
+            "word": "thremmatology"
+        },
+        {
+            "id": "tiller",
+            "word": "tiller"
+        },
+        {
+            "id": "top",
+            "word": "top"
+        },
+        {
+            "id": "top-dress",
+            "word": "top-dress"
+        },
+        {
+            "id": "top_dressing",
+            "word": "top dressing"
+        },
+        {
+            "id": "tope",
+            "word": "tope"
+        },
+        {
+            "id": "top_fruit",
+            "word": "top fruit"
+        },
+        {
+            "id": "topiary",
+            "word": "topiary"
+        },
+        {
+            "id": "transplant",
+            "word": "transplant"
+        },
+        {
+            "id": "tree_surgeon",
+            "word": "tree surgeon"
+        },
+        {
+            "id": "tree_surgery",
+            "word": "tree surgery"
+        },
+        {
+            "id": "trellis",
+            "word": "trellis"
+        },
+        {
+            "id": "trug",
+            "word": "trug"
+        },
+        {
+            "id": "tubestock",
+            "word": "tubestock"
+        },
+        {
+            "id": "turf",
+            "word": "turf"
+        },
+        {
+            "id": "underplant",
+            "word": "underplant"
+        },
+        {
+            "id": "unplanted",
+            "word": "unplanted"
+        },
+        {
+            "id": "unsprayed",
+            "word": "unsprayed"
+        },
+        {
+            "id": "vegetative",
+            "word": "vegetative"
+        },
+        {
+            "id": "vermicide",
+            "word": "vermicide"
+        },
+        {
+            "id": "vermicomposting",
+            "word": "vermicomposting"
+        },
+        {
+            "id": "vermiculture",
+            "word": "vermiculture"
+        },
+        {
+            "id": "vernalization",
+            "word": "vernalization"
+        },
+        {
+            "id": "vernalize",
+            "word": "vernalize"
+        },
+        {
+            "id": "vine_dresser",
+            "word": "vine dresser"
+        },
+        {
+            "id": "vinery",
+            "word": "vinery"
+        },
+        {
+            "id": "vintager",
+            "word": "vintager"
+        },
+        {
+            "id": "water_feature",
+            "word": "water feature"
+        },
+        {
+            "id": "water_garden",
+            "word": "water garden"
+        },
+        {
+            "id": "watering_can",
+            "word": "watering can"
+        },
+        {
+            "id": "weedicide",
+            "word": "weedicide"
+        },
+        {
+            "id": "weedkiller",
+            "word": "weedkiller"
+        },
+        {
+            "id": "weed_whacker",
+            "word": "weed whacker"
+        },
+        {
+            "id": "wheelbarrow",
+            "word": "wheelbarrow"
+        },
+        {
+            "id": "whip_and_tongue_grafting",
+            "word": "whip and tongue grafting"
+        },
+        {
+            "id": "whip_graft",
+            "word": "whip graft"
+        },
+        {
+            "id": "widger",
+            "word": "widger"
+        },
+        {
+            "id": "wilt",
+            "word": "wilt"
+        },
+        {
+            "id": "window_box",
+            "word": "window box"
+        },
+        {
+            "id": "wind_rock",
+            "word": "wind rock"
+        },
+        {
+            "id": "winter_garden",
+            "word": "winter garden"
+        },
+        {
+            "id": "xeriscape",
+            "word": "xeriscape"
+        }
+    ]
+}

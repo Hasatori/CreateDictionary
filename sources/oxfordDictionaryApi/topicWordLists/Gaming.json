@@ -1,0 +1,207 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 49
+    },
+    "results": [
+        {
+            "id": "4d",
+            "word": "4d"
+        },
+        {
+            "id": "adventure_game",
+            "word": "adventure game"
+        },
+        {
+            "id": "boss_key",
+            "word": "boss key"
+        },
+        {
+            "id": "computer_game",
+            "word": "computer game"
+        },
+        {
+            "id": "cutscene",
+            "word": "cutscene"
+        },
+        {
+            "id": "dm",
+            "word": "dm"
+        },
+        {
+            "id": "dungeon_master",
+            "word": "dungeon master"
+        },
+        {
+            "id": "e-sport",
+            "word": "e-sport"
+        },
+        {
+            "id": "experience_point",
+            "word": "experience point"
+        },
+        {
+            "id": "first-person_shooter",
+            "word": "first-person shooter"
+        },
+        {
+            "id": "free-to-play",
+            "word": "free-to-play"
+        },
+        {
+            "id": "game_boy",
+            "word": "game boy"
+        },
+        {
+            "id": "game_engine",
+            "word": "game engine"
+        },
+        {
+            "id": "gamemaster",
+            "word": "gamemaster"
+        },
+        {
+            "id": "gamepad",
+            "word": "gamepad"
+        },
+        {
+            "id": "gameplay",
+            "word": "gameplay"
+        },
+        {
+            "id": "gamer",
+            "word": "gamer"
+        },
+        {
+            "id": "joypad",
+            "word": "joypad"
+        },
+        {
+            "id": "laggy",
+            "word": "laggy"
+        },
+        {
+            "id": "level_up",
+            "word": "level up"
+        },
+        {
+            "id": "light_gun",
+            "word": "light gun"
+        },
+        {
+            "id": "mid-core",
+            "word": "mid-core"
+        },
+        {
+            "id": "mmo",
+            "word": "mmo"
+        },
+        {
+            "id": "mmog",
+            "word": "mmog"
+        },
+        {
+            "id": "mmorpg",
+            "word": "mmorpg"
+        },
+        {
+            "id": "motion_capture",
+            "word": "motion capture"
+        },
+        {
+            "id": "multiplayer",
+            "word": "multiplayer"
+        },
+        {
+            "id": "non-player_character",
+            "word": "non-player character"
+        },
+        {
+            "id": "npc",
+            "word": "npc"
+        },
+        {
+            "id": "online_gamer",
+            "word": "online gamer"
+        },
+        {
+            "id": "online_gaming",
+            "word": "online gaming"
+        },
+        {
+            "id": "pac-man",
+            "word": "pac-man"
+        },
+        {
+            "id": "permadeath",
+            "word": "permadeath"
+        },
+        {
+            "id": "platform_game",
+            "word": "platform game"
+        },
+        {
+            "id": "player_versus_environment",
+            "word": "player versus environment"
+        },
+        {
+            "id": "player_versus_player",
+            "word": "player versus player"
+        },
+        {
+            "id": "pve",
+            "word": "pve"
+        },
+        {
+            "id": "pvp",
+            "word": "pvp"
+        },
+        {
+            "id": "replayability",
+            "word": "replayability"
+        },
+        {
+            "id": "replayable",
+            "word": "replayable"
+        },
+        {
+            "id": "replay_value",
+            "word": "replay value"
+        },
+        {
+            "id": "respawn",
+            "word": "respawn"
+        },
+        {
+            "id": "scroller",
+            "word": "scroller"
+        },
+        {
+            "id": "shoot-%27em-up",
+            "word": "shoot-'em-up"
+        },
+        {
+            "id": "sim",
+            "word": "sim"
+        },
+        {
+            "id": "single-player",
+            "word": "single-player"
+        },
+        {
+            "id": "speedrun",
+            "word": "speedrun"
+        },
+        {
+            "id": "third-person_shooter",
+            "word": "third-person shooter"
+        },
+        {
+            "id": "xp",
+            "word": "xp"
+        }
+    ]
+}

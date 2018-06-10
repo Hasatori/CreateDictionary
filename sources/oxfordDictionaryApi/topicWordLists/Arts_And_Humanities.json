@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 2,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "national_treasure",
+            "word": "national treasure"
+        },
+        {
+            "id": "romanticist",
+            "word": "romanticist"
+        }
+    ]
+}

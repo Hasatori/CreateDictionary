@@ -1,0 +1,447 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 109
+    },
+    "results": [
+        {
+            "id": "additional_member_system",
+            "word": "additional member system"
+        },
+        {
+            "id": "alternative_vote",
+            "word": "alternative vote"
+        },
+        {
+            "id": "aspirational_voter",
+            "word": "aspirational voter"
+        },
+        {
+            "id": "australian_ballot",
+            "word": "australian ballot"
+        },
+        {
+            "id": "av",
+            "word": "av"
+        },
+        {
+            "id": "ballot",
+            "word": "ballot"
+        },
+        {
+            "id": "ballot_box",
+            "word": "ballot box"
+        },
+        {
+            "id": "ballot_paper",
+            "word": "ballot paper"
+        },
+        {
+            "id": "battleground_state",
+            "word": "battleground state"
+        },
+        {
+            "id": "blue_state",
+            "word": "blue state"
+        },
+        {
+            "id": "booth_capturing",
+            "word": "booth capturing"
+        },
+        {
+            "id": "by-election",
+            "word": "by-election"
+        },
+        {
+            "id": "bypoll",
+            "word": "bypoll"
+        },
+        {
+            "id": "candidacy",
+            "word": "candidacy"
+        },
+        {
+            "id": "candidate",
+            "word": "candidate"
+        },
+        {
+            "id": "candidature",
+            "word": "candidature"
+        },
+        {
+            "id": "canvass",
+            "word": "canvass"
+        },
+        {
+            "id": "caucus",
+            "word": "caucus"
+        },
+        {
+            "id": "challenger",
+            "word": "challenger"
+        },
+        {
+            "id": "county_clerk",
+            "word": "county clerk"
+        },
+        {
+            "id": "cumulative_voting",
+            "word": "cumulative voting"
+        },
+        {
+            "id": "disendorse",
+            "word": "disendorse"
+        },
+        {
+            "id": "disenfranchise",
+            "word": "disenfranchise"
+        },
+        {
+            "id": "disenfranchisement",
+            "word": "disenfranchisement"
+        },
+        {
+            "id": "donkey_vote",
+            "word": "donkey vote"
+        },
+        {
+            "id": "early_voter",
+            "word": "early voter"
+        },
+        {
+            "id": "early_voting",
+            "word": "early voting"
+        },
+        {
+            "id": "elect",
+            "word": "elect"
+        },
+        {
+            "id": "electable",
+            "word": "electable"
+        },
+        {
+            "id": "election",
+            "word": "election"
+        },
+        {
+            "id": "election_day",
+            "word": "election day"
+        },
+        {
+            "id": "electioneer",
+            "word": "electioneer"
+        },
+        {
+            "id": "elector",
+            "word": "elector"
+        },
+        {
+            "id": "electoral",
+            "word": "electoral"
+        },
+        {
+            "id": "electoral_roll",
+            "word": "electoral roll"
+        },
+        {
+            "id": "electoral_vote",
+            "word": "electoral vote"
+        },
+        {
+            "id": "electorate",
+            "word": "electorate"
+        },
+        {
+            "id": "electorate_mp",
+            "word": "electorate mp"
+        },
+        {
+            "id": "electorate_vote",
+            "word": "electorate vote"
+        },
+        {
+            "id": "enfranchise",
+            "word": "enfranchise"
+        },
+        {
+            "id": "enfranchisement",
+            "word": "enfranchisement"
+        },
+        {
+            "id": "exit_poll",
+            "word": "exit poll"
+        },
+        {
+            "id": "floating_vote",
+            "word": "floating vote"
+        },
+        {
+            "id": "floating_voter",
+            "word": "floating voter"
+        },
+        {
+            "id": "general_election",
+            "word": "general election"
+        },
+        {
+            "id": "general_roll",
+            "word": "general roll"
+        },
+        {
+            "id": "general_seat",
+            "word": "general seat"
+        },
+        {
+            "id": "go_%28or_appeal%29_to_the_country",
+            "word": "go (or appeal) to the country"
+        },
+        {
+            "id": "hustings",
+            "word": "hustings"
+        },
+        {
+            "id": "informal_vote",
+            "word": "informal vote"
+        },
+        {
+            "id": "instant_runoff_voting",
+            "word": "instant runoff voting"
+        },
+        {
+            "id": "irv",
+            "word": "irv"
+        },
+        {
+            "id": "list_mp",
+            "word": "list mp"
+        },
+        {
+            "id": "local_election",
+            "word": "local election"
+        },
+        {
+            "id": "majority",
+            "word": "majority"
+        },
+        {
+            "id": "maori_electorate",
+            "word": "maori electorate"
+        },
+        {
+            "id": "maori_option",
+            "word": "maori option"
+        },
+        {
+            "id": "maori_roll",
+            "word": "maori roll"
+        },
+        {
+            "id": "minority",
+            "word": "minority"
+        },
+        {
+            "id": "mixed_member_proportional",
+            "word": "mixed member proportional"
+        },
+        {
+            "id": "open_primary",
+            "word": "open primary"
+        },
+        {
+            "id": "outvote",
+            "word": "outvote"
+        },
+        {
+            "id": "party_vote",
+            "word": "party vote"
+        },
+        {
+            "id": "poll",
+            "word": "poll"
+        },
+        {
+            "id": "pollee",
+            "word": "pollee"
+        },
+        {
+            "id": "polling_booth",
+            "word": "polling booth"
+        },
+        {
+            "id": "polling_day",
+            "word": "polling day"
+        },
+        {
+            "id": "polling_station",
+            "word": "polling station"
+        },
+        {
+            "id": "popular_vote",
+            "word": "popular vote"
+        },
+        {
+            "id": "postal_vote",
+            "word": "postal vote"
+        },
+        {
+            "id": "pre-election",
+            "word": "pre-election"
+        },
+        {
+            "id": "preferential",
+            "word": "preferential"
+        },
+        {
+            "id": "presiding_officer",
+            "word": "presiding officer"
+        },
+        {
+            "id": "primary_vote",
+            "word": "primary vote"
+        },
+        {
+            "id": "proportional_representation",
+            "word": "proportional representation"
+        },
+        {
+            "id": "proxy_vote",
+            "word": "proxy vote"
+        },
+        {
+            "id": "psephology",
+            "word": "psephology"
+        },
+        {
+            "id": "purple_state",
+            "word": "purple state"
+        },
+        {
+            "id": "red_state",
+            "word": "red state"
+        },
+        {
+            "id": "re-elect",
+            "word": "re-elect"
+        },
+        {
+            "id": "re-election",
+            "word": "re-election"
+        },
+        {
+            "id": "re-eligible",
+            "word": "re-eligible"
+        },
+        {
+            "id": "returning_officer",
+            "word": "returning officer"
+        },
+        {
+            "id": "revote",
+            "word": "revote"
+        },
+        {
+            "id": "rotten_borough",
+            "word": "rotten borough"
+        },
+        {
+            "id": "running_mate",
+            "word": "running mate"
+        },
+        {
+            "id": "scrutineer",
+            "word": "scrutineer"
+        },
+        {
+            "id": "second_ballot",
+            "word": "second ballot"
+        },
+        {
+            "id": "secret_ballot",
+            "word": "secret ballot"
+        },
+        {
+            "id": "simple_majority",
+            "word": "simple majority"
+        },
+        {
+            "id": "single_transferable_vote",
+            "word": "single transferable vote"
+        },
+        {
+            "id": "split_the_ticket_%28or_one%27s_vote%29",
+            "word": "split the ticket (or one's vote)"
+        },
+        {
+            "id": "split_the_vote",
+            "word": "split the vote"
+        },
+        {
+            "id": "suffrage",
+            "word": "suffrage"
+        },
+        {
+            "id": "swing_state",
+            "word": "swing state"
+        },
+        {
+            "id": "swing_vote",
+            "word": "swing vote"
+        },
+        {
+            "id": "tally_room",
+            "word": "tally room"
+        },
+        {
+            "id": "turnout",
+            "word": "turnout"
+        },
+        {
+            "id": "undervote",
+            "word": "undervote"
+        },
+        {
+            "id": "unelectable",
+            "word": "unelectable"
+        },
+        {
+            "id": "unpolled",
+            "word": "unpolled"
+        },
+        {
+            "id": "veepstakes",
+            "word": "veepstakes"
+        },
+        {
+            "id": "vote",
+            "word": "vote"
+        },
+        {
+            "id": "vote_bank",
+            "word": "vote bank"
+        },
+        {
+            "id": "voter",
+            "word": "voter"
+        },
+        {
+            "id": "voting_machine",
+            "word": "voting machine"
+        },
+        {
+            "id": "voting_paper",
+            "word": "voting paper"
+        },
+        {
+            "id": "write-in",
+            "word": "write-in"
+        },
+        {
+            "id": "write_someone_in",
+            "word": "write someone in"
+        }
+    ]
+}

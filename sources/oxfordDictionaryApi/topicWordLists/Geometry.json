@@ -1,0 +1,775 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 191,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "alternate_angles",
+            "word": "alternate angles"
+        },
+        {
+            "id": "analytical_geometry",
+            "word": "analytical geometry"
+        },
+        {
+            "id": "angle",
+            "word": "angle"
+        },
+        {
+            "id": "apex",
+            "word": "apex"
+        },
+        {
+            "id": "apothem",
+            "word": "apothem"
+        },
+        {
+            "id": "arc",
+            "word": "arc"
+        },
+        {
+            "id": "axis",
+            "word": "axis"
+        },
+        {
+            "id": "axisymmetric",
+            "word": "axisymmetric"
+        },
+        {
+            "id": "beam_compass",
+            "word": "beam compass"
+        },
+        {
+            "id": "bilateral_symmetry",
+            "word": "bilateral symmetry"
+        },
+        {
+            "id": "bisect",
+            "word": "bisect"
+        },
+        {
+            "id": "bow_compass",
+            "word": "bow compass"
+        },
+        {
+            "id": "cardioid",
+            "word": "cardioid"
+        },
+        {
+            "id": "circle",
+            "word": "circle"
+        },
+        {
+            "id": "circumcircle",
+            "word": "circumcircle"
+        },
+        {
+            "id": "circumference",
+            "word": "circumference"
+        },
+        {
+            "id": "circumferential",
+            "word": "circumferential"
+        },
+        {
+            "id": "collinear",
+            "word": "collinear"
+        },
+        {
+            "id": "concave",
+            "word": "concave"
+        },
+        {
+            "id": "concurrence",
+            "word": "concurrence"
+        },
+        {
+            "id": "cone",
+            "word": "cone"
+        },
+        {
+            "id": "confocal",
+            "word": "confocal"
+        },
+        {
+            "id": "conical",
+            "word": "conical"
+        },
+        {
+            "id": "conic_section",
+            "word": "conic section"
+        },
+        {
+            "id": "coplanar",
+            "word": "coplanar"
+        },
+        {
+            "id": "corresponding_angles",
+            "word": "corresponding angles"
+        },
+        {
+            "id": "cube",
+            "word": "cube"
+        },
+        {
+            "id": "cubic_capacity",
+            "word": "cubic capacity"
+        },
+        {
+            "id": "curvature",
+            "word": "curvature"
+        },
+        {
+            "id": "cyclometer",
+            "word": "cyclometer"
+        },
+        {
+            "id": "cylinder",
+            "word": "cylinder"
+        },
+        {
+            "id": "cylindrical",
+            "word": "cylindrical"
+        },
+        {
+            "id": "decagon",
+            "word": "decagon"
+        },
+        {
+            "id": "decahedron",
+            "word": "decahedron"
+        },
+        {
+            "id": "diagonal",
+            "word": "diagonal"
+        },
+        {
+            "id": "diagram",
+            "word": "diagram"
+        },
+        {
+            "id": "diameter",
+            "word": "diameter"
+        },
+        {
+            "id": "directrix",
+            "word": "directrix"
+        },
+        {
+            "id": "dodecagon",
+            "word": "dodecagon"
+        },
+        {
+            "id": "dodecahedron",
+            "word": "dodecahedron"
+        },
+        {
+            "id": "ellipse",
+            "word": "ellipse"
+        },
+        {
+            "id": "ellipsoid",
+            "word": "ellipsoid"
+        },
+        {
+            "id": "elliptic",
+            "word": "elliptic"
+        },
+        {
+            "id": "ellipticity",
+            "word": "ellipticity"
+        },
+        {
+            "id": "epicycle",
+            "word": "epicycle"
+        },
+        {
+            "id": "equiangular_spiral",
+            "word": "equiangular spiral"
+        },
+        {
+            "id": "euler%27s_formula",
+            "word": "euler's formula"
+        },
+        {
+            "id": "exterior_angle",
+            "word": "exterior angle"
+        },
+        {
+            "id": "four-dimensional",
+            "word": "four-dimensional"
+        },
+        {
+            "id": "fourth_dimension",
+            "word": "fourth dimension"
+        },
+        {
+            "id": "frustum",
+            "word": "frustum"
+        },
+        {
+            "id": "geographical_latitude",
+            "word": "geographical latitude"
+        },
+        {
+            "id": "geometric",
+            "word": "geometric"
+        },
+        {
+            "id": "golden_section",
+            "word": "golden section"
+        },
+        {
+            "id": "great_circle",
+            "word": "great circle"
+        },
+        {
+            "id": "-hedron",
+            "word": "-hedron"
+        },
+        {
+            "id": "helical",
+            "word": "helical"
+        },
+        {
+            "id": "helicoid",
+            "word": "helicoid"
+        },
+        {
+            "id": "helix",
+            "word": "helix"
+        },
+        {
+            "id": "hemicycle",
+            "word": "hemicycle"
+        },
+        {
+            "id": "hemicylindrical",
+            "word": "hemicylindrical"
+        },
+        {
+            "id": "hendecagon",
+            "word": "hendecagon"
+        },
+        {
+            "id": "heptagon",
+            "word": "heptagon"
+        },
+        {
+            "id": "heptahedron",
+            "word": "heptahedron"
+        },
+        {
+            "id": "hexagon",
+            "word": "hexagon"
+        },
+        {
+            "id": "hexagonal",
+            "word": "hexagonal"
+        },
+        {
+            "id": "hexagram",
+            "word": "hexagram"
+        },
+        {
+            "id": "hexahedron",
+            "word": "hexahedron"
+        },
+        {
+            "id": "homocentric",
+            "word": "homocentric"
+        },
+        {
+            "id": "hyperbola",
+            "word": "hyperbola"
+        },
+        {
+            "id": "hyperbolic",
+            "word": "hyperbolic"
+        },
+        {
+            "id": "hyperboloid",
+            "word": "hyperboloid"
+        },
+        {
+            "id": "incentre",
+            "word": "incentre"
+        },
+        {
+            "id": "incircle",
+            "word": "incircle"
+        },
+        {
+            "id": "interior_angle",
+            "word": "interior angle"
+        },
+        {
+            "id": "let_fall",
+            "word": "let fall"
+        },
+        {
+            "id": "logarithmic_spiral",
+            "word": "logarithmic spiral"
+        },
+        {
+            "id": "lozenge",
+            "word": "lozenge"
+        },
+        {
+            "id": "lune",
+            "word": "lune"
+        },
+        {
+            "id": "major_axis",
+            "word": "major axis"
+        },
+        {
+            "id": "midline",
+            "word": "midline"
+        },
+        {
+            "id": "midpoint",
+            "word": "midpoint"
+        },
+        {
+            "id": "minor_axis",
+            "word": "minor axis"
+        },
+        {
+            "id": "multangular",
+            "word": "multangular"
+        },
+        {
+            "id": "nonagon",
+            "word": "nonagon"
+        },
+        {
+            "id": "non-euclidean",
+            "word": "non-euclidean"
+        },
+        {
+            "id": "non-linear",
+            "word": "non-linear"
+        },
+        {
+            "id": "oblate",
+            "word": "oblate"
+        },
+        {
+            "id": "oblique",
+            "word": "oblique"
+        },
+        {
+            "id": "oblong",
+            "word": "oblong"
+        },
+        {
+            "id": "octagon",
+            "word": "octagon"
+        },
+        {
+            "id": "octagonal",
+            "word": "octagonal"
+        },
+        {
+            "id": "octahedron",
+            "word": "octahedron"
+        },
+        {
+            "id": "octant",
+            "word": "octant"
+        },
+        {
+            "id": "ovoid",
+            "word": "ovoid"
+        },
+        {
+            "id": "parabola",
+            "word": "parabola"
+        },
+        {
+            "id": "parabolic",
+            "word": "parabolic"
+        },
+        {
+            "id": "paraboloid",
+            "word": "paraboloid"
+        },
+        {
+            "id": "parallel",
+            "word": "parallel"
+        },
+        {
+            "id": "parallelepiped",
+            "word": "parallelepiped"
+        },
+        {
+            "id": "pentagon",
+            "word": "pentagon"
+        },
+        {
+            "id": "pentahedron",
+            "word": "pentahedron"
+        },
+        {
+            "id": "perpendicular",
+            "word": "perpendicular"
+        },
+        {
+            "id": "planimeter",
+            "word": "planimeter"
+        },
+        {
+            "id": "platonic_solid",
+            "word": "platonic solid"
+        },
+        {
+            "id": "polar_curve",
+            "word": "polar curve"
+        },
+        {
+            "id": "polar_distance",
+            "word": "polar distance"
+        },
+        {
+            "id": "polygon",
+            "word": "polygon"
+        },
+        {
+            "id": "polyhedron",
+            "word": "polyhedron"
+        },
+        {
+            "id": "prism",
+            "word": "prism"
+        },
+        {
+            "id": "prismoid",
+            "word": "prismoid"
+        },
+        {
+            "id": "projective",
+            "word": "projective"
+        },
+        {
+            "id": "projective_geometry",
+            "word": "projective geometry"
+        },
+        {
+            "id": "prolate",
+            "word": "prolate"
+        },
+        {
+            "id": "pyramidal",
+            "word": "pyramidal"
+        },
+        {
+            "id": "quadrangle",
+            "word": "quadrangle"
+        },
+        {
+            "id": "quadrant",
+            "word": "quadrant"
+        },
+        {
+            "id": "quadric",
+            "word": "quadric"
+        },
+        {
+            "id": "quadrilateral",
+            "word": "quadrilateral"
+        },
+        {
+            "id": "rad",
+            "word": "rad"
+        },
+        {
+            "id": "radial",
+            "word": "radial"
+        },
+        {
+            "id": "radial_symmetry",
+            "word": "radial symmetry"
+        },
+        {
+            "id": "radian",
+            "word": "radian"
+        },
+        {
+            "id": "radius",
+            "word": "radius"
+        },
+        {
+            "id": "rectangle",
+            "word": "rectangle"
+        },
+        {
+            "id": "rectangular",
+            "word": "rectangular"
+        },
+        {
+            "id": "rectilinear",
+            "word": "rectilinear"
+        },
+        {
+            "id": "re-entrant",
+            "word": "re-entrant"
+        },
+        {
+            "id": "rhombohedron",
+            "word": "rhombohedron"
+        },
+        {
+            "id": "rhomboid",
+            "word": "rhomboid"
+        },
+        {
+            "id": "rhombus",
+            "word": "rhombus"
+        },
+        {
+            "id": "scalene",
+            "word": "scalene"
+        },
+        {
+            "id": "semicircle",
+            "word": "semicircle"
+        },
+        {
+            "id": "semicircular",
+            "word": "semicircular"
+        },
+        {
+            "id": "semi-cylinder",
+            "word": "semi-cylinder"
+        },
+        {
+            "id": "semidiameter",
+            "word": "semidiameter"
+        },
+        {
+            "id": "semi-elliptical",
+            "word": "semi-elliptical"
+        },
+        {
+            "id": "semilunar",
+            "word": "semilunar"
+        },
+        {
+            "id": "semimajor_axis",
+            "word": "semimajor axis"
+        },
+        {
+            "id": "semiminor_axis",
+            "word": "semiminor axis"
+        },
+        {
+            "id": "set_square",
+            "word": "set square"
+        },
+        {
+            "id": "similar",
+            "word": "similar"
+        },
+        {
+            "id": "slant_height",
+            "word": "slant height"
+        },
+        {
+            "id": "small_circle",
+            "word": "small circle"
+        },
+        {
+            "id": "solid_angle",
+            "word": "solid angle"
+        },
+        {
+            "id": "sphere",
+            "word": "sphere"
+        },
+        {
+            "id": "spherical",
+            "word": "spherical"
+        },
+        {
+            "id": "spherical_angle",
+            "word": "spherical angle"
+        },
+        {
+            "id": "spheroid",
+            "word": "spheroid"
+        },
+        {
+            "id": "spherule",
+            "word": "spherule"
+        },
+        {
+            "id": "spiral",
+            "word": "spiral"
+        },
+        {
+            "id": "sq.",
+            "word": "sq."
+        },
+        {
+            "id": "square",
+            "word": "square"
+        },
+        {
+            "id": "square_the_circle",
+            "word": "square the circle"
+        },
+        {
+            "id": "steradian",
+            "word": "steradian"
+        },
+        {
+            "id": "stereography",
+            "word": "stereography"
+        },
+        {
+            "id": "stereometry",
+            "word": "stereometry"
+        },
+        {
+            "id": "subconical",
+            "word": "subconical"
+        },
+        {
+            "id": "subtend",
+            "word": "subtend"
+        },
+        {
+            "id": "subtense",
+            "word": "subtense"
+        },
+        {
+            "id": "superpose",
+            "word": "superpose"
+        },
+        {
+            "id": "superposition",
+            "word": "superposition"
+        },
+        {
+            "id": "symmetric",
+            "word": "symmetric"
+        },
+        {
+            "id": "symmetrical",
+            "word": "symmetrical"
+        },
+        {
+            "id": "symmetrize",
+            "word": "symmetrize"
+        },
+        {
+            "id": "symmetry",
+            "word": "symmetry"
+        },
+        {
+            "id": "tangent",
+            "word": "tangent"
+        },
+        {
+            "id": "tetrahedron",
+            "word": "tetrahedron"
+        },
+        {
+            "id": "three-dimensional",
+            "word": "three-dimensional"
+        },
+        {
+            "id": "tore",
+            "word": "tore"
+        },
+        {
+            "id": "tori",
+            "word": "tori"
+        },
+        {
+            "id": "toric",
+            "word": "toric"
+        },
+        {
+            "id": "toroid",
+            "word": "toroid"
+        },
+        {
+            "id": "toroidal",
+            "word": "toroidal"
+        },
+        {
+            "id": "torus",
+            "word": "torus"
+        },
+        {
+            "id": "tractrix",
+            "word": "tractrix"
+        },
+        {
+            "id": "transversal",
+            "word": "transversal"
+        },
+        {
+            "id": "trapezium",
+            "word": "trapezium"
+        },
+        {
+            "id": "trapezohedron",
+            "word": "trapezohedron"
+        },
+        {
+            "id": "trapezoid",
+            "word": "trapezoid"
+        },
+        {
+            "id": "triangle",
+            "word": "triangle"
+        },
+        {
+            "id": "triangular",
+            "word": "triangular"
+        },
+        {
+            "id": "trigonometry",
+            "word": "trigonometry"
+        },
+        {
+            "id": "trihedral",
+            "word": "trihedral"
+        },
+        {
+            "id": "trihedron",
+            "word": "trihedron"
+        },
+        {
+            "id": "trisect",
+            "word": "trisect"
+        },
+        {
+            "id": "t-square",
+            "word": "t-square"
+        },
+        {
+            "id": "two-dimensional",
+            "word": "two-dimensional"
+        },
+        {
+            "id": "umbilicus",
+            "word": "umbilicus"
+        },
+        {
+            "id": "uniplanar",
+            "word": "uniplanar"
+        },
+        {
+            "id": "universal_compass",
+            "word": "universal compass"
+        }
+    ]
+}

@@ -1,0 +1,963 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 238,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "abbevillian",
+            "word": "abbevillian"
+        },
+        {
+            "id": "acheulian",
+            "word": "acheulian"
+        },
+        {
+            "id": "adytum",
+            "word": "adytum"
+        },
+        {
+            "id": "altamira",
+            "word": "altamira"
+        },
+        {
+            "id": "antiquity",
+            "word": "antiquity"
+        },
+        {
+            "id": "archaeoastronomy",
+            "word": "archaeoastronomy"
+        },
+        {
+            "id": "archaeological",
+            "word": "archaeological"
+        },
+        {
+            "id": "archaeologist",
+            "word": "archaeologist"
+        },
+        {
+            "id": "archaeologize",
+            "word": "archaeologize"
+        },
+        {
+            "id": "archaeology",
+            "word": "archaeology"
+        },
+        {
+            "id": "archaeomagnetism",
+            "word": "archaeomagnetism"
+        },
+        {
+            "id": "archaeometry",
+            "word": "archaeometry"
+        },
+        {
+            "id": "aurignacian",
+            "word": "aurignacian"
+        },
+        {
+            "id": "azilian",
+            "word": "azilian"
+        },
+        {
+            "id": "barrow",
+            "word": "barrow"
+        },
+        {
+            "id": "beaker_folk",
+            "word": "beaker folk"
+        },
+        {
+            "id": "belgic",
+            "word": "belgic"
+        },
+        {
+            "id": "biface",
+            "word": "biface"
+        },
+        {
+            "id": "bioarchaeology",
+            "word": "bioarchaeology"
+        },
+        {
+            "id": "boucher_de_perthes%2C_jacques",
+            "word": "boucher de perthes, jacques"
+        },
+        {
+            "id": "breuil%2C_henri",
+            "word": "breuil, henri"
+        },
+        {
+            "id": "broch",
+            "word": "broch"
+        },
+        {
+            "id": "bronze_age",
+            "word": "bronze age"
+        },
+        {
+            "id": "canopic_jar",
+            "word": "canopic jar"
+        },
+        {
+            "id": "capsian",
+            "word": "capsian"
+        },
+        {
+            "id": "carbon_dating",
+            "word": "carbon dating"
+        },
+        {
+            "id": "carter%2C_howard",
+            "word": "carter, howard"
+        },
+        {
+            "id": "cartonnage",
+            "word": "cartonnage"
+        },
+        {
+            "id": "catacomb",
+            "word": "catacomb"
+        },
+        {
+            "id": "causewayed_camp",
+            "word": "causewayed camp"
+        },
+        {
+            "id": "cave_painting",
+            "word": "cave painting"
+        },
+        {
+            "id": "cella",
+            "word": "cella"
+        },
+        {
+            "id": "celt",
+            "word": "celt"
+        },
+        {
+            "id": "chalcolithic",
+            "word": "chalcolithic"
+        },
+        {
+            "id": "chambered",
+            "word": "chambered"
+        },
+        {
+            "id": "champollion%2C_jean-fran%C3%A7ois",
+            "word": "champollion, jean-françois"
+        },
+        {
+            "id": "chav%C3%ADn",
+            "word": "chavín"
+        },
+        {
+            "id": "cinerary_urn",
+            "word": "cinerary urn"
+        },
+        {
+            "id": "cist",
+            "word": "cist"
+        },
+        {
+            "id": "clactonian",
+            "word": "clactonian"
+        },
+        {
+            "id": "clovis",
+            "word": "clovis"
+        },
+        {
+            "id": "copper_age",
+            "word": "copper age"
+        },
+        {
+            "id": "crannog",
+            "word": "crannog"
+        },
+        {
+            "id": "crawford%2C_osbert_guy_stanhope",
+            "word": "crawford, osbert guy stanhope"
+        },
+        {
+            "id": "cromlech",
+            "word": "cromlech"
+        },
+        {
+            "id": "cross-dating",
+            "word": "cross-dating"
+        },
+        {
+            "id": "cup-and-ring",
+            "word": "cup-and-ring"
+        },
+        {
+            "id": "cycladic",
+            "word": "cycladic"
+        },
+        {
+            "id": "cyclopean",
+            "word": "cyclopean"
+        },
+        {
+            "id": "cylinder_seal",
+            "word": "cylinder seal"
+        },
+        {
+            "id": "debitage",
+            "word": "debitage"
+        },
+        {
+            "id": "dendrochronology",
+            "word": "dendrochronology"
+        },
+        {
+            "id": "diggings",
+            "word": "diggings"
+        },
+        {
+            "id": "dolmen",
+            "word": "dolmen"
+        },
+        {
+            "id": "dorset",
+            "word": "dorset"
+        },
+        {
+            "id": "dragon_ship",
+            "word": "dragon ship"
+        },
+        {
+            "id": "dun",
+            "word": "dun"
+        },
+        {
+            "id": "earthwork",
+            "word": "earthwork"
+        },
+        {
+            "id": "egyptology",
+            "word": "egyptology"
+        },
+        {
+            "id": "end-scraper",
+            "word": "end-scraper"
+        },
+        {
+            "id": "eolith",
+            "word": "eolith"
+        },
+        {
+            "id": "eolithic",
+            "word": "eolithic"
+        },
+        {
+            "id": "epipalaeolithic",
+            "word": "epipalaeolithic"
+        },
+        {
+            "id": "erteb%C3%B8lle",
+            "word": "ertebølle"
+        },
+        {
+            "id": "ethnoarchaeology",
+            "word": "ethnoarchaeology"
+        },
+        {
+            "id": "evans%2C_sir_arthur",
+            "word": "evans, sir arthur"
+        },
+        {
+            "id": "excavation",
+            "word": "excavation"
+        },
+        {
+            "id": "excavator",
+            "word": "excavator"
+        },
+        {
+            "id": "field_walking",
+            "word": "field walking"
+        },
+        {
+            "id": "find-spot",
+            "word": "find-spot"
+        },
+        {
+            "id": "fogou",
+            "word": "fogou"
+        },
+        {
+            "id": "folsom",
+            "word": "folsom"
+        },
+        {
+            "id": "fosse",
+            "word": "fosse"
+        },
+        {
+            "id": "gallery_grave",
+            "word": "gallery grave"
+        },
+        {
+            "id": "giza",
+            "word": "giza"
+        },
+        {
+            "id": "grave_goods",
+            "word": "grave goods"
+        },
+        {
+            "id": "gravettian",
+            "word": "gravettian"
+        },
+        {
+            "id": "grooved_ware",
+            "word": "grooved ware"
+        },
+        {
+            "id": "haft",
+            "word": "haft"
+        },
+        {
+            "id": "halafian",
+            "word": "halafian"
+        },
+        {
+            "id": "hallstatt",
+            "word": "hallstatt"
+        },
+        {
+            "id": "helladic",
+            "word": "helladic"
+        },
+        {
+            "id": "hellenic",
+            "word": "hellenic"
+        },
+        {
+            "id": "henge",
+            "word": "henge"
+        },
+        {
+            "id": "hieroglyph",
+            "word": "hieroglyph"
+        },
+        {
+            "id": "hill_figure",
+            "word": "hill figure"
+        },
+        {
+            "id": "hill_fort",
+            "word": "hill fort"
+        },
+        {
+            "id": "hoard",
+            "word": "hoard"
+        },
+        {
+            "id": "hoarstone",
+            "word": "hoarstone"
+        },
+        {
+            "id": "howe",
+            "word": "howe"
+        },
+        {
+            "id": "hunter-gatherer",
+            "word": "hunter-gatherer"
+        },
+        {
+            "id": "hypogeum",
+            "word": "hypogeum"
+        },
+        {
+            "id": "industrial_archaeology",
+            "word": "industrial archaeology"
+        },
+        {
+            "id": "inhumation",
+            "word": "inhumation"
+        },
+        {
+            "id": "insula",
+            "word": "insula"
+        },
+        {
+            "id": "iron_age",
+            "word": "iron age"
+        },
+        {
+            "id": "jomon",
+            "word": "jomon"
+        },
+        {
+            "id": "kitchen_midden",
+            "word": "kitchen midden"
+        },
+        {
+            "id": "knap",
+            "word": "knap"
+        },
+        {
+            "id": "kurgan",
+            "word": "kurgan"
+        },
+        {
+            "id": "landscape_history",
+            "word": "landscape history"
+        },
+        {
+            "id": "lapita",
+            "word": "lapita"
+        },
+        {
+            "id": "lascaux",
+            "word": "lascaux"
+        },
+        {
+            "id": "la_t%C3%A8ne",
+            "word": "la tène"
+        },
+        {
+            "id": "leakey",
+            "word": "leakey"
+        },
+        {
+            "id": "levallois",
+            "word": "levallois"
+        },
+        {
+            "id": "ley",
+            "word": "ley"
+        },
+        {
+            "id": "linear_a",
+            "word": "linear a"
+        },
+        {
+            "id": "linear_b",
+            "word": "linear b"
+        },
+        {
+            "id": "lithic",
+            "word": "lithic"
+        },
+        {
+            "id": "longshan",
+            "word": "longshan"
+        },
+        {
+            "id": "lur",
+            "word": "lur"
+        },
+        {
+            "id": "lustral",
+            "word": "lustral"
+        },
+        {
+            "id": "magdalenian",
+            "word": "magdalenian"
+        },
+        {
+            "id": "maglemosian",
+            "word": "maglemosian"
+        },
+        {
+            "id": "mastaba",
+            "word": "mastaba"
+        },
+        {
+            "id": "medicine_wheel",
+            "word": "medicine wheel"
+        },
+        {
+            "id": "megalith",
+            "word": "megalith"
+        },
+        {
+            "id": "megalithic",
+            "word": "megalithic"
+        },
+        {
+            "id": "menhir",
+            "word": "menhir"
+        },
+        {
+            "id": "mesolithic",
+            "word": "mesolithic"
+        },
+        {
+            "id": "microlith",
+            "word": "microlith"
+        },
+        {
+            "id": "middle_kingdom",
+            "word": "middle kingdom"
+        },
+        {
+            "id": "middle_stone_age",
+            "word": "middle stone age"
+        },
+        {
+            "id": "minoan",
+            "word": "minoan"
+        },
+        {
+            "id": "minos%2C_palace_of",
+            "word": "minos, palace of"
+        },
+        {
+            "id": "mithraeum",
+            "word": "mithraeum"
+        },
+        {
+            "id": "moabite_stone",
+            "word": "moabite stone"
+        },
+        {
+            "id": "moa_bone",
+            "word": "moa bone"
+        },
+        {
+            "id": "moche",
+            "word": "moche"
+        },
+        {
+            "id": "monolith",
+            "word": "monolith"
+        },
+        {
+            "id": "mousterian",
+            "word": "mousterian"
+        },
+        {
+            "id": "mummify",
+            "word": "mummify"
+        },
+        {
+            "id": "mummy",
+            "word": "mummy"
+        },
+        {
+            "id": "mycenaean",
+            "word": "mycenaean"
+        },
+        {
+            "id": "natufian",
+            "word": "natufian"
+        },
+        {
+            "id": "necropolis",
+            "word": "necropolis"
+        },
+        {
+            "id": "neolithic",
+            "word": "neolithic"
+        },
+        {
+            "id": "new_kingdom",
+            "word": "new kingdom"
+        },
+        {
+            "id": "new_stone_age",
+            "word": "new stone age"
+        },
+        {
+            "id": "nok",
+            "word": "nok"
+        },
+        {
+            "id": "nuragh",
+            "word": "nuragh"
+        },
+        {
+            "id": "nymphaeum",
+            "word": "nymphaeum"
+        },
+        {
+            "id": "obelisk",
+            "word": "obelisk"
+        },
+        {
+            "id": "old_kingdom",
+            "word": "old kingdom"
+        },
+        {
+            "id": "oldowan",
+            "word": "oldowan"
+        },
+        {
+            "id": "old_stone_age",
+            "word": "old stone age"
+        },
+        {
+            "id": "olmec",
+            "word": "olmec"
+        },
+        {
+            "id": "oppidum",
+            "word": "oppidum"
+        },
+        {
+            "id": "oracle_bones",
+            "word": "oracle bones"
+        },
+        {
+            "id": "orthostat",
+            "word": "orthostat"
+        },
+        {
+            "id": "ostracon",
+            "word": "ostracon"
+        },
+        {
+            "id": "palaeodemography",
+            "word": "palaeodemography"
+        },
+        {
+            "id": "palaeo-eskimo",
+            "word": "palaeo-eskimo"
+        },
+        {
+            "id": "palaeoethnobotany",
+            "word": "palaeoethnobotany"
+        },
+        {
+            "id": "palaeo-indian",
+            "word": "palaeo-indian"
+        },
+        {
+            "id": "palaeolithic",
+            "word": "palaeolithic"
+        },
+        {
+            "id": "palaeopathology",
+            "word": "palaeopathology"
+        },
+        {
+            "id": "palmette",
+            "word": "palmette"
+        },
+        {
+            "id": "palstave",
+            "word": "palstave"
+        },
+        {
+            "id": "palynology",
+            "word": "palynology"
+        },
+        {
+            "id": "papyrology",
+            "word": "papyrology"
+        },
+        {
+            "id": "papyrus",
+            "word": "papyrus"
+        },
+        {
+            "id": "passage_grave",
+            "word": "passage grave"
+        },
+        {
+            "id": "pattern_welding",
+            "word": "pattern welding"
+        },
+        {
+            "id": "penannular",
+            "word": "penannular"
+        },
+        {
+            "id": "peterborough_ware",
+            "word": "peterborough ware"
+        },
+        {
+            "id": "petrie%2C_sir_flinders",
+            "word": "petrie, sir flinders"
+        },
+        {
+            "id": "petroglyph",
+            "word": "petroglyph"
+        },
+        {
+            "id": "pile_dwelling",
+            "word": "pile dwelling"
+        },
+        {
+            "id": "pithos",
+            "word": "pithos"
+        },
+        {
+            "id": "pitt-rivers%2C_augustus",
+            "word": "pitt-rivers, augustus"
+        },
+        {
+            "id": "point",
+            "word": "point"
+        },
+        {
+            "id": "pollen_analysis",
+            "word": "pollen analysis"
+        },
+        {
+            "id": "potsherd",
+            "word": "potsherd"
+        },
+        {
+            "id": "predynastic",
+            "word": "predynastic"
+        },
+        {
+            "id": "prehistoric",
+            "word": "prehistoric"
+        },
+        {
+            "id": "prehistory",
+            "word": "prehistory"
+        },
+        {
+            "id": "prehuman",
+            "word": "prehuman"
+        },
+        {
+            "id": "pre-roman",
+            "word": "pre-roman"
+        },
+        {
+            "id": "pyramid",
+            "word": "pyramid"
+        },
+        {
+            "id": "quernstone",
+            "word": "quernstone"
+        },
+        {
+            "id": "rath",
+            "word": "rath"
+        },
+        {
+            "id": "remains",
+            "word": "remains"
+        },
+        {
+            "id": "ring_fort",
+            "word": "ring fort"
+        },
+        {
+            "id": "rongo-rongo",
+            "word": "rongo-rongo"
+        },
+        {
+            "id": "rosetta_stone",
+            "word": "rosetta stone"
+        },
+        {
+            "id": "rune_stone",
+            "word": "rune stone"
+        },
+        {
+            "id": "sarcophagus",
+            "word": "sarcophagus"
+        },
+        {
+            "id": "sauveterrian",
+            "word": "sauveterrian"
+        },
+        {
+            "id": "scaliger%2C_joseph_justus",
+            "word": "scaliger, joseph justus"
+        },
+        {
+            "id": "schliemann%2C_heinrich",
+            "word": "schliemann, heinrich"
+        },
+        {
+            "id": "scramasax",
+            "word": "scramasax"
+        },
+        {
+            "id": "seriate",
+            "word": "seriate"
+        },
+        {
+            "id": "shabti",
+            "word": "shabti"
+        },
+        {
+            "id": "shaft_grave",
+            "word": "shaft grave"
+        },
+        {
+            "id": "shard",
+            "word": "shard"
+        },
+        {
+            "id": "shell_heap",
+            "word": "shell heap"
+        },
+        {
+            "id": "ship_burial",
+            "word": "ship burial"
+        },
+        {
+            "id": "silbury_hill",
+            "word": "silbury hill"
+        },
+        {
+            "id": "skara_brae",
+            "word": "skara brae"
+        },
+        {
+            "id": "solutrean",
+            "word": "solutrean"
+        },
+        {
+            "id": "souterrain",
+            "word": "souterrain"
+        },
+        {
+            "id": "spindle_whorl",
+            "word": "spindle whorl"
+        },
+        {
+            "id": "stela",
+            "word": "stela"
+        },
+        {
+            "id": "stone_age",
+            "word": "stone age"
+        },
+        {
+            "id": "stone_circle",
+            "word": "stone circle"
+        },
+        {
+            "id": "stonehenge",
+            "word": "stonehenge"
+        },
+        {
+            "id": "sub-atlantic",
+            "word": "sub-atlantic"
+        },
+        {
+            "id": "sub-boreal",
+            "word": "sub-boreal"
+        },
+        {
+            "id": "sutton_hoo",
+            "word": "sutton hoo"
+        },
+        {
+            "id": "tanagra",
+            "word": "tanagra"
+        },
+        {
+            "id": "tardenoisian",
+            "word": "tardenoisian"
+        },
+        {
+            "id": "tell",
+            "word": "tell"
+        },
+        {
+            "id": "temenos",
+            "word": "temenos"
+        },
+        {
+            "id": "terramare",
+            "word": "terramare"
+        },
+        {
+            "id": "tessellate",
+            "word": "tessellate"
+        },
+        {
+            "id": "tessera",
+            "word": "tessera"
+        },
+        {
+            "id": "test_pit",
+            "word": "test pit"
+        },
+        {
+            "id": "thermoluminescence",
+            "word": "thermoluminescence"
+        },
+        {
+            "id": "tollund_man",
+            "word": "tollund man"
+        },
+        {
+            "id": "torc",
+            "word": "torc"
+        },
+        {
+            "id": "trilithon",
+            "word": "trilithon"
+        },
+        {
+            "id": "troglodyte",
+            "word": "troglodyte"
+        },
+        {
+            "id": "tumbaga",
+            "word": "tumbaga"
+        },
+        {
+            "id": "tumulus",
+            "word": "tumulus"
+        },
+        {
+            "id": "type_site",
+            "word": "type site"
+        },
+        {
+            "id": "typology",
+            "word": "typology"
+        },
+        {
+            "id": "ubaid",
+            "word": "ubaid"
+        },
+        {
+            "id": "urnfield",
+            "word": "urnfield"
+        },
+        {
+            "id": "vicus",
+            "word": "vicus"
+        },
+        {
+            "id": "wattle_and_daub",
+            "word": "wattle and daub"
+        },
+        {
+            "id": "winckelmann%2C_johann",
+            "word": "winckelmann, johann"
+        },
+        {
+            "id": "woolley%2C_sir_leonard",
+            "word": "woolley, sir leonard"
+        },
+        {
+            "id": "xanthian_marbles",
+            "word": "xanthian marbles"
+        },
+        {
+            "id": "yangshao",
+            "word": "yangshao"
+        },
+        {
+            "id": "yayoi",
+            "word": "yayoi"
+        },
+        {
+            "id": "ziggurat",
+            "word": "ziggurat"
+        }
+    ]
+}

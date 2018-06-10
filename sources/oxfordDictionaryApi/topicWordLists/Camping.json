@@ -1,0 +1,191 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 45
+    },
+    "results": [
+        {
+            "id": "airbed",
+            "word": "airbed"
+        },
+        {
+            "id": "bedroll",
+            "word": "bedroll"
+        },
+        {
+            "id": "bell_tent",
+            "word": "bell tent"
+        },
+        {
+            "id": "billy",
+            "word": "billy"
+        },
+        {
+            "id": "camp",
+            "word": "camp"
+        },
+        {
+            "id": "camp_bed",
+            "word": "camp bed"
+        },
+        {
+            "id": "campcraft",
+            "word": "campcraft"
+        },
+        {
+            "id": "camper",
+            "word": "camper"
+        },
+        {
+            "id": "campfire",
+            "word": "campfire"
+        },
+        {
+            "id": "camping",
+            "word": "camping"
+        },
+        {
+            "id": "campsite",
+            "word": "campsite"
+        },
+        {
+            "id": "canvas",
+            "word": "canvas"
+        },
+        {
+            "id": "caravan",
+            "word": "caravan"
+        },
+        {
+            "id": "caravanette",
+            "word": "caravanette"
+        },
+        {
+            "id": "caravanning",
+            "word": "caravanning"
+        },
+        {
+            "id": "caravan_site",
+            "word": "caravan site"
+        },
+        {
+            "id": "car_camping",
+            "word": "car camping"
+        },
+        {
+            "id": "coleman_lantern",
+            "word": "coleman lantern"
+        },
+        {
+            "id": "dixie",
+            "word": "dixie"
+        },
+        {
+            "id": "dormobile",
+            "word": "dormobile"
+        },
+        {
+            "id": "flysheet",
+            "word": "flysheet"
+        },
+        {
+            "id": "frame_tent",
+            "word": "frame tent"
+        },
+        {
+            "id": "glamping",
+            "word": "glamping"
+        },
+        {
+            "id": "groundsheet",
+            "word": "groundsheet"
+        },
+        {
+            "id": "guy",
+            "word": "guy"
+        },
+        {
+            "id": "motor_camp",
+            "word": "motor camp"
+        },
+        {
+            "id": "motor_caravan",
+            "word": "motor caravan"
+        },
+        {
+            "id": "motorhome",
+            "word": "motorhome"
+        },
+        {
+            "id": "nohoanga",
+            "word": "nohoanga"
+        },
+        {
+            "id": "peg",
+            "word": "peg"
+        },
+        {
+            "id": "pup_tent",
+            "word": "pup tent"
+        },
+        {
+            "id": "quart_pot",
+            "word": "quart pot"
+        },
+        {
+            "id": "rainfly",
+            "word": "rainfly"
+        },
+        {
+            "id": "ridge_pole",
+            "word": "ridge pole"
+        },
+        {
+            "id": "ridge_tent",
+            "word": "ridge tent"
+        },
+        {
+            "id": "rv",
+            "word": "rv"
+        },
+        {
+            "id": "sleeping_bag",
+            "word": "sleeping bag"
+        },
+        {
+            "id": "static_caravan",
+            "word": "static caravan"
+        },
+        {
+            "id": "storm_flap",
+            "word": "storm flap"
+        },
+        {
+            "id": "stuff_sack",
+            "word": "stuff sack"
+        },
+        {
+            "id": "tent",
+            "word": "tent"
+        },
+        {
+            "id": "tentage",
+            "word": "tentage"
+        },
+        {
+            "id": "tent_pole",
+            "word": "tent pole"
+        },
+        {
+            "id": "under_canvas",
+            "word": "under canvas"
+        },
+        {
+            "id": "wall_tent",
+            "word": "wall tent"
+        }
+    ]
+}

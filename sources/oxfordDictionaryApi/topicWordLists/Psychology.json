@@ -1,0 +1,2275 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 566,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "abreact",
+            "word": "abreact"
+        },
+        {
+            "id": "acrophobic",
+            "word": "acrophobic"
+        },
+        {
+            "id": "adjustment",
+            "word": "adjustment"
+        },
+        {
+            "id": "adlerian",
+            "word": "adlerian"
+        },
+        {
+            "id": "affect",
+            "word": "affect"
+        },
+        {
+            "id": "affective",
+            "word": "affective"
+        },
+        {
+            "id": "affective_disorder",
+            "word": "affective disorder"
+        },
+        {
+            "id": "affectless",
+            "word": "affectless"
+        },
+        {
+            "id": "agender",
+            "word": "agender"
+        },
+        {
+            "id": "agoraphobe",
+            "word": "agoraphobe"
+        },
+        {
+            "id": "agoraphobia",
+            "word": "agoraphobia"
+        },
+        {
+            "id": "agoraphobic",
+            "word": "agoraphobic"
+        },
+        {
+            "id": "ailurophobe",
+            "word": "ailurophobe"
+        },
+        {
+            "id": "algolagnia",
+            "word": "algolagnia"
+        },
+        {
+            "id": "ambivert",
+            "word": "ambivert"
+        },
+        {
+            "id": "analytical_psychology",
+            "word": "analytical psychology"
+        },
+        {
+            "id": "anima",
+            "word": "anima"
+        },
+        {
+            "id": "apperception",
+            "word": "apperception"
+        },
+        {
+            "id": "arachnophobe",
+            "word": "arachnophobe"
+        },
+        {
+            "id": "arachnophobia",
+            "word": "arachnophobia"
+        },
+        {
+            "id": "arachnophobic",
+            "word": "arachnophobic"
+        },
+        {
+            "id": "asperger%27s_syndrome",
+            "word": "asperger's syndrome"
+        },
+        {
+            "id": "associationism",
+            "word": "associationism"
+        },
+        {
+            "id": "atomism",
+            "word": "atomism"
+        },
+        {
+            "id": "attention_deficit_disorder",
+            "word": "attention deficit disorder"
+        },
+        {
+            "id": "attention_span",
+            "word": "attention span"
+        },
+        {
+            "id": "attribution_theory",
+            "word": "attribution theory"
+        },
+        {
+            "id": "automatize",
+            "word": "automatize"
+        },
+        {
+            "id": "autoshaping",
+            "word": "autoshaping"
+        },
+        {
+            "id": "autosuggestion",
+            "word": "autosuggestion"
+        },
+        {
+            "id": "aversion",
+            "word": "aversion"
+        },
+        {
+            "id": "barnum_effect",
+            "word": "barnum effect"
+        },
+        {
+            "id": "behavioural",
+            "word": "behavioural"
+        },
+        {
+            "id": "behavioural_economics",
+            "word": "behavioural economics"
+        },
+        {
+            "id": "behaviouralism",
+            "word": "behaviouralism"
+        },
+        {
+            "id": "behavioural_science",
+            "word": "behavioural science"
+        },
+        {
+            "id": "behaviourism",
+            "word": "behaviourism"
+        },
+        {
+            "id": "bereavement_counselling",
+            "word": "bereavement counselling"
+        },
+        {
+            "id": "bereavement_counsellor",
+            "word": "bereavement counsellor"
+        },
+        {
+            "id": "beta_rhythm",
+            "word": "beta rhythm"
+        },
+        {
+            "id": "bi-gender",
+            "word": "bi-gender"
+        },
+        {
+            "id": "binet%2C_alfred",
+            "word": "binet, alfred"
+        },
+        {
+            "id": "binet%E2%80%93simon_test",
+            "word": "binet–simon test"
+        },
+        {
+            "id": "biopsychology",
+            "word": "biopsychology"
+        },
+        {
+            "id": "biphobia",
+            "word": "biphobia"
+        },
+        {
+            "id": "biphobic",
+            "word": "biphobic"
+        },
+        {
+            "id": "body_language",
+            "word": "body language"
+        },
+        {
+            "id": "burt%2C_cyril",
+            "word": "burt, cyril"
+        },
+        {
+            "id": "cathectic",
+            "word": "cathectic"
+        },
+        {
+            "id": "cathexis",
+            "word": "cathexis"
+        },
+        {
+            "id": "cerebral_dominance",
+            "word": "cerebral dominance"
+        },
+        {
+            "id": "child_guidance",
+            "word": "child guidance"
+        },
+        {
+            "id": "cis",
+            "word": "cis"
+        },
+        {
+            "id": "classical_conditioning",
+            "word": "classical conditioning"
+        },
+        {
+            "id": "claustrophobe",
+            "word": "claustrophobe"
+        },
+        {
+            "id": "claustrophobia",
+            "word": "claustrophobia"
+        },
+        {
+            "id": "claustrophobic",
+            "word": "claustrophobic"
+        },
+        {
+            "id": "clinical_psychology",
+            "word": "clinical psychology"
+        },
+        {
+            "id": "co-counselling",
+            "word": "co-counselling"
+        },
+        {
+            "id": "co-dependency",
+            "word": "co-dependency"
+        },
+        {
+            "id": "co-dependent",
+            "word": "co-dependent"
+        },
+        {
+            "id": "cognitive_behavioural_therapy",
+            "word": "cognitive behavioural therapy"
+        },
+        {
+            "id": "cognitive_dissonance",
+            "word": "cognitive dissonance"
+        },
+        {
+            "id": "cognitive_map",
+            "word": "cognitive map"
+        },
+        {
+            "id": "cognitive_science",
+            "word": "cognitive science"
+        },
+        {
+            "id": "cognitive_scientist",
+            "word": "cognitive scientist"
+        },
+        {
+            "id": "collective_unconscious",
+            "word": "collective unconscious"
+        },
+        {
+            "id": "compos_mentis",
+            "word": "compos mentis"
+        },
+        {
+            "id": "compulsive",
+            "word": "compulsive"
+        },
+        {
+            "id": "compulsively",
+            "word": "compulsively"
+        },
+        {
+            "id": "conation",
+            "word": "conation"
+        },
+        {
+            "id": "conative",
+            "word": "conative"
+        },
+        {
+            "id": "conditioned_response",
+            "word": "conditioned response"
+        },
+        {
+            "id": "conditioning",
+            "word": "conditioning"
+        },
+        {
+            "id": "conduct_disorder",
+            "word": "conduct disorder"
+        },
+        {
+            "id": "connectionism",
+            "word": "connectionism"
+        },
+        {
+            "id": "consciously",
+            "word": "consciously"
+        },
+        {
+            "id": "contiguity",
+            "word": "contiguity"
+        },
+        {
+            "id": "contra-suggestible",
+            "word": "contra-suggestible"
+        },
+        {
+            "id": "convergent",
+            "word": "convergent"
+        },
+        {
+            "id": "counselling",
+            "word": "counselling"
+        },
+        {
+            "id": "counsellor",
+            "word": "counsellor"
+        },
+        {
+            "id": "counter-conditioning",
+            "word": "counter-conditioning"
+        },
+        {
+            "id": "critical_period",
+            "word": "critical period"
+        },
+        {
+            "id": "cyberphobe",
+            "word": "cyberphobe"
+        },
+        {
+            "id": "cyberphobic",
+            "word": "cyberphobic"
+        },
+        {
+            "id": "cyclothymia",
+            "word": "cyclothymia"
+        },
+        {
+            "id": "cynicism",
+            "word": "cynicism"
+        },
+        {
+            "id": "d%C3%A9j%C3%A0_vu",
+            "word": "déjà vu"
+        },
+        {
+            "id": "death_instinct",
+            "word": "death instinct"
+        },
+        {
+            "id": "death_wish",
+            "word": "death wish"
+        },
+        {
+            "id": "decentre",
+            "word": "decentre"
+        },
+        {
+            "id": "decentring",
+            "word": "decentring"
+        },
+        {
+            "id": "declarative_memory",
+            "word": "declarative memory"
+        },
+        {
+            "id": "defensiveness",
+            "word": "defensiveness"
+        },
+        {
+            "id": "depth_psychology",
+            "word": "depth psychology"
+        },
+        {
+            "id": "derealization",
+            "word": "derealization"
+        },
+        {
+            "id": "difference_threshold",
+            "word": "difference threshold"
+        },
+        {
+            "id": "diffidence",
+            "word": "diffidence"
+        },
+        {
+            "id": "displacement_activity",
+            "word": "displacement activity"
+        },
+        {
+            "id": "distractibility",
+            "word": "distractibility"
+        },
+        {
+            "id": "divergent",
+            "word": "divergent"
+        },
+        {
+            "id": "doublethink",
+            "word": "doublethink"
+        },
+        {
+            "id": "dreamwork",
+            "word": "dreamwork"
+        },
+        {
+            "id": "echopraxia",
+            "word": "echopraxia"
+        },
+        {
+            "id": "ego",
+            "word": "ego"
+        },
+        {
+            "id": "ego-ideal",
+            "word": "ego-ideal"
+        },
+        {
+            "id": "egomania",
+            "word": "egomania"
+        },
+        {
+            "id": "egomaniac",
+            "word": "egomaniac"
+        },
+        {
+            "id": "ego-psychology",
+            "word": "ego-psychology"
+        },
+        {
+            "id": "egotist",
+            "word": "egotist"
+        },
+        {
+            "id": "eidetic",
+            "word": "eidetic"
+        },
+        {
+            "id": "electra_complex",
+            "word": "electra complex"
+        },
+        {
+            "id": "electrodermal",
+            "word": "electrodermal"
+        },
+        {
+            "id": "ellis%2C_havelock",
+            "word": "ellis, havelock"
+        },
+        {
+            "id": "emetophobia",
+            "word": "emetophobia"
+        },
+        {
+            "id": "emetophobic",
+            "word": "emetophobic"
+        },
+        {
+            "id": "emotional_intelligence",
+            "word": "emotional intelligence"
+        },
+        {
+            "id": "emotional_quotient",
+            "word": "emotional quotient"
+        },
+        {
+            "id": "empathetic",
+            "word": "empathetic"
+        },
+        {
+            "id": "empathetically",
+            "word": "empathetically"
+        },
+        {
+            "id": "empathic",
+            "word": "empathic"
+        },
+        {
+            "id": "empathize",
+            "word": "empathize"
+        },
+        {
+            "id": "empathy",
+            "word": "empathy"
+        },
+        {
+            "id": "enantiodromia",
+            "word": "enantiodromia"
+        },
+        {
+            "id": "encounter_group",
+            "word": "encounter group"
+        },
+        {
+            "id": "engram",
+            "word": "engram"
+        },
+        {
+            "id": "entoptic",
+            "word": "entoptic"
+        },
+        {
+            "id": "ephebophile",
+            "word": "ephebophile"
+        },
+        {
+            "id": "episodic_memory",
+            "word": "episodic memory"
+        },
+        {
+            "id": "eroto-",
+            "word": "eroto-"
+        },
+        {
+            "id": "escape_mechanism",
+            "word": "escape mechanism"
+        },
+        {
+            "id": "escapism",
+            "word": "escapism"
+        },
+        {
+            "id": "escapist",
+            "word": "escapist"
+        },
+        {
+            "id": "europhobic",
+            "word": "europhobic"
+        },
+        {
+            "id": "evoke",
+            "word": "evoke"
+        },
+        {
+            "id": "excitatory",
+            "word": "excitatory"
+        },
+        {
+            "id": "exhibitionist",
+            "word": "exhibitionist"
+        },
+        {
+            "id": "experimental_psychology",
+            "word": "experimental psychology"
+        },
+        {
+            "id": "experimenter_effect",
+            "word": "experimenter effect"
+        },
+        {
+            "id": "extroversion",
+            "word": "extroversion"
+        },
+        {
+            "id": "extrovert",
+            "word": "extrovert"
+        },
+        {
+            "id": "eye_tracking",
+            "word": "eye tracking"
+        },
+        {
+            "id": "eysenck%2C_hans",
+            "word": "eysenck, hans"
+        },
+        {
+            "id": "face_validity",
+            "word": "face validity"
+        },
+        {
+            "id": "false_consciousness",
+            "word": "false consciousness"
+        },
+        {
+            "id": "father_figure",
+            "word": "father figure"
+        },
+        {
+            "id": "fechner%2C_gustav_theodor",
+            "word": "fechner, gustav theodor"
+        },
+        {
+            "id": "fetish",
+            "word": "fetish"
+        },
+        {
+            "id": "fetishism",
+            "word": "fetishism"
+        },
+        {
+            "id": "fetishistic",
+            "word": "fetishistic"
+        },
+        {
+            "id": "figure-ground",
+            "word": "figure-ground"
+        },
+        {
+            "id": "fixation",
+            "word": "fixation"
+        },
+        {
+            "id": "flagellant",
+            "word": "flagellant"
+        },
+        {
+            "id": "folie_%C3%A0_deux",
+            "word": "folie à deux"
+        },
+        {
+            "id": "free-associate",
+            "word": "free-associate"
+        },
+        {
+            "id": "free_association",
+            "word": "free association"
+        },
+        {
+            "id": "freud%2C_sigmund",
+            "word": "freud, sigmund"
+        },
+        {
+            "id": "freudian",
+            "word": "freudian"
+        },
+        {
+            "id": "gad",
+            "word": "gad"
+        },
+        {
+            "id": "gender_expression",
+            "word": "gender expression"
+        },
+        {
+            "id": "gender_identity",
+            "word": "gender identity"
+        },
+        {
+            "id": "gender_role",
+            "word": "gender role"
+        },
+        {
+            "id": "generalized_anxiety_disorder",
+            "word": "generalized anxiety disorder"
+        },
+        {
+            "id": "germophobic",
+            "word": "germophobic"
+        },
+        {
+            "id": "gestalt",
+            "word": "gestalt"
+        },
+        {
+            "id": "gestalt_psychology",
+            "word": "gestalt psychology"
+        },
+        {
+            "id": "gestalt_therapy",
+            "word": "gestalt therapy"
+        },
+        {
+            "id": "grief_counselling",
+            "word": "grief counselling"
+        },
+        {
+            "id": "grief_counsellor",
+            "word": "grief counsellor"
+        },
+        {
+            "id": "group_dynamics",
+            "word": "group dynamics"
+        },
+        {
+            "id": "group_therapy",
+            "word": "group therapy"
+        },
+        {
+            "id": "guilt_complex",
+            "word": "guilt complex"
+        },
+        {
+            "id": "gynophobic",
+            "word": "gynophobic"
+        },
+        {
+            "id": "habituation",
+            "word": "habituation"
+        },
+        {
+            "id": "habitus",
+            "word": "habitus"
+        },
+        {
+            "id": "hallucinate",
+            "word": "hallucinate"
+        },
+        {
+            "id": "hallucination",
+            "word": "hallucination"
+        },
+        {
+            "id": "hallucinatory",
+            "word": "hallucinatory"
+        },
+        {
+            "id": "hang-up",
+            "word": "hang-up"
+        },
+        {
+            "id": "hawthorne_effect",
+            "word": "hawthorne effect"
+        },
+        {
+            "id": "healing",
+            "word": "healing"
+        },
+        {
+            "id": "health-conscious",
+            "word": "health-conscious"
+        },
+        {
+            "id": "health-obsessed",
+            "word": "health-obsessed"
+        },
+        {
+            "id": "hedonic",
+            "word": "hedonic"
+        },
+        {
+            "id": "herd_instinct",
+            "word": "herd instinct"
+        },
+        {
+            "id": "herd_mentality",
+            "word": "herd mentality"
+        },
+        {
+            "id": "homing_instinct",
+            "word": "homing instinct"
+        },
+        {
+            "id": "homophobe",
+            "word": "homophobe"
+        },
+        {
+            "id": "homophobia",
+            "word": "homophobia"
+        },
+        {
+            "id": "homophobic",
+            "word": "homophobic"
+        },
+        {
+            "id": "hypermnesia",
+            "word": "hypermnesia"
+        },
+        {
+            "id": "hypnagogic",
+            "word": "hypnagogic"
+        },
+        {
+            "id": "hypnobirth",
+            "word": "hypnobirth"
+        },
+        {
+            "id": "hypnobirthing",
+            "word": "hypnobirthing"
+        },
+        {
+            "id": "hypnopaedia",
+            "word": "hypnopaedia"
+        },
+        {
+            "id": "hypnophobic",
+            "word": "hypnophobic"
+        },
+        {
+            "id": "hypnopompic",
+            "word": "hypnopompic"
+        },
+        {
+            "id": "hypnosis",
+            "word": "hypnosis"
+        },
+        {
+            "id": "hypnotism",
+            "word": "hypnotism"
+        },
+        {
+            "id": "hypnotist",
+            "word": "hypnotist"
+        },
+        {
+            "id": "hypnotize",
+            "word": "hypnotize"
+        },
+        {
+            "id": "hypochondriacal",
+            "word": "hypochondriacal"
+        },
+        {
+            "id": "id",
+            "word": "id"
+        },
+        {
+            "id": "ideate",
+            "word": "ideate"
+        },
+        {
+            "id": "ideation",
+            "word": "ideation"
+        },
+        {
+            "id": "ideational",
+            "word": "ideational"
+        },
+        {
+            "id": "identity_crisis",
+            "word": "identity crisis"
+        },
+        {
+            "id": "idiot",
+            "word": "idiot"
+        },
+        {
+            "id": "illusion",
+            "word": "illusion"
+        },
+        {
+            "id": "imagination",
+            "word": "imagination"
+        },
+        {
+            "id": "impostor_syndrome",
+            "word": "impostor syndrome"
+        },
+        {
+            "id": "inadequacy",
+            "word": "inadequacy"
+        },
+        {
+            "id": "infantilism",
+            "word": "infantilism"
+        },
+        {
+            "id": "inferiority_complex",
+            "word": "inferiority complex"
+        },
+        {
+            "id": "inhibited",
+            "word": "inhibited"
+        },
+        {
+            "id": "inhibition",
+            "word": "inhibition"
+        },
+        {
+            "id": "inner_child",
+            "word": "inner child"
+        },
+        {
+            "id": "inner-directed",
+            "word": "inner-directed"
+        },
+        {
+            "id": "inner_speech",
+            "word": "inner speech"
+        },
+        {
+            "id": "insane",
+            "word": "insane"
+        },
+        {
+            "id": "instability",
+            "word": "instability"
+        },
+        {
+            "id": "instinct",
+            "word": "instinct"
+        },
+        {
+            "id": "instinctive",
+            "word": "instinctive"
+        },
+        {
+            "id": "instinctual",
+            "word": "instinctual"
+        },
+        {
+            "id": "instinctually",
+            "word": "instinctually"
+        },
+        {
+            "id": "instrumental_conditioning",
+            "word": "instrumental conditioning"
+        },
+        {
+            "id": "intellection",
+            "word": "intellection"
+        },
+        {
+            "id": "intelligence_quotient",
+            "word": "intelligence quotient"
+        },
+        {
+            "id": "interiorize",
+            "word": "interiorize"
+        },
+        {
+            "id": "internalize",
+            "word": "internalize"
+        },
+        {
+            "id": "interpersonal",
+            "word": "interpersonal"
+        },
+        {
+            "id": "introject",
+            "word": "introject"
+        },
+        {
+            "id": "introjection",
+            "word": "introjection"
+        },
+        {
+            "id": "introspect",
+            "word": "introspect"
+        },
+        {
+            "id": "introspection",
+            "word": "introspection"
+        },
+        {
+            "id": "introversion",
+            "word": "introversion"
+        },
+        {
+            "id": "introvert",
+            "word": "introvert"
+        },
+        {
+            "id": "introverted",
+            "word": "introverted"
+        },
+        {
+            "id": "intuition",
+            "word": "intuition"
+        },
+        {
+            "id": "islamophobic",
+            "word": "islamophobic"
+        },
+        {
+            "id": "jung%2C_carl",
+            "word": "jung, carl"
+        },
+        {
+            "id": "jungian",
+            "word": "jungian"
+        },
+        {
+            "id": "kinaesthesia",
+            "word": "kinaesthesia"
+        },
+        {
+            "id": "kinaesthetic",
+            "word": "kinaesthetic"
+        },
+        {
+            "id": "klein%2C_melanie",
+            "word": "klein, melanie"
+        },
+        {
+            "id": "kleptomania",
+            "word": "kleptomania"
+        },
+        {
+            "id": "labile",
+            "word": "labile"
+        },
+        {
+            "id": "lacan%2C_jacques",
+            "word": "lacan, jacques"
+        },
+        {
+            "id": "lacanian",
+            "word": "lacanian"
+        },
+        {
+            "id": "lacanianism",
+            "word": "lacanianism"
+        },
+        {
+            "id": "laterality",
+            "word": "laterality"
+        },
+        {
+            "id": "lateralize",
+            "word": "lateralize"
+        },
+        {
+            "id": "learning",
+            "word": "learning"
+        },
+        {
+            "id": "learning_difficulties",
+            "word": "learning difficulties"
+        },
+        {
+            "id": "left_brain",
+            "word": "left brain"
+        },
+        {
+            "id": "left-brained",
+            "word": "left-brained"
+        },
+        {
+            "id": "life_instinct",
+            "word": "life instinct"
+        },
+        {
+            "id": "likert_scale",
+            "word": "likert scale"
+        },
+        {
+            "id": "limen",
+            "word": "limen"
+        },
+        {
+            "id": "liminal",
+            "word": "liminal"
+        },
+        {
+            "id": "long-term_memory",
+            "word": "long-term memory"
+        },
+        {
+            "id": "ludic",
+            "word": "ludic"
+        },
+        {
+            "id": "lunacy",
+            "word": "lunacy"
+        },
+        {
+            "id": "lunatic",
+            "word": "lunatic"
+        },
+        {
+            "id": "maladaptation",
+            "word": "maladaptation"
+        },
+        {
+            "id": "maladapted",
+            "word": "maladapted"
+        },
+        {
+            "id": "maladaptive",
+            "word": "maladaptive"
+        },
+        {
+            "id": "maladjusted",
+            "word": "maladjusted"
+        },
+        {
+            "id": "maladjustment",
+            "word": "maladjustment"
+        },
+        {
+            "id": "male_gaze",
+            "word": "male gaze"
+        },
+        {
+            "id": "male_menopause",
+            "word": "male menopause"
+        },
+        {
+            "id": "-mania",
+            "word": "-mania"
+        },
+        {
+            "id": "-maniac",
+            "word": "-maniac"
+        },
+        {
+            "id": "masochism",
+            "word": "masochism"
+        },
+        {
+            "id": "masochist",
+            "word": "masochist"
+        },
+        {
+            "id": "masochistic",
+            "word": "masochistic"
+        },
+        {
+            "id": "memory_trace",
+            "word": "memory trace"
+        },
+        {
+            "id": "mental",
+            "word": "mental"
+        },
+        {
+            "id": "mental_block",
+            "word": "mental block"
+        },
+        {
+            "id": "mental_illness",
+            "word": "mental illness"
+        },
+        {
+            "id": "mentally_handicapped",
+            "word": "mentally handicapped"
+        },
+        {
+            "id": "mentation",
+            "word": "mentation"
+        },
+        {
+            "id": "mesmer%2C_franz_anton",
+            "word": "mesmer, franz anton"
+        },
+        {
+            "id": "mesmeric",
+            "word": "mesmeric"
+        },
+        {
+            "id": "mesmerism",
+            "word": "mesmerism"
+        },
+        {
+            "id": "mesmerize",
+            "word": "mesmerize"
+        },
+        {
+            "id": "metacognition",
+            "word": "metacognition"
+        },
+        {
+            "id": "metapsychology",
+            "word": "metapsychology"
+        },
+        {
+            "id": "midlife_crisis",
+            "word": "midlife crisis"
+        },
+        {
+            "id": "mind",
+            "word": "mind"
+        },
+        {
+            "id": "mnemonic",
+            "word": "mnemonic"
+        },
+        {
+            "id": "mnemonics",
+            "word": "mnemonics"
+        },
+        {
+            "id": "monomania",
+            "word": "monomania"
+        },
+        {
+            "id": "monomaniac",
+            "word": "monomaniac"
+        },
+        {
+            "id": "mood",
+            "word": "mood"
+        },
+        {
+            "id": "mood_disorder",
+            "word": "mood disorder"
+        },
+        {
+            "id": "mood_swing",
+            "word": "mood swing"
+        },
+        {
+            "id": "mother_figure",
+            "word": "mother figure"
+        },
+        {
+            "id": "mysophobia",
+            "word": "mysophobia"
+        },
+        {
+            "id": "mythomania",
+            "word": "mythomania"
+        },
+        {
+            "id": "narcissism",
+            "word": "narcissism"
+        },
+        {
+            "id": "narcissist",
+            "word": "narcissist"
+        },
+        {
+            "id": "necker_cube",
+            "word": "necker cube"
+        },
+        {
+            "id": "necrophile",
+            "word": "necrophile"
+        },
+        {
+            "id": "necrophilia",
+            "word": "necrophilia"
+        },
+        {
+            "id": "negrophobe",
+            "word": "negrophobe"
+        },
+        {
+            "id": "negrophobia",
+            "word": "negrophobia"
+        },
+        {
+            "id": "neophobia",
+            "word": "neophobia"
+        },
+        {
+            "id": "neophobic",
+            "word": "neophobic"
+        },
+        {
+            "id": "neurocognitive",
+            "word": "neurocognitive"
+        },
+        {
+            "id": "neuroeconomics",
+            "word": "neuroeconomics"
+        },
+        {
+            "id": "neurolinguistic_programming",
+            "word": "neurolinguistic programming"
+        },
+        {
+            "id": "neuropsychology",
+            "word": "neuropsychology"
+        },
+        {
+            "id": "neuropsychopharmacology",
+            "word": "neuropsychopharmacology"
+        },
+        {
+            "id": "noctambulation",
+            "word": "noctambulation"
+        },
+        {
+            "id": "nurturance",
+            "word": "nurturance"
+        },
+        {
+            "id": "nyctophobia",
+            "word": "nyctophobia"
+        },
+        {
+            "id": "nymphomania",
+            "word": "nymphomania"
+        },
+        {
+            "id": "nymphomaniac",
+            "word": "nymphomaniac"
+        },
+        {
+            "id": "object_choice",
+            "word": "object choice"
+        },
+        {
+            "id": "object_relations",
+            "word": "object relations"
+        },
+        {
+            "id": "object_world",
+            "word": "object world"
+        },
+        {
+            "id": "obsess",
+            "word": "obsess"
+        },
+        {
+            "id": "obsession",
+            "word": "obsession"
+        },
+        {
+            "id": "obsessional",
+            "word": "obsessional"
+        },
+        {
+            "id": "occupational_psychology",
+            "word": "occupational psychology"
+        },
+        {
+            "id": "ochlophobia",
+            "word": "ochlophobia"
+        },
+        {
+            "id": "ocnophil",
+            "word": "ocnophil"
+        },
+        {
+            "id": "oedipal",
+            "word": "oedipal"
+        },
+        {
+            "id": "oedipus_complex",
+            "word": "oedipus complex"
+        },
+        {
+            "id": "of_unsound_mind",
+            "word": "of unsound mind"
+        },
+        {
+            "id": "operant",
+            "word": "operant"
+        },
+        {
+            "id": "orbitofrontal_cortex",
+            "word": "orbitofrontal cortex"
+        },
+        {
+            "id": "other-directed",
+            "word": "other-directed"
+        },
+        {
+            "id": "overcompensate",
+            "word": "overcompensate"
+        },
+        {
+            "id": "overreact",
+            "word": "overreact"
+        },
+        {
+            "id": "overreaction",
+            "word": "overreaction"
+        },
+        {
+            "id": "paedo",
+            "word": "paedo"
+        },
+        {
+            "id": "paedophile",
+            "word": "paedophile"
+        },
+        {
+            "id": "paedophilia",
+            "word": "paedophilia"
+        },
+        {
+            "id": "pain_threshold",
+            "word": "pain threshold"
+        },
+        {
+            "id": "panic_attack",
+            "word": "panic attack"
+        },
+        {
+            "id": "paraphasia",
+            "word": "paraphasia"
+        },
+        {
+            "id": "parapsychology",
+            "word": "parapsychology"
+        },
+        {
+            "id": "parasuicide",
+            "word": "parasuicide"
+        },
+        {
+            "id": "pareidolia",
+            "word": "pareidolia"
+        },
+        {
+            "id": "passive-aggressive",
+            "word": "passive-aggressive"
+        },
+        {
+            "id": "pathologize",
+            "word": "pathologize"
+        },
+        {
+            "id": "pavlovian",
+            "word": "pavlovian"
+        },
+        {
+            "id": "pelmanism",
+            "word": "pelmanism"
+        },
+        {
+            "id": "penis_envy",
+            "word": "penis envy"
+        },
+        {
+            "id": "persecution_complex",
+            "word": "persecution complex"
+        },
+        {
+            "id": "perseverate",
+            "word": "perseverate"
+        },
+        {
+            "id": "persona",
+            "word": "persona"
+        },
+        {
+            "id": "personality_inventory",
+            "word": "personality inventory"
+        },
+        {
+            "id": "personality_type",
+            "word": "personality type"
+        },
+        {
+            "id": "phallic",
+            "word": "phallic"
+        },
+        {
+            "id": "phase",
+            "word": "phase"
+        },
+        {
+            "id": "philobat",
+            "word": "philobat"
+        },
+        {
+            "id": "phobe",
+            "word": "phobe"
+        },
+        {
+            "id": "phobia",
+            "word": "phobia"
+        },
+        {
+            "id": "phobic",
+            "word": "phobic"
+        },
+        {
+            "id": "photism",
+            "word": "photism"
+        },
+        {
+            "id": "photophobic",
+            "word": "photophobic"
+        },
+        {
+            "id": "piaget%2C_jean",
+            "word": "piaget, jean"
+        },
+        {
+            "id": "play_therapy",
+            "word": "play therapy"
+        },
+        {
+            "id": "pleasure_principle",
+            "word": "pleasure principle"
+        },
+        {
+            "id": "pogonophobic",
+            "word": "pogonophobic"
+        },
+        {
+            "id": "poltergeist",
+            "word": "poltergeist"
+        },
+        {
+            "id": "polymorphously_perverse",
+            "word": "polymorphously perverse"
+        },
+        {
+            "id": "polymorphous_perversity",
+            "word": "polymorphous perversity"
+        },
+        {
+            "id": "positive_reinforcement",
+            "word": "positive reinforcement"
+        },
+        {
+            "id": "post-hypnotic",
+            "word": "post-hypnotic"
+        },
+        {
+            "id": "postnatal",
+            "word": "postnatal"
+        },
+        {
+            "id": "precipitant",
+            "word": "precipitant"
+        },
+        {
+            "id": "preconditioned",
+            "word": "preconditioned"
+        },
+        {
+            "id": "preconditioning",
+            "word": "preconditioning"
+        },
+        {
+            "id": "preconscious",
+            "word": "preconscious"
+        },
+        {
+            "id": "pre-exposure",
+            "word": "pre-exposure"
+        },
+        {
+            "id": "pregenital",
+            "word": "pregenital"
+        },
+        {
+            "id": "prelinguistic",
+            "word": "prelinguistic"
+        },
+        {
+            "id": "pre-oedipal",
+            "word": "pre-oedipal"
+        },
+        {
+            "id": "preverbal",
+            "word": "preverbal"
+        },
+        {
+            "id": "primal",
+            "word": "primal"
+        },
+        {
+            "id": "primal_scene",
+            "word": "primal scene"
+        },
+        {
+            "id": "primary_process",
+            "word": "primary process"
+        },
+        {
+            "id": "proactive_interference",
+            "word": "proactive interference"
+        },
+        {
+            "id": "profiling",
+            "word": "profiling"
+        },
+        {
+            "id": "projective_test",
+            "word": "projective test"
+        },
+        {
+            "id": "prosocial",
+            "word": "prosocial"
+        },
+        {
+            "id": "psyche",
+            "word": "psyche"
+        },
+        {
+            "id": "psycho-",
+            "word": "psycho-"
+        },
+        {
+            "id": "psychoacoustics",
+            "word": "psychoacoustics"
+        },
+        {
+            "id": "psychobabble",
+            "word": "psychobabble"
+        },
+        {
+            "id": "psychobiology",
+            "word": "psychobiology"
+        },
+        {
+            "id": "psychodynamics",
+            "word": "psychodynamics"
+        },
+        {
+            "id": "psychogenesis",
+            "word": "psychogenesis"
+        },
+        {
+            "id": "psychogenic",
+            "word": "psychogenic"
+        },
+        {
+            "id": "psychographics",
+            "word": "psychographics"
+        },
+        {
+            "id": "psycholinguist",
+            "word": "psycholinguist"
+        },
+        {
+            "id": "psycholinguistics",
+            "word": "psycholinguistics"
+        },
+        {
+            "id": "psychologese",
+            "word": "psychologese"
+        },
+        {
+            "id": "psychological",
+            "word": "psychological"
+        },
+        {
+            "id": "psychologically",
+            "word": "psychologically"
+        },
+        {
+            "id": "psychologist",
+            "word": "psychologist"
+        },
+        {
+            "id": "psychologize",
+            "word": "psychologize"
+        },
+        {
+            "id": "psychology",
+            "word": "psychology"
+        },
+        {
+            "id": "psychometric",
+            "word": "psychometric"
+        },
+        {
+            "id": "psychometrician",
+            "word": "psychometrician"
+        },
+        {
+            "id": "psychometrics",
+            "word": "psychometrics"
+        },
+        {
+            "id": "psychomotor",
+            "word": "psychomotor"
+        },
+        {
+            "id": "psychopharmacology",
+            "word": "psychopharmacology"
+        },
+        {
+            "id": "psychophysics",
+            "word": "psychophysics"
+        },
+        {
+            "id": "psychophysiology",
+            "word": "psychophysiology"
+        },
+        {
+            "id": "psychosexual",
+            "word": "psychosexual"
+        },
+        {
+            "id": "psychosocial",
+            "word": "psychosocial"
+        },
+        {
+            "id": "psychosynthesis",
+            "word": "psychosynthesis"
+        },
+        {
+            "id": "pyromania",
+            "word": "pyromania"
+        },
+        {
+            "id": "reaction_formation",
+            "word": "reaction formation"
+        },
+        {
+            "id": "reactive_inhibition",
+            "word": "reactive inhibition"
+        },
+        {
+            "id": "reality_principle",
+            "word": "reality principle"
+        },
+        {
+            "id": "reality_testing",
+            "word": "reality testing"
+        },
+        {
+            "id": "rebirthing",
+            "word": "rebirthing"
+        },
+        {
+            "id": "regress",
+            "word": "regress"
+        },
+        {
+            "id": "regression",
+            "word": "regression"
+        },
+        {
+            "id": "regressive",
+            "word": "regressive"
+        },
+        {
+            "id": "relive",
+            "word": "relive"
+        },
+        {
+            "id": "repressed",
+            "word": "repressed"
+        },
+        {
+            "id": "ressentiment",
+            "word": "ressentiment"
+        },
+        {
+            "id": "retardate",
+            "word": "retardate"
+        },
+        {
+            "id": "retarded",
+            "word": "retarded"
+        },
+        {
+            "id": "retention",
+            "word": "retention"
+        },
+        {
+            "id": "retroactive_interference",
+            "word": "retroactive interference"
+        },
+        {
+            "id": "reverse_psychology",
+            "word": "reverse psychology"
+        },
+        {
+            "id": "right_brain",
+            "word": "right brain"
+        },
+        {
+            "id": "rock_spider",
+            "word": "rock spider"
+        },
+        {
+            "id": "role_play",
+            "word": "role play"
+        },
+        {
+            "id": "role_playing",
+            "word": "role playing"
+        },
+        {
+            "id": "rorschach_test",
+            "word": "rorschach test"
+        },
+        {
+            "id": "sadism",
+            "word": "sadism"
+        },
+        {
+            "id": "sadist",
+            "word": "sadist"
+        },
+        {
+            "id": "sadomasochism",
+            "word": "sadomasochism"
+        },
+        {
+            "id": "sadomasochistic",
+            "word": "sadomasochistic"
+        },
+        {
+            "id": "savant",
+            "word": "savant"
+        },
+        {
+            "id": "scatological",
+            "word": "scatological"
+        },
+        {
+            "id": "scatology",
+            "word": "scatology"
+        },
+        {
+            "id": "schizo-affective",
+            "word": "schizo-affective"
+        },
+        {
+            "id": "schizotype",
+            "word": "schizotype"
+        },
+        {
+            "id": "secondary_process",
+            "word": "secondary process"
+        },
+        {
+            "id": "selective_attention",
+            "word": "selective attention"
+        },
+        {
+            "id": "self-actualization",
+            "word": "self-actualization"
+        },
+        {
+            "id": "self-affirmation",
+            "word": "self-affirmation"
+        },
+        {
+            "id": "self-alienation",
+            "word": "self-alienation"
+        },
+        {
+            "id": "self-analysis",
+            "word": "self-analysis"
+        },
+        {
+            "id": "self-aware",
+            "word": "self-aware"
+        },
+        {
+            "id": "self-awareness",
+            "word": "self-awareness"
+        },
+        {
+            "id": "self-command",
+            "word": "self-command"
+        },
+        {
+            "id": "self-concept",
+            "word": "self-concept"
+        },
+        {
+            "id": "self-control",
+            "word": "self-control"
+        },
+        {
+            "id": "self-doubting",
+            "word": "self-doubting"
+        },
+        {
+            "id": "self-identification",
+            "word": "self-identification"
+        },
+        {
+            "id": "self-identity",
+            "word": "self-identity"
+        },
+        {
+            "id": "self-image",
+            "word": "self-image"
+        },
+        {
+            "id": "self-knowing",
+            "word": "self-knowing"
+        },
+        {
+            "id": "self-knowledge",
+            "word": "self-knowledge"
+        },
+        {
+            "id": "self-observation",
+            "word": "self-observation"
+        },
+        {
+            "id": "self-possession",
+            "word": "self-possession"
+        },
+        {
+            "id": "self-realization",
+            "word": "self-realization"
+        },
+        {
+            "id": "self-system",
+            "word": "self-system"
+        },
+        {
+            "id": "semantic_memory",
+            "word": "semantic memory"
+        },
+        {
+            "id": "sensitive_period",
+            "word": "sensitive period"
+        },
+        {
+            "id": "sensory_deprivation",
+            "word": "sensory deprivation"
+        },
+        {
+            "id": "sex_role",
+            "word": "sex role"
+        },
+        {
+            "id": "sex_typing",
+            "word": "sex typing"
+        },
+        {
+            "id": "shock_therapy",
+            "word": "shock therapy"
+        },
+        {
+            "id": "shopaholic",
+            "word": "shopaholic"
+        },
+        {
+            "id": "shut_someone%2Fsomething_out",
+            "word": "shut someone/something out"
+        },
+        {
+            "id": "shyness",
+            "word": "shyness"
+        },
+        {
+            "id": "skinner%2C_b._f.",
+            "word": "skinner, b. f."
+        },
+        {
+            "id": "skinner_box",
+            "word": "skinner box"
+        },
+        {
+            "id": "social_distance",
+            "word": "social distance"
+        },
+        {
+            "id": "social_psychology",
+            "word": "social psychology"
+        },
+        {
+            "id": "sociopath",
+            "word": "sociopath"
+        },
+        {
+            "id": "somatotype",
+            "word": "somatotype"
+        },
+        {
+            "id": "somnambulism",
+            "word": "somnambulism"
+        },
+        {
+            "id": "spearman%27s_rank_correlation",
+            "word": "spearman's rank correlation"
+        },
+        {
+            "id": "stereognosis",
+            "word": "stereognosis"
+        },
+        {
+            "id": "stockholm_syndrome",
+            "word": "stockholm syndrome"
+        },
+        {
+            "id": "stream_of_consciousness",
+            "word": "stream of consciousness"
+        },
+        {
+            "id": "subconscious",
+            "word": "subconscious"
+        },
+        {
+            "id": "subconsciously",
+            "word": "subconsciously"
+        },
+        {
+            "id": "subjective",
+            "word": "subjective"
+        },
+        {
+            "id": "subjectively",
+            "word": "subjectively"
+        },
+        {
+            "id": "subjectivity",
+            "word": "subjectivity"
+        },
+        {
+            "id": "sublimate",
+            "word": "sublimate"
+        },
+        {
+            "id": "subliminal",
+            "word": "subliminal"
+        },
+        {
+            "id": "substitute",
+            "word": "substitute"
+        },
+        {
+            "id": "subvocal",
+            "word": "subvocal"
+        },
+        {
+            "id": "subvocalize",
+            "word": "subvocalize"
+        },
+        {
+            "id": "superego",
+            "word": "superego"
+        },
+        {
+            "id": "superiority_complex",
+            "word": "superiority complex"
+        },
+        {
+            "id": "synaesthesia",
+            "word": "synaesthesia"
+        },
+        {
+            "id": "synaesthete",
+            "word": "synaesthete"
+        },
+        {
+            "id": "synaesthetic",
+            "word": "synaesthetic"
+        },
+        {
+            "id": "synchronicity",
+            "word": "synchronicity"
+        },
+        {
+            "id": "syntonic",
+            "word": "syntonic"
+        },
+        {
+            "id": "tachistoscope",
+            "word": "tachistoscope"
+        },
+        {
+            "id": "tanorexia",
+            "word": "tanorexia"
+        },
+        {
+            "id": "tanorexic",
+            "word": "tanorexic"
+        },
+        {
+            "id": "technophobic",
+            "word": "technophobic"
+        },
+        {
+            "id": "technostress",
+            "word": "technostress"
+        },
+        {
+            "id": "telaesthesia",
+            "word": "telaesthesia"
+        },
+        {
+            "id": "telekinesis",
+            "word": "telekinesis"
+        },
+        {
+            "id": "telepath",
+            "word": "telepath"
+        },
+        {
+            "id": "telepathize",
+            "word": "telepathize"
+        },
+        {
+            "id": "telepathy",
+            "word": "telepathy"
+        },
+        {
+            "id": "territorial_imperative",
+            "word": "territorial imperative"
+        },
+        {
+            "id": "t-group",
+            "word": "t-group"
+        },
+        {
+            "id": "thanatos",
+            "word": "thanatos"
+        },
+        {
+            "id": "thematic_apperception_test",
+            "word": "thematic apperception test"
+        },
+        {
+            "id": "therapeutic_alliance",
+            "word": "therapeutic alliance"
+        },
+        {
+            "id": "therapy",
+            "word": "therapy"
+        },
+        {
+            "id": "theta_rhythm",
+            "word": "theta rhythm"
+        },
+        {
+            "id": "thought_pattern",
+            "word": "thought pattern"
+        },
+        {
+            "id": "total_recall",
+            "word": "total recall"
+        },
+        {
+            "id": "touch_therapy",
+            "word": "touch therapy"
+        },
+        {
+            "id": "transactional",
+            "word": "transactional"
+        },
+        {
+            "id": "transactional_analysis",
+            "word": "transactional analysis"
+        },
+        {
+            "id": "transcendence",
+            "word": "transcendence"
+        },
+        {
+            "id": "transference",
+            "word": "transference"
+        },
+        {
+            "id": "transgender",
+            "word": "transgender"
+        },
+        {
+            "id": "transperson",
+            "word": "transperson"
+        },
+        {
+            "id": "transpersonal",
+            "word": "transpersonal"
+        },
+        {
+            "id": "transphobia",
+            "word": "transphobia"
+        },
+        {
+            "id": "transphobic",
+            "word": "transphobic"
+        },
+        {
+            "id": "transsexual",
+            "word": "transsexual"
+        },
+        {
+            "id": "traumatize",
+            "word": "traumatize"
+        },
+        {
+            "id": "trichotillomania",
+            "word": "trichotillomania"
+        },
+        {
+            "id": "trope",
+            "word": "trope"
+        },
+        {
+            "id": "truth_drug",
+            "word": "truth drug"
+        },
+        {
+            "id": "type_a",
+            "word": "type a"
+        },
+        {
+            "id": "type_b",
+            "word": "type b"
+        },
+        {
+            "id": "typology",
+            "word": "typology"
+        },
+        {
+            "id": "umwelt",
+            "word": "umwelt"
+        },
+        {
+            "id": "unassertive",
+            "word": "unassertive"
+        },
+        {
+            "id": "unblind",
+            "word": "unblind"
+        },
+        {
+            "id": "unconsciously",
+            "word": "unconsciously"
+        },
+        {
+            "id": "unpleasure",
+            "word": "unpleasure"
+        },
+        {
+            "id": "vagina_dentata",
+            "word": "vagina dentata"
+        },
+        {
+            "id": "veridical",
+            "word": "veridical"
+        },
+        {
+            "id": "vertical_thinking",
+            "word": "vertical thinking"
+        },
+        {
+            "id": "visuospatial",
+            "word": "visuospatial"
+        },
+        {
+            "id": "voyeur",
+            "word": "voyeur"
+        },
+        {
+            "id": "voyeurism",
+            "word": "voyeurism"
+        },
+        {
+            "id": "voyeuristic",
+            "word": "voyeuristic"
+        },
+        {
+            "id": "voyeuristically",
+            "word": "voyeuristically"
+        },
+        {
+            "id": "watson%2C_john_broadus",
+            "word": "watson, john broadus"
+        },
+        {
+            "id": "well_adjusted",
+            "word": "well adjusted"
+        },
+        {
+            "id": "wish_fulfilment",
+            "word": "wish fulfilment"
+        },
+        {
+            "id": "working_memory",
+            "word": "working memory"
+        },
+        {
+            "id": "wundt%2C_wilhelm",
+            "word": "wundt, wilhelm"
+        },
+        {
+            "id": "xenophobe",
+            "word": "xenophobe"
+        },
+        {
+            "id": "xenophobia",
+            "word": "xenophobia"
+        },
+        {
+            "id": "z%C3%B6llner_illusion",
+            "word": "zöllner illusion"
+        },
+        {
+            "id": "zener_cards",
+            "word": "zener cards"
+        }
+    ]
+}

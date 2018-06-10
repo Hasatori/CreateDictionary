@@ -1,0 +1,1247 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 309,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "actinolite",
+            "word": "actinolite"
+        },
+        {
+            "id": "agate",
+            "word": "agate"
+        },
+        {
+            "id": "alabaster",
+            "word": "alabaster"
+        },
+        {
+            "id": "albite",
+            "word": "albite"
+        },
+        {
+            "id": "alexandrite",
+            "word": "alexandrite"
+        },
+        {
+            "id": "alkali_feldspar",
+            "word": "alkali feldspar"
+        },
+        {
+            "id": "allanite",
+            "word": "allanite"
+        },
+        {
+            "id": "almandine",
+            "word": "almandine"
+        },
+        {
+            "id": "alumina",
+            "word": "alumina"
+        },
+        {
+            "id": "aluminosilicate",
+            "word": "aluminosilicate"
+        },
+        {
+            "id": "amethyst",
+            "word": "amethyst"
+        },
+        {
+            "id": "amethystine",
+            "word": "amethystine"
+        },
+        {
+            "id": "amianthus",
+            "word": "amianthus"
+        },
+        {
+            "id": "amosite",
+            "word": "amosite"
+        },
+        {
+            "id": "amphibole",
+            "word": "amphibole"
+        },
+        {
+            "id": "andalusite",
+            "word": "andalusite"
+        },
+        {
+            "id": "andradite",
+            "word": "andradite"
+        },
+        {
+            "id": "anhydrite",
+            "word": "anhydrite"
+        },
+        {
+            "id": "anorthite",
+            "word": "anorthite"
+        },
+        {
+            "id": "anthracite",
+            "word": "anthracite"
+        },
+        {
+            "id": "antigorite",
+            "word": "antigorite"
+        },
+        {
+            "id": "apatite",
+            "word": "apatite"
+        },
+        {
+            "id": "apophyllite",
+            "word": "apophyllite"
+        },
+        {
+            "id": "aquamarine",
+            "word": "aquamarine"
+        },
+        {
+            "id": "aragonite",
+            "word": "aragonite"
+        },
+        {
+            "id": "arsenopyrite",
+            "word": "arsenopyrite"
+        },
+        {
+            "id": "asbestos",
+            "word": "asbestos"
+        },
+        {
+            "id": "augite",
+            "word": "augite"
+        },
+        {
+            "id": "autunite",
+            "word": "autunite"
+        },
+        {
+            "id": "azurite",
+            "word": "azurite"
+        },
+        {
+            "id": "baddeleyite",
+            "word": "baddeleyite"
+        },
+        {
+            "id": "balas_ruby",
+            "word": "balas ruby"
+        },
+        {
+            "id": "baryte",
+            "word": "baryte"
+        },
+        {
+            "id": "bastnaesite",
+            "word": "bastnaesite"
+        },
+        {
+            "id": "bauxite",
+            "word": "bauxite"
+        },
+        {
+            "id": "bentonite",
+            "word": "bentonite"
+        },
+        {
+            "id": "beryl",
+            "word": "beryl"
+        },
+        {
+            "id": "biotite",
+            "word": "biotite"
+        },
+        {
+            "id": "bloodstone",
+            "word": "bloodstone"
+        },
+        {
+            "id": "blue_john",
+            "word": "blue john"
+        },
+        {
+            "id": "bog_iron",
+            "word": "bog iron"
+        },
+        {
+            "id": "borax",
+            "word": "borax"
+        },
+        {
+            "id": "bornite",
+            "word": "bornite"
+        },
+        {
+            "id": "bort",
+            "word": "bort"
+        },
+        {
+            "id": "brucite",
+            "word": "brucite"
+        },
+        {
+            "id": "bytownite",
+            "word": "bytownite"
+        },
+        {
+            "id": "calcite",
+            "word": "calcite"
+        },
+        {
+            "id": "carbonado",
+            "word": "carbonado"
+        },
+        {
+            "id": "carnallite",
+            "word": "carnallite"
+        },
+        {
+            "id": "carnelian",
+            "word": "carnelian"
+        },
+        {
+            "id": "carnotite",
+            "word": "carnotite"
+        },
+        {
+            "id": "cassiterite",
+            "word": "cassiterite"
+        },
+        {
+            "id": "cat%27s_eye",
+            "word": "cat's eye"
+        },
+        {
+            "id": "chabazite",
+            "word": "chabazite"
+        },
+        {
+            "id": "chalcedony",
+            "word": "chalcedony"
+        },
+        {
+            "id": "chalcopyrite",
+            "word": "chalcopyrite"
+        },
+        {
+            "id": "chiastolite",
+            "word": "chiastolite"
+        },
+        {
+            "id": "china_stone",
+            "word": "china stone"
+        },
+        {
+            "id": "chlorite",
+            "word": "chlorite"
+        },
+        {
+            "id": "chloritoid",
+            "word": "chloritoid"
+        },
+        {
+            "id": "chloro-",
+            "word": "chloro-"
+        },
+        {
+            "id": "chloromelanite",
+            "word": "chloromelanite"
+        },
+        {
+            "id": "chondrite",
+            "word": "chondrite"
+        },
+        {
+            "id": "chondrule",
+            "word": "chondrule"
+        },
+        {
+            "id": "chromite",
+            "word": "chromite"
+        },
+        {
+            "id": "chrysoberyl",
+            "word": "chrysoberyl"
+        },
+        {
+            "id": "chrysocolla",
+            "word": "chrysocolla"
+        },
+        {
+            "id": "chrysolite",
+            "word": "chrysolite"
+        },
+        {
+            "id": "chrysoprase",
+            "word": "chrysoprase"
+        },
+        {
+            "id": "chrysotile",
+            "word": "chrysotile"
+        },
+        {
+            "id": "cinnabar",
+            "word": "cinnabar"
+        },
+        {
+            "id": "citrine",
+            "word": "citrine"
+        },
+        {
+            "id": "clay_mineral",
+            "word": "clay mineral"
+        },
+        {
+            "id": "clinopyroxene",
+            "word": "clinopyroxene"
+        },
+        {
+            "id": "colemanite",
+            "word": "colemanite"
+        },
+        {
+            "id": "coltan",
+            "word": "coltan"
+        },
+        {
+            "id": "columbite",
+            "word": "columbite"
+        },
+        {
+            "id": "cordierite",
+            "word": "cordierite"
+        },
+        {
+            "id": "corundum",
+            "word": "corundum"
+        },
+        {
+            "id": "covellite",
+            "word": "covellite"
+        },
+        {
+            "id": "cristobalite",
+            "word": "cristobalite"
+        },
+        {
+            "id": "crocidolite",
+            "word": "crocidolite"
+        },
+        {
+            "id": "crocoite",
+            "word": "crocoite"
+        },
+        {
+            "id": "cryolite",
+            "word": "cryolite"
+        },
+        {
+            "id": "cummingtonite",
+            "word": "cummingtonite"
+        },
+        {
+            "id": "cuprite",
+            "word": "cuprite"
+        },
+        {
+            "id": "demantoid",
+            "word": "demantoid"
+        },
+        {
+            "id": "diamond",
+            "word": "diamond"
+        },
+        {
+            "id": "diopside",
+            "word": "diopside"
+        },
+        {
+            "id": "dioptase",
+            "word": "dioptase"
+        },
+        {
+            "id": "dolomite",
+            "word": "dolomite"
+        },
+        {
+            "id": "dumortierite",
+            "word": "dumortierite"
+        },
+        {
+            "id": "emerald",
+            "word": "emerald"
+        },
+        {
+            "id": "emery",
+            "word": "emery"
+        },
+        {
+            "id": "enargite",
+            "word": "enargite"
+        },
+        {
+            "id": "enstatite",
+            "word": "enstatite"
+        },
+        {
+            "id": "epidote",
+            "word": "epidote"
+        },
+        {
+            "id": "fahlerz",
+            "word": "fahlerz"
+        },
+        {
+            "id": "fayalite",
+            "word": "fayalite"
+        },
+        {
+            "id": "feldspar",
+            "word": "feldspar"
+        },
+        {
+            "id": "feldspathoid",
+            "word": "feldspathoid"
+        },
+        {
+            "id": "ferberite",
+            "word": "ferberite"
+        },
+        {
+            "id": "fibril",
+            "word": "fibril"
+        },
+        {
+            "id": "fibrillar",
+            "word": "fibrillar"
+        },
+        {
+            "id": "fluorite",
+            "word": "fluorite"
+        },
+        {
+            "id": "fool%27s_gold",
+            "word": "fool's gold"
+        },
+        {
+            "id": "forsterite",
+            "word": "forsterite"
+        },
+        {
+            "id": "french_chalk",
+            "word": "french chalk"
+        },
+        {
+            "id": "gadolinite",
+            "word": "gadolinite"
+        },
+        {
+            "id": "galena",
+            "word": "galena"
+        },
+        {
+            "id": "garnet",
+            "word": "garnet"
+        },
+        {
+            "id": "garnierite",
+            "word": "garnierite"
+        },
+        {
+            "id": "geyserite",
+            "word": "geyserite"
+        },
+        {
+            "id": "gibbsite",
+            "word": "gibbsite"
+        },
+        {
+            "id": "gilsonite",
+            "word": "gilsonite"
+        },
+        {
+            "id": "glance",
+            "word": "glance"
+        },
+        {
+            "id": "glauconite",
+            "word": "glauconite"
+        },
+        {
+            "id": "glaucophane",
+            "word": "glaucophane"
+        },
+        {
+            "id": "goethite",
+            "word": "goethite"
+        },
+        {
+            "id": "greenockite",
+            "word": "greenockite"
+        },
+        {
+            "id": "grossular",
+            "word": "grossular"
+        },
+        {
+            "id": "gypsum",
+            "word": "gypsum"
+        },
+        {
+            "id": "haematite",
+            "word": "haematite"
+        },
+        {
+            "id": "halite",
+            "word": "halite"
+        },
+        {
+            "id": "hemimorphite",
+            "word": "hemimorphite"
+        },
+        {
+            "id": "hiddenite",
+            "word": "hiddenite"
+        },
+        {
+            "id": "hornblende",
+            "word": "hornblende"
+        },
+        {
+            "id": "hydroxyapatite",
+            "word": "hydroxyapatite"
+        },
+        {
+            "id": "hypersthene",
+            "word": "hypersthene"
+        },
+        {
+            "id": "iceland_spar",
+            "word": "iceland spar"
+        },
+        {
+            "id": "iddingsite",
+            "word": "iddingsite"
+        },
+        {
+            "id": "idocrase",
+            "word": "idocrase"
+        },
+        {
+            "id": "illite",
+            "word": "illite"
+        },
+        {
+            "id": "ilmenite",
+            "word": "ilmenite"
+        },
+        {
+            "id": "ilvaite",
+            "word": "ilvaite"
+        },
+        {
+            "id": "indicolite",
+            "word": "indicolite"
+        },
+        {
+            "id": "ironsand",
+            "word": "ironsand"
+        },
+        {
+            "id": "jacinth",
+            "word": "jacinth"
+        },
+        {
+            "id": "jadeite",
+            "word": "jadeite"
+        },
+        {
+            "id": "jargon",
+            "word": "jargon"
+        },
+        {
+            "id": "jet",
+            "word": "jet"
+        },
+        {
+            "id": "kainite",
+            "word": "kainite"
+        },
+        {
+            "id": "kamacite",
+            "word": "kamacite"
+        },
+        {
+            "id": "kaolinite",
+            "word": "kaolinite"
+        },
+        {
+            "id": "kernite",
+            "word": "kernite"
+        },
+        {
+            "id": "kidney_ore",
+            "word": "kidney ore"
+        },
+        {
+            "id": "kieserite",
+            "word": "kieserite"
+        },
+        {
+            "id": "kopi",
+            "word": "kopi"
+        },
+        {
+            "id": "kryptonite",
+            "word": "kryptonite"
+        },
+        {
+            "id": "kunzite",
+            "word": "kunzite"
+        },
+        {
+            "id": "kyanite",
+            "word": "kyanite"
+        },
+        {
+            "id": "labradorite",
+            "word": "labradorite"
+        },
+        {
+            "id": "lazurite",
+            "word": "lazurite"
+        },
+        {
+            "id": "lepidocrocite",
+            "word": "lepidocrocite"
+        },
+        {
+            "id": "lepidolite",
+            "word": "lepidolite"
+        },
+        {
+            "id": "leucite",
+            "word": "leucite"
+        },
+        {
+            "id": "lignite",
+            "word": "lignite"
+        },
+        {
+            "id": "limonite",
+            "word": "limonite"
+        },
+        {
+            "id": "lodestone",
+            "word": "lodestone"
+        },
+        {
+            "id": "magnesite",
+            "word": "magnesite"
+        },
+        {
+            "id": "magnetite",
+            "word": "magnetite"
+        },
+        {
+            "id": "malachite",
+            "word": "malachite"
+        },
+        {
+            "id": "manganite",
+            "word": "manganite"
+        },
+        {
+            "id": "marcasite",
+            "word": "marcasite"
+        },
+        {
+            "id": "melanite",
+            "word": "melanite"
+        },
+        {
+            "id": "mica",
+            "word": "mica"
+        },
+        {
+            "id": "micrite",
+            "word": "micrite"
+        },
+        {
+            "id": "microcline",
+            "word": "microcline"
+        },
+        {
+            "id": "millerite",
+            "word": "millerite"
+        },
+        {
+            "id": "mimetite",
+            "word": "mimetite"
+        },
+        {
+            "id": "mineral_oil",
+            "word": "mineral oil"
+        },
+        {
+            "id": "mineral_wool",
+            "word": "mineral wool"
+        },
+        {
+            "id": "molybdenite",
+            "word": "molybdenite"
+        },
+        {
+            "id": "monazite",
+            "word": "monazite"
+        },
+        {
+            "id": "montmorillonite",
+            "word": "montmorillonite"
+        },
+        {
+            "id": "moonstone",
+            "word": "moonstone"
+        },
+        {
+            "id": "morganite",
+            "word": "morganite"
+        },
+        {
+            "id": "morion",
+            "word": "morion"
+        },
+        {
+            "id": "moss_agate",
+            "word": "moss agate"
+        },
+        {
+            "id": "muscovite",
+            "word": "muscovite"
+        },
+        {
+            "id": "nanocrystal",
+            "word": "nanocrystal"
+        },
+        {
+            "id": "nanodiamond",
+            "word": "nanodiamond"
+        },
+        {
+            "id": "natron",
+            "word": "natron"
+        },
+        {
+            "id": "nepheline",
+            "word": "nepheline"
+        },
+        {
+            "id": "nephrite",
+            "word": "nephrite"
+        },
+        {
+            "id": "ochre",
+            "word": "ochre"
+        },
+        {
+            "id": "of_the_first_water",
+            "word": "of the first water"
+        },
+        {
+            "id": "oligoclase",
+            "word": "oligoclase"
+        },
+        {
+            "id": "olivine",
+            "word": "olivine"
+        },
+        {
+            "id": "onyx",
+            "word": "onyx"
+        },
+        {
+            "id": "opal",
+            "word": "opal"
+        },
+        {
+            "id": "orpiment",
+            "word": "orpiment"
+        },
+        {
+            "id": "orthoclase",
+            "word": "orthoclase"
+        },
+        {
+            "id": "orthopyroxene",
+            "word": "orthopyroxene"
+        },
+        {
+            "id": "ozokerite",
+            "word": "ozokerite"
+        },
+        {
+            "id": "pentlandite",
+            "word": "pentlandite"
+        },
+        {
+            "id": "periclase",
+            "word": "periclase"
+        },
+        {
+            "id": "peridot",
+            "word": "peridot"
+        },
+        {
+            "id": "perlite",
+            "word": "perlite"
+        },
+        {
+            "id": "perovskite",
+            "word": "perovskite"
+        },
+        {
+            "id": "petuntse",
+            "word": "petuntse"
+        },
+        {
+            "id": "phlogopite",
+            "word": "phlogopite"
+        },
+        {
+            "id": "piemontite",
+            "word": "piemontite"
+        },
+        {
+            "id": "pigeonite",
+            "word": "pigeonite"
+        },
+        {
+            "id": "pistacite",
+            "word": "pistacite"
+        },
+        {
+            "id": "pitchblende",
+            "word": "pitchblende"
+        },
+        {
+            "id": "plagioclase",
+            "word": "plagioclase"
+        },
+        {
+            "id": "potassic",
+            "word": "potassic"
+        },
+        {
+            "id": "prase",
+            "word": "prase"
+        },
+        {
+            "id": "precious_stone",
+            "word": "precious stone"
+        },
+        {
+            "id": "pyrargyrite",
+            "word": "pyrargyrite"
+        },
+        {
+            "id": "pyrites",
+            "word": "pyrites"
+        },
+        {
+            "id": "pyrolusite",
+            "word": "pyrolusite"
+        },
+        {
+            "id": "pyromorphite",
+            "word": "pyromorphite"
+        },
+        {
+            "id": "pyrope",
+            "word": "pyrope"
+        },
+        {
+            "id": "pyroxene",
+            "word": "pyroxene"
+        },
+        {
+            "id": "pyrrhotite",
+            "word": "pyrrhotite"
+        },
+        {
+            "id": "quartz",
+            "word": "quartz"
+        },
+        {
+            "id": "realgar",
+            "word": "realgar"
+        },
+        {
+            "id": "rhodochrosite",
+            "word": "rhodochrosite"
+        },
+        {
+            "id": "rhodolite",
+            "word": "rhodolite"
+        },
+        {
+            "id": "rhodonite",
+            "word": "rhodonite"
+        },
+        {
+            "id": "riebeckite",
+            "word": "riebeckite"
+        },
+        {
+            "id": "rock_crystal",
+            "word": "rock crystal"
+        },
+        {
+            "id": "rock_salt",
+            "word": "rock salt"
+        },
+        {
+            "id": "rose_quartz",
+            "word": "rose quartz"
+        },
+        {
+            "id": "rottenstone",
+            "word": "rottenstone"
+        },
+        {
+            "id": "rubellite",
+            "word": "rubellite"
+        },
+        {
+            "id": "ruby",
+            "word": "ruby"
+        },
+        {
+            "id": "rutile",
+            "word": "rutile"
+        },
+        {
+            "id": "sanidine",
+            "word": "sanidine"
+        },
+        {
+            "id": "sapphire",
+            "word": "sapphire"
+        },
+        {
+            "id": "sapphirine",
+            "word": "sapphirine"
+        },
+        {
+            "id": "sard",
+            "word": "sard"
+        },
+        {
+            "id": "sardonyx",
+            "word": "sardonyx"
+        },
+        {
+            "id": "satin_spar",
+            "word": "satin spar"
+        },
+        {
+            "id": "scheelite",
+            "word": "scheelite"
+        },
+        {
+            "id": "schorl",
+            "word": "schorl"
+        },
+        {
+            "id": "selenite",
+            "word": "selenite"
+        },
+        {
+            "id": "sericite",
+            "word": "sericite"
+        },
+        {
+            "id": "siderite",
+            "word": "siderite"
+        },
+        {
+            "id": "silex",
+            "word": "silex"
+        },
+        {
+            "id": "silica",
+            "word": "silica"
+        },
+        {
+            "id": "siliceous",
+            "word": "siliceous"
+        },
+        {
+            "id": "sillimanite",
+            "word": "sillimanite"
+        },
+        {
+            "id": "skutterudite",
+            "word": "skutterudite"
+        },
+        {
+            "id": "slag_wool",
+            "word": "slag wool"
+        },
+        {
+            "id": "smaltite",
+            "word": "smaltite"
+        },
+        {
+            "id": "smectite",
+            "word": "smectite"
+        },
+        {
+            "id": "smithsonite",
+            "word": "smithsonite"
+        },
+        {
+            "id": "smoky_quartz",
+            "word": "smoky quartz"
+        },
+        {
+            "id": "sodalite",
+            "word": "sodalite"
+        },
+        {
+            "id": "sodic",
+            "word": "sodic"
+        },
+        {
+            "id": "spar",
+            "word": "spar"
+        },
+        {
+            "id": "sparry",
+            "word": "sparry"
+        },
+        {
+            "id": "spectrolite",
+            "word": "spectrolite"
+        },
+        {
+            "id": "speiss",
+            "word": "speiss"
+        },
+        {
+            "id": "spessartine",
+            "word": "spessartine"
+        },
+        {
+            "id": "sphalerite",
+            "word": "sphalerite"
+        },
+        {
+            "id": "sphene",
+            "word": "sphene"
+        },
+        {
+            "id": "spinel",
+            "word": "spinel"
+        },
+        {
+            "id": "spinel_ruby",
+            "word": "spinel ruby"
+        },
+        {
+            "id": "spodumene",
+            "word": "spodumene"
+        },
+        {
+            "id": "star_ruby",
+            "word": "star ruby"
+        },
+        {
+            "id": "staurolite",
+            "word": "staurolite"
+        },
+        {
+            "id": "stibnite",
+            "word": "stibnite"
+        },
+        {
+            "id": "stishovite",
+            "word": "stishovite"
+        },
+        {
+            "id": "strontianite",
+            "word": "strontianite"
+        },
+        {
+            "id": "sunstone",
+            "word": "sunstone"
+        },
+        {
+            "id": "sylvine",
+            "word": "sylvine"
+        },
+        {
+            "id": "sylvinite",
+            "word": "sylvinite"
+        },
+        {
+            "id": "sylvite",
+            "word": "sylvite"
+        },
+        {
+            "id": "tantalite",
+            "word": "tantalite"
+        },
+        {
+            "id": "tanzanite",
+            "word": "tanzanite"
+        },
+        {
+            "id": "tennantite",
+            "word": "tennantite"
+        },
+        {
+            "id": "terra_alba",
+            "word": "terra alba"
+        },
+        {
+            "id": "terre_verte",
+            "word": "terre verte"
+        },
+        {
+            "id": "tetrahedrite",
+            "word": "tetrahedrite"
+        },
+        {
+            "id": "thenardite",
+            "word": "thenardite"
+        },
+        {
+            "id": "tiger%27s_eye",
+            "word": "tiger's eye"
+        },
+        {
+            "id": "titanite",
+            "word": "titanite"
+        },
+        {
+            "id": "topaz",
+            "word": "topaz"
+        },
+        {
+            "id": "topazolite",
+            "word": "topazolite"
+        },
+        {
+            "id": "tourmaline",
+            "word": "tourmaline"
+        },
+        {
+            "id": "tremolite",
+            "word": "tremolite"
+        },
+        {
+            "id": "tridymite",
+            "word": "tridymite"
+        },
+        {
+            "id": "trona",
+            "word": "trona"
+        },
+        {
+            "id": "tungstite",
+            "word": "tungstite"
+        },
+        {
+            "id": "tyuyamunite",
+            "word": "tyuyamunite"
+        },
+        {
+            "id": "ulexite",
+            "word": "ulexite"
+        },
+        {
+            "id": "uraninite",
+            "word": "uraninite"
+        },
+        {
+            "id": "uvarovite",
+            "word": "uvarovite"
+        },
+        {
+            "id": "vanadinite",
+            "word": "vanadinite"
+        },
+        {
+            "id": "verd-antique",
+            "word": "verd-antique"
+        },
+        {
+            "id": "vermiculite",
+            "word": "vermiculite"
+        },
+        {
+            "id": "vesuvianite",
+            "word": "vesuvianite"
+        },
+        {
+            "id": "vivianite",
+            "word": "vivianite"
+        },
+        {
+            "id": "willemite",
+            "word": "willemite"
+        },
+        {
+            "id": "witherite",
+            "word": "witherite"
+        },
+        {
+            "id": "wolfram",
+            "word": "wolfram"
+        },
+        {
+            "id": "wolframite",
+            "word": "wolframite"
+        },
+        {
+            "id": "wollastonite",
+            "word": "wollastonite"
+        },
+        {
+            "id": "wulfenite",
+            "word": "wulfenite"
+        },
+        {
+            "id": "wurtzite",
+            "word": "wurtzite"
+        },
+        {
+            "id": "xenotime",
+            "word": "xenotime"
+        },
+        {
+            "id": "zeolite",
+            "word": "zeolite"
+        },
+        {
+            "id": "zincite",
+            "word": "zincite"
+        },
+        {
+            "id": "zircon",
+            "word": "zircon"
+        },
+        {
+            "id": "zoisite",
+            "word": "zoisite"
+        }
+    ]
+}

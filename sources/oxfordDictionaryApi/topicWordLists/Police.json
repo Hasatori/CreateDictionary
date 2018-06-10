@@ -1,0 +1,1043 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 258
+    },
+    "results": [
+        {
+            "id": "active_duty",
+            "word": "active duty"
+        },
+        {
+            "id": "alibi",
+            "word": "alibi"
+        },
+        {
+            "id": "all-points_bulletin",
+            "word": "all-points bulletin"
+        },
+        {
+            "id": "answer_the_description_of",
+            "word": "answer the description of"
+        },
+        {
+            "id": "apprehend",
+            "word": "apprehend"
+        },
+        {
+            "id": "arrest",
+            "word": "arrest"
+        },
+        {
+            "id": "arrestee",
+            "word": "arrestee"
+        },
+        {
+            "id": "askari",
+            "word": "askari"
+        },
+        {
+            "id": "at_large",
+            "word": "at large"
+        },
+        {
+            "id": "bang_to_rights",
+            "word": "bang to rights"
+        },
+        {
+            "id": "bertillon%2C_alphonse",
+            "word": "bertillon, alphonse"
+        },
+        {
+            "id": "bill",
+            "word": "bill"
+        },
+        {
+            "id": "black_maria",
+            "word": "black maria"
+        },
+        {
+            "id": "bobby",
+            "word": "bobby"
+        },
+        {
+            "id": "body_armour",
+            "word": "body armour"
+        },
+        {
+            "id": "body_search",
+            "word": "body search"
+        },
+        {
+            "id": "bomb_squad",
+            "word": "bomb squad"
+        },
+        {
+            "id": "booze_bus",
+            "word": "booze bus"
+        },
+        {
+            "id": "border_patrol",
+            "word": "border patrol"
+        },
+        {
+            "id": "bounty_hunter",
+            "word": "bounty hunter"
+        },
+        {
+            "id": "bow_street_runner",
+            "word": "bow street runner"
+        },
+        {
+            "id": "boys_in_blue",
+            "word": "boys in blue"
+        },
+        {
+            "id": "break_rank_%28or_ranks%29",
+            "word": "break rank (or ranks)"
+        },
+        {
+            "id": "breathalyse",
+            "word": "breathalyse"
+        },
+        {
+            "id": "breathalyser",
+            "word": "breathalyser"
+        },
+        {
+            "id": "bring_someone_to_justice",
+            "word": "bring someone to justice"
+        },
+        {
+            "id": "cadet",
+            "word": "cadet"
+        },
+        {
+            "id": "canteen_culture",
+            "word": "canteen culture"
+        },
+        {
+            "id": "capias",
+            "word": "capias"
+        },
+        {
+            "id": "carabinero",
+            "word": "carabinero"
+        },
+        {
+            "id": "carabiniere",
+            "word": "carabiniere"
+        },
+        {
+            "id": "caution",
+            "word": "caution"
+        },
+        {
+            "id": "charge_sheet",
+            "word": "charge sheet"
+        },
+        {
+            "id": "chief_constable",
+            "word": "chief constable"
+        },
+        {
+            "id": "chief_inspector",
+            "word": "chief inspector"
+        },
+        {
+            "id": "chief_police_officer",
+            "word": "chief police officer"
+        },
+        {
+            "id": "chowki",
+            "word": "chowki"
+        },
+        {
+            "id": "cid",
+            "word": "cid"
+        },
+        {
+            "id": "cleanskin",
+            "word": "cleanskin"
+        },
+        {
+            "id": "close_ranks",
+            "word": "close ranks"
+        },
+        {
+            "id": "cold_case",
+            "word": "cold case"
+        },
+        {
+            "id": "come_for",
+            "word": "come for"
+        },
+        {
+            "id": "commissaire",
+            "word": "commissaire"
+        },
+        {
+            "id": "community_police_officer",
+            "word": "community police officer"
+        },
+        {
+            "id": "community_policing",
+            "word": "community policing"
+        },
+        {
+            "id": "const.",
+            "word": "const."
+        },
+        {
+            "id": "constable",
+            "word": "constable"
+        },
+        {
+            "id": "constabulary",
+            "word": "constabulary"
+        },
+        {
+            "id": "convict_constable",
+            "word": "convict constable"
+        },
+        {
+            "id": "cop",
+            "word": "cop"
+        },
+        {
+            "id": "copper",
+            "word": "copper"
+        },
+        {
+            "id": "coppering",
+            "word": "coppering"
+        },
+        {
+            "id": "cop_shop",
+            "word": "cop shop"
+        },
+        {
+            "id": "cordon",
+            "word": "cordon"
+        },
+        {
+            "id": "counterterrorism",
+            "word": "counterterrorism"
+        },
+        {
+            "id": "crackdown",
+            "word": "crackdown"
+        },
+        {
+            "id": "crime-fighting",
+            "word": "crime-fighting"
+        },
+        {
+            "id": "crime_scene",
+            "word": "crime scene"
+        },
+        {
+            "id": "crime_sheet",
+            "word": "crime sheet"
+        },
+        {
+            "id": "danda",
+            "word": "danda"
+        },
+        {
+            "id": "dawn_raid",
+            "word": "dawn raid"
+        },
+        {
+            "id": "dci",
+            "word": "dci"
+        },
+        {
+            "id": "demon",
+            "word": "demon"
+        },
+        {
+            "id": "desk_sergeant",
+            "word": "desk sergeant"
+        },
+        {
+            "id": "det.",
+            "word": "det."
+        },
+        {
+            "id": "detection",
+            "word": "detection"
+        },
+        {
+            "id": "detective",
+            "word": "detective"
+        },
+        {
+            "id": "detenu",
+            "word": "detenu"
+        },
+        {
+            "id": "divisional_van",
+            "word": "divisional van"
+        },
+        {
+            "id": "drop_a_%28or_the%29_dime_on",
+            "word": "drop a (or the) dime on"
+        },
+        {
+            "id": "drug_bust",
+            "word": "drug bust"
+        },
+        {
+            "id": "drug_squad",
+            "word": "drug squad"
+        },
+        {
+            "id": "duty_officer",
+            "word": "duty officer"
+        },
+        {
+            "id": "%E2%80%94%27s_finest",
+            "word": "—'s finest"
+        },
+        {
+            "id": "electronic_tagging",
+            "word": "electronic tagging"
+        },
+        {
+            "id": "emergency_services",
+            "word": "emergency services"
+        },
+        {
+            "id": "faujdar",
+            "word": "faujdar"
+        },
+        {
+            "id": "feebie",
+            "word": "feebie"
+        },
+        {
+            "id": "first_responder",
+            "word": "first responder"
+        },
+        {
+            "id": "fit_someone_up",
+            "word": "fit someone up"
+        },
+        {
+            "id": "fit-up",
+            "word": "fit-up"
+        },
+        {
+            "id": "flic",
+            "word": "flic"
+        },
+        {
+            "id": "flight_risk",
+            "word": "flight risk"
+        },
+        {
+            "id": "flying_squad",
+            "word": "flying squad"
+        },
+        {
+            "id": "forensic",
+            "word": "forensic"
+        },
+        {
+            "id": "fraud_squad",
+            "word": "fraud squad"
+        },
+        {
+            "id": "frisk",
+            "word": "frisk"
+        },
+        {
+            "id": "fuzz",
+            "word": "fuzz"
+        },
+        {
+            "id": "gangbuster",
+            "word": "gangbuster"
+        },
+        {
+            "id": "garda",
+            "word": "garda"
+        },
+        {
+            "id": "gendarme",
+            "word": "gendarme"
+        },
+        {
+            "id": "gendarmerie",
+            "word": "gendarmerie"
+        },
+        {
+            "id": "gestapo",
+            "word": "gestapo"
+        },
+        {
+            "id": "gpu",
+            "word": "gpu"
+        },
+        {
+            "id": "handcuff",
+            "word": "handcuff"
+        },
+        {
+            "id": "havildar",
+            "word": "havildar"
+        },
+        {
+            "id": "history-sheeter",
+            "word": "history-sheeter"
+        },
+        {
+            "id": "homicide_bureau",
+            "word": "homicide bureau"
+        },
+        {
+            "id": "house_arrest",
+            "word": "house arrest"
+        },
+        {
+            "id": "hue_and_cry",
+            "word": "hue and cry"
+        },
+        {
+            "id": "ice",
+            "word": "ice"
+        },
+        {
+            "id": "identikit",
+            "word": "identikit"
+        },
+        {
+            "id": "identity_parade",
+            "word": "identity parade"
+        },
+        {
+            "id": "incident_room",
+            "word": "incident room"
+        },
+        {
+            "id": "inform",
+            "word": "inform"
+        },
+        {
+            "id": "informer",
+            "word": "informer"
+        },
+        {
+            "id": "insp.",
+            "word": "insp."
+        },
+        {
+            "id": "interpol",
+            "word": "interpol"
+        },
+        {
+            "id": "in_the_line_of_duty",
+            "word": "in the line of duty"
+        },
+        {
+            "id": "intoximeter",
+            "word": "intoximeter"
+        },
+        {
+            "id": "jawan",
+            "word": "jawan"
+        },
+        {
+            "id": "john_hop",
+            "word": "john hop"
+        },
+        {
+            "id": "keep_rank",
+            "word": "keep rank"
+        },
+        {
+            "id": "kettling",
+            "word": "kettling"
+        },
+        {
+            "id": "kotwal",
+            "word": "kotwal"
+        },
+        {
+            "id": "kotwali",
+            "word": "kotwali"
+        },
+        {
+            "id": "lathi",
+            "word": "lathi"
+        },
+        {
+            "id": "law_enforcement",
+            "word": "law enforcement"
+        },
+        {
+            "id": "law_enforcement_agency",
+            "word": "law enforcement agency"
+        },
+        {
+            "id": "law_enforcement_officer",
+            "word": "law enforcement officer"
+        },
+        {
+            "id": "lawman",
+            "word": "lawman"
+        },
+        {
+            "id": "manhunt",
+            "word": "manhunt"
+        },
+        {
+            "id": "maori_warden",
+            "word": "maori warden"
+        },
+        {
+            "id": "massey%27s_cossacks",
+            "word": "massey's cossacks"
+        },
+        {
+            "id": "meat_wagon",
+            "word": "meat wagon"
+        },
+        {
+            "id": "military_police",
+            "word": "military police"
+        },
+        {
+            "id": "miranda",
+            "word": "miranda"
+        },
+        {
+            "id": "monaych",
+            "word": "monaych"
+        },
+        {
+            "id": "mounted_police",
+            "word": "mounted police"
+        },
+        {
+            "id": "mounted_policeman",
+            "word": "mounted policeman"
+        },
+        {
+            "id": "mounted_policewoman",
+            "word": "mounted policewoman"
+        },
+        {
+            "id": "mountie",
+            "word": "mountie"
+        },
+        {
+            "id": "mufti",
+            "word": "mufti"
+        },
+        {
+            "id": "mugshot",
+            "word": "mugshot"
+        },
+        {
+            "id": "mvd",
+            "word": "mvd"
+        },
+        {
+            "id": "narc",
+            "word": "narc"
+        },
+        {
+            "id": "nark",
+            "word": "nark"
+        },
+        {
+            "id": "nightstick",
+            "word": "nightstick"
+        },
+        {
+            "id": "no-knock",
+            "word": "no-knock"
+        },
+        {
+            "id": "operationally",
+            "word": "operationally"
+        },
+        {
+            "id": "operations_room",
+            "word": "operations room"
+        },
+        {
+            "id": "pace",
+            "word": "pace"
+        },
+        {
+            "id": "paddy_wagon",
+            "word": "paddy wagon"
+        },
+        {
+            "id": "panda_car",
+            "word": "panda car"
+        },
+        {
+            "id": "pat-down",
+            "word": "pat-down"
+        },
+        {
+            "id": "patrol",
+            "word": "patrol"
+        },
+        {
+            "id": "patrol_car",
+            "word": "patrol car"
+        },
+        {
+            "id": "patrolman",
+            "word": "patrolman"
+        },
+        {
+            "id": "patrol_wagon",
+            "word": "patrol wagon"
+        },
+        {
+            "id": "pat_someone_down",
+            "word": "pat someone down"
+        },
+        {
+            "id": "pcso",
+            "word": "pcso"
+        },
+        {
+            "id": "peace_officer",
+            "word": "peace officer"
+        },
+        {
+            "id": "peeler",
+            "word": "peeler"
+        },
+        {
+            "id": "perp",
+            "word": "perp"
+        },
+        {
+            "id": "perp_walk",
+            "word": "perp walk"
+        },
+        {
+            "id": "phalanx",
+            "word": "phalanx"
+        },
+        {
+            "id": "photofit",
+            "word": "photofit"
+        },
+        {
+            "id": "plain-clothed",
+            "word": "plain-clothed"
+        },
+        {
+            "id": "plain_clothes",
+            "word": "plain clothes"
+        },
+        {
+            "id": "point_duty",
+            "word": "point duty"
+        },
+        {
+            "id": "police",
+            "word": "police"
+        },
+        {
+            "id": "police_chief",
+            "word": "police chief"
+        },
+        {
+            "id": "police_department",
+            "word": "police department"
+        },
+        {
+            "id": "police_dog",
+            "word": "police dog"
+        },
+        {
+            "id": "police_force",
+            "word": "police force"
+        },
+        {
+            "id": "police_informer",
+            "word": "police informer"
+        },
+        {
+            "id": "policeman",
+            "word": "policeman"
+        },
+        {
+            "id": "police_officer",
+            "word": "police officer"
+        },
+        {
+            "id": "police_record",
+            "word": "police record"
+        },
+        {
+            "id": "police_service",
+            "word": "police service"
+        },
+        {
+            "id": "police_station",
+            "word": "police station"
+        },
+        {
+            "id": "policewoman",
+            "word": "policewoman"
+        },
+        {
+            "id": "policing",
+            "word": "policing"
+        },
+        {
+            "id": "po-po",
+            "word": "po-po"
+        },
+        {
+            "id": "pound",
+            "word": "pound"
+        },
+        {
+            "id": "pound_the_beat",
+            "word": "pound the beat"
+        },
+        {
+            "id": "prowl_car",
+            "word": "prowl car"
+        },
+        {
+            "id": "psni",
+            "word": "psni"
+        },
+        {
+            "id": "public_enemy",
+            "word": "public enemy"
+        },
+        {
+            "id": "pull_someone_over",
+            "word": "pull someone over"
+        },
+        {
+            "id": "put_the_finger_on",
+            "word": "put the finger on"
+        },
+        {
+            "id": "pw",
+            "word": "pw"
+        },
+        {
+            "id": "qpm",
+            "word": "qpm"
+        },
+        {
+            "id": "radar_gun",
+            "word": "radar gun"
+        },
+        {
+            "id": "radar_trap",
+            "word": "radar trap"
+        },
+        {
+            "id": "radio_car",
+            "word": "radio car"
+        },
+        {
+            "id": "rap_sheet",
+            "word": "rap sheet"
+        },
+        {
+            "id": "rcmp",
+            "word": "rcmp"
+        },
+        {
+            "id": "rearrest",
+            "word": "rearrest"
+        },
+        {
+            "id": "reported",
+            "word": "reported"
+        },
+        {
+            "id": "riot_gear",
+            "word": "riot gear"
+        },
+        {
+            "id": "roadblock",
+            "word": "roadblock"
+        },
+        {
+            "id": "rogues%27_gallery",
+            "word": "rogues' gallery"
+        },
+        {
+            "id": "rookie",
+            "word": "rookie"
+        },
+        {
+            "id": "round_someone%2Fsomething_up",
+            "word": "round someone/something up"
+        },
+        {
+            "id": "royal_canadian_mounted_police",
+            "word": "royal canadian mounted police"
+        },
+        {
+            "id": "rozzer",
+            "word": "rozzer"
+        },
+        {
+            "id": "rta",
+            "word": "rta"
+        },
+        {
+            "id": "ruc",
+            "word": "ruc"
+        },
+        {
+            "id": "run_someone_in",
+            "word": "run someone in"
+        },
+        {
+            "id": "sam_browne",
+            "word": "sam browne"
+        },
+        {
+            "id": "s%C3%BBret%C3%A9",
+            "word": "sûreté"
+        },
+        {
+            "id": "scene-of-crime",
+            "word": "scene-of-crime"
+        },
+        {
+            "id": "scotland_yard",
+            "word": "scotland yard"
+        },
+        {
+            "id": "search",
+            "word": "search"
+        },
+        {
+            "id": "search_warrant",
+            "word": "search warrant"
+        },
+        {
+            "id": "secret_police",
+            "word": "secret police"
+        },
+        {
+            "id": "section_house",
+            "word": "section house"
+        },
+        {
+            "id": "securitate",
+            "word": "securitate"
+        },
+        {
+            "id": "security_check",
+            "word": "security check"
+        },
+        {
+            "id": "self-policing",
+            "word": "self-policing"
+        },
+        {
+            "id": "shark_patrol",
+            "word": "shark patrol"
+        },
+        {
+            "id": "sky_marshal",
+            "word": "sky marshal"
+        },
+        {
+            "id": "snatch_squad",
+            "word": "snatch squad"
+        },
+        {
+            "id": "sniffer_dog",
+            "word": "sniffer dog"
+        },
+        {
+            "id": "soco",
+            "word": "soco"
+        },
+        {
+            "id": "special_branch",
+            "word": "special branch"
+        },
+        {
+            "id": "special_constable",
+            "word": "special constable"
+        },
+        {
+            "id": "squad_car",
+            "word": "squad car"
+        },
+        {
+            "id": "squealer",
+            "word": "squealer"
+        },
+        {
+            "id": "ss",
+            "word": "ss"
+        },
+        {
+            "id": "stake-out",
+            "word": "stake-out"
+        },
+        {
+            "id": "stasi",
+            "word": "stasi"
+        },
+        {
+            "id": "station_house",
+            "word": "station house"
+        },
+        {
+            "id": "station_sergeant",
+            "word": "station sergeant"
+        },
+        {
+            "id": "stool_pigeon",
+            "word": "stool pigeon"
+        },
+        {
+            "id": "stop-and-frisk",
+            "word": "stop-and-frisk"
+        },
+        {
+            "id": "stop-and-search",
+            "word": "stop-and-search"
+        },
+        {
+            "id": "strip-search",
+            "word": "strip-search"
+        },
+        {
+            "id": "sub-inspector",
+            "word": "sub-inspector"
+        },
+        {
+            "id": "supergrass",
+            "word": "supergrass"
+        },
+        {
+            "id": "superintendent",
+            "word": "superintendent"
+        },
+        {
+            "id": "surround",
+            "word": "surround"
+        },
+        {
+            "id": "surveillance",
+            "word": "surveillance"
+        },
+        {
+            "id": "sus",
+            "word": "sus"
+        },
+        {
+            "id": "swat_team",
+            "word": "swat team"
+        },
+        {
+            "id": "swear_something_out",
+            "word": "swear something out"
+        },
+        {
+            "id": "sweeney",
+            "word": "sweeney"
+        },
+        {
+            "id": "swoop",
+            "word": "swoop"
+        },
+        {
+            "id": "tag",
+            "word": "tag"
+        },
+        {
+            "id": "tec",
+            "word": "tec"
+        },
+        {
+            "id": "texas_ranger",
+            "word": "texas ranger"
+        },
+        {
+            "id": "thana",
+            "word": "thana"
+        },
+        {
+            "id": "the_thin_blue_line",
+            "word": "the thin blue line"
+        },
+        {
+            "id": "tracker_dog",
+            "word": "tracker dog"
+        },
+        {
+            "id": "truncheon",
+            "word": "truncheon"
+        },
+        {
+            "id": "under_caution",
+            "word": "under caution"
+        },
+        {
+            "id": "undercover",
+            "word": "undercover"
+        },
+        {
+            "id": "unsub",
+            "word": "unsub"
+        },
+        {
+            "id": "vice_squad",
+            "word": "vice squad"
+        },
+        {
+            "id": "videofit",
+            "word": "videofit"
+        },
+        {
+            "id": "warrant",
+            "word": "warrant"
+        },
+        {
+            "id": "warrant_card",
+            "word": "warrant card"
+        },
+        {
+            "id": "watch-house",
+            "word": "watch-house"
+        },
+        {
+            "id": "witness",
+            "word": "witness"
+        },
+        {
+            "id": "woodentop",
+            "word": "woodentop"
+        },
+        {
+            "id": "wpc",
+            "word": "wpc"
+        },
+        {
+            "id": "zero_tolerance",
+            "word": "zero tolerance"
+        }
+    ]
+}

@@ -1,0 +1,1111 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 275
+    },
+    "results": [
+        {
+            "id": "ablative",
+            "word": "ablative"
+        },
+        {
+            "id": "ablative_absolute",
+            "word": "ablative absolute"
+        },
+        {
+            "id": "abstract_noun",
+            "word": "abstract noun"
+        },
+        {
+            "id": "accidence",
+            "word": "accidence"
+        },
+        {
+            "id": "accusative",
+            "word": "accusative"
+        },
+        {
+            "id": "actant",
+            "word": "actant"
+        },
+        {
+            "id": "active_voice",
+            "word": "active voice"
+        },
+        {
+            "id": "adjectival",
+            "word": "adjectival"
+        },
+        {
+            "id": "adjective",
+            "word": "adjective"
+        },
+        {
+            "id": "adnominal",
+            "word": "adnominal"
+        },
+        {
+            "id": "adverb",
+            "word": "adverb"
+        },
+        {
+            "id": "adverbial",
+            "word": "adverbial"
+        },
+        {
+            "id": "adversative",
+            "word": "adversative"
+        },
+        {
+            "id": "affirmative",
+            "word": "affirmative"
+        },
+        {
+            "id": "agentive",
+            "word": "agentive"
+        },
+        {
+            "id": "agent_noun",
+            "word": "agent noun"
+        },
+        {
+            "id": "amphibology",
+            "word": "amphibology"
+        },
+        {
+            "id": "anacoluthon",
+            "word": "anacoluthon"
+        },
+        {
+            "id": "anaphor",
+            "word": "anaphor"
+        },
+        {
+            "id": "anaphora",
+            "word": "anaphora"
+        },
+        {
+            "id": "aorist",
+            "word": "aorist"
+        },
+        {
+            "id": "apodosis",
+            "word": "apodosis"
+        },
+        {
+            "id": "apostrophe",
+            "word": "apostrophe"
+        },
+        {
+            "id": "appositive",
+            "word": "appositive"
+        },
+        {
+            "id": "aspectual",
+            "word": "aspectual"
+        },
+        {
+            "id": "asyndeton",
+            "word": "asyndeton"
+        },
+        {
+            "id": "attributive",
+            "word": "attributive"
+        },
+        {
+            "id": "augmentative",
+            "word": "augmentative"
+        },
+        {
+            "id": "auxiliary_verb",
+            "word": "auxiliary verb"
+        },
+        {
+            "id": "backshift",
+            "word": "backshift"
+        },
+        {
+            "id": "barytone",
+            "word": "barytone"
+        },
+        {
+            "id": "benefactive",
+            "word": "benefactive"
+        },
+        {
+            "id": "cataphor",
+            "word": "cataphor"
+        },
+        {
+            "id": "cataphora",
+            "word": "cataphora"
+        },
+        {
+            "id": "catenative",
+            "word": "catenative"
+        },
+        {
+            "id": "causal",
+            "word": "causal"
+        },
+        {
+            "id": "causative",
+            "word": "causative"
+        },
+        {
+            "id": "classifying",
+            "word": "classifying"
+        },
+        {
+            "id": "clause",
+            "word": "clause"
+        },
+        {
+            "id": "cleft_sentence",
+            "word": "cleft sentence"
+        },
+        {
+            "id": "clitic",
+            "word": "clitic"
+        },
+        {
+            "id": "cliticize",
+            "word": "cliticize"
+        },
+        {
+            "id": "closed_compound",
+            "word": "closed compound"
+        },
+        {
+            "id": "cognate_object",
+            "word": "cognate object"
+        },
+        {
+            "id": "collective_noun",
+            "word": "collective noun"
+        },
+        {
+            "id": "colon",
+            "word": "colon"
+        },
+        {
+            "id": "combining_form",
+            "word": "combining form"
+        },
+        {
+            "id": "comma",
+            "word": "comma"
+        },
+        {
+            "id": "comma_splice",
+            "word": "comma splice"
+        },
+        {
+            "id": "common_noun",
+            "word": "common noun"
+        },
+        {
+            "id": "complementizer",
+            "word": "complementizer"
+        },
+        {
+            "id": "completive",
+            "word": "completive"
+        },
+        {
+            "id": "complex_sentence",
+            "word": "complex sentence"
+        },
+        {
+            "id": "compound_noun",
+            "word": "compound noun"
+        },
+        {
+            "id": "compound_sentence",
+            "word": "compound sentence"
+        },
+        {
+            "id": "conation",
+            "word": "conation"
+        },
+        {
+            "id": "concrete_noun",
+            "word": "concrete noun"
+        },
+        {
+            "id": "conjugate",
+            "word": "conjugate"
+        },
+        {
+            "id": "conjugation",
+            "word": "conjugation"
+        },
+        {
+            "id": "conjunction",
+            "word": "conjunction"
+        },
+        {
+            "id": "constative",
+            "word": "constative"
+        },
+        {
+            "id": "contact_clause",
+            "word": "contact clause"
+        },
+        {
+            "id": "coordinating_conjunction",
+            "word": "coordinating conjunction"
+        },
+        {
+            "id": "copula",
+            "word": "copula"
+        },
+        {
+            "id": "copulative",
+            "word": "copulative"
+        },
+        {
+            "id": "countable",
+            "word": "countable"
+        },
+        {
+            "id": "count_noun",
+            "word": "count noun"
+        },
+        {
+            "id": "dangling_participle",
+            "word": "dangling participle"
+        },
+        {
+            "id": "dative",
+            "word": "dative"
+        },
+        {
+            "id": "declarative",
+            "word": "declarative"
+        },
+        {
+            "id": "declension",
+            "word": "declension"
+        },
+        {
+            "id": "definite_article",
+            "word": "definite article"
+        },
+        {
+            "id": "deictic",
+            "word": "deictic"
+        },
+        {
+            "id": "deixis",
+            "word": "deixis"
+        },
+        {
+            "id": "deponent",
+            "word": "deponent"
+        },
+        {
+            "id": "descriptive",
+            "word": "descriptive"
+        },
+        {
+            "id": "desiderative",
+            "word": "desiderative"
+        },
+        {
+            "id": "diminutive",
+            "word": "diminutive"
+        },
+        {
+            "id": "direct_object",
+            "word": "direct object"
+        },
+        {
+            "id": "direct_speech",
+            "word": "direct speech"
+        },
+        {
+            "id": "discourse_marker",
+            "word": "discourse marker"
+        },
+        {
+            "id": "ditransitive",
+            "word": "ditransitive"
+        },
+        {
+            "id": "double_negative",
+            "word": "double negative"
+        },
+        {
+            "id": "dual",
+            "word": "dual"
+        },
+        {
+            "id": "durative",
+            "word": "durative"
+        },
+        {
+            "id": "ellipsis",
+            "word": "ellipsis"
+        },
+        {
+            "id": "elliptical",
+            "word": "elliptical"
+        },
+        {
+            "id": "empty_word",
+            "word": "empty word"
+        },
+        {
+            "id": "enclitic",
+            "word": "enclitic"
+        },
+        {
+            "id": "ergative",
+            "word": "ergative"
+        },
+        {
+            "id": "exclamation_mark",
+            "word": "exclamation mark"
+        },
+        {
+            "id": "extraposition",
+            "word": "extraposition"
+        },
+        {
+            "id": "f",
+            "word": "f"
+        },
+        {
+            "id": "factive",
+            "word": "factive"
+        },
+        {
+            "id": "final_clause",
+            "word": "final clause"
+        },
+        {
+            "id": "frequentative",
+            "word": "frequentative"
+        },
+        {
+            "id": "full_stop",
+            "word": "full stop"
+        },
+        {
+            "id": "future_perfect",
+            "word": "future perfect"
+        },
+        {
+            "id": "future_tense",
+            "word": "future tense"
+        },
+        {
+            "id": "gapping",
+            "word": "gapping"
+        },
+        {
+            "id": "generative_grammar",
+            "word": "generative grammar"
+        },
+        {
+            "id": "genitival",
+            "word": "genitival"
+        },
+        {
+            "id": "genitive",
+            "word": "genitive"
+        },
+        {
+            "id": "gerund",
+            "word": "gerund"
+        },
+        {
+            "id": "gerundive",
+            "word": "gerundive"
+        },
+        {
+            "id": "ghost_word",
+            "word": "ghost word"
+        },
+        {
+            "id": "gradable",
+            "word": "gradable"
+        },
+        {
+            "id": "grammar",
+            "word": "grammar"
+        },
+        {
+            "id": "grammarian",
+            "word": "grammarian"
+        },
+        {
+            "id": "grammatical",
+            "word": "grammatical"
+        },
+        {
+            "id": "grammatically",
+            "word": "grammatically"
+        },
+        {
+            "id": "grawlix",
+            "word": "grawlix"
+        },
+        {
+            "id": "greengrocer%27s_apostrophe",
+            "word": "greengrocer's apostrophe"
+        },
+        {
+            "id": "hiatus",
+            "word": "hiatus"
+        },
+        {
+            "id": "historic_present",
+            "word": "historic present"
+        },
+        {
+            "id": "hyphen",
+            "word": "hyphen"
+        },
+        {
+            "id": "hyphenate",
+            "word": "hyphenate"
+        },
+        {
+            "id": "hypotaxis",
+            "word": "hypotaxis"
+        },
+        {
+            "id": "imperfective",
+            "word": "imperfective"
+        },
+        {
+            "id": "impersonal_pronoun",
+            "word": "impersonal pronoun"
+        },
+        {
+            "id": "inceptive",
+            "word": "inceptive"
+        },
+        {
+            "id": "inchoative",
+            "word": "inchoative"
+        },
+        {
+            "id": "indeclinable",
+            "word": "indeclinable"
+        },
+        {
+            "id": "indefinite_article",
+            "word": "indefinite article"
+        },
+        {
+            "id": "indefinite_pronoun",
+            "word": "indefinite pronoun"
+        },
+        {
+            "id": "independent_clause",
+            "word": "independent clause"
+        },
+        {
+            "id": "indirect_object",
+            "word": "indirect object"
+        },
+        {
+            "id": "indirect_question",
+            "word": "indirect question"
+        },
+        {
+            "id": "infinitival",
+            "word": "infinitival"
+        },
+        {
+            "id": "infinitive",
+            "word": "infinitive"
+        },
+        {
+            "id": "infixation",
+            "word": "infixation"
+        },
+        {
+            "id": "inflect",
+            "word": "inflect"
+        },
+        {
+            "id": "inflection",
+            "word": "inflection"
+        },
+        {
+            "id": "inflectional",
+            "word": "inflectional"
+        },
+        {
+            "id": "interjection",
+            "word": "interjection"
+        },
+        {
+            "id": "interrobang",
+            "word": "interrobang"
+        },
+        {
+            "id": "interrogative",
+            "word": "interrogative"
+        },
+        {
+            "id": "intransitive",
+            "word": "intransitive"
+        },
+        {
+            "id": "invariable",
+            "word": "invariable"
+        },
+        {
+            "id": "inversion",
+            "word": "inversion"
+        },
+        {
+            "id": "irregular_verb",
+            "word": "irregular verb"
+        },
+        {
+            "id": "jussive",
+            "word": "jussive"
+        },
+        {
+            "id": "latinate",
+            "word": "latinate"
+        },
+        {
+            "id": "locative",
+            "word": "locative"
+        },
+        {
+            "id": "main_clause",
+            "word": "main clause"
+        },
+        {
+            "id": "main_verb",
+            "word": "main verb"
+        },
+        {
+            "id": "mass_noun",
+            "word": "mass noun"
+        },
+        {
+            "id": "metathesis",
+            "word": "metathesis"
+        },
+        {
+            "id": "modality",
+            "word": "modality"
+        },
+        {
+            "id": "modal_verb",
+            "word": "modal verb"
+        },
+        {
+            "id": "modifier",
+            "word": "modifier"
+        },
+        {
+            "id": "mood",
+            "word": "mood"
+        },
+        {
+            "id": "negation",
+            "word": "negation"
+        },
+        {
+            "id": "negator",
+            "word": "negator"
+        },
+        {
+            "id": "neuter",
+            "word": "neuter"
+        },
+        {
+            "id": "nominative",
+            "word": "nominative"
+        },
+        {
+            "id": "non-count",
+            "word": "non-count"
+        },
+        {
+            "id": "non-factive",
+            "word": "non-factive"
+        },
+        {
+            "id": "non-finite",
+            "word": "non-finite"
+        },
+        {
+            "id": "non-past",
+            "word": "non-past"
+        },
+        {
+            "id": "noun",
+            "word": "noun"
+        },
+        {
+            "id": "noun_phrase",
+            "word": "noun phrase"
+        },
+        {
+            "id": "object_clause",
+            "word": "object clause"
+        },
+        {
+            "id": "objective_case",
+            "word": "objective case"
+        },
+        {
+            "id": "open_compound",
+            "word": "open compound"
+        },
+        {
+            "id": "optative",
+            "word": "optative"
+        },
+        {
+            "id": "ordinal_number",
+            "word": "ordinal number"
+        },
+        {
+            "id": "oxford_comma",
+            "word": "oxford comma"
+        },
+        {
+            "id": "paragraph",
+            "word": "paragraph"
+        },
+        {
+            "id": "parataxis",
+            "word": "parataxis"
+        },
+        {
+            "id": "parenthesis",
+            "word": "parenthesis"
+        },
+        {
+            "id": "parenthesize",
+            "word": "parenthesize"
+        },
+        {
+            "id": "parenthetic",
+            "word": "parenthetic"
+        },
+        {
+            "id": "parenthetical",
+            "word": "parenthetical"
+        },
+        {
+            "id": "parse",
+            "word": "parse"
+        },
+        {
+            "id": "participial",
+            "word": "participial"
+        },
+        {
+            "id": "participial_adjective",
+            "word": "participial adjective"
+        },
+        {
+            "id": "participle",
+            "word": "participle"
+        },
+        {
+            "id": "partitive",
+            "word": "partitive"
+        },
+        {
+            "id": "partitive_genitive",
+            "word": "partitive genitive"
+        },
+        {
+            "id": "part_of_speech",
+            "word": "part of speech"
+        },
+        {
+            "id": "passive_voice",
+            "word": "passive voice"
+        },
+        {
+            "id": "passivize",
+            "word": "passivize"
+        },
+        {
+            "id": "past_participle",
+            "word": "past participle"
+        },
+        {
+            "id": "past_perfect",
+            "word": "past perfect"
+        },
+        {
+            "id": "past_tense",
+            "word": "past tense"
+        },
+        {
+            "id": "perfective",
+            "word": "perfective"
+        },
+        {
+            "id": "personal_pronoun",
+            "word": "personal pronoun"
+        },
+        {
+            "id": "phrasal",
+            "word": "phrasal"
+        },
+        {
+            "id": "phrasal_verb",
+            "word": "phrasal verb"
+        },
+        {
+            "id": "phrase",
+            "word": "phrase"
+        },
+        {
+            "id": "pluperfect",
+            "word": "pluperfect"
+        },
+        {
+            "id": "plural",
+            "word": "plural"
+        },
+        {
+            "id": "possessive_determiner",
+            "word": "possessive determiner"
+        },
+        {
+            "id": "possessive_pronoun",
+            "word": "possessive pronoun"
+        },
+        {
+            "id": "postmodify",
+            "word": "postmodify"
+        },
+        {
+            "id": "postpose",
+            "word": "postpose"
+        },
+        {
+            "id": "postposition",
+            "word": "postposition"
+        },
+        {
+            "id": "postpositive",
+            "word": "postpositive"
+        },
+        {
+            "id": "predeterminer",
+            "word": "predeterminer"
+        },
+        {
+            "id": "predicate",
+            "word": "predicate"
+        },
+        {
+            "id": "predicative",
+            "word": "predicative"
+        },
+        {
+            "id": "predicator",
+            "word": "predicator"
+        },
+        {
+            "id": "prefix",
+            "word": "prefix"
+        },
+        {
+            "id": "premodify",
+            "word": "premodify"
+        },
+        {
+            "id": "prenominal",
+            "word": "prenominal"
+        },
+        {
+            "id": "prep.",
+            "word": "prep."
+        },
+        {
+            "id": "preposition",
+            "word": "preposition"
+        },
+        {
+            "id": "prepositional",
+            "word": "prepositional"
+        },
+        {
+            "id": "prepositional_object",
+            "word": "prepositional object"
+        },
+        {
+            "id": "prepositive",
+            "word": "prepositive"
+        },
+        {
+            "id": "present_participle",
+            "word": "present participle"
+        },
+        {
+            "id": "present_tense",
+            "word": "present tense"
+        },
+        {
+            "id": "preterite",
+            "word": "preterite"
+        },
+        {
+            "id": "principal_parts",
+            "word": "principal parts"
+        },
+        {
+            "id": "pronominal",
+            "word": "pronominal"
+        },
+        {
+            "id": "pronominalize",
+            "word": "pronominalize"
+        },
+        {
+            "id": "pronoun",
+            "word": "pronoun"
+        },
+        {
+            "id": "proper_noun",
+            "word": "proper noun"
+        },
+        {
+            "id": "protasis",
+            "word": "protasis"
+        },
+        {
+            "id": "pseudo-cleft",
+            "word": "pseudo-cleft"
+        },
+        {
+            "id": "punctuation",
+            "word": "punctuation"
+        },
+        {
+            "id": "question_mark",
+            "word": "question mark"
+        },
+        {
+            "id": "quotation_mark",
+            "word": "quotation mark"
+        },
+        {
+            "id": "reflexive",
+            "word": "reflexive"
+        },
+        {
+            "id": "regular_verb",
+            "word": "regular verb"
+        },
+        {
+            "id": "relative_clause",
+            "word": "relative clause"
+        },
+        {
+            "id": "reported_speech",
+            "word": "reported speech"
+        },
+        {
+            "id": "reporting_verb",
+            "word": "reporting verb"
+        },
+        {
+            "id": "resultative",
+            "word": "resultative"
+        },
+        {
+            "id": "resumptive",
+            "word": "resumptive"
+        },
+        {
+            "id": "sandhi",
+            "word": "sandhi"
+        },
+        {
+            "id": "semicolon",
+            "word": "semicolon"
+        },
+        {
+            "id": "semi-deponent",
+            "word": "semi-deponent"
+        },
+        {
+            "id": "semi-modal",
+            "word": "semi-modal"
+        },
+        {
+            "id": "sentence",
+            "word": "sentence"
+        },
+        {
+            "id": "sentence_adverb",
+            "word": "sentence adverb"
+        },
+        {
+            "id": "sentential",
+            "word": "sentential"
+        },
+        {
+            "id": "sequence_of_tenses",
+            "word": "sequence of tenses"
+        },
+        {
+            "id": "serial",
+            "word": "serial"
+        },
+        {
+            "id": "serial_comma",
+            "word": "serial comma"
+        },
+        {
+            "id": "simple_sentence",
+            "word": "simple sentence"
+        },
+        {
+            "id": "sing.",
+            "word": "sing."
+        },
+        {
+            "id": "singular",
+            "word": "singular"
+        },
+        {
+            "id": "solecism",
+            "word": "solecism"
+        },
+        {
+            "id": "split_infinitive",
+            "word": "split infinitive"
+        },
+        {
+            "id": "stative",
+            "word": "stative"
+        },
+        {
+            "id": "subjective_case",
+            "word": "subjective case"
+        },
+        {
+            "id": "subjunct",
+            "word": "subjunct"
+        },
+        {
+            "id": "subjunctive",
+            "word": "subjunctive"
+        },
+        {
+            "id": "submodifier",
+            "word": "submodifier"
+        },
+        {
+            "id": "submodify",
+            "word": "submodify"
+        },
+        {
+            "id": "subordinate_clause",
+            "word": "subordinate clause"
+        },
+        {
+            "id": "subordinating_conjunction",
+            "word": "subordinating conjunction"
+        },
+        {
+            "id": "suffix",
+            "word": "suffix"
+        },
+        {
+            "id": "syndetic",
+            "word": "syndetic"
+        },
+        {
+            "id": "syntactic",
+            "word": "syntactic"
+        },
+        {
+            "id": "syntax",
+            "word": "syntax"
+        },
+        {
+            "id": "synthesis",
+            "word": "synthesis"
+        },
+        {
+            "id": "tag_question",
+            "word": "tag question"
+        },
+        {
+            "id": "tautologize",
+            "word": "tautologize"
+        },
+        {
+            "id": "tautology",
+            "word": "tautology"
+        },
+        {
+            "id": "tense",
+            "word": "tense"
+        },
+        {
+            "id": "tmesis",
+            "word": "tmesis"
+        },
+        {
+            "id": "transitive",
+            "word": "transitive"
+        },
+        {
+            "id": "ungrammatical",
+            "word": "ungrammatical"
+        },
+        {
+            "id": "uninflected",
+            "word": "uninflected"
+        },
+        {
+            "id": "v",
+            "word": "v"
+        },
+        {
+            "id": "verb",
+            "word": "verb"
+        },
+        {
+            "id": "verbal_noun",
+            "word": "verbal noun"
+        },
+        {
+            "id": "verbing",
+            "word": "verbing"
+        },
+        {
+            "id": "verb_phrase",
+            "word": "verb phrase"
+        },
+        {
+            "id": "vocative",
+            "word": "vocative"
+        },
+        {
+            "id": "well_formed",
+            "word": "well formed"
+        },
+        {
+            "id": "wh-word",
+            "word": "wh-word"
+        }
+    ]
+}

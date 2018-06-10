@@ -1,0 +1,495 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 121
+    },
+    "results": [
+        {
+            "id": "actinium",
+            "word": "actinium"
+        },
+        {
+            "id": "aluminium",
+            "word": "aluminium"
+        },
+        {
+            "id": "americium",
+            "word": "americium"
+        },
+        {
+            "id": "antimony",
+            "word": "antimony"
+        },
+        {
+            "id": "argon",
+            "word": "argon"
+        },
+        {
+            "id": "arsenic",
+            "word": "arsenic"
+        },
+        {
+            "id": "astatine",
+            "word": "astatine"
+        },
+        {
+            "id": "barium",
+            "word": "barium"
+        },
+        {
+            "id": "berkelium",
+            "word": "berkelium"
+        },
+        {
+            "id": "beryllium",
+            "word": "beryllium"
+        },
+        {
+            "id": "bismuth",
+            "word": "bismuth"
+        },
+        {
+            "id": "bohrium",
+            "word": "bohrium"
+        },
+        {
+            "id": "boron",
+            "word": "boron"
+        },
+        {
+            "id": "bromine",
+            "word": "bromine"
+        },
+        {
+            "id": "cadmium",
+            "word": "cadmium"
+        },
+        {
+            "id": "caesium",
+            "word": "caesium"
+        },
+        {
+            "id": "calcium",
+            "word": "calcium"
+        },
+        {
+            "id": "californium",
+            "word": "californium"
+        },
+        {
+            "id": "carbon",
+            "word": "carbon"
+        },
+        {
+            "id": "cerium",
+            "word": "cerium"
+        },
+        {
+            "id": "chlorine",
+            "word": "chlorine"
+        },
+        {
+            "id": "chromium",
+            "word": "chromium"
+        },
+        {
+            "id": "cobalt",
+            "word": "cobalt"
+        },
+        {
+            "id": "columbium",
+            "word": "columbium"
+        },
+        {
+            "id": "copernicium",
+            "word": "copernicium"
+        },
+        {
+            "id": "copper",
+            "word": "copper"
+        },
+        {
+            "id": "curium",
+            "word": "curium"
+        },
+        {
+            "id": "darmstadtium",
+            "word": "darmstadtium"
+        },
+        {
+            "id": "deuterium",
+            "word": "deuterium"
+        },
+        {
+            "id": "dubnium",
+            "word": "dubnium"
+        },
+        {
+            "id": "dysprosium",
+            "word": "dysprosium"
+        },
+        {
+            "id": "einsteinium",
+            "word": "einsteinium"
+        },
+        {
+            "id": "erbium",
+            "word": "erbium"
+        },
+        {
+            "id": "europium",
+            "word": "europium"
+        },
+        {
+            "id": "fermium",
+            "word": "fermium"
+        },
+        {
+            "id": "flerovium",
+            "word": "flerovium"
+        },
+        {
+            "id": "fluorine",
+            "word": "fluorine"
+        },
+        {
+            "id": "francium",
+            "word": "francium"
+        },
+        {
+            "id": "gadolinium",
+            "word": "gadolinium"
+        },
+        {
+            "id": "gallium",
+            "word": "gallium"
+        },
+        {
+            "id": "germanium",
+            "word": "germanium"
+        },
+        {
+            "id": "gold",
+            "word": "gold"
+        },
+        {
+            "id": "hafnium",
+            "word": "hafnium"
+        },
+        {
+            "id": "hahnium",
+            "word": "hahnium"
+        },
+        {
+            "id": "hassium",
+            "word": "hassium"
+        },
+        {
+            "id": "helium",
+            "word": "helium"
+        },
+        {
+            "id": "holmium",
+            "word": "holmium"
+        },
+        {
+            "id": "hydrogen",
+            "word": "hydrogen"
+        },
+        {
+            "id": "indium",
+            "word": "indium"
+        },
+        {
+            "id": "iodine",
+            "word": "iodine"
+        },
+        {
+            "id": "iridium",
+            "word": "iridium"
+        },
+        {
+            "id": "iron",
+            "word": "iron"
+        },
+        {
+            "id": "joliotium",
+            "word": "joliotium"
+        },
+        {
+            "id": "krypton",
+            "word": "krypton"
+        },
+        {
+            "id": "kurchatovium",
+            "word": "kurchatovium"
+        },
+        {
+            "id": "lanthanum",
+            "word": "lanthanum"
+        },
+        {
+            "id": "lawrencium",
+            "word": "lawrencium"
+        },
+        {
+            "id": "lead",
+            "word": "lead"
+        },
+        {
+            "id": "lithium",
+            "word": "lithium"
+        },
+        {
+            "id": "livermorium",
+            "word": "livermorium"
+        },
+        {
+            "id": "lutetium",
+            "word": "lutetium"
+        },
+        {
+            "id": "magnesium",
+            "word": "magnesium"
+        },
+        {
+            "id": "manganese",
+            "word": "manganese"
+        },
+        {
+            "id": "meitnerium",
+            "word": "meitnerium"
+        },
+        {
+            "id": "mendelevium",
+            "word": "mendelevium"
+        },
+        {
+            "id": "mercury",
+            "word": "mercury"
+        },
+        {
+            "id": "molybdenum",
+            "word": "molybdenum"
+        },
+        {
+            "id": "neodymium",
+            "word": "neodymium"
+        },
+        {
+            "id": "neon",
+            "word": "neon"
+        },
+        {
+            "id": "neptunium",
+            "word": "neptunium"
+        },
+        {
+            "id": "nickel",
+            "word": "nickel"
+        },
+        {
+            "id": "nielsbohrium",
+            "word": "nielsbohrium"
+        },
+        {
+            "id": "niobium",
+            "word": "niobium"
+        },
+        {
+            "id": "nitrogen",
+            "word": "nitrogen"
+        },
+        {
+            "id": "nobelium",
+            "word": "nobelium"
+        },
+        {
+            "id": "osmium",
+            "word": "osmium"
+        },
+        {
+            "id": "oxygen",
+            "word": "oxygen"
+        },
+        {
+            "id": "palladium",
+            "word": "palladium"
+        },
+        {
+            "id": "phosphorus",
+            "word": "phosphorus"
+        },
+        {
+            "id": "platinum",
+            "word": "platinum"
+        },
+        {
+            "id": "plutonium",
+            "word": "plutonium"
+        },
+        {
+            "id": "polonium",
+            "word": "polonium"
+        },
+        {
+            "id": "potassium",
+            "word": "potassium"
+        },
+        {
+            "id": "praseodymium",
+            "word": "praseodymium"
+        },
+        {
+            "id": "promethium",
+            "word": "promethium"
+        },
+        {
+            "id": "protactinium",
+            "word": "protactinium"
+        },
+        {
+            "id": "protium",
+            "word": "protium"
+        },
+        {
+            "id": "radium",
+            "word": "radium"
+        },
+        {
+            "id": "radon",
+            "word": "radon"
+        },
+        {
+            "id": "rhenium",
+            "word": "rhenium"
+        },
+        {
+            "id": "rhodium",
+            "word": "rhodium"
+        },
+        {
+            "id": "roentgenium",
+            "word": "roentgenium"
+        },
+        {
+            "id": "rubidium",
+            "word": "rubidium"
+        },
+        {
+            "id": "ruthenium",
+            "word": "ruthenium"
+        },
+        {
+            "id": "rutherfordium",
+            "word": "rutherfordium"
+        },
+        {
+            "id": "samarium",
+            "word": "samarium"
+        },
+        {
+            "id": "scandium",
+            "word": "scandium"
+        },
+        {
+            "id": "seaborgium",
+            "word": "seaborgium"
+        },
+        {
+            "id": "selenium",
+            "word": "selenium"
+        },
+        {
+            "id": "silicon",
+            "word": "silicon"
+        },
+        {
+            "id": "silver",
+            "word": "silver"
+        },
+        {
+            "id": "sodium",
+            "word": "sodium"
+        },
+        {
+            "id": "strontium",
+            "word": "strontium"
+        },
+        {
+            "id": "sulphur",
+            "word": "sulphur"
+        },
+        {
+            "id": "tantalum",
+            "word": "tantalum"
+        },
+        {
+            "id": "technetium",
+            "word": "technetium"
+        },
+        {
+            "id": "tellurium",
+            "word": "tellurium"
+        },
+        {
+            "id": "terbium",
+            "word": "terbium"
+        },
+        {
+            "id": "thallium",
+            "word": "thallium"
+        },
+        {
+            "id": "thorium",
+            "word": "thorium"
+        },
+        {
+            "id": "thulium",
+            "word": "thulium"
+        },
+        {
+            "id": "tin",
+            "word": "tin"
+        },
+        {
+            "id": "titanium",
+            "word": "titanium"
+        },
+        {
+            "id": "tungsten",
+            "word": "tungsten"
+        },
+        {
+            "id": "uranium",
+            "word": "uranium"
+        },
+        {
+            "id": "vanadium",
+            "word": "vanadium"
+        },
+        {
+            "id": "xenon",
+            "word": "xenon"
+        },
+        {
+            "id": "ytterbium",
+            "word": "ytterbium"
+        },
+        {
+            "id": "yttrium",
+            "word": "yttrium"
+        },
+        {
+            "id": "zinc",
+            "word": "zinc"
+        },
+        {
+            "id": "zirconium",
+            "word": "zirconium"
+        }
+    ]
+}

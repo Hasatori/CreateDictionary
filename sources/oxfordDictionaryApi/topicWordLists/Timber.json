@@ -1,0 +1,555 @@
+{
+    "results": [
+        {
+            "id": "abura",
+            "word": "abura"
+        },
+        {
+            "id": "afara",
+            "word": "afara"
+        },
+        {
+            "id": "afrormosia",
+            "word": "afrormosia"
+        },
+        {
+            "id": "alder",
+            "word": "alder"
+        },
+        {
+            "id": "alerce",
+            "word": "alerce"
+        },
+        {
+            "id": "ambatch",
+            "word": "ambatch"
+        },
+        {
+            "id": "amboyna",
+            "word": "amboyna"
+        },
+        {
+            "id": "applewood",
+            "word": "applewood"
+        },
+        {
+            "id": "balsa",
+            "word": "balsa"
+        },
+        {
+            "id": "beefwood",
+            "word": "beefwood"
+        },
+        {
+            "id": "bentwood",
+            "word": "bentwood"
+        },
+        {
+            "id": "billet",
+            "word": "billet"
+        },
+        {
+            "id": "bird%27s-eye_maple",
+            "word": "bird's-eye maple"
+        },
+        {
+            "id": "blackbutt",
+            "word": "blackbutt"
+        },
+        {
+            "id": "block",
+            "word": "block"
+        },
+        {
+            "id": "bog_oak",
+            "word": "bog oak"
+        },
+        {
+            "id": "bubinga",
+            "word": "bubinga"
+        },
+        {
+            "id": "camwood",
+            "word": "camwood"
+        },
+        {
+            "id": "cant_hook",
+            "word": "cant hook"
+        },
+        {
+            "id": "ceiba",
+            "word": "ceiba"
+        },
+        {
+            "id": "cheesewood",
+            "word": "cheesewood"
+        },
+        {
+            "id": "close-grained",
+            "word": "close-grained"
+        },
+        {
+            "id": "coachwood",
+            "word": "coachwood"
+        },
+        {
+            "id": "cocobolo",
+            "word": "cocobolo"
+        },
+        {
+            "id": "cocus_wood",
+            "word": "cocus wood"
+        },
+        {
+            "id": "coolibah",
+            "word": "coolibah"
+        },
+        {
+            "id": "coppice",
+            "word": "coppice"
+        },
+        {
+            "id": "coppiced",
+            "word": "coppiced"
+        },
+        {
+            "id": "cordwood",
+            "word": "cordwood"
+        },
+        {
+            "id": "corkwood",
+            "word": "corkwood"
+        },
+        {
+            "id": "coromandel",
+            "word": "coromandel"
+        },
+        {
+            "id": "cross-grain",
+            "word": "cross-grain"
+        },
+        {
+            "id": "cross-grained",
+            "word": "cross-grained"
+        },
+        {
+            "id": "deal",
+            "word": "deal"
+        },
+        {
+            "id": "dogwood",
+            "word": "dogwood"
+        },
+        {
+            "id": "driftwood",
+            "word": "driftwood"
+        },
+        {
+            "id": "ebony",
+            "word": "ebony"
+        },
+        {
+            "id": "elm_wood",
+            "word": "elm wood"
+        },
+        {
+            "id": "end_grain",
+            "word": "end grain"
+        },
+        {
+            "id": "eucalyptus",
+            "word": "eucalyptus"
+        },
+        {
+            "id": "fine-grained",
+            "word": "fine-grained"
+        },
+        {
+            "id": "firewood",
+            "word": "firewood"
+        },
+        {
+            "id": "flitch",
+            "word": "flitch"
+        },
+        {
+            "id": "fruitwood",
+            "word": "fruitwood"
+        },
+        {
+            "id": "fuelwood",
+            "word": "fuelwood"
+        },
+        {
+            "id": "gaboon",
+            "word": "gaboon"
+        },
+        {
+            "id": "gopher_wood",
+            "word": "gopher wood"
+        },
+        {
+            "id": "greasewood",
+            "word": "greasewood"
+        },
+        {
+            "id": "grove",
+            "word": "grove"
+        },
+        {
+            "id": "guaiacum",
+            "word": "guaiacum"
+        },
+        {
+            "id": "hackmatack",
+            "word": "hackmatack"
+        },
+        {
+            "id": "hardwood",
+            "word": "hardwood"
+        },
+        {
+            "id": "harewood",
+            "word": "harewood"
+        },
+        {
+            "id": "heartwood",
+            "word": "heartwood"
+        },
+        {
+            "id": "hickory",
+            "word": "hickory"
+        },
+        {
+            "id": "hinoki",
+            "word": "hinoki"
+        },
+        {
+            "id": "idigbo",
+            "word": "idigbo"
+        },
+        {
+            "id": "iroko",
+            "word": "iroko"
+        },
+        {
+            "id": "ironbark",
+            "word": "ironbark"
+        },
+        {
+            "id": "ironwood",
+            "word": "ironwood"
+        },
+        {
+            "id": "jarrah",
+            "word": "jarrah"
+        },
+        {
+            "id": "jelutong",
+            "word": "jelutong"
+        },
+        {
+            "id": "kamahi",
+            "word": "kamahi"
+        },
+        {
+            "id": "kapur",
+            "word": "kapur"
+        },
+        {
+            "id": "karri",
+            "word": "karri"
+        },
+        {
+            "id": "kiaat",
+            "word": "kiaat"
+        },
+        {
+            "id": "knothole",
+            "word": "knothole"
+        },
+        {
+            "id": "koa",
+            "word": "koa"
+        },
+        {
+            "id": "laburnum",
+            "word": "laburnum"
+        },
+        {
+            "id": "lacewood",
+            "word": "lacewood"
+        },
+        {
+            "id": "lancewood",
+            "word": "lancewood"
+        },
+        {
+            "id": "lightwood",
+            "word": "lightwood"
+        },
+        {
+            "id": "lignum_vitae",
+            "word": "lignum vitae"
+        },
+        {
+            "id": "lime",
+            "word": "lime"
+        },
+        {
+            "id": "logwood",
+            "word": "logwood"
+        },
+        {
+            "id": "lumberer",
+            "word": "lumberer"
+        },
+        {
+            "id": "lumberjack",
+            "word": "lumberjack"
+        },
+        {
+            "id": "mahogany",
+            "word": "mahogany"
+        },
+        {
+            "id": "matchwood",
+            "word": "matchwood"
+        },
+        {
+            "id": "meranti",
+            "word": "meranti"
+        },
+        {
+            "id": "muskwood",
+            "word": "muskwood"
+        },
+        {
+            "id": "old-growth",
+            "word": "old-growth"
+        },
+        {
+            "id": "opepe",
+            "word": "opepe"
+        },
+        {
+            "id": "oregon_pine",
+            "word": "oregon pine"
+        },
+        {
+            "id": "osage_orange",
+            "word": "osage orange"
+        },
+        {
+            "id": "padauk",
+            "word": "padauk"
+        },
+        {
+            "id": "pernambuco",
+            "word": "pernambuco"
+        },
+        {
+            "id": "peroba",
+            "word": "peroba"
+        },
+        {
+            "id": "piner",
+            "word": "piner"
+        },
+        {
+            "id": "pinewood",
+            "word": "pinewood"
+        },
+        {
+            "id": "pitch_pine",
+            "word": "pitch pine"
+        },
+        {
+            "id": "plain_sawing",
+            "word": "plain sawing"
+        },
+        {
+            "id": "plank",
+            "word": "plank"
+        },
+        {
+            "id": "pollard",
+            "word": "pollard"
+        },
+        {
+            "id": "poplar",
+            "word": "poplar"
+        },
+        {
+            "id": "primavera",
+            "word": "primavera"
+        },
+        {
+            "id": "pulpwood",
+            "word": "pulpwood"
+        },
+        {
+            "id": "pyinkado",
+            "word": "pyinkado"
+        },
+        {
+            "id": "quarter-saw",
+            "word": "quarter-saw"
+        },
+        {
+            "id": "ramin",
+            "word": "ramin"
+        },
+        {
+            "id": "rata",
+            "word": "rata"
+        },
+        {
+            "id": "red_gum",
+            "word": "red gum"
+        },
+        {
+            "id": "red_pine",
+            "word": "red pine"
+        },
+        {
+            "id": "reforest",
+            "word": "reforest"
+        },
+        {
+            "id": "reforestation",
+            "word": "reforestation"
+        },
+        {
+            "id": "rimu",
+            "word": "rimu"
+        },
+        {
+            "id": "rosewood",
+            "word": "rosewood"
+        },
+        {
+            "id": "rough_timber",
+            "word": "rough timber"
+        },
+        {
+            "id": "roundwood",
+            "word": "roundwood"
+        },
+        {
+            "id": "sabicu",
+            "word": "sabicu"
+        },
+        {
+            "id": "sanders",
+            "word": "sanders"
+        },
+        {
+            "id": "sapele",
+            "word": "sapele"
+        },
+        {
+            "id": "satinwood",
+            "word": "satinwood"
+        },
+        {
+            "id": "sawlog",
+            "word": "sawlog"
+        },
+        {
+            "id": "saw_pit",
+            "word": "saw pit"
+        },
+        {
+            "id": "silky_oak",
+            "word": "silky oak"
+        },
+        {
+            "id": "softwood",
+            "word": "softwood"
+        },
+        {
+            "id": "spalted",
+            "word": "spalted"
+        },
+        {
+            "id": "spar_tree",
+            "word": "spar tree"
+        },
+        {
+            "id": "stick",
+            "word": "stick"
+        },
+        {
+            "id": "sweet_gum",
+            "word": "sweet gum"
+        },
+        {
+            "id": "tallow-wood",
+            "word": "tallow-wood"
+        },
+        {
+            "id": "teak",
+            "word": "teak"
+        },
+        {
+            "id": "tiersman",
+            "word": "tiersman"
+        },
+        {
+            "id": "tiger_maple",
+            "word": "tiger maple"
+        },
+        {
+            "id": "tigerwood",
+            "word": "tigerwood"
+        },
+        {
+            "id": "timber",
+            "word": "timber"
+        },
+        {
+            "id": "timbering",
+            "word": "timbering"
+        },
+        {
+            "id": "touchwood",
+            "word": "touchwood"
+        },
+        {
+            "id": "two-by-four",
+            "word": "two-by-four"
+        },
+        {
+            "id": "utile",
+            "word": "utile"
+        },
+        {
+            "id": "wood",
+            "word": "wood"
+        },
+        {
+            "id": "yarran",
+            "word": "yarran"
+        },
+        {
+            "id": "yellow-wood",
+            "word": "yellow-wood"
+        },
+        {
+            "id": "yule_log",
+            "word": "yule log"
+        },
+        {
+            "id": "zebrawood",
+            "word": "zebrawood"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 136,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

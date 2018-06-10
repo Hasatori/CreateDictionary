@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 34
+    },
+    "results": [
+        {
+            "id": "axel",
+            "word": "axel"
+        },
+        {
+            "id": "bobskate",
+            "word": "bobskate"
+        },
+        {
+            "id": "curry%2C_john",
+            "word": "curry, john"
+        },
+        {
+            "id": "figure_skate",
+            "word": "figure skate"
+        },
+        {
+            "id": "figure_skating",
+            "word": "figure skating"
+        },
+        {
+            "id": "free_skating",
+            "word": "free skating"
+        },
+        {
+            "id": "ice_dance",
+            "word": "ice dance"
+        },
+        {
+            "id": "ice_dancing",
+            "word": "ice dancing"
+        },
+        {
+            "id": "ice_skate",
+            "word": "ice skate"
+        },
+        {
+            "id": "ice_skating",
+            "word": "ice skating"
+        },
+        {
+            "id": "in-line_skater",
+            "word": "in-line skater"
+        },
+        {
+            "id": "in-line_skates",
+            "word": "in-line skates"
+        },
+        {
+            "id": "in-line_skating",
+            "word": "in-line skating"
+        },
+        {
+            "id": "long-track",
+            "word": "long-track"
+        },
+        {
+            "id": "lutz",
+            "word": "lutz"
+        },
+        {
+            "id": "outer_edge",
+            "word": "outer edge"
+        },
+        {
+            "id": "outside_edge",
+            "word": "outside edge"
+        },
+        {
+            "id": "pairs_skating",
+            "word": "pairs skating"
+        },
+        {
+            "id": "rink",
+            "word": "rink"
+        },
+        {
+            "id": "rollerblade",
+            "word": "rollerblade"
+        },
+        {
+            "id": "roller_derby",
+            "word": "roller derby"
+        },
+        {
+            "id": "roller_skate",
+            "word": "roller skate"
+        },
+        {
+            "id": "roller_skating",
+            "word": "roller skating"
+        },
+        {
+            "id": "salchow",
+            "word": "salchow"
+        },
+        {
+            "id": "short-track",
+            "word": "short-track"
+        },
+        {
+            "id": "skate",
+            "word": "skate"
+        },
+        {
+            "id": "skater",
+            "word": "skater"
+        },
+        {
+            "id": "skating",
+            "word": "skating"
+        },
+        {
+            "id": "skating_rink",
+            "word": "skating rink"
+        },
+        {
+            "id": "speed_skating",
+            "word": "speed skating"
+        },
+        {
+            "id": "spreadeagle",
+            "word": "spreadeagle"
+        },
+        {
+            "id": "toe_loop",
+            "word": "toe loop"
+        },
+        {
+            "id": "toe_pick",
+            "word": "toe pick"
+        },
+        {
+            "id": "torvill_and_dean",
+            "word": "torvill and dean"
+        }
+    ]
+}

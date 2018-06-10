@@ -1,0 +1,707 @@
+{
+    "results": [
+        {
+            "id": "adze",
+            "word": "adze"
+        },
+        {
+            "id": "angle_grinder",
+            "word": "angle grinder"
+        },
+        {
+            "id": "awl",
+            "word": "awl"
+        },
+        {
+            "id": "bandsaw",
+            "word": "bandsaw"
+        },
+        {
+            "id": "belt_sander",
+            "word": "belt sander"
+        },
+        {
+            "id": "block_plane",
+            "word": "block plane"
+        },
+        {
+            "id": "blowtorch",
+            "word": "blowtorch"
+        },
+        {
+            "id": "bolster",
+            "word": "bolster"
+        },
+        {
+            "id": "box_spanner",
+            "word": "box spanner"
+        },
+        {
+            "id": "bradawl",
+            "word": "bradawl"
+        },
+        {
+            "id": "bread_knife",
+            "word": "bread knife"
+        },
+        {
+            "id": "breast_drill",
+            "word": "breast drill"
+        },
+        {
+            "id": "burin",
+            "word": "burin"
+        },
+        {
+            "id": "butter_knife",
+            "word": "butter knife"
+        },
+        {
+            "id": "cant_hook",
+            "word": "cant hook"
+        },
+        {
+            "id": "capstan_lathe",
+            "word": "capstan lathe"
+        },
+        {
+            "id": "carpet_sweeper",
+            "word": "carpet sweeper"
+        },
+        {
+            "id": "carving_knife",
+            "word": "carving knife"
+        },
+        {
+            "id": "centre_punch",
+            "word": "centre punch"
+        },
+        {
+            "id": "chainsaw",
+            "word": "chainsaw"
+        },
+        {
+            "id": "cheese-cutter",
+            "word": "cheese-cutter"
+        },
+        {
+            "id": "chisel",
+            "word": "chisel"
+        },
+        {
+            "id": "choil",
+            "word": "choil"
+        },
+        {
+            "id": "chopper",
+            "word": "chopper"
+        },
+        {
+            "id": "chuck_key",
+            "word": "chuck key"
+        },
+        {
+            "id": "church_key",
+            "word": "church key"
+        },
+        {
+            "id": "circular_saw",
+            "word": "circular saw"
+        },
+        {
+            "id": "clasp_knife",
+            "word": "clasp knife"
+        },
+        {
+            "id": "claw_hammer",
+            "word": "claw hammer"
+        },
+        {
+            "id": "cleaver",
+            "word": "cleaver"
+        },
+        {
+            "id": "clout_nail",
+            "word": "clout nail"
+        },
+        {
+            "id": "cold_chisel",
+            "word": "cold chisel"
+        },
+        {
+            "id": "crescent_wrench",
+            "word": "crescent wrench"
+        },
+        {
+            "id": "cross-cut_saw",
+            "word": "cross-cut saw"
+        },
+        {
+            "id": "cross_peen",
+            "word": "cross peen"
+        },
+        {
+            "id": "cross-slide",
+            "word": "cross-slide"
+        },
+        {
+            "id": "crowbar",
+            "word": "crowbar"
+        },
+        {
+            "id": "crowsfoot_spanner",
+            "word": "crowsfoot spanner"
+        },
+        {
+            "id": "croze",
+            "word": "croze"
+        },
+        {
+            "id": "depth_gauge",
+            "word": "depth gauge"
+        },
+        {
+            "id": "diestock",
+            "word": "diestock"
+        },
+        {
+            "id": "double_axe",
+            "word": "double axe"
+        },
+        {
+            "id": "dovetail_saw",
+            "word": "dovetail saw"
+        },
+        {
+            "id": "drawknife",
+            "word": "drawknife"
+        },
+        {
+            "id": "drift_pin",
+            "word": "drift pin"
+        },
+        {
+            "id": "drill",
+            "word": "drill"
+        },
+        {
+            "id": "edge_tool",
+            "word": "edge tool"
+        },
+        {
+            "id": "file",
+            "word": "file"
+        },
+        {
+            "id": "froe",
+            "word": "froe"
+        },
+        {
+            "id": "fuller",
+            "word": "fuller"
+        },
+        {
+            "id": "garlic_press",
+            "word": "garlic press"
+        },
+        {
+            "id": "gimlet",
+            "word": "gimlet"
+        },
+        {
+            "id": "glass_cutter",
+            "word": "glass cutter"
+        },
+        {
+            "id": "graver",
+            "word": "graver"
+        },
+        {
+            "id": "hacksaw",
+            "word": "hacksaw"
+        },
+        {
+            "id": "hammer",
+            "word": "hammer"
+        },
+        {
+            "id": "hammer_drill",
+            "word": "hammer drill"
+        },
+        {
+            "id": "handsaw",
+            "word": "handsaw"
+        },
+        {
+            "id": "hand_tool",
+            "word": "hand tool"
+        },
+        {
+            "id": "hatchet",
+            "word": "hatchet"
+        },
+        {
+            "id": "hay_fork",
+            "word": "hay fork"
+        },
+        {
+            "id": "helve",
+            "word": "helve"
+        },
+        {
+            "id": "hilt",
+            "word": "hilt"
+        },
+        {
+            "id": "hole_punch",
+            "word": "hole punch"
+        },
+        {
+            "id": "hole_saw",
+            "word": "hole saw"
+        },
+        {
+            "id": "hunting_knife",
+            "word": "hunting knife"
+        },
+        {
+            "id": "industrial_diamond",
+            "word": "industrial diamond"
+        },
+        {
+            "id": "jackhammer",
+            "word": "jackhammer"
+        },
+        {
+            "id": "jointer",
+            "word": "jointer"
+        },
+        {
+            "id": "jubilee_clip",
+            "word": "jubilee clip"
+        },
+        {
+            "id": "kango",
+            "word": "kango"
+        },
+        {
+            "id": "knife",
+            "word": "knife"
+        },
+        {
+            "id": "-le",
+            "word": "-le"
+        },
+        {
+            "id": "left-handed",
+            "word": "left-handed"
+        },
+        {
+            "id": "mallet",
+            "word": "mallet"
+        },
+        {
+            "id": "mattock",
+            "word": "mattock"
+        },
+        {
+            "id": "meat_axe",
+            "word": "meat axe"
+        },
+        {
+            "id": "meat_cleaver",
+            "word": "meat cleaver"
+        },
+        {
+            "id": "micrometer",
+            "word": "micrometer"
+        },
+        {
+            "id": "monkey_wrench",
+            "word": "monkey wrench"
+        },
+        {
+            "id": "multitool",
+            "word": "multitool"
+        },
+        {
+            "id": "nail_punch",
+            "word": "nail punch"
+        },
+        {
+            "id": "oilstone",
+            "word": "oilstone"
+        },
+        {
+            "id": "panel_pin",
+            "word": "panel pin"
+        },
+        {
+            "id": "panel_saw",
+            "word": "panel saw"
+        },
+        {
+            "id": "panga",
+            "word": "panga"
+        },
+        {
+            "id": "parang",
+            "word": "parang"
+        },
+        {
+            "id": "peavey",
+            "word": "peavey"
+        },
+        {
+            "id": "peen",
+            "word": "peen"
+        },
+        {
+            "id": "penknife",
+            "word": "penknife"
+        },
+        {
+            "id": "pick",
+            "word": "pick"
+        },
+        {
+            "id": "pincer",
+            "word": "pincer"
+        },
+        {
+            "id": "pitchfork",
+            "word": "pitchfork"
+        },
+        {
+            "id": "pit_saw",
+            "word": "pit saw"
+        },
+        {
+            "id": "plane",
+            "word": "plane"
+        },
+        {
+            "id": "planometer",
+            "word": "planometer"
+        },
+        {
+            "id": "pliers",
+            "word": "pliers"
+        },
+        {
+            "id": "plumb_bob",
+            "word": "plumb bob"
+        },
+        {
+            "id": "podger",
+            "word": "podger"
+        },
+        {
+            "id": "pole_lathe",
+            "word": "pole lathe"
+        },
+        {
+            "id": "pop_rivet",
+            "word": "pop rivet"
+        },
+        {
+            "id": "pozidriv",
+            "word": "pozidriv"
+        },
+        {
+            "id": "pressure_lamp",
+            "word": "pressure lamp"
+        },
+        {
+            "id": "pulaski",
+            "word": "pulaski"
+        },
+        {
+            "id": "rake",
+            "word": "rake"
+        },
+        {
+            "id": "rawlplug",
+            "word": "rawlplug"
+        },
+        {
+            "id": "reamer",
+            "word": "reamer"
+        },
+        {
+            "id": "rheometer",
+            "word": "rheometer"
+        },
+        {
+            "id": "riffler",
+            "word": "riffler"
+        },
+        {
+            "id": "right-handed",
+            "word": "right-handed"
+        },
+        {
+            "id": "ring_spanner",
+            "word": "ring spanner"
+        },
+        {
+            "id": "ripsaw",
+            "word": "ripsaw"
+        },
+        {
+            "id": "rotary_cutter",
+            "word": "rotary cutter"
+        },
+        {
+            "id": "round-nose",
+            "word": "round-nose"
+        },
+        {
+            "id": "sabre_saw",
+            "word": "sabre saw"
+        },
+        {
+            "id": "sander",
+            "word": "sander"
+        },
+        {
+            "id": "sash_cramp",
+            "word": "sash cramp"
+        },
+        {
+            "id": "saw",
+            "word": "saw"
+        },
+        {
+            "id": "sawbench",
+            "word": "sawbench"
+        },
+        {
+            "id": "sawbuck",
+            "word": "sawbuck"
+        },
+        {
+            "id": "saw_doctor",
+            "word": "saw doctor"
+        },
+        {
+            "id": "saw_frame",
+            "word": "saw frame"
+        },
+        {
+            "id": "sawhorse",
+            "word": "sawhorse"
+        },
+        {
+            "id": "saw_pit",
+            "word": "saw pit"
+        },
+        {
+            "id": "saw_set",
+            "word": "saw set"
+        },
+        {
+            "id": "sax",
+            "word": "sax"
+        },
+        {
+            "id": "scraper",
+            "word": "scraper"
+        },
+        {
+            "id": "screw_coupling",
+            "word": "screw coupling"
+        },
+        {
+            "id": "screwdriver",
+            "word": "screwdriver"
+        },
+        {
+            "id": "screwed",
+            "word": "screwed"
+        },
+        {
+            "id": "screw_eye",
+            "word": "screw eye"
+        },
+        {
+            "id": "screw_hook",
+            "word": "screw hook"
+        },
+        {
+            "id": "scroll_saw",
+            "word": "scroll saw"
+        },
+        {
+            "id": "scrubbing_brush",
+            "word": "scrubbing brush"
+        },
+        {
+            "id": "shavehook",
+            "word": "shavehook"
+        },
+        {
+            "id": "shovel",
+            "word": "shovel"
+        },
+        {
+            "id": "sickle",
+            "word": "sickle"
+        },
+        {
+            "id": "slasher",
+            "word": "slasher"
+        },
+        {
+            "id": "sledge",
+            "word": "sledge"
+        },
+        {
+            "id": "sledgehammer",
+            "word": "sledgehammer"
+        },
+        {
+            "id": "sleeve_nut",
+            "word": "sleeve nut"
+        },
+        {
+            "id": "slipstone",
+            "word": "slipstone"
+        },
+        {
+            "id": "socket_set",
+            "word": "socket set"
+        },
+        {
+            "id": "socket_wrench",
+            "word": "socket wrench"
+        },
+        {
+            "id": "soldering_iron",
+            "word": "soldering iron"
+        },
+        {
+            "id": "spade",
+            "word": "spade"
+        },
+        {
+            "id": "spanner",
+            "word": "spanner"
+        },
+        {
+            "id": "spokeshave",
+            "word": "spokeshave"
+        },
+        {
+            "id": "spud_wrench",
+            "word": "spud wrench"
+        },
+        {
+            "id": "stanley_knife",
+            "word": "stanley knife"
+        },
+        {
+            "id": "steam_hammer",
+            "word": "steam hammer"
+        },
+        {
+            "id": "supadriv",
+            "word": "supadriv"
+        },
+        {
+            "id": "swede_saw",
+            "word": "swede saw"
+        },
+        {
+            "id": "taper_pin",
+            "word": "taper pin"
+        },
+        {
+            "id": "tenon_saw",
+            "word": "tenon saw"
+        },
+        {
+            "id": "tin_snips",
+            "word": "tin snips"
+        },
+        {
+            "id": "tomahawk",
+            "word": "tomahawk"
+        },
+        {
+            "id": "tommy_bar",
+            "word": "tommy bar"
+        },
+        {
+            "id": "tool",
+            "word": "tool"
+        },
+        {
+            "id": "tooling",
+            "word": "tooling"
+        },
+        {
+            "id": "toolkit",
+            "word": "toolkit"
+        },
+        {
+            "id": "toothing",
+            "word": "toothing"
+        },
+        {
+            "id": "torque_wrench",
+            "word": "torque wrench"
+        },
+        {
+            "id": "twist_drill",
+            "word": "twist drill"
+        },
+        {
+            "id": "ulu",
+            "word": "ulu"
+        },
+        {
+            "id": "utility_knife",
+            "word": "utility knife"
+        },
+        {
+            "id": "vice",
+            "word": "vice"
+        },
+        {
+            "id": "waldo",
+            "word": "waldo"
+        },
+        {
+            "id": "water_stone",
+            "word": "water stone"
+        },
+        {
+            "id": "wheel_brace",
+            "word": "wheel brace"
+        },
+        {
+            "id": "wire_cutter",
+            "word": "wire cutter"
+        },
+        {
+            "id": "wire_stripper",
+            "word": "wire stripper"
+        },
+        {
+            "id": "wirra",
+            "word": "wirra"
+        },
+        {
+            "id": "x-acto_knife",
+            "word": "x-acto knife"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 174,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

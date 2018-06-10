@@ -1,0 +1,991 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 245
+    },
+    "results": [
+        {
+            "id": "adder",
+            "word": "adder"
+        },
+        {
+            "id": "aesculapian_snake",
+            "word": "aesculapian snake"
+        },
+        {
+            "id": "agama",
+            "word": "agama"
+        },
+        {
+            "id": "alligator",
+            "word": "alligator"
+        },
+        {
+            "id": "alligator_lizard",
+            "word": "alligator lizard"
+        },
+        {
+            "id": "alligator_snapper",
+            "word": "alligator snapper"
+        },
+        {
+            "id": "amphibian",
+            "word": "amphibian"
+        },
+        {
+            "id": "amphisbaenia",
+            "word": "amphisbaenia"
+        },
+        {
+            "id": "amphiuma",
+            "word": "amphiuma"
+        },
+        {
+            "id": "anaconda",
+            "word": "anaconda"
+        },
+        {
+            "id": "anapsid",
+            "word": "anapsid"
+        },
+        {
+            "id": "anole",
+            "word": "anole"
+        },
+        {
+            "id": "archosaur",
+            "word": "archosaur"
+        },
+        {
+            "id": "asp",
+            "word": "asp"
+        },
+        {
+            "id": "axolotl",
+            "word": "axolotl"
+        },
+        {
+            "id": "bandy-bandy",
+            "word": "bandy-bandy"
+        },
+        {
+            "id": "beaded_lizard",
+            "word": "beaded lizard"
+        },
+        {
+            "id": "bearded_dragon",
+            "word": "bearded dragon"
+        },
+        {
+            "id": "black_mamba",
+            "word": "black mamba"
+        },
+        {
+            "id": "blind_snake",
+            "word": "blind snake"
+        },
+        {
+            "id": "blue_racer",
+            "word": "blue racer"
+        },
+        {
+            "id": "blue-tongued_skink",
+            "word": "blue-tongued skink"
+        },
+        {
+            "id": "boa",
+            "word": "boa"
+        },
+        {
+            "id": "boa_constrictor",
+            "word": "boa constrictor"
+        },
+        {
+            "id": "boomslang",
+            "word": "boomslang"
+        },
+        {
+            "id": "box_turtle",
+            "word": "box turtle"
+        },
+        {
+            "id": "brown_snake",
+            "word": "brown snake"
+        },
+        {
+            "id": "bullfrog",
+            "word": "bullfrog"
+        },
+        {
+            "id": "bull_snake",
+            "word": "bull snake"
+        },
+        {
+            "id": "bushmaster",
+            "word": "bushmaster"
+        },
+        {
+            "id": "caecilian",
+            "word": "caecilian"
+        },
+        {
+            "id": "caiman",
+            "word": "caiman"
+        },
+        {
+            "id": "cane_toad",
+            "word": "cane toad"
+        },
+        {
+            "id": "carpet_python",
+            "word": "carpet python"
+        },
+        {
+            "id": "cave_salamander",
+            "word": "cave salamander"
+        },
+        {
+            "id": "cerastes",
+            "word": "cerastes"
+        },
+        {
+            "id": "chameleon",
+            "word": "chameleon"
+        },
+        {
+            "id": "chelonian",
+            "word": "chelonian"
+        },
+        {
+            "id": "chuckwalla",
+            "word": "chuckwalla"
+        },
+        {
+            "id": "clawed_frog",
+            "word": "clawed frog"
+        },
+        {
+            "id": "coachwhip",
+            "word": "coachwhip"
+        },
+        {
+            "id": "cobra",
+            "word": "cobra"
+        },
+        {
+            "id": "collared_lizard",
+            "word": "collared lizard"
+        },
+        {
+            "id": "colubrid",
+            "word": "colubrid"
+        },
+        {
+            "id": "constrictor",
+            "word": "constrictor"
+        },
+        {
+            "id": "cooter",
+            "word": "cooter"
+        },
+        {
+            "id": "copperhead",
+            "word": "copperhead"
+        },
+        {
+            "id": "coral_snake",
+            "word": "coral snake"
+        },
+        {
+            "id": "corn_snake",
+            "word": "corn snake"
+        },
+        {
+            "id": "cottonmouth",
+            "word": "cottonmouth"
+        },
+        {
+            "id": "crested_newt",
+            "word": "crested newt"
+        },
+        {
+            "id": "croc",
+            "word": "croc"
+        },
+        {
+            "id": "crocodile",
+            "word": "crocodile"
+        },
+        {
+            "id": "crocodilian",
+            "word": "crocodilian"
+        },
+        {
+            "id": "death_adder",
+            "word": "death adder"
+        },
+        {
+            "id": "diamondback",
+            "word": "diamondback"
+        },
+        {
+            "id": "diamond_python",
+            "word": "diamond python"
+        },
+        {
+            "id": "diapsid",
+            "word": "diapsid"
+        },
+        {
+            "id": "dugite",
+            "word": "dugite"
+        },
+        {
+            "id": "earless_lizard",
+            "word": "earless lizard"
+        },
+        {
+            "id": "edible_frog",
+            "word": "edible frog"
+        },
+        {
+            "id": "eft",
+            "word": "eft"
+        },
+        {
+            "id": "egg-eating_snake",
+            "word": "egg-eating snake"
+        },
+        {
+            "id": "egyptian_cobra",
+            "word": "egyptian cobra"
+        },
+        {
+            "id": "false_coral_snake",
+            "word": "false coral snake"
+        },
+        {
+            "id": "false_gharial",
+            "word": "false gharial"
+        },
+        {
+            "id": "fence_lizard",
+            "word": "fence lizard"
+        },
+        {
+            "id": "fer_de_lance",
+            "word": "fer de lance"
+        },
+        {
+            "id": "file_snake",
+            "word": "file snake"
+        },
+        {
+            "id": "fire-bellied_toad",
+            "word": "fire-bellied toad"
+        },
+        {
+            "id": "fire_salamander",
+            "word": "fire salamander"
+        },
+        {
+            "id": "flapshell",
+            "word": "flapshell"
+        },
+        {
+            "id": "flying_frog",
+            "word": "flying frog"
+        },
+        {
+            "id": "flying_lizard",
+            "word": "flying lizard"
+        },
+        {
+            "id": "flying_snake",
+            "word": "flying snake"
+        },
+        {
+            "id": "freshie",
+            "word": "freshie"
+        },
+        {
+            "id": "frilled_lizard",
+            "word": "frilled lizard"
+        },
+        {
+            "id": "frog",
+            "word": "frog"
+        },
+        {
+            "id": "froglet",
+            "word": "froglet"
+        },
+        {
+            "id": "gaboon_viper",
+            "word": "gaboon viper"
+        },
+        {
+            "id": "galliwasp",
+            "word": "galliwasp"
+        },
+        {
+            "id": "garter_snake",
+            "word": "garter snake"
+        },
+        {
+            "id": "gator",
+            "word": "gator"
+        },
+        {
+            "id": "gecko",
+            "word": "gecko"
+        },
+        {
+            "id": "gharial",
+            "word": "gharial"
+        },
+        {
+            "id": "giant_salamander",
+            "word": "giant salamander"
+        },
+        {
+            "id": "giant_tortoise",
+            "word": "giant tortoise"
+        },
+        {
+            "id": "gila_monster",
+            "word": "gila monster"
+        },
+        {
+            "id": "girdled_lizard",
+            "word": "girdled lizard"
+        },
+        {
+            "id": "glass_lizard",
+            "word": "glass lizard"
+        },
+        {
+            "id": "glass_snake",
+            "word": "glass snake"
+        },
+        {
+            "id": "goanna",
+            "word": "goanna"
+        },
+        {
+            "id": "goliath_frog",
+            "word": "goliath frog"
+        },
+        {
+            "id": "gopher_snake",
+            "word": "gopher snake"
+        },
+        {
+            "id": "grass_snake",
+            "word": "grass snake"
+        },
+        {
+            "id": "green_lizard",
+            "word": "green lizard"
+        },
+        {
+            "id": "green_snake",
+            "word": "green snake"
+        },
+        {
+            "id": "green_turtle",
+            "word": "green turtle"
+        },
+        {
+            "id": "hawksbill",
+            "word": "hawksbill"
+        },
+        {
+            "id": "hellbender",
+            "word": "hellbender"
+        },
+        {
+            "id": "highland_moccasin",
+            "word": "highland moccasin"
+        },
+        {
+            "id": "hognose_snake",
+            "word": "hognose snake"
+        },
+        {
+            "id": "horned_toad",
+            "word": "horned toad"
+        },
+        {
+            "id": "horned_viper",
+            "word": "horned viper"
+        },
+        {
+            "id": "house_gecko",
+            "word": "house gecko"
+        },
+        {
+            "id": "hyla",
+            "word": "hyla"
+        },
+        {
+            "id": "iguana",
+            "word": "iguana"
+        },
+        {
+            "id": "iguanid",
+            "word": "iguanid"
+        },
+        {
+            "id": "indigo_snake",
+            "word": "indigo snake"
+        },
+        {
+            "id": "jacky_lizard",
+            "word": "jacky lizard"
+        },
+        {
+            "id": "joe_blake",
+            "word": "joe blake"
+        },
+        {
+            "id": "keelback",
+            "word": "keelback"
+        },
+        {
+            "id": "king_cobra",
+            "word": "king cobra"
+        },
+        {
+            "id": "kingsnake",
+            "word": "kingsnake"
+        },
+        {
+            "id": "komodo_dragon",
+            "word": "komodo dragon"
+        },
+        {
+            "id": "krait",
+            "word": "krait"
+        },
+        {
+            "id": "lacertid",
+            "word": "lacertid"
+        },
+        {
+            "id": "lacertilia",
+            "word": "lacertilia"
+        },
+        {
+            "id": "lacertilian",
+            "word": "lacertilian"
+        },
+        {
+            "id": "land_mullet",
+            "word": "land mullet"
+        },
+        {
+            "id": "leaf-tailed_gecko",
+            "word": "leaf-tailed gecko"
+        },
+        {
+            "id": "leatherback",
+            "word": "leatherback"
+        },
+        {
+            "id": "legless_lizard",
+            "word": "legless lizard"
+        },
+        {
+            "id": "leguan",
+            "word": "leguan"
+        },
+        {
+            "id": "leopard_frog",
+            "word": "leopard frog"
+        },
+        {
+            "id": "lizard",
+            "word": "lizard"
+        },
+        {
+            "id": "loggerhead",
+            "word": "loggerhead"
+        },
+        {
+            "id": "lungless_salamander",
+            "word": "lungless salamander"
+        },
+        {
+            "id": "macajuel",
+            "word": "macajuel"
+        },
+        {
+            "id": "mamba",
+            "word": "mamba"
+        },
+        {
+            "id": "mapepire",
+            "word": "mapepire"
+        },
+        {
+            "id": "map_turtle",
+            "word": "map turtle"
+        },
+        {
+            "id": "marine_iguana",
+            "word": "marine iguana"
+        },
+        {
+            "id": "marsh_frog",
+            "word": "marsh frog"
+        },
+        {
+            "id": "massasauga",
+            "word": "massasauga"
+        },
+        {
+            "id": "matamata",
+            "word": "matamata"
+        },
+        {
+            "id": "midwife_toad",
+            "word": "midwife toad"
+        },
+        {
+            "id": "milk_snake",
+            "word": "milk snake"
+        },
+        {
+            "id": "mole_salamander",
+            "word": "mole salamander"
+        },
+        {
+            "id": "moloch",
+            "word": "moloch"
+        },
+        {
+            "id": "morocoy",
+            "word": "morocoy"
+        },
+        {
+            "id": "mud_puppy",
+            "word": "mud puppy"
+        },
+        {
+            "id": "mud_turtle",
+            "word": "mud turtle"
+        },
+        {
+            "id": "mugger",
+            "word": "mugger"
+        },
+        {
+            "id": "musk_turtle",
+            "word": "musk turtle"
+        },
+        {
+            "id": "natterjack",
+            "word": "natterjack"
+        },
+        {
+            "id": "newt",
+            "word": "newt"
+        },
+        {
+            "id": "night_adder",
+            "word": "night adder"
+        },
+        {
+            "id": "night_lizard",
+            "word": "night lizard"
+        },
+        {
+            "id": "nile_crocodile",
+            "word": "nile crocodile"
+        },
+        {
+            "id": "nile_monitor",
+            "word": "nile monitor"
+        },
+        {
+            "id": "olm",
+            "word": "olm"
+        },
+        {
+            "id": "ophidia",
+            "word": "ophidia"
+        },
+        {
+            "id": "ophidian",
+            "word": "ophidian"
+        },
+        {
+            "id": "padloper",
+            "word": "padloper"
+        },
+        {
+            "id": "painted_turtle",
+            "word": "painted turtle"
+        },
+        {
+            "id": "palmate_newt",
+            "word": "palmate newt"
+        },
+        {
+            "id": "peeper",
+            "word": "peeper"
+        },
+        {
+            "id": "perentie",
+            "word": "perentie"
+        },
+        {
+            "id": "pine_snake",
+            "word": "pine snake"
+        },
+        {
+            "id": "pipe_snake",
+            "word": "pipe snake"
+        },
+        {
+            "id": "pit_viper",
+            "word": "pit viper"
+        },
+        {
+            "id": "platanna",
+            "word": "platanna"
+        },
+        {
+            "id": "poison_arrow_frog",
+            "word": "poison arrow frog"
+        },
+        {
+            "id": "pond_terrapin",
+            "word": "pond terrapin"
+        },
+        {
+            "id": "puddock",
+            "word": "puddock"
+        },
+        {
+            "id": "puff_adder",
+            "word": "puff adder"
+        },
+        {
+            "id": "python",
+            "word": "python"
+        },
+        {
+            "id": "racerunner",
+            "word": "racerunner"
+        },
+        {
+            "id": "rat_snake",
+            "word": "rat snake"
+        },
+        {
+            "id": "rattlesnake",
+            "word": "rattlesnake"
+        },
+        {
+            "id": "reptile",
+            "word": "reptile"
+        },
+        {
+            "id": "reticulated_python",
+            "word": "reticulated python"
+        },
+        {
+            "id": "ridley",
+            "word": "ridley"
+        },
+        {
+            "id": "rinkhals",
+            "word": "rinkhals"
+        },
+        {
+            "id": "rock_lizard",
+            "word": "rock lizard"
+        },
+        {
+            "id": "rock_python",
+            "word": "rock python"
+        },
+        {
+            "id": "rock_snake",
+            "word": "rock snake"
+        },
+        {
+            "id": "rubber_boa",
+            "word": "rubber boa"
+        },
+        {
+            "id": "russell%27s_viper",
+            "word": "russell's viper"
+        },
+        {
+            "id": "salamander",
+            "word": "salamander"
+        },
+        {
+            "id": "salamandroid",
+            "word": "salamandroid"
+        },
+        {
+            "id": "saltie",
+            "word": "saltie"
+        },
+        {
+            "id": "saltwater_crocodile",
+            "word": "saltwater crocodile"
+        },
+        {
+            "id": "sand_lizard",
+            "word": "sand lizard"
+        },
+        {
+            "id": "scalyfoot",
+            "word": "scalyfoot"
+        },
+        {
+            "id": "sea_krait",
+            "word": "sea krait"
+        },
+        {
+            "id": "sea_snake",
+            "word": "sea snake"
+        },
+        {
+            "id": "seps",
+            "word": "seps"
+        },
+        {
+            "id": "serpent",
+            "word": "serpent"
+        },
+        {
+            "id": "shieldtail_snake",
+            "word": "shieldtail snake"
+        },
+        {
+            "id": "shingleback",
+            "word": "shingleback"
+        },
+        {
+            "id": "side-necked_turtle",
+            "word": "side-necked turtle"
+        },
+        {
+            "id": "sidewinder",
+            "word": "sidewinder"
+        },
+        {
+            "id": "skaapsteker",
+            "word": "skaapsteker"
+        },
+        {
+            "id": "skink",
+            "word": "skink"
+        },
+        {
+            "id": "slow-worm",
+            "word": "slow-worm"
+        },
+        {
+            "id": "smooth_newt",
+            "word": "smooth newt"
+        },
+        {
+            "id": "smooth_snake",
+            "word": "smooth snake"
+        },
+        {
+            "id": "snake",
+            "word": "snake"
+        },
+        {
+            "id": "snakebite",
+            "word": "snakebite"
+        },
+        {
+            "id": "snake_lizard",
+            "word": "snake lizard"
+        },
+        {
+            "id": "snapping_turtle",
+            "word": "snapping turtle"
+        },
+        {
+            "id": "softshell",
+            "word": "softshell"
+        },
+        {
+            "id": "spadefoot",
+            "word": "spadefoot"
+        },
+        {
+            "id": "spectacled_caiman",
+            "word": "spectacled caiman"
+        },
+        {
+            "id": "spectacled_cobra",
+            "word": "spectacled cobra"
+        },
+        {
+            "id": "spitting_cobra",
+            "word": "spitting cobra"
+        },
+        {
+            "id": "squamata",
+            "word": "squamata"
+        },
+        {
+            "id": "squamate",
+            "word": "squamate"
+        },
+        {
+            "id": "sungazer",
+            "word": "sungazer"
+        },
+        {
+            "id": "suriname_toad",
+            "word": "suriname toad"
+        },
+        {
+            "id": "swamp_snake",
+            "word": "swamp snake"
+        },
+        {
+            "id": "taipan",
+            "word": "taipan"
+        },
+        {
+            "id": "tegu",
+            "word": "tegu"
+        },
+        {
+            "id": "terrapin",
+            "word": "terrapin"
+        },
+        {
+            "id": "testudines",
+            "word": "testudines"
+        },
+        {
+            "id": "tiger_salamander",
+            "word": "tiger salamander"
+        },
+        {
+            "id": "tiger_snake",
+            "word": "tiger snake"
+        },
+        {
+            "id": "toad",
+            "word": "toad"
+        },
+        {
+            "id": "toadlet",
+            "word": "toadlet"
+        },
+        {
+            "id": "tokay",
+            "word": "tokay"
+        },
+        {
+            "id": "tortoise",
+            "word": "tortoise"
+        },
+        {
+            "id": "tree_frog",
+            "word": "tree frog"
+        },
+        {
+            "id": "tree_snake",
+            "word": "tree snake"
+        },
+        {
+            "id": "tuatara",
+            "word": "tuatara"
+        },
+        {
+            "id": "turtle",
+            "word": "turtle"
+        },
+        {
+            "id": "twenty-four_hours",
+            "word": "twenty-four hours"
+        },
+        {
+            "id": "urodela",
+            "word": "urodela"
+        },
+        {
+            "id": "urodele",
+            "word": "urodele"
+        },
+        {
+            "id": "viper",
+            "word": "viper"
+        },
+        {
+            "id": "viperine",
+            "word": "viperine"
+        },
+        {
+            "id": "viviparous_lizard",
+            "word": "viviparous lizard"
+        },
+        {
+            "id": "wall_lizard",
+            "word": "wall lizard"
+        },
+        {
+            "id": "wart_snake",
+            "word": "wart snake"
+        },
+        {
+            "id": "waterdog",
+            "word": "waterdog"
+        },
+        {
+            "id": "water_snake",
+            "word": "water snake"
+        },
+        {
+            "id": "whip_snake",
+            "word": "whip snake"
+        },
+        {
+            "id": "whiptail",
+            "word": "whiptail"
+        },
+        {
+            "id": "wolf_snake",
+            "word": "wolf snake"
+        },
+        {
+            "id": "woma",
+            "word": "woma"
+        },
+        {
+            "id": "wood_slave",
+            "word": "wood slave"
+        },
+        {
+            "id": "worm_lizard",
+            "word": "worm lizard"
+        },
+        {
+            "id": "worm_snake",
+            "word": "worm snake"
+        },
+        {
+            "id": "xenopus",
+            "word": "xenopus"
+        }
+    ]
+}

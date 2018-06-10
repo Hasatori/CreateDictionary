@@ -1,0 +1,499 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 122
+    },
+    "results": [
+        {
+            "id": "also-ran",
+            "word": "also-ran"
+        },
+        {
+            "id": "ante-post",
+            "word": "ante-post"
+        },
+        {
+            "id": "backmarker",
+            "word": "backmarker"
+        },
+        {
+            "id": "back_straight",
+            "word": "back straight"
+        },
+        {
+            "id": "backstretch",
+            "word": "backstretch"
+        },
+        {
+            "id": "barrier_rise",
+            "word": "barrier rise"
+        },
+        {
+            "id": "barrier_rogue",
+            "word": "barrier rogue"
+        },
+        {
+            "id": "barrier_trial",
+            "word": "barrier trial"
+        },
+        {
+            "id": "betting_shop",
+            "word": "betting shop"
+        },
+        {
+            "id": "bloodstock",
+            "word": "bloodstock"
+        },
+        {
+            "id": "bookmaker",
+            "word": "bookmaker"
+        },
+        {
+            "id": "breeder",
+            "word": "breeder"
+        },
+        {
+            "id": "carson%2C_willie",
+            "word": "carson, willie"
+        },
+        {
+            "id": "cesarewitch",
+            "word": "cesarewitch"
+        },
+        {
+            "id": "circuit",
+            "word": "circuit"
+        },
+        {
+            "id": "clerk_of_the_course",
+            "word": "clerk of the course"
+        },
+        {
+            "id": "daily_double",
+            "word": "daily double"
+        },
+        {
+            "id": "derby",
+            "word": "derby"
+        },
+        {
+            "id": "derby_day",
+            "word": "derby day"
+        },
+        {
+            "id": "distance_post",
+            "word": "distance post"
+        },
+        {
+            "id": "dog_track",
+            "word": "dog track"
+        },
+        {
+            "id": "doll",
+            "word": "doll"
+        },
+        {
+            "id": "each-way",
+            "word": "each-way"
+        },
+        {
+            "id": "faller",
+            "word": "faller"
+        },
+        {
+            "id": "fence",
+            "word": "fence"
+        },
+        {
+            "id": "finishing_post",
+            "word": "finishing post"
+        },
+        {
+            "id": "first_past_the_post",
+            "word": "first past the post"
+        },
+        {
+            "id": "flagman",
+            "word": "flagman"
+        },
+        {
+            "id": "flat_jockey",
+            "word": "flat jockey"
+        },
+        {
+            "id": "flat_race",
+            "word": "flat race"
+        },
+        {
+            "id": "flat_season",
+            "word": "flat season"
+        },
+        {
+            "id": "foot_race",
+            "word": "foot race"
+        },
+        {
+            "id": "francis%2C_dick",
+            "word": "francis, dick"
+        },
+        {
+            "id": "front_runner",
+            "word": "front runner"
+        },
+        {
+            "id": "fur.",
+            "word": "fur."
+        },
+        {
+            "id": "furlong",
+            "word": "furlong"
+        },
+        {
+            "id": "futurity_race",
+            "word": "futurity race"
+        },
+        {
+            "id": "go_%28or_come%29_to_post",
+            "word": "go (or come) to post"
+        },
+        {
+            "id": "goodwood",
+            "word": "goodwood"
+        },
+        {
+            "id": "grand_national",
+            "word": "grand national"
+        },
+        {
+            "id": "grandstand",
+            "word": "grandstand"
+        },
+        {
+            "id": "grandstand_finish",
+            "word": "grandstand finish"
+        },
+        {
+            "id": "greyhound_track",
+            "word": "greyhound track"
+        },
+        {
+            "id": "handicapper",
+            "word": "handicapper"
+        },
+        {
+            "id": "hobday",
+            "word": "hobday"
+        },
+        {
+            "id": "home_straight",
+            "word": "home straight"
+        },
+        {
+            "id": "horse_breeder",
+            "word": "horse breeder"
+        },
+        {
+            "id": "horse_racing",
+            "word": "horse racing"
+        },
+        {
+            "id": "horsiness",
+            "word": "horsiness"
+        },
+        {
+            "id": "intertrack",
+            "word": "intertrack"
+        },
+        {
+            "id": "irish_sweepstake",
+            "word": "irish sweepstake"
+        },
+        {
+            "id": "jockey",
+            "word": "jockey"
+        },
+        {
+            "id": "jockey_club",
+            "word": "jockey club"
+        },
+        {
+            "id": "lucky_shop",
+            "word": "lucky shop"
+        },
+        {
+            "id": "milepost",
+            "word": "milepost"
+        },
+        {
+            "id": "miler",
+            "word": "miler"
+        },
+        {
+            "id": "national_hunt",
+            "word": "national hunt"
+        },
+        {
+            "id": "neck_and_neck",
+            "word": "neck and neck"
+        },
+        {
+            "id": "novice",
+            "word": "novice"
+        },
+        {
+            "id": "oddsmaker",
+            "word": "oddsmaker"
+        },
+        {
+            "id": "on_the_flat",
+            "word": "on the flat"
+        },
+        {
+            "id": "out_of_the_handicap",
+            "word": "out of the handicap"
+        },
+        {
+            "id": "outrider",
+            "word": "outrider"
+        },
+        {
+            "id": "over_the_sticks",
+            "word": "over the sticks"
+        },
+        {
+            "id": "pacemaker",
+            "word": "pacemaker"
+        },
+        {
+            "id": "palio",
+            "word": "palio"
+        },
+        {
+            "id": "parade_ring",
+            "word": "parade ring"
+        },
+        {
+            "id": "perfecta",
+            "word": "perfecta"
+        },
+        {
+            "id": "piggott%2C_lester",
+            "word": "piggott, lester"
+        },
+        {
+            "id": "place_bet",
+            "word": "place bet"
+        },
+        {
+            "id": "placer",
+            "word": "placer"
+        },
+        {
+            "id": "point-to-point",
+            "word": "point-to-point"
+        },
+        {
+            "id": "quinella",
+            "word": "quinella"
+        },
+        {
+            "id": "race",
+            "word": "race"
+        },
+        {
+            "id": "racecard",
+            "word": "racecard"
+        },
+        {
+            "id": "racecourse",
+            "word": "racecourse"
+        },
+        {
+            "id": "racegoer",
+            "word": "racegoer"
+        },
+        {
+            "id": "racehorse",
+            "word": "racehorse"
+        },
+        {
+            "id": "race_meeting",
+            "word": "race meeting"
+        },
+        {
+            "id": "racer",
+            "word": "racer"
+        },
+        {
+            "id": "racetrack",
+            "word": "racetrack"
+        },
+        {
+            "id": "racino",
+            "word": "racino"
+        },
+        {
+            "id": "rail",
+            "word": "rail"
+        },
+        {
+            "id": "railbird",
+            "word": "railbird"
+        },
+        {
+            "id": "richards%2C_sir_gordon",
+            "word": "richards, sir gordon"
+        },
+        {
+            "id": "ringer",
+            "word": "ringer"
+        },
+        {
+            "id": "ring-in",
+            "word": "ring-in"
+        },
+        {
+            "id": "run-in",
+            "word": "run-in"
+        },
+        {
+            "id": "selling_race",
+            "word": "selling race"
+        },
+        {
+            "id": "short_head",
+            "word": "short head"
+        },
+        {
+            "id": "sp",
+            "word": "sp"
+        },
+        {
+            "id": "stableman",
+            "word": "stableman"
+        },
+        {
+            "id": "standardbred",
+            "word": "standardbred"
+        },
+        {
+            "id": "starting_gate",
+            "word": "starting gate"
+        },
+        {
+            "id": "starting_post",
+            "word": "starting post"
+        },
+        {
+            "id": "starting_price",
+            "word": "starting price"
+        },
+        {
+            "id": "stayer",
+            "word": "stayer"
+        },
+        {
+            "id": "steeplechase",
+            "word": "steeplechase"
+        },
+        {
+            "id": "st_leger",
+            "word": "st leger"
+        },
+        {
+            "id": "strapper",
+            "word": "strapper"
+        },
+        {
+            "id": "stud_book",
+            "word": "stud book"
+        },
+        {
+            "id": "sweepstake",
+            "word": "sweepstake"
+        },
+        {
+            "id": "tab",
+            "word": "tab"
+        },
+        {
+            "id": "the_sport_of_kings",
+            "word": "the sport of kings"
+        },
+        {
+            "id": "tic-tac",
+            "word": "tic-tac"
+        },
+        {
+            "id": "tipster",
+            "word": "tipster"
+        },
+        {
+            "id": "top_weight",
+            "word": "top weight"
+        },
+        {
+            "id": "totalizator",
+            "word": "totalizator"
+        },
+        {
+            "id": "track",
+            "word": "track"
+        },
+        {
+            "id": "trainer",
+            "word": "trainer"
+        },
+        {
+            "id": "tricast",
+            "word": "tricast"
+        },
+        {
+            "id": "trifecta",
+            "word": "trifecta"
+        },
+        {
+            "id": "trixie",
+            "word": "trixie"
+        },
+        {
+            "id": "trotting",
+            "word": "trotting"
+        },
+        {
+            "id": "turf_accountant",
+            "word": "turf accountant"
+        },
+        {
+            "id": "turfman",
+            "word": "turfman"
+        },
+        {
+            "id": "unbacked",
+            "word": "unbacked"
+        },
+        {
+            "id": "unplaced",
+            "word": "unplaced"
+        },
+        {
+            "id": "urger",
+            "word": "urger"
+        },
+        {
+            "id": "warn_someone_off_the_course",
+            "word": "warn someone off the course"
+        },
+        {
+            "id": "weigh_out",
+            "word": "weigh out"
+        },
+        {
+            "id": "winning_post",
+            "word": "winning post"
+        }
+    ]
+}

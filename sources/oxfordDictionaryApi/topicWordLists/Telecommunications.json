@@ -1,0 +1,1367 @@
+{
+    "results": [
+        {
+            "id": "2g",
+            "word": "2g"
+        },
+        {
+            "id": "4g",
+            "word": "4g"
+        },
+        {
+            "id": "adsl",
+            "word": "adsl"
+        },
+        {
+            "id": "airband",
+            "word": "airband"
+        },
+        {
+            "id": "airwaves",
+            "word": "airwaves"
+        },
+        {
+            "id": "aliasing",
+            "word": "aliasing"
+        },
+        {
+            "id": "amplitude_modulation",
+            "word": "amplitude modulation"
+        },
+        {
+            "id": "answering_machine",
+            "word": "answering machine"
+        },
+        {
+            "id": "answerphone",
+            "word": "answerphone"
+        },
+        {
+            "id": "armstrong%2C_edwin_howard",
+            "word": "armstrong, edwin howard"
+        },
+        {
+            "id": "atm",
+            "word": "atm"
+        },
+        {
+            "id": "autodialler",
+            "word": "autodialler"
+        },
+        {
+            "id": "bandwidth",
+            "word": "bandwidth"
+        },
+        {
+            "id": "base_station",
+            "word": "base station"
+        },
+        {
+            "id": "baud",
+            "word": "baud"
+        },
+        {
+            "id": "bbm",
+            "word": "bbm"
+        },
+        {
+            "id": "bell%2C_alexander_graham",
+            "word": "bell, alexander graham"
+        },
+        {
+            "id": "blank_call",
+            "word": "blank call"
+        },
+        {
+            "id": "blue_box",
+            "word": "blue box"
+        },
+        {
+            "id": "bluetooth",
+            "word": "bluetooth"
+        },
+        {
+            "id": "broadband",
+            "word": "broadband"
+        },
+        {
+            "id": "cablegram",
+            "word": "cablegram"
+        },
+        {
+            "id": "call_box",
+            "word": "call box"
+        },
+        {
+            "id": "call_centre",
+            "word": "call centre"
+        },
+        {
+            "id": "caller_id",
+            "word": "caller id"
+        },
+        {
+            "id": "call_waiting",
+            "word": "call waiting"
+        },
+        {
+            "id": "camera_phone",
+            "word": "camera phone"
+        },
+        {
+            "id": "cardphone",
+            "word": "cardphone"
+        },
+        {
+            "id": "car_phone",
+            "word": "car phone"
+        },
+        {
+            "id": "carrier_wave",
+            "word": "carrier wave"
+        },
+        {
+            "id": "cdma",
+            "word": "cdma"
+        },
+        {
+            "id": "ceefax",
+            "word": "ceefax"
+        },
+        {
+            "id": "cell_phone",
+            "word": "cell phone"
+        },
+        {
+            "id": "cell_tower",
+            "word": "cell tower"
+        },
+        {
+            "id": "cellular_phone",
+            "word": "cellular phone"
+        },
+        {
+            "id": "celly",
+            "word": "celly"
+        },
+        {
+            "id": "centrex",
+            "word": "centrex"
+        },
+        {
+            "id": "chatline",
+            "word": "chatline"
+        },
+        {
+            "id": "circular_polarization",
+            "word": "circular polarization"
+        },
+        {
+            "id": "citizens%27_band",
+            "word": "citizens' band"
+        },
+        {
+            "id": "coherer",
+            "word": "coherer"
+        },
+        {
+            "id": "combiner",
+            "word": "combiner"
+        },
+        {
+            "id": "comms",
+            "word": "comms"
+        },
+        {
+            "id": "communications_satellite",
+            "word": "communications satellite"
+        },
+        {
+            "id": "compand",
+            "word": "compand"
+        },
+        {
+            "id": "compander",
+            "word": "compander"
+        },
+        {
+            "id": "comsat",
+            "word": "comsat"
+        },
+        {
+            "id": "cordless",
+            "word": "cordless"
+        },
+        {
+            "id": "crossed_line",
+            "word": "crossed line"
+        },
+        {
+            "id": "crosstalk",
+            "word": "crosstalk"
+        },
+        {
+            "id": "dab",
+            "word": "dab"
+        },
+        {
+            "id": "datacomms",
+            "word": "datacomms"
+        },
+        {
+            "id": "data_link",
+            "word": "data link"
+        },
+        {
+            "id": "dbs",
+            "word": "dbs"
+        },
+        {
+            "id": "de_forest%2C_lee",
+            "word": "de forest, lee"
+        },
+        {
+            "id": "demodulate",
+            "word": "demodulate"
+        },
+        {
+            "id": "dialler",
+            "word": "dialler"
+        },
+        {
+            "id": "dial_up_%28or_dial_something_up%29",
+            "word": "dial up (or dial something up)"
+        },
+        {
+            "id": "direct-dial",
+            "word": "direct-dial"
+        },
+        {
+            "id": "direct_dialling",
+            "word": "direct dialling"
+        },
+        {
+            "id": "directory_assistance",
+            "word": "directory assistance"
+        },
+        {
+            "id": "directory_enquiries",
+            "word": "directory enquiries"
+        },
+        {
+            "id": "downlink",
+            "word": "downlink"
+        },
+        {
+            "id": "drunk-dial",
+            "word": "drunk-dial"
+        },
+        {
+            "id": "drunk_text",
+            "word": "drunk text"
+        },
+        {
+            "id": "dsl",
+            "word": "dsl"
+        },
+        {
+            "id": "dtv",
+            "word": "dtv"
+        },
+        {
+            "id": "earphone",
+            "word": "earphone"
+        },
+        {
+            "id": "earpiece",
+            "word": "earpiece"
+        },
+        {
+            "id": "earth_station",
+            "word": "earth station"
+        },
+        {
+            "id": "e-billing",
+            "word": "e-billing"
+        },
+        {
+            "id": "en_clair",
+            "word": "en clair"
+        },
+        {
+            "id": "engaged_tone",
+            "word": "engaged tone"
+        },
+        {
+            "id": "entryphone",
+            "word": "entryphone"
+        },
+        {
+            "id": "ex-directory",
+            "word": "ex-directory"
+        },
+        {
+            "id": "fax",
+            "word": "fax"
+        },
+        {
+            "id": "fax_message",
+            "word": "fax message"
+        },
+        {
+            "id": "fax_number",
+            "word": "fax number"
+        },
+        {
+            "id": "fddi",
+            "word": "fddi"
+        },
+        {
+            "id": "femtocell",
+            "word": "femtocell"
+        },
+        {
+            "id": "fessenden%2C_reginald_aubrey",
+            "word": "fessenden, reginald aubrey"
+        },
+        {
+            "id": "fibre-optic",
+            "word": "fibre-optic"
+        },
+        {
+            "id": "fibre-optic_cable",
+            "word": "fibre-optic cable"
+        },
+        {
+            "id": "fibre_optics",
+            "word": "fibre optics"
+        },
+        {
+            "id": "field_telegraph",
+            "word": "field telegraph"
+        },
+        {
+            "id": "firewire",
+            "word": "firewire"
+        },
+        {
+            "id": "flagfall",
+            "word": "flagfall"
+        },
+        {
+            "id": "fone",
+            "word": "fone"
+        },
+        {
+            "id": "freephone",
+            "word": "freephone"
+        },
+        {
+            "id": "frequency_band",
+            "word": "frequency band"
+        },
+        {
+            "id": "frequency_division_multiplex",
+            "word": "frequency division multiplex"
+        },
+        {
+            "id": "frequency_hopping",
+            "word": "frequency hopping"
+        },
+        {
+            "id": "frequency_modulation",
+            "word": "frequency modulation"
+        },
+        {
+            "id": "get_a_fix_on",
+            "word": "get a fix on"
+        },
+        {
+            "id": "gprs",
+            "word": "gprs"
+        },
+        {
+            "id": "ground_wave",
+            "word": "ground wave"
+        },
+        {
+            "id": "half-duplex",
+            "word": "half-duplex"
+        },
+        {
+            "id": "handset",
+            "word": "handset"
+        },
+        {
+            "id": "hands-free",
+            "word": "hands-free"
+        },
+        {
+            "id": "hands-free_headset",
+            "word": "hands-free headset"
+        },
+        {
+            "id": "hands-free_kit",
+            "word": "hands-free kit"
+        },
+        {
+            "id": "headend",
+            "word": "headend"
+        },
+        {
+            "id": "headphones",
+            "word": "headphones"
+        },
+        {
+            "id": "heaviside%2C_oliver",
+            "word": "heaviside, oliver"
+        },
+        {
+            "id": "hertz",
+            "word": "hertz"
+        },
+        {
+            "id": "hertz%2C_heinrich_rudolf",
+            "word": "hertz, heinrich rudolf"
+        },
+        {
+            "id": "high_definition",
+            "word": "high definition"
+        },
+        {
+            "id": "high_frequency",
+            "word": "high frequency"
+        },
+        {
+            "id": "hoax_call",
+            "word": "hoax call"
+        },
+        {
+            "id": "ice",
+            "word": "ice"
+        },
+        {
+            "id": "imei",
+            "word": "imei"
+        },
+        {
+            "id": "i-mode",
+            "word": "i-mode"
+        },
+        {
+            "id": "inmarsat",
+            "word": "inmarsat"
+        },
+        {
+            "id": "integrated_services_digital_network",
+            "word": "integrated services digital network"
+        },
+        {
+            "id": "intermediate_frequency",
+            "word": "intermediate frequency"
+        },
+        {
+            "id": "international_telecommunication_union",
+            "word": "international telecommunication union"
+        },
+        {
+            "id": "keitai",
+            "word": "keitai"
+        },
+        {
+            "id": "keypad",
+            "word": "keypad"
+        },
+        {
+            "id": "kicksorter",
+            "word": "kicksorter"
+        },
+        {
+            "id": "kilocycle",
+            "word": "kilocycle"
+        },
+        {
+            "id": "kilohertz",
+            "word": "kilohertz"
+        },
+        {
+            "id": "ku-band",
+            "word": "ku-band"
+        },
+        {
+            "id": "landline",
+            "word": "landline"
+        },
+        {
+            "id": "lf",
+            "word": "lf"
+        },
+        {
+            "id": "listen_in",
+            "word": "listen in"
+        },
+        {
+            "id": "listening_device",
+            "word": "listening device"
+        },
+        {
+            "id": "lnb",
+            "word": "lnb"
+        },
+        {
+            "id": "local",
+            "word": "local"
+        },
+        {
+            "id": "local_call",
+            "word": "local call"
+        },
+        {
+            "id": "locator",
+            "word": "locator"
+        },
+        {
+            "id": "long_wave",
+            "word": "long wave"
+        },
+        {
+            "id": "loran",
+            "word": "loran"
+        },
+        {
+            "id": "low_frequency",
+            "word": "low frequency"
+        },
+        {
+            "id": "lte",
+            "word": "lte"
+        },
+        {
+            "id": "lw",
+            "word": "lw"
+        },
+        {
+            "id": "marconi%2C_guglielmo",
+            "word": "marconi, guglielmo"
+        },
+        {
+            "id": "medium_frequency",
+            "word": "medium frequency"
+        },
+        {
+            "id": "medium_wave",
+            "word": "medium wave"
+        },
+        {
+            "id": "megahertz",
+            "word": "megahertz"
+        },
+        {
+            "id": "message_switching",
+            "word": "message switching"
+        },
+        {
+            "id": "meucci%2C_antonio",
+            "word": "meucci, antonio"
+        },
+        {
+            "id": "microcell",
+            "word": "microcell"
+        },
+        {
+            "id": "minicom",
+            "word": "minicom"
+        },
+        {
+            "id": "misdial",
+            "word": "misdial"
+        },
+        {
+            "id": "mms",
+            "word": "mms"
+        },
+        {
+            "id": "mobe",
+            "word": "mobe"
+        },
+        {
+            "id": "mobile_phone",
+            "word": "mobile phone"
+        },
+        {
+            "id": "mobile_phone_mast",
+            "word": "mobile phone mast"
+        },
+        {
+            "id": "mobile_telephony",
+            "word": "mobile telephony"
+        },
+        {
+            "id": "moblog",
+            "word": "moblog"
+        },
+        {
+            "id": "moblogging",
+            "word": "moblogging"
+        },
+        {
+            "id": "morse",
+            "word": "morse"
+        },
+        {
+            "id": "multiplex",
+            "word": "multiplex"
+        },
+        {
+            "id": "mute_button",
+            "word": "mute button"
+        },
+        {
+            "id": "narrowband",
+            "word": "narrowband"
+        },
+        {
+            "id": "neper",
+            "word": "neper"
+        },
+        {
+            "id": "network_operator",
+            "word": "network operator"
+        },
+        {
+            "id": "noise-cancelling",
+            "word": "noise-cancelling"
+        },
+        {
+            "id": "ntsc",
+            "word": "ntsc"
+        },
+        {
+            "id": "nuisance_call",
+            "word": "nuisance call"
+        },
+        {
+            "id": "nuisance_caller",
+            "word": "nuisance caller"
+        },
+        {
+            "id": "omnidirectional",
+            "word": "omnidirectional"
+        },
+        {
+            "id": "omnirange",
+            "word": "omnirange"
+        },
+        {
+            "id": "operator",
+            "word": "operator"
+        },
+        {
+            "id": "outside_line",
+            "word": "outside line"
+        },
+        {
+            "id": "pabx",
+            "word": "pabx"
+        },
+        {
+            "id": "packet_radio",
+            "word": "packet radio"
+        },
+        {
+            "id": "packet_switching",
+            "word": "packet switching"
+        },
+        {
+            "id": "pager",
+            "word": "pager"
+        },
+        {
+            "id": "passband",
+            "word": "passband"
+        },
+        {
+            "id": "patchboard",
+            "word": "patchboard"
+        },
+        {
+            "id": "patch_cord",
+            "word": "patch cord"
+        },
+        {
+            "id": "patch_panel",
+            "word": "patch panel"
+        },
+        {
+            "id": "payphone",
+            "word": "payphone"
+        },
+        {
+            "id": "pbx",
+            "word": "pbx"
+        },
+        {
+            "id": "pcn",
+            "word": "pcn"
+        },
+        {
+            "id": "pcs",
+            "word": "pcs"
+        },
+        {
+            "id": "pedal_wireless",
+            "word": "pedal wireless"
+        },
+        {
+            "id": "personal_video_recorder",
+            "word": "personal video recorder"
+        },
+        {
+            "id": "person-to-person",
+            "word": "person-to-person"
+        },
+        {
+            "id": "phone",
+            "word": "phone"
+        },
+        {
+            "id": "phone_call",
+            "word": "phone call"
+        },
+        {
+            "id": "phonecard",
+            "word": "phonecard"
+        },
+        {
+            "id": "phone_hacking",
+            "word": "phone hacking"
+        },
+        {
+            "id": "phone_tapping",
+            "word": "phone tapping"
+        },
+        {
+            "id": "phone_tree",
+            "word": "phone tree"
+        },
+        {
+            "id": "phreak",
+            "word": "phreak"
+        },
+        {
+            "id": "picocell",
+            "word": "picocell"
+        },
+        {
+            "id": "picture_messaging",
+            "word": "picture messaging"
+        },
+        {
+            "id": "picture_tube",
+            "word": "picture tube"
+        },
+        {
+            "id": "plugboard",
+            "word": "plugboard"
+        },
+        {
+            "id": "preselector",
+            "word": "preselector"
+        },
+        {
+            "id": "pulse_code_modulation",
+            "word": "pulse code modulation"
+        },
+        {
+            "id": "pulse_dialling",
+            "word": "pulse dialling"
+        },
+        {
+            "id": "pulse_modulation",
+            "word": "pulse modulation"
+        },
+        {
+            "id": "push_notification",
+            "word": "push notification"
+        },
+        {
+            "id": "quadrature_amplitude_modulation",
+            "word": "quadrature amplitude modulation"
+        },
+        {
+            "id": "radio",
+            "word": "radio"
+        },
+        {
+            "id": "radio_frequency",
+            "word": "radio frequency"
+        },
+        {
+            "id": "radio_silence",
+            "word": "radio silence"
+        },
+        {
+            "id": "radio-telegraphy",
+            "word": "radio-telegraphy"
+        },
+        {
+            "id": "radiotelephony",
+            "word": "radiotelephony"
+        },
+        {
+            "id": "radiotelex",
+            "word": "radiotelex"
+        },
+        {
+            "id": "radio_wave",
+            "word": "radio wave"
+        },
+        {
+            "id": "rds",
+            "word": "rds"
+        },
+        {
+            "id": "receiver",
+            "word": "receiver"
+        },
+        {
+            "id": "rechipping",
+            "word": "rechipping"
+        },
+        {
+            "id": "redial",
+            "word": "redial"
+        },
+        {
+            "id": "ren",
+            "word": "ren"
+        },
+        {
+            "id": "reverse-charge",
+            "word": "reverse-charge"
+        },
+        {
+            "id": "reverse_the_charges",
+            "word": "reverse the charges"
+        },
+        {
+            "id": "rfid",
+            "word": "rfid"
+        },
+        {
+            "id": "ringing_tone",
+            "word": "ringing tone"
+        },
+        {
+            "id": "roaming",
+            "word": "roaming"
+        },
+        {
+            "id": "robocall",
+            "word": "robocall"
+        },
+        {
+            "id": "satcom",
+            "word": "satcom"
+        },
+        {
+            "id": "satellite_dish",
+            "word": "satellite dish"
+        },
+        {
+            "id": "satellite_radio",
+            "word": "satellite radio"
+        },
+        {
+            "id": "satphone",
+            "word": "satphone"
+        },
+        {
+            "id": "scrambler",
+            "word": "scrambler"
+        },
+        {
+            "id": "secam",
+            "word": "secam"
+        },
+        {
+            "id": "sext",
+            "word": "sext"
+        },
+        {
+            "id": "shadow_mask",
+            "word": "shadow mask"
+        },
+        {
+            "id": "shannon%27s_theorem",
+            "word": "shannon's theorem"
+        },
+        {
+            "id": "shannon%2C_claude_elwood",
+            "word": "shannon, claude elwood"
+        },
+        {
+            "id": "ship-to-shore",
+            "word": "ship-to-shore"
+        },
+        {
+            "id": "short_wave",
+            "word": "short wave"
+        },
+        {
+            "id": "sideband",
+            "word": "sideband"
+        },
+        {
+            "id": "side_tone",
+            "word": "side tone"
+        },
+        {
+            "id": "signal_boosting",
+            "word": "signal boosting"
+        },
+        {
+            "id": "signal-to-noise_ratio",
+            "word": "signal-to-noise ratio"
+        },
+        {
+            "id": "skip_zone",
+            "word": "skip zone"
+        },
+        {
+            "id": "skype",
+            "word": "skype"
+        },
+        {
+            "id": "sky_wave",
+            "word": "sky wave"
+        },
+        {
+            "id": "slamming",
+            "word": "slamming"
+        },
+        {
+            "id": "slow-scan",
+            "word": "slow-scan"
+        },
+        {
+            "id": "sms",
+            "word": "sms"
+        },
+        {
+            "id": "sos",
+            "word": "sos"
+        },
+        {
+            "id": "speaking_clock",
+            "word": "speaking clock"
+        },
+        {
+            "id": "ssb",
+            "word": "ssb"
+        },
+        {
+            "id": "stopband",
+            "word": "stopband"
+        },
+        {
+            "id": "stop_bit",
+            "word": "stop bit"
+        },
+        {
+            "id": "store-and-forward",
+            "word": "store-and-forward"
+        },
+        {
+            "id": "subcarrier",
+            "word": "subcarrier"
+        },
+        {
+            "id": "subscriber_trunk_dialling",
+            "word": "subscriber trunk dialling"
+        },
+        {
+            "id": "switchboard",
+            "word": "switchboard"
+        },
+        {
+            "id": "talk_time",
+            "word": "talk time"
+        },
+        {
+            "id": "tel.",
+            "word": "tel."
+        },
+        {
+            "id": "telco",
+            "word": "telco"
+        },
+        {
+            "id": "tele-ad",
+            "word": "tele-ad"
+        },
+        {
+            "id": "telecommunication",
+            "word": "telecommunication"
+        },
+        {
+            "id": "telecomputer",
+            "word": "telecomputer"
+        },
+        {
+            "id": "telecoms",
+            "word": "telecoms"
+        },
+        {
+            "id": "telecon",
+            "word": "telecon"
+        },
+        {
+            "id": "teleconference",
+            "word": "teleconference"
+        },
+        {
+            "id": "teleconferencing",
+            "word": "teleconferencing"
+        },
+        {
+            "id": "telecopier",
+            "word": "telecopier"
+        },
+        {
+            "id": "telefax",
+            "word": "telefax"
+        },
+        {
+            "id": "telegram",
+            "word": "telegram"
+        },
+        {
+            "id": "telegraph",
+            "word": "telegraph"
+        },
+        {
+            "id": "telegraphic",
+            "word": "telegraphic"
+        },
+        {
+            "id": "telegraphic_address",
+            "word": "telegraphic address"
+        },
+        {
+            "id": "telegraphist",
+            "word": "telegraphist"
+        },
+        {
+            "id": "telegraph_key",
+            "word": "telegraph key"
+        },
+        {
+            "id": "telegraph_pole",
+            "word": "telegraph pole"
+        },
+        {
+            "id": "telegraphy",
+            "word": "telegraphy"
+        },
+        {
+            "id": "telehealth",
+            "word": "telehealth"
+        },
+        {
+            "id": "telemarketing",
+            "word": "telemarketing"
+        },
+        {
+            "id": "telematics",
+            "word": "telematics"
+        },
+        {
+            "id": "telemedicine",
+            "word": "telemedicine"
+        },
+        {
+            "id": "telemessage",
+            "word": "telemessage"
+        },
+        {
+            "id": "telemeter",
+            "word": "telemeter"
+        },
+        {
+            "id": "telemetry",
+            "word": "telemetry"
+        },
+        {
+            "id": "teleoperate",
+            "word": "teleoperate"
+        },
+        {
+            "id": "teleoperation",
+            "word": "teleoperation"
+        },
+        {
+            "id": "telephone",
+            "word": "telephone"
+        },
+        {
+            "id": "telephone_banking",
+            "word": "telephone banking"
+        },
+        {
+            "id": "telephone_booth",
+            "word": "telephone booth"
+        },
+        {
+            "id": "telephone_call",
+            "word": "telephone call"
+        },
+        {
+            "id": "telephone_exchange",
+            "word": "telephone exchange"
+        },
+        {
+            "id": "telephone_pole",
+            "word": "telephone pole"
+        },
+        {
+            "id": "telephonically",
+            "word": "telephonically"
+        },
+        {
+            "id": "telephonist",
+            "word": "telephonist"
+        },
+        {
+            "id": "telephony",
+            "word": "telephony"
+        },
+        {
+            "id": "teleprinter",
+            "word": "teleprinter"
+        },
+        {
+            "id": "teleshopping",
+            "word": "teleshopping"
+        },
+        {
+            "id": "telesoftware",
+            "word": "telesoftware"
+        },
+        {
+            "id": "teletype",
+            "word": "teletype"
+        },
+        {
+            "id": "telex",
+            "word": "telex"
+        },
+        {
+            "id": "texting",
+            "word": "texting"
+        },
+        {
+            "id": "text_message",
+            "word": "text message"
+        },
+        {
+            "id": "textphone",
+            "word": "textphone"
+        },
+        {
+            "id": "textspeak",
+            "word": "textspeak"
+        },
+        {
+            "id": "third-generation",
+            "word": "third-generation"
+        },
+        {
+            "id": "ticker_tape",
+            "word": "ticker tape"
+        },
+        {
+            "id": "tie_line",
+            "word": "tie line"
+        },
+        {
+            "id": "tie-up",
+            "word": "tie-up"
+        },
+        {
+            "id": "time_division_multiplex",
+            "word": "time division multiplex"
+        },
+        {
+            "id": "tone_dialling",
+            "word": "tone dialling"
+        },
+        {
+            "id": "tonepad",
+            "word": "tonepad"
+        },
+        {
+            "id": "touch-tone",
+            "word": "touch-tone"
+        },
+        {
+            "id": "tracker",
+            "word": "tracker"
+        },
+        {
+            "id": "tracking_station",
+            "word": "tracking station"
+        },
+        {
+            "id": "transceiver",
+            "word": "transceiver"
+        },
+        {
+            "id": "transduce",
+            "word": "transduce"
+        },
+        {
+            "id": "transducer",
+            "word": "transducer"
+        },
+        {
+            "id": "transduction",
+            "word": "transduction"
+        },
+        {
+            "id": "transmitter",
+            "word": "transmitter"
+        },
+        {
+            "id": "tri-band",
+            "word": "tri-band"
+        },
+        {
+            "id": "trunk_call",
+            "word": "trunk call"
+        },
+        {
+            "id": "trunk_line",
+            "word": "trunk line"
+        },
+        {
+            "id": "ultra-high_frequency",
+            "word": "ultra-high frequency"
+        },
+        {
+            "id": "ultrashort",
+            "word": "ultrashort"
+        },
+        {
+            "id": "umts",
+            "word": "umts"
+        },
+        {
+            "id": "uplink",
+            "word": "uplink"
+        },
+        {
+            "id": "uwb",
+            "word": "uwb"
+        },
+        {
+            "id": "v-chip",
+            "word": "v-chip"
+        },
+        {
+            "id": "vhf",
+            "word": "vhf"
+        },
+        {
+            "id": "videophone",
+            "word": "videophone"
+        },
+        {
+            "id": "videotelephony",
+            "word": "videotelephony"
+        },
+        {
+            "id": "viewgraph",
+            "word": "viewgraph"
+        },
+        {
+            "id": "vishing",
+            "word": "vishing"
+        },
+        {
+            "id": "vlf",
+            "word": "vlf"
+        },
+        {
+            "id": "v-mail",
+            "word": "v-mail"
+        },
+        {
+            "id": "voice_channel",
+            "word": "voice channel"
+        },
+        {
+            "id": "voicemail",
+            "word": "voicemail"
+        },
+        {
+            "id": "wap",
+            "word": "wap"
+        },
+        {
+            "id": "waveband",
+            "word": "waveband"
+        },
+        {
+            "id": "wavelength",
+            "word": "wavelength"
+        },
+        {
+            "id": "webmail",
+            "word": "webmail"
+        },
+        {
+            "id": "wideband",
+            "word": "wideband"
+        },
+        {
+            "id": "wilco",
+            "word": "wilco"
+        },
+        {
+            "id": "wireless",
+            "word": "wireless"
+        },
+        {
+            "id": "wireless_hotspot",
+            "word": "wireless hotspot"
+        },
+        {
+            "id": "wirelessly",
+            "word": "wirelessly"
+        },
+        {
+            "id": "wireline",
+            "word": "wireline"
+        },
+        {
+            "id": "wiretap",
+            "word": "wiretap"
+        },
+        {
+            "id": "wiretapping",
+            "word": "wiretapping"
+        },
+        {
+            "id": "yagi_antenna",
+            "word": "yagi antenna"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 339,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

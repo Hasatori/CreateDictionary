@@ -1,0 +1,1055 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 261,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "adirondack_chair",
+            "word": "adirondack chair"
+        },
+        {
+            "id": "almirah",
+            "word": "almirah"
+        },
+        {
+            "id": "antimacassar",
+            "word": "antimacassar"
+        },
+        {
+            "id": "antique",
+            "word": "antique"
+        },
+        {
+            "id": "armchair",
+            "word": "armchair"
+        },
+        {
+            "id": "armoire",
+            "word": "armoire"
+        },
+        {
+            "id": "banana_lounge",
+            "word": "banana lounge"
+        },
+        {
+            "id": "banquette",
+            "word": "banquette"
+        },
+        {
+            "id": "barcalounger",
+            "word": "barcalounger"
+        },
+        {
+            "id": "bar_stool",
+            "word": "bar stool"
+        },
+        {
+            "id": "bassinet",
+            "word": "bassinet"
+        },
+        {
+            "id": "bath_chair",
+            "word": "bath chair"
+        },
+        {
+            "id": "bed",
+            "word": "bed"
+        },
+        {
+            "id": "bedroom_suite",
+            "word": "bedroom suite"
+        },
+        {
+            "id": "bench",
+            "word": "bench"
+        },
+        {
+            "id": "bench_seat",
+            "word": "bench seat"
+        },
+        {
+            "id": "bentwood",
+            "word": "bentwood"
+        },
+        {
+            "id": "berg%C3%A8re",
+            "word": "bergère"
+        },
+        {
+            "id": "biedermeier",
+            "word": "biedermeier"
+        },
+        {
+            "id": "bomb%C3%A9",
+            "word": "bombé"
+        },
+        {
+            "id": "bonheur_du_jour",
+            "word": "bonheur du jour"
+        },
+        {
+            "id": "bookcase",
+            "word": "bookcase"
+        },
+        {
+            "id": "boulle",
+            "word": "boulle"
+        },
+        {
+            "id": "bouncinette",
+            "word": "bouncinette"
+        },
+        {
+            "id": "bow_front",
+            "word": "bow front"
+        },
+        {
+            "id": "bow-fronted",
+            "word": "bow-fronted"
+        },
+        {
+            "id": "box_spring",
+            "word": "box spring"
+        },
+        {
+            "id": "breakfront",
+            "word": "breakfront"
+        },
+        {
+            "id": "buffet",
+            "word": "buffet"
+        },
+        {
+            "id": "bun_foot",
+            "word": "bun foot"
+        },
+        {
+            "id": "bunk",
+            "word": "bunk"
+        },
+        {
+            "id": "bunk_bed",
+            "word": "bunk bed"
+        },
+        {
+            "id": "bureau",
+            "word": "bureau"
+        },
+        {
+            "id": "butcher%27s_block",
+            "word": "butcher's block"
+        },
+        {
+            "id": "button-back",
+            "word": "button-back"
+        },
+        {
+            "id": "cabinet",
+            "word": "cabinet"
+        },
+        {
+            "id": "cabinetmaker",
+            "word": "cabinetmaker"
+        },
+        {
+            "id": "cabinetry",
+            "word": "cabinetry"
+        },
+        {
+            "id": "cabriole_leg",
+            "word": "cabriole leg"
+        },
+        {
+            "id": "camelback",
+            "word": "camelback"
+        },
+        {
+            "id": "camp_bed",
+            "word": "camp bed"
+        },
+        {
+            "id": "cane_chair",
+            "word": "cane chair"
+        },
+        {
+            "id": "caned",
+            "word": "caned"
+        },
+        {
+            "id": "canterbury",
+            "word": "canterbury"
+        },
+        {
+            "id": "captain%27s_chair",
+            "word": "captain's chair"
+        },
+        {
+            "id": "cassone",
+            "word": "cassone"
+        },
+        {
+            "id": "cellaret",
+            "word": "cellaret"
+        },
+        {
+            "id": "centrepiece",
+            "word": "centrepiece"
+        },
+        {
+            "id": "chair",
+            "word": "chair"
+        },
+        {
+            "id": "chaise_longue",
+            "word": "chaise longue"
+        },
+        {
+            "id": "chaise_lounge",
+            "word": "chaise lounge"
+        },
+        {
+            "id": "chandelier",
+            "word": "chandelier"
+        },
+        {
+            "id": "charpoy",
+            "word": "charpoy"
+        },
+        {
+            "id": "chesterfield",
+            "word": "chesterfield"
+        },
+        {
+            "id": "chest_of_drawers",
+            "word": "chest of drawers"
+        },
+        {
+            "id": "cheval_glass",
+            "word": "cheval glass"
+        },
+        {
+            "id": "chick",
+            "word": "chick"
+        },
+        {
+            "id": "chiffonier",
+            "word": "chiffonier"
+        },
+        {
+            "id": "chifforobe",
+            "word": "chifforobe"
+        },
+        {
+            "id": "chimney_corner",
+            "word": "chimney corner"
+        },
+        {
+            "id": "chinoiserie",
+            "word": "chinoiserie"
+        },
+        {
+            "id": "chippendale",
+            "word": "chippendale"
+        },
+        {
+            "id": "chippendale%2C_thomas",
+            "word": "chippendale, thomas"
+        },
+        {
+            "id": "claw_foot",
+            "word": "claw foot"
+        },
+        {
+            "id": "close-stool",
+            "word": "close-stool"
+        },
+        {
+            "id": "coffee_table",
+            "word": "coffee table"
+        },
+        {
+            "id": "comb-back",
+            "word": "comb-back"
+        },
+        {
+            "id": "commode",
+            "word": "commode"
+        },
+        {
+            "id": "console_table",
+            "word": "console table"
+        },
+        {
+            "id": "co-sleeper",
+            "word": "co-sleeper"
+        },
+        {
+            "id": "cot",
+            "word": "cot"
+        },
+        {
+            "id": "couch",
+            "word": "couch"
+        },
+        {
+            "id": "country_kitchen",
+            "word": "country kitchen"
+        },
+        {
+            "id": "court_cupboard",
+            "word": "court cupboard"
+        },
+        {
+            "id": "cradle",
+            "word": "cradle"
+        },
+        {
+            "id": "credenza",
+            "word": "credenza"
+        },
+        {
+            "id": "creepie",
+            "word": "creepie"
+        },
+        {
+            "id": "crib",
+            "word": "crib"
+        },
+        {
+            "id": "cricket",
+            "word": "cricket"
+        },
+        {
+            "id": "cupboard",
+            "word": "cupboard"
+        },
+        {
+            "id": "curtain_ring",
+            "word": "curtain ring"
+        },
+        {
+            "id": "davenport",
+            "word": "davenport"
+        },
+        {
+            "id": "daybed",
+            "word": "daybed"
+        },
+        {
+            "id": "deckchair",
+            "word": "deckchair"
+        },
+        {
+            "id": "desk",
+            "word": "desk"
+        },
+        {
+            "id": "dhurrie",
+            "word": "dhurrie"
+        },
+        {
+            "id": "dinette",
+            "word": "dinette"
+        },
+        {
+            "id": "dining_table",
+            "word": "dining table"
+        },
+        {
+            "id": "display_case",
+            "word": "display case"
+        },
+        {
+            "id": "divan",
+            "word": "divan"
+        },
+        {
+            "id": "divider",
+            "word": "divider"
+        },
+        {
+            "id": "drafting_table",
+            "word": "drafting table"
+        },
+        {
+            "id": "drawer",
+            "word": "drawer"
+        },
+        {
+            "id": "dresser",
+            "word": "dresser"
+        },
+        {
+            "id": "dressing_table",
+            "word": "dressing table"
+        },
+        {
+            "id": "drop-leaf",
+            "word": "drop-leaf"
+        },
+        {
+            "id": "dry_sink",
+            "word": "dry sink"
+        },
+        {
+            "id": "easy_chair",
+            "word": "easy chair"
+        },
+        {
+            "id": "enamel",
+            "word": "enamel"
+        },
+        {
+            "id": "end_table",
+            "word": "end table"
+        },
+        {
+            "id": "escritoire",
+            "word": "escritoire"
+        },
+        {
+            "id": "etagere",
+            "word": "etagere"
+        },
+        {
+            "id": "faldstool",
+            "word": "faldstool"
+        },
+        {
+            "id": "family_bed",
+            "word": "family bed"
+        },
+        {
+            "id": "fauteuil",
+            "word": "fauteuil"
+        },
+        {
+            "id": "feather_bed",
+            "word": "feather bed"
+        },
+        {
+            "id": "fiddleback",
+            "word": "fiddleback"
+        },
+        {
+            "id": "fitment",
+            "word": "fitment"
+        },
+        {
+            "id": "fitting",
+            "word": "fitting"
+        },
+        {
+            "id": "floor_lamp",
+            "word": "floor lamp"
+        },
+        {
+            "id": "footrest",
+            "word": "footrest"
+        },
+        {
+            "id": "footstool",
+            "word": "footstool"
+        },
+        {
+            "id": "four-poster",
+            "word": "four-poster"
+        },
+        {
+            "id": "four-seater",
+            "word": "four-seater"
+        },
+        {
+            "id": "furnishing",
+            "word": "furnishing"
+        },
+        {
+            "id": "furniture",
+            "word": "furniture"
+        },
+        {
+            "id": "futon",
+            "word": "futon"
+        },
+        {
+            "id": "gasolier",
+            "word": "gasolier"
+        },
+        {
+            "id": "gateleg_table",
+            "word": "gateleg table"
+        },
+        {
+            "id": "giltwood",
+            "word": "giltwood"
+        },
+        {
+            "id": "glory_hole",
+            "word": "glory hole"
+        },
+        {
+            "id": "half-tester",
+            "word": "half-tester"
+        },
+        {
+            "id": "hallstand",
+            "word": "hallstand"
+        },
+        {
+            "id": "hammock",
+            "word": "hammock"
+        },
+        {
+            "id": "handbasin",
+            "word": "handbasin"
+        },
+        {
+            "id": "harewood",
+            "word": "harewood"
+        },
+        {
+            "id": "hatrack",
+            "word": "hatrack"
+        },
+        {
+            "id": "hatstand",
+            "word": "hatstand"
+        },
+        {
+            "id": "headboard",
+            "word": "headboard"
+        },
+        {
+            "id": "hearthrug",
+            "word": "hearthrug"
+        },
+        {
+            "id": "hepplewhite%2C_george",
+            "word": "hepplewhite, george"
+        },
+        {
+            "id": "highboy",
+            "word": "highboy"
+        },
+        {
+            "id": "high_chair",
+            "word": "high chair"
+        },
+        {
+            "id": "high_table",
+            "word": "high table"
+        },
+        {
+            "id": "horsehair",
+            "word": "horsehair"
+        },
+        {
+            "id": "hot_water_cupboard",
+            "word": "hot water cupboard"
+        },
+        {
+            "id": "interior-sprung",
+            "word": "interior-sprung"
+        },
+        {
+            "id": "jalousie",
+            "word": "jalousie"
+        },
+        {
+            "id": "kist",
+            "word": "kist"
+        },
+        {
+            "id": "kitchen_unit",
+            "word": "kitchen unit"
+        },
+        {
+            "id": "knole_sofa",
+            "word": "knole sofa"
+        },
+        {
+            "id": "ladder-back",
+            "word": "ladder-back"
+        },
+        {
+            "id": "lap_desk",
+            "word": "lap desk"
+        },
+        {
+            "id": "lawn_chair",
+            "word": "lawn chair"
+        },
+        {
+            "id": "leg_rest",
+            "word": "leg rest"
+        },
+        {
+            "id": "loose_cover",
+            "word": "loose cover"
+        },
+        {
+            "id": "loo_table",
+            "word": "loo table"
+        },
+        {
+            "id": "lounger",
+            "word": "lounger"
+        },
+        {
+            "id": "love_seat",
+            "word": "love seat"
+        },
+        {
+            "id": "lowboy",
+            "word": "lowboy"
+        },
+        {
+            "id": "marquetry",
+            "word": "marquetry"
+        },
+        {
+            "id": "morris_chair",
+            "word": "morris chair"
+        },
+        {
+            "id": "music_stool",
+            "word": "music stool"
+        },
+        {
+            "id": "muskoka_chair",
+            "word": "muskoka chair"
+        },
+        {
+            "id": "nightstand",
+            "word": "nightstand"
+        },
+        {
+            "id": "occasional",
+            "word": "occasional"
+        },
+        {
+            "id": "occasional_table",
+            "word": "occasional table"
+        },
+        {
+            "id": "ottoman",
+            "word": "ottoman"
+        },
+        {
+            "id": "paepae",
+            "word": "paepae"
+        },
+        {
+            "id": "partners%27_desk",
+            "word": "partners' desk"
+        },
+        {
+            "id": "pedestal_table",
+            "word": "pedestal table"
+        },
+        {
+            "id": "pellet_stove",
+            "word": "pellet stove"
+        },
+        {
+            "id": "pelmet",
+            "word": "pelmet"
+        },
+        {
+            "id": "pembroke_table",
+            "word": "pembroke table"
+        },
+        {
+            "id": "piecrust_table",
+            "word": "piecrust table"
+        },
+        {
+            "id": "pier_table",
+            "word": "pier table"
+        },
+        {
+            "id": "podium",
+            "word": "podium"
+        },
+        {
+            "id": "porti%C3%A8re",
+            "word": "portière"
+        },
+        {
+            "id": "pouffe",
+            "word": "pouffe"
+        },
+        {
+            "id": "prie-dieu",
+            "word": "prie-dieu"
+        },
+        {
+            "id": "put-you-up",
+            "word": "put-you-up"
+        },
+        {
+            "id": "queen_anne",
+            "word": "queen anne"
+        },
+        {
+            "id": "rattan",
+            "word": "rattan"
+        },
+        {
+            "id": "recliner",
+            "word": "recliner"
+        },
+        {
+            "id": "reclining",
+            "word": "reclining"
+        },
+        {
+            "id": "re-cover",
+            "word": "re-cover"
+        },
+        {
+            "id": "refectory_table",
+            "word": "refectory table"
+        },
+        {
+            "id": "rent_table",
+            "word": "rent table"
+        },
+        {
+            "id": "repro",
+            "word": "repro"
+        },
+        {
+            "id": "reupholster",
+            "word": "reupholster"
+        },
+        {
+            "id": "rexine",
+            "word": "rexine"
+        },
+        {
+            "id": "rocking_chair",
+            "word": "rocking chair"
+        },
+        {
+            "id": "rollaway",
+            "word": "rollaway"
+        },
+        {
+            "id": "roll-top_desk",
+            "word": "roll-top desk"
+        },
+        {
+            "id": "rosemaling",
+            "word": "rosemaling"
+        },
+        {
+            "id": "rusbank",
+            "word": "rusbank"
+        },
+        {
+            "id": "scale_board",
+            "word": "scale board"
+        },
+        {
+            "id": "seat",
+            "word": "seat"
+        },
+        {
+            "id": "secretaire",
+            "word": "secretaire"
+        },
+        {
+            "id": "settee",
+            "word": "settee"
+        },
+        {
+            "id": "settle",
+            "word": "settle"
+        },
+        {
+            "id": "sheraton",
+            "word": "sheraton"
+        },
+        {
+            "id": "sideboard",
+            "word": "sideboard"
+        },
+        {
+            "id": "side_chair",
+            "word": "side chair"
+        },
+        {
+            "id": "side_table",
+            "word": "side table"
+        },
+        {
+            "id": "sleigh_bed",
+            "word": "sleigh bed"
+        },
+        {
+            "id": "slipcover",
+            "word": "slipcover"
+        },
+        {
+            "id": "sofa",
+            "word": "sofa"
+        },
+        {
+            "id": "sofa_bed",
+            "word": "sofa bed"
+        },
+        {
+            "id": "spade_foot",
+            "word": "spade foot"
+        },
+        {
+            "id": "spindle-back",
+            "word": "spindle-back"
+        },
+        {
+            "id": "splat",
+            "word": "splat"
+        },
+        {
+            "id": "splay-foot",
+            "word": "splay-foot"
+        },
+        {
+            "id": "spring_mattress",
+            "word": "spring mattress"
+        },
+        {
+            "id": "squatter%27s_chair",
+            "word": "squatter's chair"
+        },
+        {
+            "id": "standing_desk",
+            "word": "standing desk"
+        },
+        {
+            "id": "starck%2C_philippe",
+            "word": "starck, philippe"
+        },
+        {
+            "id": "stillage",
+            "word": "stillage"
+        },
+        {
+            "id": "stool",
+            "word": "stool"
+        },
+        {
+            "id": "storage_unit",
+            "word": "storage unit"
+        },
+        {
+            "id": "straight_chair",
+            "word": "straight chair"
+        },
+        {
+            "id": "string_bed",
+            "word": "string bed"
+        },
+        {
+            "id": "studio_couch",
+            "word": "studio couch"
+        },
+        {
+            "id": "sugan",
+            "word": "sugan"
+        },
+        {
+            "id": "suite",
+            "word": "suite"
+        },
+        {
+            "id": "sunbed",
+            "word": "sunbed"
+        },
+        {
+            "id": "sunlounger",
+            "word": "sunlounger"
+        },
+        {
+            "id": "swivel_chair",
+            "word": "swivel chair"
+        },
+        {
+            "id": "table",
+            "word": "table"
+        },
+        {
+            "id": "tabouret",
+            "word": "tabouret"
+        },
+        {
+            "id": "takht",
+            "word": "takht"
+        },
+        {
+            "id": "tallboy",
+            "word": "tallboy"
+        },
+        {
+            "id": "tansu",
+            "word": "tansu"
+        },
+        {
+            "id": "teapoy",
+            "word": "teapoy"
+        },
+        {
+            "id": "tester",
+            "word": "tester"
+        },
+        {
+            "id": "three-piece",
+            "word": "three-piece"
+        },
+        {
+            "id": "tigerwood",
+            "word": "tigerwood"
+        },
+        {
+            "id": "top_table",
+            "word": "top table"
+        },
+        {
+            "id": "torch%C3%A8re",
+            "word": "torchère"
+        },
+        {
+            "id": "traymobile",
+            "word": "traymobile"
+        },
+        {
+            "id": "trestle_table",
+            "word": "trestle table"
+        },
+        {
+            "id": "tub_chair",
+            "word": "tub chair"
+        },
+        {
+            "id": "twig_furniture",
+            "word": "twig furniture"
+        },
+        {
+            "id": "two-seater",
+            "word": "two-seater"
+        },
+        {
+            "id": "umbrella_stand",
+            "word": "umbrella stand"
+        },
+        {
+            "id": "unsprung",
+            "word": "unsprung"
+        },
+        {
+            "id": "upholster",
+            "word": "upholster"
+        },
+        {
+            "id": "upholstered",
+            "word": "upholstered"
+        },
+        {
+            "id": "upholsterer",
+            "word": "upholsterer"
+        },
+        {
+            "id": "upholstery",
+            "word": "upholstery"
+        },
+        {
+            "id": "valance",
+            "word": "valance"
+        },
+        {
+            "id": "vanitory_unit",
+            "word": "vanitory unit"
+        },
+        {
+            "id": "vanity_table",
+            "word": "vanity table"
+        },
+        {
+            "id": "victoria",
+            "word": "victoria"
+        },
+        {
+            "id": "vitrine",
+            "word": "vitrine"
+        },
+        {
+            "id": "wall_unit",
+            "word": "wall unit"
+        },
+        {
+            "id": "wardrobe",
+            "word": "wardrobe"
+        },
+        {
+            "id": "wardrobe_trunk",
+            "word": "wardrobe trunk"
+        },
+        {
+            "id": "washstand",
+            "word": "washstand"
+        },
+        {
+            "id": "waterbed",
+            "word": "waterbed"
+        },
+        {
+            "id": "well_upholstered",
+            "word": "well upholstered"
+        },
+        {
+            "id": "welsh_dresser",
+            "word": "welsh dresser"
+        },
+        {
+            "id": "whariki",
+            "word": "whariki"
+        },
+        {
+            "id": "wheelback",
+            "word": "wheelback"
+        },
+        {
+            "id": "whitewood",
+            "word": "whitewood"
+        },
+        {
+            "id": "wicker",
+            "word": "wicker"
+        },
+        {
+            "id": "wickerwork",
+            "word": "wickerwork"
+        },
+        {
+            "id": "windsor_chair",
+            "word": "windsor chair"
+        },
+        {
+            "id": "wing_chair",
+            "word": "wing chair"
+        },
+        {
+            "id": "worktable",
+            "word": "worktable"
+        },
+        {
+            "id": "writing_desk",
+            "word": "writing desk"
+        }
+    ]
+}

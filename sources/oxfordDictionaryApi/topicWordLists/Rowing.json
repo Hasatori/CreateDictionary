@@ -1,0 +1,147 @@
+{
+    "results": [
+        {
+            "id": "boat_race",
+            "word": "boat race"
+        },
+        {
+            "id": "bowman",
+            "word": "bowman"
+        },
+        {
+            "id": "by_a_canvas",
+            "word": "by a canvas"
+        },
+        {
+            "id": "catch_a_crab",
+            "word": "catch a crab"
+        },
+        {
+            "id": "cox",
+            "word": "cox"
+        },
+        {
+            "id": "coxed",
+            "word": "coxed"
+        },
+        {
+            "id": "coxswain",
+            "word": "coxswain"
+        },
+        {
+            "id": "doggett%27s_coat_and_badge",
+            "word": "doggett's coat and badge"
+        },
+        {
+            "id": "eights",
+            "word": "eights"
+        },
+        {
+            "id": "eskimo_roll",
+            "word": "eskimo roll"
+        },
+        {
+            "id": "fours",
+            "word": "fours"
+        },
+        {
+            "id": "henley_royal_regatta",
+            "word": "henley royal regatta"
+        },
+        {
+            "id": "leg_drive",
+            "word": "leg drive"
+        },
+        {
+            "id": "oar",
+            "word": "oar"
+        },
+        {
+            "id": "oarlock",
+            "word": "oarlock"
+        },
+        {
+            "id": "oarsman",
+            "word": "oarsman"
+        },
+        {
+            "id": "oarswoman",
+            "word": "oarswoman"
+        },
+        {
+            "id": "overbump",
+            "word": "overbump"
+        },
+        {
+            "id": "paddle",
+            "word": "paddle"
+        },
+        {
+            "id": "pinsent%2C_sir_matthew",
+            "word": "pinsent, sir matthew"
+        },
+        {
+            "id": "push_off",
+            "word": "push off"
+        },
+        {
+            "id": "redgrave%2C_sir_steve",
+            "word": "redgrave, sir steve"
+        },
+        {
+            "id": "rep%C3%AAchage",
+            "word": "repêchage"
+        },
+        {
+            "id": "row",
+            "word": "row"
+        },
+        {
+            "id": "rower",
+            "word": "rower"
+        },
+        {
+            "id": "rowlock",
+            "word": "rowlock"
+        },
+        {
+            "id": "row-off",
+            "word": "row-off"
+        },
+        {
+            "id": "row_over",
+            "word": "row over"
+        },
+        {
+            "id": "row_someone_down",
+            "word": "row someone down"
+        },
+        {
+            "id": "row_someone_out",
+            "word": "row someone out"
+        },
+        {
+            "id": "scull",
+            "word": "scull"
+        },
+        {
+            "id": "sculler",
+            "word": "sculler"
+        },
+        {
+            "id": "skiff",
+            "word": "skiff"
+        },
+        {
+            "id": "sliding_seat",
+            "word": "sliding seat"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 34,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

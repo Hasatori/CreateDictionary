@@ -1,0 +1,1435 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 356,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "abortus_fever",
+            "word": "abortus fever"
+        },
+        {
+            "id": "acapsular",
+            "word": "acapsular"
+        },
+        {
+            "id": "acetobacter",
+            "word": "acetobacter"
+        },
+        {
+            "id": "acetogen",
+            "word": "acetogen"
+        },
+        {
+            "id": "acetogenic",
+            "word": "acetogenic"
+        },
+        {
+            "id": "acid-fast",
+            "word": "acid-fast"
+        },
+        {
+            "id": "acidophilus",
+            "word": "acidophilus"
+        },
+        {
+            "id": "aciduric",
+            "word": "aciduric"
+        },
+        {
+            "id": "acinetobacter",
+            "word": "acinetobacter"
+        },
+        {
+            "id": "actinomyces",
+            "word": "actinomyces"
+        },
+        {
+            "id": "actinomycete",
+            "word": "actinomycete"
+        },
+        {
+            "id": "actinophage",
+            "word": "actinophage"
+        },
+        {
+            "id": "activated_sludge",
+            "word": "activated sludge"
+        },
+        {
+            "id": "adenovirus",
+            "word": "adenovirus"
+        },
+        {
+            "id": "adhesin",
+            "word": "adhesin"
+        },
+        {
+            "id": "aerobe",
+            "word": "aerobe"
+        },
+        {
+            "id": "aerophile",
+            "word": "aerophile"
+        },
+        {
+            "id": "aerophilic",
+            "word": "aerophilic"
+        },
+        {
+            "id": "aerophilous",
+            "word": "aerophilous"
+        },
+        {
+            "id": "aerotolerance",
+            "word": "aerotolerance"
+        },
+        {
+            "id": "aerotolerant",
+            "word": "aerotolerant"
+        },
+        {
+            "id": "aflagellar",
+            "word": "aflagellar"
+        },
+        {
+            "id": "aflagellate",
+            "word": "aflagellate"
+        },
+        {
+            "id": "aflatoxin",
+            "word": "aflatoxin"
+        },
+        {
+            "id": "aggressin",
+            "word": "aggressin"
+        },
+        {
+            "id": "agrobacterium",
+            "word": "agrobacterium"
+        },
+        {
+            "id": "amphitrichate",
+            "word": "amphitrichate"
+        },
+        {
+            "id": "amphitrichous",
+            "word": "amphitrichous"
+        },
+        {
+            "id": "anaerobe",
+            "word": "anaerobe"
+        },
+        {
+            "id": "antibacterial",
+            "word": "antibacterial"
+        },
+        {
+            "id": "antibiosis",
+            "word": "antibiosis"
+        },
+        {
+            "id": "arbovirus",
+            "word": "arbovirus"
+        },
+        {
+            "id": "archaea",
+            "word": "archaea"
+        },
+        {
+            "id": "arenavirus",
+            "word": "arenavirus"
+        },
+        {
+            "id": "arthrospore",
+            "word": "arthrospore"
+        },
+        {
+            "id": "avirulent",
+            "word": "avirulent"
+        },
+        {
+            "id": "babesia",
+            "word": "babesia"
+        },
+        {
+            "id": "babesial",
+            "word": "babesial"
+        },
+        {
+            "id": "bacillary",
+            "word": "bacillary"
+        },
+        {
+            "id": "bacillus",
+            "word": "bacillus"
+        },
+        {
+            "id": "bacterial",
+            "word": "bacterial"
+        },
+        {
+            "id": "bacterially",
+            "word": "bacterially"
+        },
+        {
+            "id": "bacteriocin",
+            "word": "bacteriocin"
+        },
+        {
+            "id": "bacteriological",
+            "word": "bacteriological"
+        },
+        {
+            "id": "bacteriology",
+            "word": "bacteriology"
+        },
+        {
+            "id": "bacteriolysis",
+            "word": "bacteriolysis"
+        },
+        {
+            "id": "bacteriophage",
+            "word": "bacteriophage"
+        },
+        {
+            "id": "bacteriopheophytin",
+            "word": "bacteriopheophytin"
+        },
+        {
+            "id": "bacterioplankton",
+            "word": "bacterioplankton"
+        },
+        {
+            "id": "bacterium",
+            "word": "bacterium"
+        },
+        {
+            "id": "baculovirus",
+            "word": "baculovirus"
+        },
+        {
+            "id": "bion",
+            "word": "bion"
+        },
+        {
+            "id": "black_rot",
+            "word": "black rot"
+        },
+        {
+            "id": "blastomycosis",
+            "word": "blastomycosis"
+        },
+        {
+            "id": "bleomycin",
+            "word": "bleomycin"
+        },
+        {
+            "id": "blood_agar",
+            "word": "blood agar"
+        },
+        {
+            "id": "borna_disease",
+            "word": "borna disease"
+        },
+        {
+            "id": "botulism",
+            "word": "botulism"
+        },
+        {
+            "id": "braxy",
+            "word": "braxy"
+        },
+        {
+            "id": "brucella",
+            "word": "brucella"
+        },
+        {
+            "id": "brucellosis",
+            "word": "brucellosis"
+        },
+        {
+            "id": "bug",
+            "word": "bug"
+        },
+        {
+            "id": "campylobacter",
+            "word": "campylobacter"
+        },
+        {
+            "id": "capsid",
+            "word": "capsid"
+        },
+        {
+            "id": "c._diff",
+            "word": "c. diff"
+        },
+        {
+            "id": "c._difficile",
+            "word": "c. difficile"
+        },
+        {
+            "id": "cephalosporin",
+            "word": "cephalosporin"
+        },
+        {
+            "id": "chemoautotroph",
+            "word": "chemoautotroph"
+        },
+        {
+            "id": "chemostat",
+            "word": "chemostat"
+        },
+        {
+            "id": "chlamydia",
+            "word": "chlamydia"
+        },
+        {
+            "id": "chloramphenicol",
+            "word": "chloramphenicol"
+        },
+        {
+            "id": "chloromycetin",
+            "word": "chloromycetin"
+        },
+        {
+            "id": "chlortetracycline",
+            "word": "chlortetracycline"
+        },
+        {
+            "id": "cholera",
+            "word": "cholera"
+        },
+        {
+            "id": "chromogenic",
+            "word": "chromogenic"
+        },
+        {
+            "id": "clostridium",
+            "word": "clostridium"
+        },
+        {
+            "id": "coccus",
+            "word": "coccus"
+        },
+        {
+            "id": "colicin",
+            "word": "colicin"
+        },
+        {
+            "id": "coliform",
+            "word": "coliform"
+        },
+        {
+            "id": "contagious_abortion",
+            "word": "contagious abortion"
+        },
+        {
+            "id": "coronavirus",
+            "word": "coronavirus"
+        },
+        {
+            "id": "corynebacterium",
+            "word": "corynebacterium"
+        },
+        {
+            "id": "coxsackie_virus",
+            "word": "coxsackie virus"
+        },
+        {
+            "id": "crown_gall",
+            "word": "crown gall"
+        },
+        {
+            "id": "cucumber_mosaic",
+            "word": "cucumber mosaic"
+        },
+        {
+            "id": "cyanobacteria",
+            "word": "cyanobacteria"
+        },
+        {
+            "id": "cyanophyte",
+            "word": "cyanophyte"
+        },
+        {
+            "id": "cyclosporin",
+            "word": "cyclosporin"
+        },
+        {
+            "id": "cytomegalovirus",
+            "word": "cytomegalovirus"
+        },
+        {
+            "id": "diphtheria",
+            "word": "diphtheria"
+        },
+        {
+            "id": "diphtheroid",
+            "word": "diphtheroid"
+        },
+        {
+            "id": "diplococcus",
+            "word": "diplococcus"
+        },
+        {
+            "id": "dna_virus",
+            "word": "dna virus"
+        },
+        {
+            "id": "doxorubicin",
+            "word": "doxorubicin"
+        },
+        {
+            "id": "dysbiosis",
+            "word": "dysbiosis"
+        },
+        {
+            "id": "dysentery",
+            "word": "dysentery"
+        },
+        {
+            "id": "ebola",
+            "word": "ebola"
+        },
+        {
+            "id": "echovirus",
+            "word": "echovirus"
+        },
+        {
+            "id": "e._coli",
+            "word": "e. coli"
+        },
+        {
+            "id": "enders%2C_john_franklin",
+            "word": "enders, john franklin"
+        },
+        {
+            "id": "endospore",
+            "word": "endospore"
+        },
+        {
+            "id": "endotoxin",
+            "word": "endotoxin"
+        },
+        {
+            "id": "enterobacterium",
+            "word": "enterobacterium"
+        },
+        {
+            "id": "enterococcus",
+            "word": "enterococcus"
+        },
+        {
+            "id": "enterovirus",
+            "word": "enterovirus"
+        },
+        {
+            "id": "episome",
+            "word": "episome"
+        },
+        {
+            "id": "epstein%E2%80%93barr_virus",
+            "word": "epstein–barr virus"
+        },
+        {
+            "id": "erysipelas",
+            "word": "erysipelas"
+        },
+        {
+            "id": "erysipeloid",
+            "word": "erysipeloid"
+        },
+        {
+            "id": "erythromycin",
+            "word": "erythromycin"
+        },
+        {
+            "id": "eubacterium",
+            "word": "eubacterium"
+        },
+        {
+            "id": "exotoxin",
+            "word": "exotoxin"
+        },
+        {
+            "id": "extremophile",
+            "word": "extremophile"
+        },
+        {
+            "id": "fermentation",
+            "word": "fermentation"
+        },
+        {
+            "id": "filovirus",
+            "word": "filovirus"
+        },
+        {
+            "id": "fireblight",
+            "word": "fireblight"
+        },
+        {
+            "id": "flavivirus",
+            "word": "flavivirus"
+        },
+        {
+            "id": "foot_rot",
+            "word": "foot rot"
+        },
+        {
+            "id": "foul_brood",
+            "word": "foul brood"
+        },
+        {
+            "id": "fowl_plague",
+            "word": "fowl plague"
+        },
+        {
+            "id": "gas_gangrene",
+            "word": "gas gangrene"
+        },
+        {
+            "id": "gentamicin",
+            "word": "gentamicin"
+        },
+        {
+            "id": "germ",
+            "word": "germ"
+        },
+        {
+            "id": "germ_carrier",
+            "word": "germ carrier"
+        },
+        {
+            "id": "glanders",
+            "word": "glanders"
+        },
+        {
+            "id": "gonococcus",
+            "word": "gonococcus"
+        },
+        {
+            "id": "gramicidin",
+            "word": "gramicidin"
+        },
+        {
+            "id": "gram_stain",
+            "word": "gram stain"
+        },
+        {
+            "id": "griseofulvin",
+            "word": "griseofulvin"
+        },
+        {
+            "id": "hantavirus",
+            "word": "hantavirus"
+        },
+        {
+            "id": "helicobacter",
+            "word": "helicobacter"
+        },
+        {
+            "id": "hendra_virus",
+            "word": "hendra virus"
+        },
+        {
+            "id": "herpes",
+            "word": "herpes"
+        },
+        {
+            "id": "herpes_simplex",
+            "word": "herpes simplex"
+        },
+        {
+            "id": "herpesvirus",
+            "word": "herpesvirus"
+        },
+        {
+            "id": "herpes_zoster",
+            "word": "herpes zoster"
+        },
+        {
+            "id": "herpetic",
+            "word": "herpetic"
+        },
+        {
+            "id": "hib",
+            "word": "hib"
+        },
+        {
+            "id": "hiv",
+            "word": "hiv"
+        },
+        {
+            "id": "ice-minus",
+            "word": "ice-minus"
+        },
+        {
+            "id": "impetigo",
+            "word": "impetigo"
+        },
+        {
+            "id": "intestinal_flora",
+            "word": "intestinal flora"
+        },
+        {
+            "id": "kanamycin",
+            "word": "kanamycin"
+        },
+        {
+            "id": "klebs%E2%80%93l%C3%B6ffler_bacillus",
+            "word": "klebs–löffler bacillus"
+        },
+        {
+            "id": "klebsiella",
+            "word": "klebsiella"
+        },
+        {
+            "id": "koch%2C_robert",
+            "word": "koch, robert"
+        },
+        {
+            "id": "kuru",
+            "word": "kuru"
+        },
+        {
+            "id": "lactobacillus",
+            "word": "lactobacillus"
+        },
+        {
+            "id": "leaf_spot",
+            "word": "leaf spot"
+        },
+        {
+            "id": "legionella",
+            "word": "legionella"
+        },
+        {
+            "id": "legionnaires%27_disease",
+            "word": "legionnaires' disease"
+        },
+        {
+            "id": "lentivirus",
+            "word": "lentivirus"
+        },
+        {
+            "id": "leprosy",
+            "word": "leprosy"
+        },
+        {
+            "id": "leptospirosis",
+            "word": "leptospirosis"
+        },
+        {
+            "id": "listeria",
+            "word": "listeria"
+        },
+        {
+            "id": "live",
+            "word": "live"
+        },
+        {
+            "id": "lockjaw",
+            "word": "lockjaw"
+        },
+        {
+            "id": "lyme_disease",
+            "word": "lyme disease"
+        },
+        {
+            "id": "macchiavello",
+            "word": "macchiavello"
+        },
+        {
+            "id": "macconkey",
+            "word": "macconkey"
+        },
+        {
+            "id": "machupo",
+            "word": "machupo"
+        },
+        {
+            "id": "marburg_disease",
+            "word": "marburg disease"
+        },
+        {
+            "id": "melioidosis",
+            "word": "melioidosis"
+        },
+        {
+            "id": "meningococcus",
+            "word": "meningococcus"
+        },
+        {
+            "id": "metabiosis",
+            "word": "metabiosis"
+        },
+        {
+            "id": "metabiotic",
+            "word": "metabiotic"
+        },
+        {
+            "id": "methanogen",
+            "word": "methanogen"
+        },
+        {
+            "id": "methanotroph",
+            "word": "methanotroph"
+        },
+        {
+            "id": "methanotrophic",
+            "word": "methanotrophic"
+        },
+        {
+            "id": "methylotroph",
+            "word": "methylotroph"
+        },
+        {
+            "id": "methylotrophic",
+            "word": "methylotrophic"
+        },
+        {
+            "id": "methylotrophy",
+            "word": "methylotrophy"
+        },
+        {
+            "id": "microaerophilic",
+            "word": "microaerophilic"
+        },
+        {
+            "id": "microaerophilous",
+            "word": "microaerophilous"
+        },
+        {
+            "id": "microbacterium",
+            "word": "microbacterium"
+        },
+        {
+            "id": "microbe",
+            "word": "microbe"
+        },
+        {
+            "id": "microbial",
+            "word": "microbial"
+        },
+        {
+            "id": "microbiologist",
+            "word": "microbiologist"
+        },
+        {
+            "id": "microbiology",
+            "word": "microbiology"
+        },
+        {
+            "id": "microbiome",
+            "word": "microbiome"
+        },
+        {
+            "id": "micrococcus",
+            "word": "micrococcus"
+        },
+        {
+            "id": "microcyst",
+            "word": "microcyst"
+        },
+        {
+            "id": "microflora",
+            "word": "microflora"
+        },
+        {
+            "id": "microorganism",
+            "word": "microorganism"
+        },
+        {
+            "id": "microtiter",
+            "word": "microtiter"
+        },
+        {
+            "id": "microtiter_plate",
+            "word": "microtiter plate"
+        },
+        {
+            "id": "microtiter_well",
+            "word": "microtiter well"
+        },
+        {
+            "id": "moraxella",
+            "word": "moraxella"
+        },
+        {
+            "id": "morbillivirus",
+            "word": "morbillivirus"
+        },
+        {
+            "id": "mrsa",
+            "word": "mrsa"
+        },
+        {
+            "id": "mucoidy",
+            "word": "mucoidy"
+        },
+        {
+            "id": "multipartite",
+            "word": "multipartite"
+        },
+        {
+            "id": "-mycin",
+            "word": "-mycin"
+        },
+        {
+            "id": "mycobacteriophage",
+            "word": "mycobacteriophage"
+        },
+        {
+            "id": "mycobacterium",
+            "word": "mycobacterium"
+        },
+        {
+            "id": "mycobacterium_avium_complex",
+            "word": "mycobacterium avium complex"
+        },
+        {
+            "id": "mycoplasma",
+            "word": "mycoplasma"
+        },
+        {
+            "id": "mycoplasmologist",
+            "word": "mycoplasmologist"
+        },
+        {
+            "id": "mycoplasmology",
+            "word": "mycoplasmology"
+        },
+        {
+            "id": "mycovirus",
+            "word": "mycovirus"
+        },
+        {
+            "id": "myxobacter",
+            "word": "myxobacter"
+        },
+        {
+            "id": "myxobacterial",
+            "word": "myxobacterial"
+        },
+        {
+            "id": "myxobacterium",
+            "word": "myxobacterium"
+        },
+        {
+            "id": "myxococcal",
+            "word": "myxococcal"
+        },
+        {
+            "id": "myxococcus",
+            "word": "myxococcus"
+        },
+        {
+            "id": "myxomatosis",
+            "word": "myxomatosis"
+        },
+        {
+            "id": "myxospore",
+            "word": "myxospore"
+        },
+        {
+            "id": "myxovirus",
+            "word": "myxovirus"
+        },
+        {
+            "id": "nanobacterial",
+            "word": "nanobacterial"
+        },
+        {
+            "id": "nanobacterium",
+            "word": "nanobacterium"
+        },
+        {
+            "id": "necrotizing_fasciitis",
+            "word": "necrotizing fasciitis"
+        },
+        {
+            "id": "neisseria",
+            "word": "neisseria"
+        },
+        {
+            "id": "neisserial",
+            "word": "neisserial"
+        },
+        {
+            "id": "neisserian",
+            "word": "neisserian"
+        },
+        {
+            "id": "neomycin",
+            "word": "neomycin"
+        },
+        {
+            "id": "nisin",
+            "word": "nisin"
+        },
+        {
+            "id": "nitrobacter",
+            "word": "nitrobacter"
+        },
+        {
+            "id": "nitrosomonas",
+            "word": "nitrosomonas"
+        },
+        {
+            "id": "non-specific_urethritis",
+            "word": "non-specific urethritis"
+        },
+        {
+            "id": "norovirus",
+            "word": "norovirus"
+        },
+        {
+            "id": "norwalk_virus",
+            "word": "norwalk virus"
+        },
+        {
+            "id": "nostoc",
+            "word": "nostoc"
+        },
+        {
+            "id": "nuclear_polyhedrosis",
+            "word": "nuclear polyhedrosis"
+        },
+        {
+            "id": "nucleocapsid",
+            "word": "nucleocapsid"
+        },
+        {
+            "id": "nucleoid",
+            "word": "nucleoid"
+        },
+        {
+            "id": "nystatin",
+            "word": "nystatin"
+        },
+        {
+            "id": "ochratoxin",
+            "word": "ochratoxin"
+        },
+        {
+            "id": "oil_body",
+            "word": "oil body"
+        },
+        {
+            "id": "papillomavirus",
+            "word": "papillomavirus"
+        },
+        {
+            "id": "papovavirus",
+            "word": "papovavirus"
+        },
+        {
+            "id": "parainfluenza",
+            "word": "parainfluenza"
+        },
+        {
+            "id": "paramyxovirus",
+            "word": "paramyxovirus"
+        },
+        {
+            "id": "parasitophorous",
+            "word": "parasitophorous"
+        },
+        {
+            "id": "paratyphoid",
+            "word": "paratyphoid"
+        },
+        {
+            "id": "parvoviral",
+            "word": "parvoviral"
+        },
+        {
+            "id": "parvovirus",
+            "word": "parvovirus"
+        },
+        {
+            "id": "pasteurellosis",
+            "word": "pasteurellosis"
+        },
+        {
+            "id": "pasteurization",
+            "word": "pasteurization"
+        },
+        {
+            "id": "pasteurize",
+            "word": "pasteurize"
+        },
+        {
+            "id": "pathogen",
+            "word": "pathogen"
+        },
+        {
+            "id": "pathogenic",
+            "word": "pathogenic"
+        },
+        {
+            "id": "pathogenicity",
+            "word": "pathogenicity"
+        },
+        {
+            "id": "pathotype",
+            "word": "pathotype"
+        },
+        {
+            "id": "pathovar",
+            "word": "pathovar"
+        },
+        {
+            "id": "peptidoglycan",
+            "word": "peptidoglycan"
+        },
+        {
+            "id": "petri_dish",
+            "word": "petri dish"
+        },
+        {
+            "id": "picornavirus",
+            "word": "picornavirus"
+        },
+        {
+            "id": "pilus",
+            "word": "pilus"
+        },
+        {
+            "id": "piroplasm",
+            "word": "piroplasm"
+        },
+        {
+            "id": "piroplasma",
+            "word": "piroplasma"
+        },
+        {
+            "id": "plasmodiophorid",
+            "word": "plasmodiophorid"
+        },
+        {
+            "id": "pleomorphism",
+            "word": "pleomorphism"
+        },
+        {
+            "id": "pleuropneumonia-like",
+            "word": "pleuropneumonia-like"
+        },
+        {
+            "id": "plum_pox",
+            "word": "plum pox"
+        },
+        {
+            "id": "pneumococcic",
+            "word": "pneumococcic"
+        },
+        {
+            "id": "pneumococcus",
+            "word": "pneumococcus"
+        },
+        {
+            "id": "pneumocystis",
+            "word": "pneumocystis"
+        },
+        {
+            "id": "pneumocystis_pneumonia",
+            "word": "pneumocystis pneumonia"
+        },
+        {
+            "id": "poliovirus",
+            "word": "poliovirus"
+        },
+        {
+            "id": "polymyxin",
+            "word": "polymyxin"
+        },
+        {
+            "id": "polyoma_virus",
+            "word": "polyoma virus"
+        },
+        {
+            "id": "polytrichous",
+            "word": "polytrichous"
+        },
+        {
+            "id": "poxvirus",
+            "word": "poxvirus"
+        },
+        {
+            "id": "prion",
+            "word": "prion"
+        },
+        {
+            "id": "prophage",
+            "word": "prophage"
+        },
+        {
+            "id": "propionibacterium",
+            "word": "propionibacterium"
+        },
+        {
+            "id": "proteobacterium",
+            "word": "proteobacterium"
+        },
+        {
+            "id": "proteus",
+            "word": "proteus"
+        },
+        {
+            "id": "provirus",
+            "word": "provirus"
+        },
+        {
+            "id": "pseudomonas",
+            "word": "pseudomonas"
+        },
+        {
+            "id": "pseudosporangium",
+            "word": "pseudosporangium"
+        },
+        {
+            "id": "pure_culture",
+            "word": "pure culture"
+        },
+        {
+            "id": "puromycin",
+            "word": "puromycin"
+        },
+        {
+            "id": "purple_bacterium",
+            "word": "purple bacterium"
+        },
+        {
+            "id": "relapsing_fever",
+            "word": "relapsing fever"
+        },
+        {
+            "id": "reovirus",
+            "word": "reovirus"
+        },
+        {
+            "id": "replica_plate",
+            "word": "replica plate"
+        },
+        {
+            "id": "replica_plating",
+            "word": "replica plating"
+        },
+        {
+            "id": "respiratory_syncytial_virus",
+            "word": "respiratory syncytial virus"
+        },
+        {
+            "id": "retrovirus",
+            "word": "retrovirus"
+        },
+        {
+            "id": "revertant",
+            "word": "revertant"
+        },
+        {
+            "id": "rhapidosome",
+            "word": "rhapidosome"
+        },
+        {
+            "id": "rhinovirus",
+            "word": "rhinovirus"
+        },
+        {
+            "id": "rhizobial",
+            "word": "rhizobial"
+        },
+        {
+            "id": "rhizobially",
+            "word": "rhizobially"
+        },
+        {
+            "id": "rhizobium",
+            "word": "rhizobium"
+        },
+        {
+            "id": "rhizoplast",
+            "word": "rhizoplast"
+        },
+        {
+            "id": "rickettsia",
+            "word": "rickettsia"
+        },
+        {
+            "id": "rifampicin",
+            "word": "rifampicin"
+        },
+        {
+            "id": "rna_virus",
+            "word": "rna virus"
+        },
+        {
+            "id": "rotavirus",
+            "word": "rotavirus"
+        },
+        {
+            "id": "salmonella",
+            "word": "salmonella"
+        },
+        {
+            "id": "schmallenberg_virus",
+            "word": "schmallenberg virus"
+        },
+        {
+            "id": "scrapie",
+            "word": "scrapie"
+        },
+        {
+            "id": "sendai_virus",
+            "word": "sendai virus"
+        },
+        {
+            "id": "serogroup",
+            "word": "serogroup"
+        },
+        {
+            "id": "serotype",
+            "word": "serotype"
+        },
+        {
+            "id": "serovar",
+            "word": "serovar"
+        },
+        {
+            "id": "sexduction",
+            "word": "sexduction"
+        },
+        {
+            "id": "shigella",
+            "word": "shigella"
+        },
+        {
+            "id": "shingles",
+            "word": "shingles"
+        },
+        {
+            "id": "slow_virus",
+            "word": "slow virus"
+        },
+        {
+            "id": "specific_epithet",
+            "word": "specific epithet"
+        },
+        {
+            "id": "specific_name",
+            "word": "specific name"
+        },
+        {
+            "id": "spectinomycin",
+            "word": "spectinomycin"
+        },
+        {
+            "id": "spirillum",
+            "word": "spirillum"
+        },
+        {
+            "id": "spirochaete",
+            "word": "spirochaete"
+        },
+        {
+            "id": "spirulina",
+            "word": "spirulina"
+        },
+        {
+            "id": "staphylococcus",
+            "word": "staphylococcus"
+        },
+        {
+            "id": "sterilant",
+            "word": "sterilant"
+        },
+        {
+            "id": "sterilization",
+            "word": "sterilization"
+        },
+        {
+            "id": "sterilize",
+            "word": "sterilize"
+        },
+        {
+            "id": "sterilized",
+            "word": "sterilized"
+        },
+        {
+            "id": "strangles",
+            "word": "strangles"
+        },
+        {
+            "id": "streak",
+            "word": "streak"
+        },
+        {
+            "id": "streptococcus",
+            "word": "streptococcus"
+        },
+        {
+            "id": "streptomycete",
+            "word": "streptomycete"
+        },
+        {
+            "id": "streptomycin",
+            "word": "streptomycin"
+        },
+        {
+            "id": "subpassaging",
+            "word": "subpassaging"
+        },
+        {
+            "id": "substrain",
+            "word": "substrain"
+        },
+        {
+            "id": "superbug",
+            "word": "superbug"
+        },
+        {
+            "id": "syphilis",
+            "word": "syphilis"
+        },
+        {
+            "id": "syphilitic",
+            "word": "syphilitic"
+        },
+        {
+            "id": "tetanize",
+            "word": "tetanize"
+        },
+        {
+            "id": "tetanus",
+            "word": "tetanus"
+        },
+        {
+            "id": "tetracycline",
+            "word": "tetracycline"
+        },
+        {
+            "id": "thermophile",
+            "word": "thermophile"
+        },
+        {
+            "id": "thrush",
+            "word": "thrush"
+        },
+        {
+            "id": "tmv",
+            "word": "tmv"
+        },
+        {
+            "id": "tobacco_mosaic_virus",
+            "word": "tobacco mosaic virus"
+        },
+        {
+            "id": "tobramycin",
+            "word": "tobramycin"
+        },
+        {
+            "id": "trachoma",
+            "word": "trachoma"
+        },
+        {
+            "id": "transfect",
+            "word": "transfect"
+        },
+        {
+            "id": "treponeme",
+            "word": "treponeme"
+        },
+        {
+            "id": "tubercle_bacillus",
+            "word": "tubercle bacillus"
+        },
+        {
+            "id": "tularaemia",
+            "word": "tularaemia"
+        },
+        {
+            "id": "typhoid",
+            "word": "typhoid"
+        },
+        {
+            "id": "undulant_fever",
+            "word": "undulant fever"
+        },
+        {
+            "id": "ureaplasma",
+            "word": "ureaplasma"
+        },
+        {
+            "id": "vancomycin",
+            "word": "vancomycin"
+        },
+        {
+            "id": "vegetative_cell",
+            "word": "vegetative cell"
+        },
+        {
+            "id": "vibrio",
+            "word": "vibrio"
+        },
+        {
+            "id": "viral",
+            "word": "viral"
+        },
+        {
+            "id": "virino",
+            "word": "virino"
+        },
+        {
+            "id": "virion",
+            "word": "virion"
+        },
+        {
+            "id": "viroid",
+            "word": "viroid"
+        },
+        {
+            "id": "virology",
+            "word": "virology"
+        },
+        {
+            "id": "viropexis",
+            "word": "viropexis"
+        },
+        {
+            "id": "virus",
+            "word": "virus"
+        },
+        {
+            "id": "viscerotropic",
+            "word": "viscerotropic"
+        },
+        {
+            "id": "whirling_disease",
+            "word": "whirling disease"
+        },
+        {
+            "id": "whooping_cough",
+            "word": "whooping cough"
+        },
+        {
+            "id": "winter_vomiting_bug",
+            "word": "winter vomiting bug"
+        },
+        {
+            "id": "xanthan_gum",
+            "word": "xanthan gum"
+        },
+        {
+            "id": "yaws",
+            "word": "yaws"
+        },
+        {
+            "id": "zika_virus",
+            "word": "zika virus"
+        }
+    ]
+}

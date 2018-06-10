@@ -1,0 +1,139 @@
+{
+    "results": [
+        {
+            "id": "aqueduct",
+            "word": "aqueduct"
+        },
+        {
+            "id": "barge",
+            "word": "barge"
+        },
+        {
+            "id": "bargee",
+            "word": "bargee"
+        },
+        {
+            "id": "bargeman",
+            "word": "bargeman"
+        },
+        {
+            "id": "bargemaster",
+            "word": "bargemaster"
+        },
+        {
+            "id": "bargepole",
+            "word": "bargepole"
+        },
+        {
+            "id": "berm",
+            "word": "berm"
+        },
+        {
+            "id": "brindley%2C_james",
+            "word": "brindley, james"
+        },
+        {
+            "id": "caledonian_canal",
+            "word": "caledonian canal"
+        },
+        {
+            "id": "canal",
+            "word": "canal"
+        },
+        {
+            "id": "canal_boat",
+            "word": "canal boat"
+        },
+        {
+            "id": "canalize",
+            "word": "canalize"
+        },
+        {
+            "id": "corinth_canal",
+            "word": "corinth canal"
+        },
+        {
+            "id": "grand_canal",
+            "word": "grand canal"
+        },
+        {
+            "id": "indira_gandhi_canal",
+            "word": "indira gandhi canal"
+        },
+        {
+            "id": "inland_navigation",
+            "word": "inland navigation"
+        },
+        {
+            "id": "kiel_canal",
+            "word": "kiel canal"
+        },
+        {
+            "id": "klong",
+            "word": "klong"
+        },
+        {
+            "id": "lesseps%2C_ferdinand_marie",
+            "word": "lesseps, ferdinand marie"
+        },
+        {
+            "id": "lock-keeper",
+            "word": "lock-keeper"
+        },
+        {
+            "id": "manchester_ship_canal",
+            "word": "manchester ship canal"
+        },
+        {
+            "id": "mittelland_canal",
+            "word": "mittelland canal"
+        },
+        {
+            "id": "narrowboat",
+            "word": "narrowboat"
+        },
+        {
+            "id": "navvy",
+            "word": "navvy"
+        },
+        {
+            "id": "panama_canal",
+            "word": "panama canal"
+        },
+        {
+            "id": "ship_canal",
+            "word": "ship canal"
+        },
+        {
+            "id": "side_pond",
+            "word": "side pond"
+        },
+        {
+            "id": "suez_canal",
+            "word": "suez canal"
+        },
+        {
+            "id": "tailwater",
+            "word": "tailwater"
+        },
+        {
+            "id": "towpath",
+            "word": "towpath"
+        },
+        {
+            "id": "waterway",
+            "word": "waterway"
+        },
+        {
+            "id": "welland_canal",
+            "word": "welland canal"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 32,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

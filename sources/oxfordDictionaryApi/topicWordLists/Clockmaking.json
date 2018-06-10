@@ -1,0 +1,331 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 80
+    },
+    "results": [
+        {
+            "id": "alarm_clock",
+            "word": "alarm clock"
+        },
+        {
+            "id": "albert",
+            "word": "albert"
+        },
+        {
+            "id": "anchor_escapement",
+            "word": "anchor escapement"
+        },
+        {
+            "id": "atomic_clock",
+            "word": "atomic clock"
+        },
+        {
+            "id": "balance_wheel",
+            "word": "balance wheel"
+        },
+        {
+            "id": "barrel_arbor",
+            "word": "barrel arbor"
+        },
+        {
+            "id": "bezel",
+            "word": "bezel"
+        },
+        {
+            "id": "bracket_clock",
+            "word": "bracket clock"
+        },
+        {
+            "id": "caesium_clock",
+            "word": "caesium clock"
+        },
+        {
+            "id": "carriage_clock",
+            "word": "carriage clock"
+        },
+        {
+            "id": "chronograph",
+            "word": "chronograph"
+        },
+        {
+            "id": "chronometer",
+            "word": "chronometer"
+        },
+        {
+            "id": "clock",
+            "word": "clock"
+        },
+        {
+            "id": "clockmaker",
+            "word": "clockmaker"
+        },
+        {
+            "id": "clockwork",
+            "word": "clockwork"
+        },
+        {
+            "id": "cuckoo_clock",
+            "word": "cuckoo clock"
+        },
+        {
+            "id": "dial",
+            "word": "dial"
+        },
+        {
+            "id": "dial_wheel",
+            "word": "dial wheel"
+        },
+        {
+            "id": "escapement",
+            "word": "escapement"
+        },
+        {
+            "id": "escape_wheel",
+            "word": "escape wheel"
+        },
+        {
+            "id": "fob",
+            "word": "fob"
+        },
+        {
+            "id": "fob_watch",
+            "word": "fob watch"
+        },
+        {
+            "id": "fusee",
+            "word": "fusee"
+        },
+        {
+            "id": "going_barrel",
+            "word": "going barrel"
+        },
+        {
+            "id": "going_train",
+            "word": "going train"
+        },
+        {
+            "id": "going_wheel",
+            "word": "going wheel"
+        },
+        {
+            "id": "grandfather_clock",
+            "word": "grandfather clock"
+        },
+        {
+            "id": "grandmother_clock",
+            "word": "grandmother clock"
+        },
+        {
+            "id": "hairspring",
+            "word": "hairspring"
+        },
+        {
+            "id": "half-hunter",
+            "word": "half-hunter"
+        },
+        {
+            "id": "horologe",
+            "word": "horologe"
+        },
+        {
+            "id": "hour_hand",
+            "word": "hour hand"
+        },
+        {
+            "id": "lever_escapement",
+            "word": "lever escapement"
+        },
+        {
+            "id": "lever_watch",
+            "word": "lever watch"
+        },
+        {
+            "id": "locking_pallet",
+            "word": "locking pallet"
+        },
+        {
+            "id": "locking_piece",
+            "word": "locking piece"
+        },
+        {
+            "id": "locking_plate",
+            "word": "locking plate"
+        },
+        {
+            "id": "locking_stone",
+            "word": "locking stone"
+        },
+        {
+            "id": "locking_wheel",
+            "word": "locking wheel"
+        },
+        {
+            "id": "loupe",
+            "word": "loupe"
+        },
+        {
+            "id": "maintaining_power",
+            "word": "maintaining power"
+        },
+        {
+            "id": "middle_temperature_error",
+            "word": "middle temperature error"
+        },
+        {
+            "id": "minute_hand",
+            "word": "minute hand"
+        },
+        {
+            "id": "mock_pendulum",
+            "word": "mock pendulum"
+        },
+        {
+            "id": "moonphase",
+            "word": "moonphase"
+        },
+        {
+            "id": "overcoil",
+            "word": "overcoil"
+        },
+        {
+            "id": "overwind",
+            "word": "overwind"
+        },
+        {
+            "id": "pallet_arbor",
+            "word": "pallet arbor"
+        },
+        {
+            "id": "pallet_stone",
+            "word": "pallet stone"
+        },
+        {
+            "id": "pendulum",
+            "word": "pendulum"
+        },
+        {
+            "id": "pillar_plate",
+            "word": "pillar plate"
+        },
+        {
+            "id": "pin_lever",
+            "word": "pin lever"
+        },
+        {
+            "id": "pin_pallet",
+            "word": "pin pallet"
+        },
+        {
+            "id": "pinwheel_escapement",
+            "word": "pinwheel escapement"
+        },
+        {
+            "id": "pocket_watch",
+            "word": "pocket watch"
+        },
+        {
+            "id": "quartz_clock",
+            "word": "quartz clock"
+        },
+        {
+            "id": "quartz_watch",
+            "word": "quartz watch"
+        },
+        {
+            "id": "rack_hook",
+            "word": "rack hook"
+        },
+        {
+            "id": "rack_lever",
+            "word": "rack lever"
+        },
+        {
+            "id": "rack_tail",
+            "word": "rack tail"
+        },
+        {
+            "id": "remontoire",
+            "word": "remontoire"
+        },
+        {
+            "id": "royal_pendulum",
+            "word": "royal pendulum"
+        },
+        {
+            "id": "second_hand",
+            "word": "second hand"
+        },
+        {
+            "id": "self-winding",
+            "word": "self-winding"
+        },
+        {
+            "id": "sidereal_clock",
+            "word": "sidereal clock"
+        },
+        {
+            "id": "stopwatch",
+            "word": "stopwatch"
+        },
+        {
+            "id": "sweep_second_hand",
+            "word": "sweep second hand"
+        },
+        {
+            "id": "tabernacle_clock",
+            "word": "tabernacle clock"
+        },
+        {
+            "id": "time_ball",
+            "word": "time ball"
+        },
+        {
+            "id": "timepiece",
+            "word": "timepiece"
+        },
+        {
+            "id": "tompion%2C_thomas",
+            "word": "tompion, thomas"
+        },
+        {
+            "id": "unwound",
+            "word": "unwound"
+        },
+        {
+            "id": "watch_chain",
+            "word": "watch chain"
+        },
+        {
+            "id": "watch_glass",
+            "word": "watch glass"
+        },
+        {
+            "id": "watchmaker",
+            "word": "watchmaker"
+        },
+        {
+            "id": "watch_spring",
+            "word": "watch spring"
+        },
+        {
+            "id": "web_wheel",
+            "word": "web wheel"
+        },
+        {
+            "id": "winder",
+            "word": "winder"
+        },
+        {
+            "id": "wristwatch",
+            "word": "wristwatch"
+        },
+        {
+            "id": "wristwear",
+            "word": "wristwear"
+        }
+    ]
+}

@@ -1,0 +1,363 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 88,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "accommodation_house",
+            "word": "accommodation house"
+        },
+        {
+            "id": "aparthotel",
+            "word": "aparthotel"
+        },
+        {
+            "id": "apartment_hotel",
+            "word": "apartment hotel"
+        },
+        {
+            "id": "auberge",
+            "word": "auberge"
+        },
+        {
+            "id": "b_%26_b",
+            "word": "b & b"
+        },
+        {
+            "id": "bar_useful",
+            "word": "bar useful"
+        },
+        {
+            "id": "bed_and_breakfast",
+            "word": "bed and breakfast"
+        },
+        {
+            "id": "bellboy",
+            "word": "bellboy"
+        },
+        {
+            "id": "boarding_house",
+            "word": "boarding house"
+        },
+        {
+            "id": "boatel",
+            "word": "boatel"
+        },
+        {
+            "id": "boots",
+            "word": "boots"
+        },
+        {
+            "id": "boutique_hotel",
+            "word": "boutique hotel"
+        },
+        {
+            "id": "bridal_suite",
+            "word": "bridal suite"
+        },
+        {
+            "id": "caravanserai",
+            "word": "caravanserai"
+        },
+        {
+            "id": "chambermaid",
+            "word": "chambermaid"
+        },
+        {
+            "id": "check_in",
+            "word": "check in"
+        },
+        {
+            "id": "check_into",
+            "word": "check into"
+        },
+        {
+            "id": "check_out",
+            "word": "check out"
+        },
+        {
+            "id": "checkroom",
+            "word": "checkroom"
+        },
+        {
+            "id": "check_someone_in",
+            "word": "check someone in"
+        },
+        {
+            "id": "coaching_inn",
+            "word": "coaching inn"
+        },
+        {
+            "id": "coffee_palace",
+            "word": "coffee palace"
+        },
+        {
+            "id": "commissionaire",
+            "word": "commissionaire"
+        },
+        {
+            "id": "counter_lunch",
+            "word": "counter lunch"
+        },
+        {
+            "id": "demi-pension",
+            "word": "demi-pension"
+        },
+        {
+            "id": "double-book",
+            "word": "double-book"
+        },
+        {
+            "id": "ecolodge",
+            "word": "ecolodge"
+        },
+        {
+            "id": "en_pension",
+            "word": "en pension"
+        },
+        {
+            "id": "european_plan",
+            "word": "european plan"
+        },
+        {
+            "id": "excelsior",
+            "word": "excelsior"
+        },
+        {
+            "id": "fleabag",
+            "word": "fleabag"
+        },
+        {
+            "id": "floatel",
+            "word": "floatel"
+        },
+        {
+            "id": "foyer",
+            "word": "foyer"
+        },
+        {
+            "id": "front_desk",
+            "word": "front desk"
+        },
+        {
+            "id": "full_board",
+            "word": "full board"
+        },
+        {
+            "id": "gasthaus",
+            "word": "gasthaus"
+        },
+        {
+            "id": "gasthof",
+            "word": "gasthof"
+        },
+        {
+            "id": "gideon_bible",
+            "word": "gideon bible"
+        },
+        {
+            "id": "guest_room",
+            "word": "guest room"
+        },
+        {
+            "id": "half_board",
+            "word": "half board"
+        },
+        {
+            "id": "hall_porter",
+            "word": "hall porter"
+        },
+        {
+            "id": "homestay",
+            "word": "homestay"
+        },
+        {
+            "id": "honeymoon_suite",
+            "word": "honeymoon suite"
+        },
+        {
+            "id": "hospice",
+            "word": "hospice"
+        },
+        {
+            "id": "hostel",
+            "word": "hostel"
+        },
+        {
+            "id": "hotel",
+            "word": "hotel"
+        },
+        {
+            "id": "hotelier",
+            "word": "hotelier"
+        },
+        {
+            "id": "hotelkeeper",
+            "word": "hotelkeeper"
+        },
+        {
+            "id": "hotel_room",
+            "word": "hotel room"
+        },
+        {
+            "id": "hydro",
+            "word": "hydro"
+        },
+        {
+            "id": "key_card",
+            "word": "key card"
+        },
+        {
+            "id": "khan",
+            "word": "khan"
+        },
+        {
+            "id": "kitchen_porter",
+            "word": "kitchen porter"
+        },
+        {
+            "id": "minibar",
+            "word": "minibar"
+        },
+        {
+            "id": "motel",
+            "word": "motel"
+        },
+        {
+            "id": "motelier",
+            "word": "motelier"
+        },
+        {
+            "id": "motor_hotel",
+            "word": "motor hotel"
+        },
+        {
+            "id": "motor_lodge",
+            "word": "motor lodge"
+        },
+        {
+            "id": "night_porter",
+            "word": "night porter"
+        },
+        {
+            "id": "off-sales",
+            "word": "off-sales"
+        },
+        {
+            "id": "overbook",
+            "word": "overbook"
+        },
+        {
+            "id": "page",
+            "word": "page"
+        },
+        {
+            "id": "pageboy",
+            "word": "pageboy"
+        },
+        {
+            "id": "parador",
+            "word": "parador"
+        },
+        {
+            "id": "patronne",
+            "word": "patronne"
+        },
+        {
+            "id": "pension",
+            "word": "pension"
+        },
+        {
+            "id": "pensione",
+            "word": "pensione"
+        },
+        {
+            "id": "porter",
+            "word": "porter"
+        },
+        {
+            "id": "posada",
+            "word": "posada"
+        },
+        {
+            "id": "pousada",
+            "word": "pousada"
+        },
+        {
+            "id": "private_hotel",
+            "word": "private hotel"
+        },
+        {
+            "id": "rack_rate",
+            "word": "rack rate"
+        },
+        {
+            "id": "reception_room",
+            "word": "reception room"
+        },
+        {
+            "id": "register",
+            "word": "register"
+        },
+        {
+            "id": "rest_house",
+            "word": "rest house"
+        },
+        {
+            "id": "riad",
+            "word": "riad"
+        },
+        {
+            "id": "roadhouse",
+            "word": "roadhouse"
+        },
+        {
+            "id": "room_service",
+            "word": "room service"
+        },
+        {
+            "id": "ryokan",
+            "word": "ryokan"
+        },
+        {
+            "id": "safe_deposit",
+            "word": "safe deposit"
+        },
+        {
+            "id": "tronc",
+            "word": "tronc"
+        },
+        {
+            "id": "twin_bed",
+            "word": "twin bed"
+        },
+        {
+            "id": "vacancy",
+            "word": "vacancy"
+        },
+        {
+            "id": "valet",
+            "word": "valet"
+        },
+        {
+            "id": "wirtshaus",
+            "word": "wirtshaus"
+        },
+        {
+            "id": "ymca",
+            "word": "ymca"
+        },
+        {
+            "id": "youth_hostel",
+            "word": "youth hostel"
+        },
+        {
+            "id": "ywca",
+            "word": "ywca"
+        }
+    ]
+}

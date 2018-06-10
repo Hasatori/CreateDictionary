@@ -1,0 +1,239 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 57
+    },
+    "results": [
+        {
+            "id": "bcf",
+            "word": "bcf"
+        },
+        {
+            "id": "bushfire_brigade",
+            "word": "bushfire brigade"
+        },
+        {
+            "id": "chief_fire_officer",
+            "word": "chief fire officer"
+        },
+        {
+            "id": "conflagration",
+            "word": "conflagration"
+        },
+        {
+            "id": "crown_fire",
+            "word": "crown fire"
+        },
+        {
+            "id": "emergency_services",
+            "word": "emergency services"
+        },
+        {
+            "id": "extinguish",
+            "word": "extinguish"
+        },
+        {
+            "id": "fire_alarm",
+            "word": "fire alarm"
+        },
+        {
+            "id": "fire_blanket",
+            "word": "fire blanket"
+        },
+        {
+            "id": "fireboat",
+            "word": "fireboat"
+        },
+        {
+            "id": "firebreak",
+            "word": "firebreak"
+        },
+        {
+            "id": "fire_brigade",
+            "word": "fire brigade"
+        },
+        {
+            "id": "fire_certificate",
+            "word": "fire certificate"
+        },
+        {
+            "id": "fire_chief",
+            "word": "fire chief"
+        },
+        {
+            "id": "fire_company",
+            "word": "fire company"
+        },
+        {
+            "id": "fire_cover",
+            "word": "fire cover"
+        },
+        {
+            "id": "fire_crew",
+            "word": "fire crew"
+        },
+        {
+            "id": "fire_department",
+            "word": "fire department"
+        },
+        {
+            "id": "fire_door",
+            "word": "fire door"
+        },
+        {
+            "id": "fire_drill",
+            "word": "fire drill"
+        },
+        {
+            "id": "fire_engine",
+            "word": "fire engine"
+        },
+        {
+            "id": "fire_escape",
+            "word": "fire escape"
+        },
+        {
+            "id": "fire_extinguisher",
+            "word": "fire extinguisher"
+        },
+        {
+            "id": "firefighter",
+            "word": "firefighter"
+        },
+        {
+            "id": "firefighting",
+            "word": "firefighting"
+        },
+        {
+            "id": "fire_hose",
+            "word": "fire hose"
+        },
+        {
+            "id": "firehouse",
+            "word": "firehouse"
+        },
+        {
+            "id": "fire_hydrant",
+            "word": "fire hydrant"
+        },
+        {
+            "id": "fire_line",
+            "word": "fire line"
+        },
+        {
+            "id": "fireman",
+            "word": "fireman"
+        },
+        {
+            "id": "fire_marshal",
+            "word": "fire marshal"
+        },
+        {
+            "id": "firemaster",
+            "word": "firemaster"
+        },
+        {
+            "id": "fireplug",
+            "word": "fireplug"
+        },
+        {
+            "id": "fire_practice",
+            "word": "fire practice"
+        },
+        {
+            "id": "fire_regulation",
+            "word": "fire regulation"
+        },
+        {
+            "id": "fire_service",
+            "word": "fire service"
+        },
+        {
+            "id": "fire_station",
+            "word": "fire station"
+        },
+        {
+            "id": "firestorm",
+            "word": "firestorm"
+        },
+        {
+            "id": "fire_trail",
+            "word": "fire trail"
+        },
+        {
+            "id": "fire_trap",
+            "word": "fire trap"
+        },
+        {
+            "id": "firewall",
+            "word": "firewall"
+        },
+        {
+            "id": "fire_warden",
+            "word": "fire warden"
+        },
+        {
+            "id": "fire-watcher",
+            "word": "fire-watcher"
+        },
+        {
+            "id": "firie",
+            "word": "firie"
+        },
+        {
+            "id": "flame_retardant",
+            "word": "flame retardant"
+        },
+        {
+            "id": "hydrant",
+            "word": "hydrant"
+        },
+        {
+            "id": "monsoon_bucket",
+            "word": "monsoon bucket"
+        },
+        {
+            "id": "probie",
+            "word": "probie"
+        },
+        {
+            "id": "put_something_out",
+            "word": "put something out"
+        },
+        {
+            "id": "red_steer",
+            "word": "red steer"
+        },
+        {
+            "id": "retardant",
+            "word": "retardant"
+        },
+        {
+            "id": "smoke_alarm",
+            "word": "smoke alarm"
+        },
+        {
+            "id": "smokejumper",
+            "word": "smokejumper"
+        },
+        {
+            "id": "station_house",
+            "word": "station house"
+        },
+        {
+            "id": "tender",
+            "word": "tender"
+        },
+        {
+            "id": "turntable_ladder",
+            "word": "turntable ladder"
+        },
+        {
+            "id": "water_bomber",
+            "word": "water bomber"
+        }
+    ]
+}

@@ -1,0 +1,3395 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 846
+    },
+    "results": [
+        {
+            "id": "a_%26_p_show",
+            "word": "a & p show"
+        },
+        {
+            "id": "acre",
+            "word": "acre"
+        },
+        {
+            "id": "acreage",
+            "word": "acreage"
+        },
+        {
+            "id": "adas",
+            "word": "adas"
+        },
+        {
+            "id": "aerial_topdressing",
+            "word": "aerial topdressing"
+        },
+        {
+            "id": "afforest",
+            "word": "afforest"
+        },
+        {
+            "id": "aged",
+            "word": "aged"
+        },
+        {
+            "id": "ag-gag",
+            "word": "ag-gag"
+        },
+        {
+            "id": "agrarian",
+            "word": "agrarian"
+        },
+        {
+            "id": "agribusiness",
+            "word": "agribusiness"
+        },
+        {
+            "id": "agricultural",
+            "word": "agricultural"
+        },
+        {
+            "id": "agriculture",
+            "word": "agriculture"
+        },
+        {
+            "id": "agri-food",
+            "word": "agri-food"
+        },
+        {
+            "id": "agriproduct",
+            "word": "agriproduct"
+        },
+        {
+            "id": "agriscience",
+            "word": "agriscience"
+        },
+        {
+            "id": "agriscientist",
+            "word": "agriscientist"
+        },
+        {
+            "id": "agro-",
+            "word": "agro-"
+        },
+        {
+            "id": "agrochemical",
+            "word": "agrochemical"
+        },
+        {
+            "id": "agroecological",
+            "word": "agroecological"
+        },
+        {
+            "id": "agroecologist",
+            "word": "agroecologist"
+        },
+        {
+            "id": "agroecology",
+            "word": "agroecology"
+        },
+        {
+            "id": "agroecosystem",
+            "word": "agroecosystem"
+        },
+        {
+            "id": "agroforestry",
+            "word": "agroforestry"
+        },
+        {
+            "id": "agro-industry",
+            "word": "agro-industry"
+        },
+        {
+            "id": "agronomics",
+            "word": "agronomics"
+        },
+        {
+            "id": "agronomist",
+            "word": "agronomist"
+        },
+        {
+            "id": "agronomy",
+            "word": "agronomy"
+        },
+        {
+            "id": "aldicarb",
+            "word": "aldicarb"
+        },
+        {
+            "id": "algicide",
+            "word": "algicide"
+        },
+        {
+            "id": "ammonium_nitrate",
+            "word": "ammonium nitrate"
+        },
+        {
+            "id": "animal_husbandry",
+            "word": "animal husbandry"
+        },
+        {
+            "id": "antifeedant",
+            "word": "antifeedant"
+        },
+        {
+            "id": "apiary",
+            "word": "apiary"
+        },
+        {
+            "id": "aquaponics",
+            "word": "aquaponics"
+        },
+        {
+            "id": "arable",
+            "word": "arable"
+        },
+        {
+            "id": "arboriculture",
+            "word": "arboriculture"
+        },
+        {
+            "id": "assart",
+            "word": "assart"
+        },
+        {
+            "id": "at_grass",
+            "word": "at grass"
+        },
+        {
+            "id": "atrazine",
+            "word": "atrazine"
+        },
+        {
+            "id": "back_fat",
+            "word": "back fat"
+        },
+        {
+            "id": "back_paddock",
+            "word": "back paddock"
+        },
+        {
+            "id": "back_station",
+            "word": "back station"
+        },
+        {
+            "id": "baconer",
+            "word": "baconer"
+        },
+        {
+            "id": "bakewell%2C_robert",
+            "word": "bakewell, robert"
+        },
+        {
+            "id": "baler",
+            "word": "baler"
+        },
+        {
+            "id": "bangtail_muster",
+            "word": "bangtail muster"
+        },
+        {
+            "id": "bank_barn",
+            "word": "bank barn"
+        },
+        {
+            "id": "barcoo_dog",
+            "word": "barcoo dog"
+        },
+        {
+            "id": "barleymow",
+            "word": "barleymow"
+        },
+        {
+            "id": "barn",
+            "word": "barn"
+        },
+        {
+            "id": "barnyard",
+            "word": "barnyard"
+        },
+        {
+            "id": "barrow",
+            "word": "barrow"
+        },
+        {
+            "id": "barton",
+            "word": "barton"
+        },
+        {
+            "id": "base_dressing",
+            "word": "base dressing"
+        },
+        {
+            "id": "bee_bread",
+            "word": "bee bread"
+        },
+        {
+            "id": "beef_road",
+            "word": "beef road"
+        },
+        {
+            "id": "beestings",
+            "word": "beestings"
+        },
+        {
+            "id": "bell_sheep",
+            "word": "bell sheep"
+        },
+        {
+            "id": "bellwether",
+            "word": "bellwether"
+        },
+        {
+            "id": "belly_wool",
+            "word": "belly wool"
+        },
+        {
+            "id": "benomyl",
+            "word": "benomyl"
+        },
+        {
+            "id": "binder_twine",
+            "word": "binder twine"
+        },
+        {
+            "id": "biosolids",
+            "word": "biosolids"
+        },
+        {
+            "id": "black_singlet",
+            "word": "black singlet"
+        },
+        {
+            "id": "blade-shear",
+            "word": "blade-shear"
+        },
+        {
+            "id": "blade_shearer",
+            "word": "blade shearer"
+        },
+        {
+            "id": "blade_shearing",
+            "word": "blade shearing"
+        },
+        {
+            "id": "blockie",
+            "word": "blockie"
+        },
+        {
+            "id": "blood_meal",
+            "word": "blood meal"
+        },
+        {
+            "id": "bobby_calf",
+            "word": "bobby calf"
+        },
+        {
+            "id": "bondager",
+            "word": "bondager"
+        },
+        {
+            "id": "bonemeal",
+            "word": "bonemeal"
+        },
+        {
+            "id": "boss-cocky",
+            "word": "boss-cocky"
+        },
+        {
+            "id": "boundary_rider",
+            "word": "boundary rider"
+        },
+        {
+            "id": "bovine_somatotrophin",
+            "word": "bovine somatotrophin"
+        },
+        {
+            "id": "bracero",
+            "word": "bracero"
+        },
+        {
+            "id": "bran",
+            "word": "bran"
+        },
+        {
+            "id": "branding_iron",
+            "word": "branding iron"
+        },
+        {
+            "id": "break_crop",
+            "word": "break crop"
+        },
+        {
+            "id": "break_feeding",
+            "word": "break feeding"
+        },
+        {
+            "id": "breeder",
+            "word": "breeder"
+        },
+        {
+            "id": "broadacre",
+            "word": "broadacre"
+        },
+        {
+            "id": "broncobuster",
+            "word": "broncobuster"
+        },
+        {
+            "id": "brooder",
+            "word": "brooder"
+        },
+        {
+            "id": "broomie",
+            "word": "broomie"
+        },
+        {
+            "id": "buckaroo",
+            "word": "buckaroo"
+        },
+        {
+            "id": "bullock",
+            "word": "bullock"
+        },
+        {
+            "id": "bullock_driver",
+            "word": "bullock driver"
+        },
+        {
+            "id": "bullocky",
+            "word": "bullocky"
+        },
+        {
+            "id": "bullpen",
+            "word": "bullpen"
+        },
+        {
+            "id": "bush_fallow",
+            "word": "bush fallow"
+        },
+        {
+            "id": "bush_feed",
+            "word": "bush feed"
+        },
+        {
+            "id": "bush_hay",
+            "word": "bush hay"
+        },
+        {
+            "id": "butter_factory",
+            "word": "butter factory"
+        },
+        {
+            "id": "byre",
+            "word": "byre"
+        },
+        {
+            "id": "calf_day",
+            "word": "calf day"
+        },
+        {
+            "id": "calve",
+            "word": "calve"
+        },
+        {
+            "id": "campesino",
+            "word": "campesino"
+        },
+        {
+            "id": "cane_barracks",
+            "word": "cane barracks"
+        },
+        {
+            "id": "cane_cocky",
+            "word": "cane cocky"
+        },
+        {
+            "id": "capon",
+            "word": "capon"
+        },
+        {
+            "id": "caponize",
+            "word": "caponize"
+        },
+        {
+            "id": "captan",
+            "word": "captan"
+        },
+        {
+            "id": "cash_crop",
+            "word": "cash crop"
+        },
+        {
+            "id": "cast-for-age",
+            "word": "cast-for-age"
+        },
+        {
+            "id": "catch_crop",
+            "word": "catch crop"
+        },
+        {
+            "id": "cattle",
+            "word": "cattle"
+        },
+        {
+            "id": "cattle_cake",
+            "word": "cattle cake"
+        },
+        {
+            "id": "cattle_duffing",
+            "word": "cattle duffing"
+        },
+        {
+            "id": "cattle_grid",
+            "word": "cattle grid"
+        },
+        {
+            "id": "cattleman",
+            "word": "cattleman"
+        },
+        {
+            "id": "cattle_run",
+            "word": "cattle run"
+        },
+        {
+            "id": "cattle_station",
+            "word": "cattle station"
+        },
+        {
+            "id": "cattle_yard",
+            "word": "cattle yard"
+        },
+        {
+            "id": "chaff-cutter",
+            "word": "chaff-cutter"
+        },
+        {
+            "id": "chain_harrow",
+            "word": "chain harrow"
+        },
+        {
+            "id": "charro",
+            "word": "charro"
+        },
+        {
+            "id": "chicken_coop",
+            "word": "chicken coop"
+        },
+        {
+            "id": "chicken_run",
+            "word": "chicken run"
+        },
+        {
+            "id": "chocolate_spot",
+            "word": "chocolate spot"
+        },
+        {
+            "id": "chook_house",
+            "word": "chook house"
+        },
+        {
+            "id": "citriculture",
+            "word": "citriculture"
+        },
+        {
+            "id": "city_farm",
+            "word": "city farm"
+        },
+        {
+            "id": "clamp",
+            "word": "clamp"
+        },
+        {
+            "id": "clearing",
+            "word": "clearing"
+        },
+        {
+            "id": "clucky",
+            "word": "clucky"
+        },
+        {
+            "id": "coacher",
+            "word": "coacher"
+        },
+        {
+            "id": "cock",
+            "word": "cock"
+        },
+        {
+            "id": "cocky_chaff",
+            "word": "cocky chaff"
+        },
+        {
+            "id": "collective_farm",
+            "word": "collective farm"
+        },
+        {
+            "id": "combine",
+            "word": "combine"
+        },
+        {
+            "id": "combine_harvester",
+            "word": "combine harvester"
+        },
+        {
+            "id": "combiner",
+            "word": "combiner"
+        },
+        {
+            "id": "commonable",
+            "word": "commonable"
+        },
+        {
+            "id": "common_agricultural_policy",
+            "word": "common agricultural policy"
+        },
+        {
+            "id": "community-supported_agriculture",
+            "word": "community-supported agriculture"
+        },
+        {
+            "id": "compounder",
+            "word": "compounder"
+        },
+        {
+            "id": "conacre",
+            "word": "conacre"
+        },
+        {
+            "id": "contadino",
+            "word": "contadino"
+        },
+        {
+            "id": "contour_ploughing",
+            "word": "contour ploughing"
+        },
+        {
+            "id": "cornfield",
+            "word": "cornfield"
+        },
+        {
+            "id": "cote",
+            "word": "cote"
+        },
+        {
+            "id": "cottar",
+            "word": "cottar"
+        },
+        {
+            "id": "cottier",
+            "word": "cottier"
+        },
+        {
+            "id": "cotton_belt",
+            "word": "cotton belt"
+        },
+        {
+            "id": "cotton_cake",
+            "word": "cotton cake"
+        },
+        {
+            "id": "coulter",
+            "word": "coulter"
+        },
+        {
+            "id": "counting-out_pen",
+            "word": "counting-out pen"
+        },
+        {
+            "id": "cover_crop",
+            "word": "cover crop"
+        },
+        {
+            "id": "cow_bail",
+            "word": "cow bail"
+        },
+        {
+            "id": "cowbanger",
+            "word": "cowbanger"
+        },
+        {
+            "id": "cow-calf",
+            "word": "cow-calf"
+        },
+        {
+            "id": "cow_camp",
+            "word": "cow camp"
+        },
+        {
+            "id": "cow_cocky",
+            "word": "cow cocky"
+        },
+        {
+            "id": "cowgirl",
+            "word": "cowgirl"
+        },
+        {
+            "id": "cowhand",
+            "word": "cowhand"
+        },
+        {
+            "id": "cowherd",
+            "word": "cowherd"
+        },
+        {
+            "id": "cow-house",
+            "word": "cow-house"
+        },
+        {
+            "id": "cowman",
+            "word": "cowman"
+        },
+        {
+            "id": "cow_paddock",
+            "word": "cow paddock"
+        },
+        {
+            "id": "cowpoke",
+            "word": "cowpoke"
+        },
+        {
+            "id": "cowpuncher",
+            "word": "cowpuncher"
+        },
+        {
+            "id": "cowshed",
+            "word": "cowshed"
+        },
+        {
+            "id": "cowspanker",
+            "word": "cowspanker"
+        },
+        {
+            "id": "cranberry_bog",
+            "word": "cranberry bog"
+        },
+        {
+            "id": "cratch",
+            "word": "cratch"
+        },
+        {
+            "id": "croft",
+            "word": "croft"
+        },
+        {
+            "id": "crofter",
+            "word": "crofter"
+        },
+        {
+            "id": "crofting",
+            "word": "crofting"
+        },
+        {
+            "id": "crop",
+            "word": "crop"
+        },
+        {
+            "id": "crop_dusting",
+            "word": "crop dusting"
+        },
+        {
+            "id": "cropland",
+            "word": "cropland"
+        },
+        {
+            "id": "cropper",
+            "word": "cropper"
+        },
+        {
+            "id": "crumb_structure",
+            "word": "crumb structure"
+        },
+        {
+            "id": "crutchings",
+            "word": "crutchings"
+        },
+        {
+            "id": "cultivation",
+            "word": "cultivation"
+        },
+        {
+            "id": "cultivation_paddock",
+            "word": "cultivation paddock"
+        },
+        {
+            "id": "cultivator",
+            "word": "cultivator"
+        },
+        {
+            "id": "dag",
+            "word": "dag"
+        },
+        {
+            "id": "dairy",
+            "word": "dairy"
+        },
+        {
+            "id": "dairy_factory",
+            "word": "dairy factory"
+        },
+        {
+            "id": "dairy_farm",
+            "word": "dairy farm"
+        },
+        {
+            "id": "dairying",
+            "word": "dairying"
+        },
+        {
+            "id": "dairymaid",
+            "word": "dairymaid"
+        },
+        {
+            "id": "dairyman",
+            "word": "dairyman"
+        },
+        {
+            "id": "dam",
+            "word": "dam"
+        },
+        {
+            "id": "deadstock",
+            "word": "deadstock"
+        },
+        {
+            "id": "dead_wool",
+            "word": "dead wool"
+        },
+        {
+            "id": "debeak",
+            "word": "debeak"
+        },
+        {
+            "id": "deer_farm",
+            "word": "deer farm"
+        },
+        {
+            "id": "deer_forest",
+            "word": "deer forest"
+        },
+        {
+            "id": "deficiency_payment",
+            "word": "deficiency payment"
+        },
+        {
+            "id": "defra",
+            "word": "defra"
+        },
+        {
+            "id": "dehorn",
+            "word": "dehorn"
+        },
+        {
+            "id": "depasture",
+            "word": "depasture"
+        },
+        {
+            "id": "derris",
+            "word": "derris"
+        },
+        {
+            "id": "dimethoate",
+            "word": "dimethoate"
+        },
+        {
+            "id": "dingo_fence",
+            "word": "dingo fence"
+        },
+        {
+            "id": "dip",
+            "word": "dip"
+        },
+        {
+            "id": "dirt_farm",
+            "word": "dirt farm"
+        },
+        {
+            "id": "dirt_farmer",
+            "word": "dirt farmer"
+        },
+        {
+            "id": "disc_harrow",
+            "word": "disc harrow"
+        },
+        {
+            "id": "dobbin",
+            "word": "dobbin"
+        },
+        {
+            "id": "dog_fence",
+            "word": "dog fence"
+        },
+        {
+            "id": "dogie",
+            "word": "dogie"
+        },
+        {
+            "id": "dog-leg_fence",
+            "word": "dog-leg fence"
+        },
+        {
+            "id": "domestication",
+            "word": "domestication"
+        },
+        {
+            "id": "drafting_gate",
+            "word": "drafting gate"
+        },
+        {
+            "id": "drafting_race",
+            "word": "drafting race"
+        },
+        {
+            "id": "drafting_yard",
+            "word": "drafting yard"
+        },
+        {
+            "id": "drill",
+            "word": "drill"
+        },
+        {
+            "id": "drilling",
+            "word": "drilling"
+        },
+        {
+            "id": "droughtmaster",
+            "word": "droughtmaster"
+        },
+        {
+            "id": "drove",
+            "word": "drove"
+        },
+        {
+            "id": "drover%27s_dog",
+            "word": "drover's dog"
+        },
+        {
+            "id": "dry_an_animal_off",
+            "word": "dry an animal off"
+        },
+        {
+            "id": "dryland_farming",
+            "word": "dryland farming"
+        },
+        {
+            "id": "dutch_barn",
+            "word": "dutch barn"
+        },
+        {
+            "id": "emblements",
+            "word": "emblements"
+        },
+        {
+            "id": "enclose",
+            "word": "enclose"
+        },
+        {
+            "id": "ensile",
+            "word": "ensile"
+        },
+        {
+            "id": "estancia",
+            "word": "estancia"
+        },
+        {
+            "id": "facial_eczema",
+            "word": "facial eczema"
+        },
+        {
+            "id": "factory_farming",
+            "word": "factory farming"
+        },
+        {
+            "id": "fadge",
+            "word": "fadge"
+        },
+        {
+            "id": "fallow",
+            "word": "fallow"
+        },
+        {
+            "id": "family_farm",
+            "word": "family farm"
+        },
+        {
+            "id": "farm",
+            "word": "farm"
+        },
+        {
+            "id": "farm_bike",
+            "word": "farm bike"
+        },
+        {
+            "id": "farm_cadet",
+            "word": "farm cadet"
+        },
+        {
+            "id": "farmer",
+            "word": "farmer"
+        },
+        {
+            "id": "farm_gate",
+            "word": "farm gate"
+        },
+        {
+            "id": "farmhand",
+            "word": "farmhand"
+        },
+        {
+            "id": "farmhouse",
+            "word": "farmhouse"
+        },
+        {
+            "id": "farming",
+            "word": "farming"
+        },
+        {
+            "id": "farm_labourer",
+            "word": "farm labourer"
+        },
+        {
+            "id": "farmland",
+            "word": "farmland"
+        },
+        {
+            "id": "farmstead",
+            "word": "farmstead"
+        },
+        {
+            "id": "farmyard",
+            "word": "farmyard"
+        },
+        {
+            "id": "farrow",
+            "word": "farrow"
+        },
+        {
+            "id": "fatling",
+            "word": "fatling"
+        },
+        {
+            "id": "fazenda",
+            "word": "fazenda"
+        },
+        {
+            "id": "fazendeiro",
+            "word": "fazendeiro"
+        },
+        {
+            "id": "federation_wheat",
+            "word": "federation wheat"
+        },
+        {
+            "id": "feedbag",
+            "word": "feedbag"
+        },
+        {
+            "id": "feedlot",
+            "word": "feedlot"
+        },
+        {
+            "id": "feedstuff",
+            "word": "feedstuff"
+        },
+        {
+            "id": "fellmonger",
+            "word": "fellmonger"
+        },
+        {
+            "id": "fertilizer",
+            "word": "fertilizer"
+        },
+        {
+            "id": "field",
+            "word": "field"
+        },
+        {
+            "id": "field_bean",
+            "word": "field bean"
+        },
+        {
+            "id": "field_hand",
+            "word": "field hand"
+        },
+        {
+            "id": "fire-stick_farming",
+            "word": "fire-stick farming"
+        },
+        {
+            "id": "first_fruits",
+            "word": "first fruits"
+        },
+        {
+            "id": "firstling",
+            "word": "firstling"
+        },
+        {
+            "id": "fish_farm",
+            "word": "fish farm"
+        },
+        {
+            "id": "fishmeal",
+            "word": "fishmeal"
+        },
+        {
+            "id": "flail",
+            "word": "flail"
+        },
+        {
+            "id": "flax_mill",
+            "word": "flax mill"
+        },
+        {
+            "id": "fleece",
+            "word": "fleece"
+        },
+        {
+            "id": "fleece-picker",
+            "word": "fleece-picker"
+        },
+        {
+            "id": "flint_corn",
+            "word": "flint corn"
+        },
+        {
+            "id": "flockmaster",
+            "word": "flockmaster"
+        },
+        {
+            "id": "flue-cure",
+            "word": "flue-cure"
+        },
+        {
+            "id": "fly_strike",
+            "word": "fly strike"
+        },
+        {
+            "id": "fodder",
+            "word": "fodder"
+        },
+        {
+            "id": "fog",
+            "word": "fog"
+        },
+        {
+            "id": "fold",
+            "word": "fold"
+        },
+        {
+            "id": "food_crop",
+            "word": "food crop"
+        },
+        {
+            "id": "foodgrain",
+            "word": "foodgrain"
+        },
+        {
+            "id": "food_subsidy",
+            "word": "food subsidy"
+        },
+        {
+            "id": "forage_harvester",
+            "word": "forage harvester"
+        },
+        {
+            "id": "franklin",
+            "word": "franklin"
+        },
+        {
+            "id": "freezing_worker",
+            "word": "freezing worker"
+        },
+        {
+            "id": "frit_fly",
+            "word": "frit fly"
+        },
+        {
+            "id": "fruit_block",
+            "word": "fruit block"
+        },
+        {
+            "id": "fruit_cocky",
+            "word": "fruit cocky"
+        },
+        {
+            "id": "fruit_farm",
+            "word": "fruit farm"
+        },
+        {
+            "id": "fruit_tree",
+            "word": "fruit tree"
+        },
+        {
+            "id": "full-mouthed",
+            "word": "full-mouthed"
+        },
+        {
+            "id": "furlong",
+            "word": "furlong"
+        },
+        {
+            "id": "furrow",
+            "word": "furrow"
+        },
+        {
+            "id": "fuw",
+            "word": "fuw"
+        },
+        {
+            "id": "gelding",
+            "word": "gelding"
+        },
+        {
+            "id": "gentleman_farmer",
+            "word": "gentleman farmer"
+        },
+        {
+            "id": "geoponics",
+            "word": "geoponics"
+        },
+        {
+            "id": "gilt",
+            "word": "gilt"
+        },
+        {
+            "id": "gimmer",
+            "word": "gimmer"
+        },
+        {
+            "id": "goatherd",
+            "word": "goatherd"
+        },
+        {
+            "id": "golden_shears",
+            "word": "golden shears"
+        },
+        {
+            "id": "grain_elevator",
+            "word": "grain elevator"
+        },
+        {
+            "id": "granary",
+            "word": "granary"
+        },
+        {
+            "id": "grape_harvest",
+            "word": "grape harvest"
+        },
+        {
+            "id": "grassland",
+            "word": "grassland"
+        },
+        {
+            "id": "graze",
+            "word": "graze"
+        },
+        {
+            "id": "grazier",
+            "word": "grazier"
+        },
+        {
+            "id": "grazing",
+            "word": "grazing"
+        },
+        {
+            "id": "grazing_country",
+            "word": "grazing country"
+        },
+        {
+            "id": "grazing_district",
+            "word": "grazing district"
+        },
+        {
+            "id": "grazing_land",
+            "word": "grazing land"
+        },
+        {
+            "id": "green_box",
+            "word": "green box"
+        },
+        {
+            "id": "green_crop",
+            "word": "green crop"
+        },
+        {
+            "id": "green_manure",
+            "word": "green manure"
+        },
+        {
+            "id": "green_pick",
+            "word": "green pick"
+        },
+        {
+            "id": "green_revolution",
+            "word": "green revolution"
+        },
+        {
+            "id": "grieve",
+            "word": "grieve"
+        },
+        {
+            "id": "grist",
+            "word": "grist"
+        },
+        {
+            "id": "grits",
+            "word": "grits"
+        },
+        {
+            "id": "groats",
+            "word": "groats"
+        },
+        {
+            "id": "grower",
+            "word": "grower"
+        },
+        {
+            "id": "guano",
+            "word": "guano"
+        },
+        {
+            "id": "guar",
+            "word": "guar"
+        },
+        {
+            "id": "gully-raker",
+            "word": "gully-raker"
+        },
+        {
+            "id": "gully-raking",
+            "word": "gully-raking"
+        },
+        {
+            "id": "hacendado",
+            "word": "hacendado"
+        },
+        {
+            "id": "hames",
+            "word": "hames"
+        },
+        {
+            "id": "harrow",
+            "word": "harrow"
+        },
+        {
+            "id": "harvest",
+            "word": "harvest"
+        },
+        {
+            "id": "harvester",
+            "word": "harvester"
+        },
+        {
+            "id": "harvest_home",
+            "word": "harvest home"
+        },
+        {
+            "id": "hatchery",
+            "word": "hatchery"
+        },
+        {
+            "id": "hay",
+            "word": "hay"
+        },
+        {
+            "id": "haycock",
+            "word": "haycock"
+        },
+        {
+            "id": "hayed_off",
+            "word": "hayed off"
+        },
+        {
+            "id": "hayfield",
+            "word": "hayfield"
+        },
+        {
+            "id": "hay_fork",
+            "word": "hay fork"
+        },
+        {
+            "id": "haying",
+            "word": "haying"
+        },
+        {
+            "id": "haylage",
+            "word": "haylage"
+        },
+        {
+            "id": "hayloft",
+            "word": "hayloft"
+        },
+        {
+            "id": "haymaker",
+            "word": "haymaker"
+        },
+        {
+            "id": "haymaking",
+            "word": "haymaking"
+        },
+        {
+            "id": "haymow",
+            "word": "haymow"
+        },
+        {
+            "id": "hayseed",
+            "word": "hayseed"
+        },
+        {
+            "id": "haystack",
+            "word": "haystack"
+        },
+        {
+            "id": "headage",
+            "word": "headage"
+        },
+        {
+            "id": "heading_dog",
+            "word": "heading dog"
+        },
+        {
+            "id": "hectare",
+            "word": "hectare"
+        },
+        {
+            "id": "hedge-laying",
+            "word": "hedge-laying"
+        },
+        {
+            "id": "hedgerow",
+            "word": "hedgerow"
+        },
+        {
+            "id": "heifer",
+            "word": "heifer"
+        },
+        {
+            "id": "heifer_paddock",
+            "word": "heifer paddock"
+        },
+        {
+            "id": "helicopter_muster",
+            "word": "helicopter muster"
+        },
+        {
+            "id": "helimustering",
+            "word": "helimustering"
+        },
+        {
+            "id": "hen_coop",
+            "word": "hen coop"
+        },
+        {
+            "id": "henhouse",
+            "word": "henhouse"
+        },
+        {
+            "id": "hen_run",
+            "word": "hen run"
+        },
+        {
+            "id": "herbicide",
+            "word": "herbicide"
+        },
+        {
+            "id": "herd",
+            "word": "herd"
+        },
+        {
+            "id": "herd_book",
+            "word": "herd book"
+        },
+        {
+            "id": "herdboy",
+            "word": "herdboy"
+        },
+        {
+            "id": "herder",
+            "word": "herder"
+        },
+        {
+            "id": "herdsman",
+            "word": "herdsman"
+        },
+        {
+            "id": "hermit_sheep",
+            "word": "hermit sheep"
+        },
+        {
+            "id": "hide",
+            "word": "hide"
+        },
+        {
+            "id": "hill_farming",
+            "word": "hill farming"
+        },
+        {
+            "id": "hind",
+            "word": "hind"
+        },
+        {
+            "id": "hobble_chain",
+            "word": "hobble chain"
+        },
+        {
+            "id": "hobby_farm",
+            "word": "hobby farm"
+        },
+        {
+            "id": "hodge",
+            "word": "hodge"
+        },
+        {
+            "id": "hog",
+            "word": "hog"
+        },
+        {
+            "id": "hogget",
+            "word": "hogget"
+        },
+        {
+            "id": "hok",
+            "word": "hok"
+        },
+        {
+            "id": "holding_paddock",
+            "word": "holding paddock"
+        },
+        {
+            "id": "holstein",
+            "word": "holstein"
+        },
+        {
+            "id": "home_farm",
+            "word": "home farm"
+        },
+        {
+            "id": "home_paddock",
+            "word": "home paddock"
+        },
+        {
+            "id": "homestead",
+            "word": "homestead"
+        },
+        {
+            "id": "hop_field",
+            "word": "hop field"
+        },
+        {
+            "id": "hopper",
+            "word": "hopper"
+        },
+        {
+            "id": "hop_picker",
+            "word": "hop picker"
+        },
+        {
+            "id": "hop_picking",
+            "word": "hop picking"
+        },
+        {
+            "id": "horsebean",
+            "word": "horsebean"
+        },
+        {
+            "id": "horse_breeder",
+            "word": "horse breeder"
+        },
+        {
+            "id": "horse_collar",
+            "word": "horse collar"
+        },
+        {
+            "id": "horse_duffer",
+            "word": "horse duffer"
+        },
+        {
+            "id": "house_paddock",
+            "word": "house paddock"
+        },
+        {
+            "id": "hovel",
+            "word": "hovel"
+        },
+        {
+            "id": "huntaway",
+            "word": "huntaway"
+        },
+        {
+            "id": "husbandman",
+            "word": "husbandman"
+        },
+        {
+            "id": "husbandry",
+            "word": "husbandry"
+        },
+        {
+            "id": "hut-keeper",
+            "word": "hut-keeper"
+        },
+        {
+            "id": "in-bye",
+            "word": "in-bye"
+        },
+        {
+            "id": "in_lamb",
+            "word": "in lamb"
+        },
+        {
+            "id": "in_lay",
+            "word": "in lay"
+        },
+        {
+            "id": "in_milk",
+            "word": "in milk"
+        },
+        {
+            "id": "inspan",
+            "word": "inspan"
+        },
+        {
+            "id": "intensive",
+            "word": "intensive"
+        },
+        {
+            "id": "intensively",
+            "word": "intensively"
+        },
+        {
+            "id": "intercrop",
+            "word": "intercrop"
+        },
+        {
+            "id": "international_fund_for_agricultural_development",
+            "word": "international fund for agricultural development"
+        },
+        {
+            "id": "interplant",
+            "word": "interplant"
+        },
+        {
+            "id": "irrigate",
+            "word": "irrigate"
+        },
+        {
+            "id": "irrigation",
+            "word": "irrigation"
+        },
+        {
+            "id": "irrigation_area",
+            "word": "irrigation area"
+        },
+        {
+            "id": "isle_of_wight_disease",
+            "word": "isle of wight disease"
+        },
+        {
+            "id": "jackaroo",
+            "word": "jackaroo"
+        },
+        {
+            "id": "jacky_howe",
+            "word": "jacky howe"
+        },
+        {
+            "id": "jillaroo",
+            "word": "jillaroo"
+        },
+        {
+            "id": "jumbuck",
+            "word": "jumbuck"
+        },
+        {
+            "id": "kangaroo_fence",
+            "word": "kangaroo fence"
+        },
+        {
+            "id": "kibble",
+            "word": "kibble"
+        },
+        {
+            "id": "kibbutz",
+            "word": "kibbutz"
+        },
+        {
+            "id": "kibbutznik",
+            "word": "kibbutznik"
+        },
+        {
+            "id": "killing_chain",
+            "word": "killing chain"
+        },
+        {
+            "id": "killing_season",
+            "word": "killing season"
+        },
+        {
+            "id": "killing_shed",
+            "word": "killing shed"
+        },
+        {
+            "id": "kine",
+            "word": "kine"
+        },
+        {
+            "id": "kisan",
+            "word": "kisan"
+        },
+        {
+            "id": "kolkhoz",
+            "word": "kolkhoz"
+        },
+        {
+            "id": "konaki",
+            "word": "konaki"
+        },
+        {
+            "id": "lactoscope",
+            "word": "lactoscope"
+        },
+        {
+            "id": "lairage",
+            "word": "lairage"
+        },
+        {
+            "id": "lamb_drop",
+            "word": "lamb drop"
+        },
+        {
+            "id": "lambing",
+            "word": "lambing"
+        },
+        {
+            "id": "lambing_percentage",
+            "word": "lambing percentage"
+        },
+        {
+            "id": "lamb_marker",
+            "word": "lamb marker"
+        },
+        {
+            "id": "lamb_marking",
+            "word": "lamb marking"
+        },
+        {
+            "id": "larvicide",
+            "word": "larvicide"
+        },
+        {
+            "id": "latifundium",
+            "word": "latifundium"
+        },
+        {
+            "id": "lea",
+            "word": "lea"
+        },
+        {
+            "id": "ley",
+            "word": "ley"
+        },
+        {
+            "id": "ley_farming",
+            "word": "ley farming"
+        },
+        {
+            "id": "lick_hole",
+            "word": "lick hole"
+        },
+        {
+            "id": "lifestyle_block",
+            "word": "lifestyle block"
+        },
+        {
+            "id": "lightning_fence",
+            "word": "lightning fence"
+        },
+        {
+            "id": "line_breeding",
+            "word": "line breeding"
+        },
+        {
+            "id": "linhay",
+            "word": "linhay"
+        },
+        {
+            "id": "linseed_cake",
+            "word": "linseed cake"
+        },
+        {
+            "id": "lister",
+            "word": "lister"
+        },
+        {
+            "id": "livestock",
+            "word": "livestock"
+        },
+        {
+            "id": "live_weight",
+            "word": "live weight"
+        },
+        {
+            "id": "loan",
+            "word": "loan"
+        },
+        {
+            "id": "lodged",
+            "word": "lodged"
+        },
+        {
+            "id": "long_blow",
+            "word": "long blow"
+        },
+        {
+            "id": "loose_housing",
+            "word": "loose housing"
+        },
+        {
+            "id": "loppy",
+            "word": "loppy"
+        },
+        {
+            "id": "lynchet",
+            "word": "lynchet"
+        },
+        {
+            "id": "mabela",
+            "word": "mabela"
+        },
+        {
+            "id": "machair",
+            "word": "machair"
+        },
+        {
+            "id": "maff",
+            "word": "maff"
+        },
+        {
+            "id": "maneb",
+            "word": "maneb"
+        },
+        {
+            "id": "manger",
+            "word": "manger"
+        },
+        {
+            "id": "manure",
+            "word": "manure"
+        },
+        {
+            "id": "manure_heap",
+            "word": "manure heap"
+        },
+        {
+            "id": "mariculture",
+            "word": "mariculture"
+        },
+        {
+            "id": "mast",
+            "word": "mast"
+        },
+        {
+            "id": "mattock",
+            "word": "mattock"
+        },
+        {
+            "id": "maximum_sustainable_yield",
+            "word": "maximum sustainable yield"
+        },
+        {
+            "id": "megadairy",
+            "word": "megadairy"
+        },
+        {
+            "id": "milch",
+            "word": "milch"
+        },
+        {
+            "id": "milker",
+            "word": "milker"
+        },
+        {
+            "id": "milking_machine",
+            "word": "milking machine"
+        },
+        {
+            "id": "milking_shed",
+            "word": "milking shed"
+        },
+        {
+            "id": "milking_stool",
+            "word": "milking stool"
+        },
+        {
+            "id": "milkmaid",
+            "word": "milkmaid"
+        },
+        {
+            "id": "mill",
+            "word": "mill"
+        },
+        {
+            "id": "milo",
+            "word": "milo"
+        },
+        {
+            "id": "minifundium",
+            "word": "minifundium"
+        },
+        {
+            "id": "mixed_farming",
+            "word": "mixed farming"
+        },
+        {
+            "id": "mole_plough",
+            "word": "mole plough"
+        },
+        {
+            "id": "monoculture",
+            "word": "monoculture"
+        },
+        {
+            "id": "moorburn",
+            "word": "moorburn"
+        },
+        {
+            "id": "mor",
+            "word": "mor"
+        },
+        {
+            "id": "morgen",
+            "word": "morgen"
+        },
+        {
+            "id": "moshav",
+            "word": "moshav"
+        },
+        {
+            "id": "mould",
+            "word": "mould"
+        },
+        {
+            "id": "mouldboard",
+            "word": "mouldboard"
+        },
+        {
+            "id": "mow",
+            "word": "mow"
+        },
+        {
+            "id": "muck",
+            "word": "muck"
+        },
+        {
+            "id": "muck_spreader",
+            "word": "muck spreader"
+        },
+        {
+            "id": "mulesing",
+            "word": "mulesing"
+        },
+        {
+            "id": "muley",
+            "word": "muley"
+        },
+        {
+            "id": "mull",
+            "word": "mull"
+        },
+        {
+            "id": "murray_grey",
+            "word": "murray grey"
+        },
+        {
+            "id": "musterer",
+            "word": "musterer"
+        },
+        {
+            "id": "mustering_plant",
+            "word": "mustering plant"
+        },
+        {
+            "id": "nabawa",
+            "word": "nabawa"
+        },
+        {
+            "id": "neat",
+            "word": "neat"
+        },
+        {
+            "id": "neep",
+            "word": "neep"
+        },
+        {
+            "id": "nfu",
+            "word": "nfu"
+        },
+        {
+            "id": "night_soil",
+            "word": "night soil"
+        },
+        {
+            "id": "nitrochalk",
+            "word": "nitrochalk"
+        },
+        {
+            "id": "nosebag",
+            "word": "nosebag"
+        },
+        {
+            "id": "nose_ring",
+            "word": "nose ring"
+        },
+        {
+            "id": "notifiable",
+            "word": "notifiable"
+        },
+        {
+            "id": "oast",
+            "word": "oast"
+        },
+        {
+            "id": "oilcake",
+            "word": "oilcake"
+        },
+        {
+            "id": "oil_meal",
+            "word": "oil meal"
+        },
+        {
+            "id": "oilseed",
+            "word": "oilseed"
+        },
+        {
+            "id": "okie",
+            "word": "okie"
+        },
+        {
+            "id": "open-field_system",
+            "word": "open-field system"
+        },
+        {
+            "id": "outcross",
+            "word": "outcross"
+        },
+        {
+            "id": "overcrop",
+            "word": "overcrop"
+        },
+        {
+            "id": "overfeeding",
+            "word": "overfeeding"
+        },
+        {
+            "id": "overgraze",
+            "word": "overgraze"
+        },
+        {
+            "id": "overgrazing",
+            "word": "overgrazing"
+        },
+        {
+            "id": "ox",
+            "word": "ox"
+        },
+        {
+            "id": "oxherd",
+            "word": "oxherd"
+        },
+        {
+            "id": "paddock_bomb",
+            "word": "paddock bomb"
+        },
+        {
+            "id": "paddy",
+            "word": "paddy"
+        },
+        {
+            "id": "pannage",
+            "word": "pannage"
+        },
+        {
+            "id": "paraquat",
+            "word": "paraquat"
+        },
+        {
+            "id": "parathion",
+            "word": "parathion"
+        },
+        {
+            "id": "pastoral_company",
+            "word": "pastoral company"
+        },
+        {
+            "id": "pastoral_district",
+            "word": "pastoral district"
+        },
+        {
+            "id": "pastoralist",
+            "word": "pastoralist"
+        },
+        {
+            "id": "pastoral_property",
+            "word": "pastoral property"
+        },
+        {
+            "id": "pasturage",
+            "word": "pasturage"
+        },
+        {
+            "id": "pasture",
+            "word": "pasture"
+        },
+        {
+            "id": "pen",
+            "word": "pen"
+        },
+        {
+            "id": "penner-up",
+            "word": "penner-up"
+        },
+        {
+            "id": "peon",
+            "word": "peon"
+        },
+        {
+            "id": "perendale",
+            "word": "perendale"
+        },
+        {
+            "id": "performance_testing",
+            "word": "performance testing"
+        },
+        {
+            "id": "permaculture",
+            "word": "permaculture"
+        },
+        {
+            "id": "pest",
+            "word": "pest"
+        },
+        {
+            "id": "pesticide",
+            "word": "pesticide"
+        },
+        {
+            "id": "phytosanitary",
+            "word": "phytosanitary"
+        },
+        {
+            "id": "picker-up",
+            "word": "picker-up"
+        },
+        {
+            "id": "pick-your-own",
+            "word": "pick-your-own"
+        },
+        {
+            "id": "piece-picker",
+            "word": "piece-picker"
+        },
+        {
+            "id": "piggery",
+            "word": "piggery"
+        },
+        {
+            "id": "pightle",
+            "word": "pightle"
+        },
+        {
+            "id": "pigman",
+            "word": "pigman"
+        },
+        {
+            "id": "pigpen",
+            "word": "pigpen"
+        },
+        {
+            "id": "pigsty",
+            "word": "pigsty"
+        },
+        {
+            "id": "pigswill",
+            "word": "pigswill"
+        },
+        {
+            "id": "pin_bullock",
+            "word": "pin bullock"
+        },
+        {
+            "id": "pinfold",
+            "word": "pinfold"
+        },
+        {
+            "id": "pipfruit",
+            "word": "pipfruit"
+        },
+        {
+            "id": "pisciculture",
+            "word": "pisciculture"
+        },
+        {
+            "id": "pitchfork",
+            "word": "pitchfork"
+        },
+        {
+            "id": "plantation",
+            "word": "plantation"
+        },
+        {
+            "id": "planter",
+            "word": "planter"
+        },
+        {
+            "id": "plough",
+            "word": "plough"
+        },
+        {
+            "id": "ploughed",
+            "word": "ploughed"
+        },
+        {
+            "id": "ploughland",
+            "word": "ploughland"
+        },
+        {
+            "id": "ploughman",
+            "word": "ploughman"
+        },
+        {
+            "id": "plough_pan",
+            "word": "plough pan"
+        },
+        {
+            "id": "ploughshare",
+            "word": "ploughshare"
+        },
+        {
+            "id": "plough_something_in%2Fback",
+            "word": "plough something in/back"
+        },
+        {
+            "id": "plough_something_under",
+            "word": "plough something under"
+        },
+        {
+            "id": "pole_barn",
+            "word": "pole barn"
+        },
+        {
+            "id": "pole_bullock",
+            "word": "pole bullock"
+        },
+        {
+            "id": "poler",
+            "word": "poler"
+        },
+        {
+            "id": "poley",
+            "word": "poley"
+        },
+        {
+            "id": "polled",
+            "word": "polled"
+        },
+        {
+            "id": "polyculture",
+            "word": "polyculture"
+        },
+        {
+            "id": "polytunnel",
+            "word": "polytunnel"
+        },
+        {
+            "id": "pomiculture",
+            "word": "pomiculture"
+        },
+        {
+            "id": "pomology",
+            "word": "pomology"
+        },
+        {
+            "id": "pop-hole",
+            "word": "pop-hole"
+        },
+        {
+            "id": "porker",
+            "word": "porker"
+        },
+        {
+            "id": "porkling",
+            "word": "porkling"
+        },
+        {
+            "id": "potrero",
+            "word": "potrero"
+        },
+        {
+            "id": "poult",
+            "word": "poult"
+        },
+        {
+            "id": "poultry",
+            "word": "poultry"
+        },
+        {
+            "id": "poultryman",
+            "word": "poultryman"
+        },
+        {
+            "id": "poussin",
+            "word": "poussin"
+        },
+        {
+            "id": "predial",
+            "word": "predial"
+        },
+        {
+            "id": "prepotent",
+            "word": "prepotent"
+        },
+        {
+            "id": "provender",
+            "word": "provender"
+        },
+        {
+            "id": "pullet",
+            "word": "pullet"
+        },
+        {
+            "id": "puppy_farm",
+            "word": "puppy farm"
+        },
+        {
+            "id": "put_out_to_grass",
+            "word": "put out to grass"
+        },
+        {
+            "id": "quarter_section",
+            "word": "quarter section"
+        },
+        {
+            "id": "queensland_heeler",
+            "word": "queensland heeler"
+        },
+        {
+            "id": "quern",
+            "word": "quern"
+        },
+        {
+            "id": "quinta",
+            "word": "quinta"
+        },
+        {
+            "id": "rabbit_board",
+            "word": "rabbit board"
+        },
+        {
+            "id": "rabbit_fence",
+            "word": "rabbit fence"
+        },
+        {
+            "id": "rabbit_inspector",
+            "word": "rabbit inspector"
+        },
+        {
+            "id": "rainfast",
+            "word": "rainfast"
+        },
+        {
+            "id": "ram",
+            "word": "ram"
+        },
+        {
+            "id": "ram_paddock",
+            "word": "ram paddock"
+        },
+        {
+            "id": "ranch",
+            "word": "ranch"
+        },
+        {
+            "id": "rancher",
+            "word": "rancher"
+        },
+        {
+            "id": "ranchero",
+            "word": "ranchero"
+        },
+        {
+            "id": "rapeseed",
+            "word": "rapeseed"
+        },
+        {
+            "id": "rapeseed_oil",
+            "word": "rapeseed oil"
+        },
+        {
+            "id": "ration_carrier",
+            "word": "ration carrier"
+        },
+        {
+            "id": "ration_sheep",
+            "word": "ration sheep"
+        },
+        {
+            "id": "ratoon",
+            "word": "ratoon"
+        },
+        {
+            "id": "reap",
+            "word": "reap"
+        },
+        {
+            "id": "reaper",
+            "word": "reaper"
+        },
+        {
+            "id": "receiving_yard",
+            "word": "receiving yard"
+        },
+        {
+            "id": "reclaimed",
+            "word": "reclaimed"
+        },
+        {
+            "id": "reclamation",
+            "word": "reclamation"
+        },
+        {
+            "id": "reddle",
+            "word": "reddle"
+        },
+        {
+            "id": "rehab_farm",
+            "word": "rehab farm"
+        },
+        {
+            "id": "relief_country",
+            "word": "relief country"
+        },
+        {
+            "id": "restock",
+            "word": "restock"
+        },
+        {
+            "id": "rick",
+            "word": "rick"
+        },
+        {
+            "id": "ridge_runner",
+            "word": "ridge runner"
+        },
+        {
+            "id": "ring_fence",
+            "word": "ring fence"
+        },
+        {
+            "id": "root_crop",
+            "word": "root crop"
+        },
+        {
+            "id": "rotary_cowshed",
+            "word": "rotary cowshed"
+        },
+        {
+            "id": "rotavate",
+            "word": "rotavate"
+        },
+        {
+            "id": "rotavator",
+            "word": "rotavator"
+        },
+        {
+            "id": "rough_grazing",
+            "word": "rough grazing"
+        },
+        {
+            "id": "rouseabout",
+            "word": "rouseabout"
+        },
+        {
+            "id": "rousie",
+            "word": "rousie"
+        },
+        {
+            "id": "rowen",
+            "word": "rowen"
+        },
+        {
+            "id": "ruddle",
+            "word": "ruddle"
+        },
+        {
+            "id": "runholder",
+            "word": "runholder"
+        },
+        {
+            "id": "sahiwal",
+            "word": "sahiwal"
+        },
+        {
+            "id": "sale_ring",
+            "word": "sale ring"
+        },
+        {
+            "id": "saleyard",
+            "word": "saleyard"
+        },
+        {
+            "id": "sapling",
+            "word": "sapling"
+        },
+        {
+            "id": "scarecrow",
+            "word": "scarecrow"
+        },
+        {
+            "id": "scrub_bull",
+            "word": "scrub bull"
+        },
+        {
+            "id": "scythe",
+            "word": "scythe"
+        },
+        {
+            "id": "seed_corn",
+            "word": "seed corn"
+        },
+        {
+            "id": "seeder",
+            "word": "seeder"
+        },
+        {
+            "id": "seed-lip",
+            "word": "seed-lip"
+        },
+        {
+            "id": "seedsman",
+            "word": "seedsman"
+        },
+        {
+            "id": "seed_time",
+            "word": "seed time"
+        },
+        {
+            "id": "serf",
+            "word": "serf"
+        },
+        {
+            "id": "serfdom",
+            "word": "serfdom"
+        },
+        {
+            "id": "set-aside",
+            "word": "set-aside"
+        },
+        {
+            "id": "set_something_aside",
+            "word": "set something aside"
+        },
+        {
+            "id": "shadoof",
+            "word": "shadoof"
+        },
+        {
+            "id": "shaft_bullock",
+            "word": "shaft bullock"
+        },
+        {
+            "id": "shafter",
+            "word": "shafter"
+        },
+        {
+            "id": "sharecrop",
+            "word": "sharecrop"
+        },
+        {
+            "id": "sharecropper",
+            "word": "sharecropper"
+        },
+        {
+            "id": "share-farmer",
+            "word": "share-farmer"
+        },
+        {
+            "id": "share_milker",
+            "word": "share milker"
+        },
+        {
+            "id": "shaw",
+            "word": "shaw"
+        },
+        {
+            "id": "sheaf",
+            "word": "sheaf"
+        },
+        {
+            "id": "shear",
+            "word": "shear"
+        },
+        {
+            "id": "shearers%27_ball",
+            "word": "shearers' ball"
+        },
+        {
+            "id": "shearers%27_cook",
+            "word": "shearers' cook"
+        },
+        {
+            "id": "shearers%27_hut",
+            "word": "shearers' hut"
+        },
+        {
+            "id": "shearing_board",
+            "word": "shearing board"
+        },
+        {
+            "id": "shearing_contractor",
+            "word": "shearing contractor"
+        },
+        {
+            "id": "shearing_shed",
+            "word": "shearing shed"
+        },
+        {
+            "id": "shearling",
+            "word": "shearling"
+        },
+        {
+            "id": "shedhand",
+            "word": "shedhand"
+        },
+        {
+            "id": "sheep_cocky",
+            "word": "sheep cocky"
+        },
+        {
+            "id": "sheep_dip",
+            "word": "sheep dip"
+        },
+        {
+            "id": "sheepdog",
+            "word": "sheepdog"
+        },
+        {
+            "id": "sheepdog_trials",
+            "word": "sheepdog trials"
+        },
+        {
+            "id": "sheepfold",
+            "word": "sheepfold"
+        },
+        {
+            "id": "sheepman",
+            "word": "sheepman"
+        },
+        {
+            "id": "sheep_run",
+            "word": "sheep run"
+        },
+        {
+            "id": "sheep_station",
+            "word": "sheep station"
+        },
+        {
+            "id": "sheep_walk",
+            "word": "sheep walk"
+        },
+        {
+            "id": "shelter_belt",
+            "word": "shelter belt"
+        },
+        {
+            "id": "shepherd",
+            "word": "shepherd"
+        },
+        {
+            "id": "shepherd%27s_crook",
+            "word": "shepherd's crook"
+        },
+        {
+            "id": "shepherdess",
+            "word": "shepherdess"
+        },
+        {
+            "id": "shieling",
+            "word": "shieling"
+        },
+        {
+            "id": "shifting_cultivation",
+            "word": "shifting cultivation"
+        },
+        {
+            "id": "shippon",
+            "word": "shippon"
+        },
+        {
+            "id": "shoat",
+            "word": "shoat"
+        },
+        {
+            "id": "shock",
+            "word": "shock"
+        },
+        {
+            "id": "shornie",
+            "word": "shornie"
+        },
+        {
+            "id": "sickle",
+            "word": "sickle"
+        },
+        {
+            "id": "silage",
+            "word": "silage"
+        },
+        {
+            "id": "silo",
+            "word": "silo"
+        },
+        {
+            "id": "silviculture",
+            "word": "silviculture"
+        },
+        {
+            "id": "simazine",
+            "word": "simazine"
+        },
+        {
+            "id": "sire",
+            "word": "sire"
+        },
+        {
+            "id": "skidsteer_loader",
+            "word": "skidsteer loader"
+        },
+        {
+            "id": "skirting_table",
+            "word": "skirting table"
+        },
+        {
+            "id": "slaughterman",
+            "word": "slaughterman"
+        },
+        {
+            "id": "slip_panel",
+            "word": "slip panel"
+        },
+        {
+            "id": "slip_rail",
+            "word": "slip rail"
+        },
+        {
+            "id": "smallholder",
+            "word": "smallholder"
+        },
+        {
+            "id": "smallholding",
+            "word": "smallholding"
+        },
+        {
+            "id": "smut_ball",
+            "word": "smut ball"
+        },
+        {
+            "id": "smut_mill",
+            "word": "smut mill"
+        },
+        {
+            "id": "snigging_chain",
+            "word": "snigging chain"
+        },
+        {
+            "id": "socage",
+            "word": "socage"
+        },
+        {
+            "id": "sodbuster",
+            "word": "sodbuster"
+        },
+        {
+            "id": "soft_rot",
+            "word": "soft rot"
+        },
+        {
+            "id": "soil",
+            "word": "soil"
+        },
+        {
+            "id": "sovkhoz",
+            "word": "sovkhoz"
+        },
+        {
+            "id": "sow",
+            "word": "sow"
+        },
+        {
+            "id": "spud_cocky",
+            "word": "spud cocky"
+        },
+        {
+            "id": "squatting_system",
+            "word": "squatting system"
+        },
+        {
+            "id": "stackyard",
+            "word": "stackyard"
+        },
+        {
+            "id": "staddle",
+            "word": "staddle"
+        },
+        {
+            "id": "staggering_bob",
+            "word": "staggering bob"
+        },
+        {
+            "id": "stale",
+            "word": "stale"
+        },
+        {
+            "id": "stall-feed",
+            "word": "stall-feed"
+        },
+        {
+            "id": "standing_crop",
+            "word": "standing crop"
+        },
+        {
+            "id": "station-bred",
+            "word": "station-bred"
+        },
+        {
+            "id": "station_hand",
+            "word": "station hand"
+        },
+        {
+            "id": "station_man",
+            "word": "station man"
+        },
+        {
+            "id": "station_manager",
+            "word": "station manager"
+        },
+        {
+            "id": "station_rations",
+            "word": "station rations"
+        },
+        {
+            "id": "steading",
+            "word": "steading"
+        },
+        {
+            "id": "stew",
+            "word": "stew"
+        },
+        {
+            "id": "stirk",
+            "word": "stirk"
+        },
+        {
+            "id": "stock_agent",
+            "word": "stock agent"
+        },
+        {
+            "id": "stock_and_station",
+            "word": "stock and station"
+        },
+        {
+            "id": "stockbreeder",
+            "word": "stockbreeder"
+        },
+        {
+            "id": "stocker",
+            "word": "stocker"
+        },
+        {
+            "id": "stockfeed",
+            "word": "stockfeed"
+        },
+        {
+            "id": "stock_horse",
+            "word": "stock horse"
+        },
+        {
+            "id": "stockman",
+            "word": "stockman"
+        },
+        {
+            "id": "stock-proof",
+            "word": "stock-proof"
+        },
+        {
+            "id": "stock_route",
+            "word": "stock route"
+        },
+        {
+            "id": "stock_station",
+            "word": "stock station"
+        },
+        {
+            "id": "stock_whip",
+            "word": "stock whip"
+        },
+        {
+            "id": "stockyard",
+            "word": "stockyard"
+        },
+        {
+            "id": "stook",
+            "word": "stook"
+        },
+        {
+            "id": "stoop_labour",
+            "word": "stoop labour"
+        },
+        {
+            "id": "stringybark_cockatoo",
+            "word": "stringybark cockatoo"
+        },
+        {
+            "id": "strip_cropping",
+            "word": "strip cropping"
+        },
+        {
+            "id": "stubble",
+            "word": "stubble"
+        },
+        {
+            "id": "stump-jump_plough",
+            "word": "stump-jump plough"
+        },
+        {
+            "id": "sty",
+            "word": "sty"
+        },
+        {
+            "id": "submarginal",
+            "word": "submarginal"
+        },
+        {
+            "id": "subsistence_farmer",
+            "word": "subsistence farmer"
+        },
+        {
+            "id": "subsistence_farming",
+            "word": "subsistence farming"
+        },
+        {
+            "id": "subsoil",
+            "word": "subsoil"
+        },
+        {
+            "id": "subsoiler",
+            "word": "subsoiler"
+        },
+        {
+            "id": "sucker-bash",
+            "word": "sucker-bash"
+        },
+        {
+            "id": "sucking",
+            "word": "sucking"
+        },
+        {
+            "id": "suckler",
+            "word": "suckler"
+        },
+        {
+            "id": "sugar_bush",
+            "word": "sugar bush"
+        },
+        {
+            "id": "summer_country",
+            "word": "summer country"
+        },
+        {
+            "id": "sunk_fence",
+            "word": "sunk fence"
+        },
+        {
+            "id": "superdairy",
+            "word": "superdairy"
+        },
+        {
+            "id": "superphosphate",
+            "word": "superphosphate"
+        },
+        {
+            "id": "superweed",
+            "word": "superweed"
+        },
+        {
+            "id": "support_price",
+            "word": "support price"
+        },
+        {
+            "id": "sustained_yield",
+            "word": "sustained yield"
+        },
+        {
+            "id": "swather",
+            "word": "swather"
+        },
+        {
+            "id": "sweating_pen",
+            "word": "sweating pen"
+        },
+        {
+            "id": "sweetveld",
+            "word": "sweetveld"
+        },
+        {
+            "id": "swidden",
+            "word": "swidden"
+        },
+        {
+            "id": "swineherd",
+            "word": "swineherd"
+        },
+        {
+            "id": "swingle",
+            "word": "swingle"
+        },
+        {
+            "id": "swingletree",
+            "word": "swingletree"
+        },
+        {
+            "id": "swipple",
+            "word": "swipple"
+        },
+        {
+            "id": "tally-hi",
+            "word": "tally-hi"
+        },
+        {
+            "id": "tame",
+            "word": "tame"
+        },
+        {
+            "id": "tanglefoot",
+            "word": "tanglefoot"
+        },
+        {
+            "id": "tank-farming",
+            "word": "tank-farming"
+        },
+        {
+            "id": "tar_boy",
+            "word": "tar boy"
+        },
+        {
+            "id": "tea_planter",
+            "word": "tea planter"
+        },
+        {
+            "id": "ted",
+            "word": "ted"
+        },
+        {
+            "id": "teg",
+            "word": "teg"
+        },
+        {
+            "id": "tenant_farmer",
+            "word": "tenant farmer"
+        },
+        {
+            "id": "thinnings",
+            "word": "thinnings"
+        },
+        {
+            "id": "thremmatology",
+            "word": "thremmatology"
+        },
+        {
+            "id": "thresh",
+            "word": "thresh"
+        },
+        {
+            "id": "thresher",
+            "word": "thresher"
+        },
+        {
+            "id": "threshing",
+            "word": "threshing"
+        },
+        {
+            "id": "threshing_floor",
+            "word": "threshing floor"
+        },
+        {
+            "id": "threshing_machine",
+            "word": "threshing machine"
+        },
+        {
+            "id": "thwaite",
+            "word": "thwaite"
+        },
+        {
+            "id": "tick_bean",
+            "word": "tick bean"
+        },
+        {
+            "id": "till",
+            "word": "till"
+        },
+        {
+            "id": "tillage",
+            "word": "tillage"
+        },
+        {
+            "id": "tiller",
+            "word": "tiller"
+        },
+        {
+            "id": "tilth",
+            "word": "tilth"
+        },
+        {
+            "id": "tithe_barn",
+            "word": "tithe barn"
+        },
+        {
+            "id": "top-dress",
+            "word": "top-dress"
+        },
+        {
+            "id": "top_dressing",
+            "word": "top dressing"
+        },
+        {
+            "id": "topper",
+            "word": "topper"
+        },
+        {
+            "id": "topsoil",
+            "word": "topsoil"
+        },
+        {
+            "id": "tot_system",
+            "word": "tot system"
+        },
+        {
+            "id": "tractor",
+            "word": "tractor"
+        },
+        {
+            "id": "trail_boss",
+            "word": "trail boss"
+        },
+        {
+            "id": "transhumance",
+            "word": "transhumance"
+        },
+        {
+            "id": "trap_crop",
+            "word": "trap crop"
+        },
+        {
+            "id": "trap_yard",
+            "word": "trap yard"
+        },
+        {
+            "id": "travelling_stock",
+            "word": "travelling stock"
+        },
+        {
+            "id": "travelling_stock_reserve",
+            "word": "travelling stock reserve"
+        },
+        {
+            "id": "travelling_stock_route",
+            "word": "travelling stock route"
+        },
+        {
+            "id": "trickle_irrigation",
+            "word": "trickle irrigation"
+        },
+        {
+            "id": "tuberculin-tested",
+            "word": "tuberculin-tested"
+        },
+        {
+            "id": "tup",
+            "word": "tup"
+        },
+        {
+            "id": "uht",
+            "word": "uht"
+        },
+        {
+            "id": "uncleared",
+            "word": "uncleared"
+        },
+        {
+            "id": "unculled",
+            "word": "unculled"
+        },
+        {
+            "id": "underfeeding",
+            "word": "underfeeding"
+        },
+        {
+            "id": "undersow",
+            "word": "undersow"
+        },
+        {
+            "id": "unfertilized",
+            "word": "unfertilized"
+        },
+        {
+            "id": "unploughed",
+            "word": "unploughed"
+        },
+        {
+            "id": "unsprayed",
+            "word": "unsprayed"
+        },
+        {
+            "id": "untilled",
+            "word": "untilled"
+        },
+        {
+            "id": "usda",
+            "word": "usda"
+        },
+        {
+            "id": "van",
+            "word": "van"
+        },
+        {
+            "id": "vaquero",
+            "word": "vaquero"
+        },
+        {
+            "id": "veal_crate",
+            "word": "veal crate"
+        },
+        {
+            "id": "vealer",
+            "word": "vealer"
+        },
+        {
+            "id": "vermicomposting",
+            "word": "vermicomposting"
+        },
+        {
+            "id": "vermiculture",
+            "word": "vermiculture"
+        },
+        {
+            "id": "vermin",
+            "word": "vermin"
+        },
+        {
+            "id": "vermin_fence",
+            "word": "vermin fence"
+        },
+        {
+            "id": "vernalization",
+            "word": "vernalization"
+        },
+        {
+            "id": "vernalize",
+            "word": "vernalize"
+        },
+        {
+            "id": "vertical_farm",
+            "word": "vertical farm"
+        },
+        {
+            "id": "vigneron",
+            "word": "vigneron"
+        },
+        {
+            "id": "villein",
+            "word": "villein"
+        },
+        {
+            "id": "villeinage",
+            "word": "villeinage"
+        },
+        {
+            "id": "vineyard",
+            "word": "vineyard"
+        },
+        {
+            "id": "viniculture",
+            "word": "viniculture"
+        },
+        {
+            "id": "vining",
+            "word": "vining"
+        },
+        {
+            "id": "virgate",
+            "word": "virgate"
+        },
+        {
+            "id": "virgin_queen",
+            "word": "virgin queen"
+        },
+        {
+            "id": "viticulture",
+            "word": "viticulture"
+        },
+        {
+            "id": "wagon",
+            "word": "wagon"
+        },
+        {
+            "id": "weaner",
+            "word": "weaner"
+        },
+        {
+            "id": "werf",
+            "word": "werf"
+        },
+        {
+            "id": "wether",
+            "word": "wether"
+        },
+        {
+            "id": "wheat_belt",
+            "word": "wheat belt"
+        },
+        {
+            "id": "wheat_cocky",
+            "word": "wheat cocky"
+        },
+        {
+            "id": "wheat_lumper",
+            "word": "wheat lumper"
+        },
+        {
+            "id": "wheelwright",
+            "word": "wheelwright"
+        },
+        {
+            "id": "whipping_side",
+            "word": "whipping side"
+        },
+        {
+            "id": "windrow",
+            "word": "windrow"
+        },
+        {
+            "id": "winegrower",
+            "word": "winegrower"
+        },
+        {
+            "id": "wing_fence",
+            "word": "wing fence"
+        },
+        {
+            "id": "winnow",
+            "word": "winnow"
+        },
+        {
+            "id": "wool",
+            "word": "wool"
+        },
+        {
+            "id": "wool_bin",
+            "word": "wool bin"
+        },
+        {
+            "id": "wool_cheque",
+            "word": "wool cheque"
+        },
+        {
+            "id": "wool_classer",
+            "word": "wool classer"
+        },
+        {
+            "id": "wool_classing",
+            "word": "wool classing"
+        },
+        {
+            "id": "wool_grower",
+            "word": "wool grower"
+        },
+        {
+            "id": "wool_hook",
+            "word": "wool hook"
+        },
+        {
+            "id": "woolman",
+            "word": "woolman"
+        },
+        {
+            "id": "wool_press",
+            "word": "wool press"
+        },
+        {
+            "id": "wool_presser",
+            "word": "wool presser"
+        },
+        {
+            "id": "wool_pressing",
+            "word": "wool pressing"
+        },
+        {
+            "id": "wool_roller",
+            "word": "wool roller"
+        },
+        {
+            "id": "wool_rolling",
+            "word": "wool rolling"
+        },
+        {
+            "id": "woolshed",
+            "word": "woolshed"
+        },
+        {
+            "id": "workhorse",
+            "word": "workhorse"
+        },
+        {
+            "id": "working_dog",
+            "word": "working dog"
+        },
+        {
+            "id": "wrangler",
+            "word": "wrangler"
+        },
+        {
+            "id": "yandy",
+            "word": "yandy"
+        },
+        {
+            "id": "yean",
+            "word": "yean"
+        },
+        {
+            "id": "yearling",
+            "word": "yearling"
+        },
+        {
+            "id": "yeoman",
+            "word": "yeoman"
+        },
+        {
+            "id": "yoke",
+            "word": "yoke"
+        },
+        {
+            "id": "youngstock",
+            "word": "youngstock"
+        },
+        {
+            "id": "zero-graze",
+            "word": "zero-graze"
+        },
+        {
+            "id": "zigzag_fence",
+            "word": "zigzag fence"
+        }
+    ]
+}

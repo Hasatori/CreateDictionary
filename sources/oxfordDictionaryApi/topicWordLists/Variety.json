@@ -1,0 +1,1199 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 297,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "a%C3%A7ai",
+            "word": "açai"
+        },
+        {
+            "id": "acorn_squash",
+            "word": "acorn squash"
+        },
+        {
+            "id": "alba",
+            "word": "alba"
+        },
+        {
+            "id": "anjou",
+            "word": "anjou"
+        },
+        {
+            "id": "apple",
+            "word": "apple"
+        },
+        {
+            "id": "apricot",
+            "word": "apricot"
+        },
+        {
+            "id": "avocado",
+            "word": "avocado"
+        },
+        {
+            "id": "azarole",
+            "word": "azarole"
+        },
+        {
+            "id": "bamboo_shoot",
+            "word": "bamboo shoot"
+        },
+        {
+            "id": "banana",
+            "word": "banana"
+        },
+        {
+            "id": "bartlett_pear",
+            "word": "bartlett pear"
+        },
+        {
+            "id": "beef_tomato",
+            "word": "beef tomato"
+        },
+        {
+            "id": "bergamot",
+            "word": "bergamot"
+        },
+        {
+            "id": "beurr%C3%A9",
+            "word": "beurré"
+        },
+        {
+            "id": "bibb_lettuce",
+            "word": "bibb lettuce"
+        },
+        {
+            "id": "biffin",
+            "word": "biffin"
+        },
+        {
+            "id": "bilberry",
+            "word": "bilberry"
+        },
+        {
+            "id": "black_bean",
+            "word": "black bean"
+        },
+        {
+            "id": "blackberry",
+            "word": "blackberry"
+        },
+        {
+            "id": "blackcurrant",
+            "word": "blackcurrant"
+        },
+        {
+            "id": "black_poplar",
+            "word": "black poplar"
+        },
+        {
+            "id": "blenheim_orange",
+            "word": "blenheim orange"
+        },
+        {
+            "id": "blood_orange",
+            "word": "blood orange"
+        },
+        {
+            "id": "blueberry",
+            "word": "blueberry"
+        },
+        {
+            "id": "blue_corn",
+            "word": "blue corn"
+        },
+        {
+            "id": "boniato",
+            "word": "boniato"
+        },
+        {
+            "id": "boysenberry",
+            "word": "boysenberry"
+        },
+        {
+            "id": "braeburn",
+            "word": "braeburn"
+        },
+        {
+            "id": "broccoli",
+            "word": "broccoli"
+        },
+        {
+            "id": "brussels",
+            "word": "brussels"
+        },
+        {
+            "id": "brussels_sprout",
+            "word": "brussels sprout"
+        },
+        {
+            "id": "bual",
+            "word": "bual"
+        },
+        {
+            "id": "butter_bean",
+            "word": "butter bean"
+        },
+        {
+            "id": "buttercup_squash",
+            "word": "buttercup squash"
+        },
+        {
+            "id": "butterhead_lettuce",
+            "word": "butterhead lettuce"
+        },
+        {
+            "id": "butter_lettuce",
+            "word": "butter lettuce"
+        },
+        {
+            "id": "butternut_squash",
+            "word": "butternut squash"
+        },
+        {
+            "id": "cabbage_lettuce",
+            "word": "cabbage lettuce"
+        },
+        {
+            "id": "cabbage_rose",
+            "word": "cabbage rose"
+        },
+        {
+            "id": "cabernet_franc",
+            "word": "cabernet franc"
+        },
+        {
+            "id": "cabernet_sauvignon",
+            "word": "cabernet sauvignon"
+        },
+        {
+            "id": "calabrese",
+            "word": "calabrese"
+        },
+        {
+            "id": "cannellini_bean",
+            "word": "cannellini bean"
+        },
+        {
+            "id": "canola",
+            "word": "canola"
+        },
+        {
+            "id": "cantaloupe",
+            "word": "cantaloupe"
+        },
+        {
+            "id": "carambola",
+            "word": "carambola"
+        },
+        {
+            "id": "carrot",
+            "word": "carrot"
+        },
+        {
+            "id": "casaba",
+            "word": "casaba"
+        },
+        {
+            "id": "cascabel",
+            "word": "cascabel"
+        },
+        {
+            "id": "cashew_apple",
+            "word": "cashew apple"
+        },
+        {
+            "id": "catawba",
+            "word": "catawba"
+        },
+        {
+            "id": "cauliflower",
+            "word": "cauliflower"
+        },
+        {
+            "id": "cavolo_nero",
+            "word": "cavolo nero"
+        },
+        {
+            "id": "celeriac",
+            "word": "celeriac"
+        },
+        {
+            "id": "chard",
+            "word": "chard"
+        },
+        {
+            "id": "chardonnay",
+            "word": "chardonnay"
+        },
+        {
+            "id": "charentais",
+            "word": "charentais"
+        },
+        {
+            "id": "chasselas",
+            "word": "chasselas"
+        },
+        {
+            "id": "chayote",
+            "word": "chayote"
+        },
+        {
+            "id": "chenin",
+            "word": "chenin"
+        },
+        {
+            "id": "cherokee_rose",
+            "word": "cherokee rose"
+        },
+        {
+            "id": "cherry",
+            "word": "cherry"
+        },
+        {
+            "id": "cherry_tomato",
+            "word": "cherry tomato"
+        },
+        {
+            "id": "chocho",
+            "word": "chocho"
+        },
+        {
+            "id": "choi_sum",
+            "word": "choi sum"
+        },
+        {
+            "id": "cider_apple",
+            "word": "cider apple"
+        },
+        {
+            "id": "clementine",
+            "word": "clementine"
+        },
+        {
+            "id": "clingstone",
+            "word": "clingstone"
+        },
+        {
+            "id": "codling",
+            "word": "codling"
+        },
+        {
+            "id": "collard",
+            "word": "collard"
+        },
+        {
+            "id": "comice",
+            "word": "comice"
+        },
+        {
+            "id": "concord",
+            "word": "concord"
+        },
+        {
+            "id": "copper_beech",
+            "word": "copper beech"
+        },
+        {
+            "id": "cortland",
+            "word": "cortland"
+        },
+        {
+            "id": "corvina",
+            "word": "corvina"
+        },
+        {
+            "id": "cos",
+            "word": "cos"
+        },
+        {
+            "id": "costard",
+            "word": "costard"
+        },
+        {
+            "id": "courgette",
+            "word": "courgette"
+        },
+        {
+            "id": "crookneck",
+            "word": "crookneck"
+        },
+        {
+            "id": "curly_kale",
+            "word": "curly kale"
+        },
+        {
+            "id": "cushaw",
+            "word": "cushaw"
+        },
+        {
+            "id": "custard_apple",
+            "word": "custard apple"
+        },
+        {
+            "id": "custard_marrow",
+            "word": "custard marrow"
+        },
+        {
+            "id": "damask_rose",
+            "word": "damask rose"
+        },
+        {
+            "id": "damson",
+            "word": "damson"
+        },
+        {
+            "id": "date",
+            "word": "date"
+        },
+        {
+            "id": "desiree",
+            "word": "desiree"
+        },
+        {
+            "id": "dogberry",
+            "word": "dogberry"
+        },
+        {
+            "id": "duke_cherry",
+            "word": "duke cherry"
+        },
+        {
+            "id": "durian",
+            "word": "durian"
+        },
+        {
+            "id": "eating_apple",
+            "word": "eating apple"
+        },
+        {
+            "id": "escarole",
+            "word": "escarole"
+        },
+        {
+            "id": "estima",
+            "word": "estima"
+        },
+        {
+            "id": "fig",
+            "word": "fig"
+        },
+        {
+            "id": "flageolet",
+            "word": "flageolet"
+        },
+        {
+            "id": "flat-leaved_parsley",
+            "word": "flat-leaved parsley"
+        },
+        {
+            "id": "flint_corn",
+            "word": "flint corn"
+        },
+        {
+            "id": "forastero",
+            "word": "forastero"
+        },
+        {
+            "id": "fris%C3%A9e",
+            "word": "frisée"
+        },
+        {
+            "id": "fuji",
+            "word": "fuji"
+        },
+        {
+            "id": "galia_melon",
+            "word": "galia melon"
+        },
+        {
+            "id": "gamay",
+            "word": "gamay"
+        },
+        {
+            "id": "garden_pea",
+            "word": "garden pea"
+        },
+        {
+            "id": "garganega",
+            "word": "garganega"
+        },
+        {
+            "id": "gew%C3%BCrztraminer",
+            "word": "gewürztraminer"
+        },
+        {
+            "id": "gherkin",
+            "word": "gherkin"
+        },
+        {
+            "id": "golden_delicious",
+            "word": "golden delicious"
+        },
+        {
+            "id": "golden_raisin",
+            "word": "golden raisin"
+        },
+        {
+            "id": "gooseberry",
+            "word": "gooseberry"
+        },
+        {
+            "id": "goosegog",
+            "word": "goosegog"
+        },
+        {
+            "id": "gordo",
+            "word": "gordo"
+        },
+        {
+            "id": "gourd",
+            "word": "gourd"
+        },
+        {
+            "id": "granny_smith",
+            "word": "granny smith"
+        },
+        {
+            "id": "grapefruit",
+            "word": "grapefruit"
+        },
+        {
+            "id": "gravenstein",
+            "word": "gravenstein"
+        },
+        {
+            "id": "greengage",
+            "word": "greengage"
+        },
+        {
+            "id": "greening",
+            "word": "greening"
+        },
+        {
+            "id": "green_onion",
+            "word": "green onion"
+        },
+        {
+            "id": "green_pepper",
+            "word": "green pepper"
+        },
+        {
+            "id": "grenache",
+            "word": "grenache"
+        },
+        {
+            "id": "guava",
+            "word": "guava"
+        },
+        {
+            "id": "hanepoot",
+            "word": "hanepoot"
+        },
+        {
+            "id": "hard_wheat",
+            "word": "hard wheat"
+        },
+        {
+            "id": "honeycrisp",
+            "word": "honeycrisp"
+        },
+        {
+            "id": "hubbard_squash",
+            "word": "hubbard squash"
+        },
+        {
+            "id": "huckleberry",
+            "word": "huckleberry"
+        },
+        {
+            "id": "iceberg_lettuce",
+            "word": "iceberg lettuce"
+        },
+        {
+            "id": "jaffa",
+            "word": "jaffa"
+        },
+        {
+            "id": "jargonelle",
+            "word": "jargonelle"
+        },
+        {
+            "id": "johannisberg",
+            "word": "johannisberg"
+        },
+        {
+            "id": "jonagold",
+            "word": "jonagold"
+        },
+        {
+            "id": "jonathan",
+            "word": "jonathan"
+        },
+        {
+            "id": "jujube",
+            "word": "jujube"
+        },
+        {
+            "id": "kaki",
+            "word": "kaki"
+        },
+        {
+            "id": "kale",
+            "word": "kale"
+        },
+        {
+            "id": "kaoliang",
+            "word": "kaoliang"
+        },
+        {
+            "id": "karela",
+            "word": "karela"
+        },
+        {
+            "id": "key_lime",
+            "word": "key lime"
+        },
+        {
+            "id": "kidney_bean",
+            "word": "kidney bean"
+        },
+        {
+            "id": "kohlrabi",
+            "word": "kohlrabi"
+        },
+        {
+            "id": "kumquat",
+            "word": "kumquat"
+        },
+        {
+            "id": "labrusca",
+            "word": "labrusca"
+        },
+        {
+            "id": "ladino",
+            "word": "ladino"
+        },
+        {
+            "id": "lambrusco",
+            "word": "lambrusco"
+        },
+        {
+            "id": "langra",
+            "word": "langra"
+        },
+        {
+            "id": "lemon",
+            "word": "lemon"
+        },
+        {
+            "id": "little_gem",
+            "word": "little gem"
+        },
+        {
+            "id": "loganberry",
+            "word": "loganberry"
+        },
+        {
+            "id": "lollo_rosso",
+            "word": "lollo rosso"
+        },
+        {
+            "id": "lombardy_poplar",
+            "word": "lombardy poplar"
+        },
+        {
+            "id": "loquat",
+            "word": "loquat"
+        },
+        {
+            "id": "mabela",
+            "word": "mabela"
+        },
+        {
+            "id": "malbec",
+            "word": "malbec"
+        },
+        {
+            "id": "malvasia",
+            "word": "malvasia"
+        },
+        {
+            "id": "malvoisie",
+            "word": "malvoisie"
+        },
+        {
+            "id": "mandarin",
+            "word": "mandarin"
+        },
+        {
+            "id": "mangetout",
+            "word": "mangetout"
+        },
+        {
+            "id": "mangold",
+            "word": "mangold"
+        },
+        {
+            "id": "mangosteen",
+            "word": "mangosteen"
+        },
+        {
+            "id": "maraschino_cherry",
+            "word": "maraschino cherry"
+        },
+        {
+            "id": "maris_piper",
+            "word": "maris piper"
+        },
+        {
+            "id": "marrowfat_pea",
+            "word": "marrowfat pea"
+        },
+        {
+            "id": "marsanne",
+            "word": "marsanne"
+        },
+        {
+            "id": "masoor",
+            "word": "masoor"
+        },
+        {
+            "id": "m%C3%BCller-thurgau",
+            "word": "müller-thurgau"
+        },
+        {
+            "id": "mcintosh",
+            "word": "mcintosh"
+        },
+        {
+            "id": "melon",
+            "word": "melon"
+        },
+        {
+            "id": "merlot",
+            "word": "merlot"
+        },
+        {
+            "id": "milo",
+            "word": "milo"
+        },
+        {
+            "id": "minneola",
+            "word": "minneola"
+        },
+        {
+            "id": "mirabelle",
+            "word": "mirabelle"
+        },
+        {
+            "id": "mizuna",
+            "word": "mizuna"
+        },
+        {
+            "id": "mongrel",
+            "word": "mongrel"
+        },
+        {
+            "id": "mooli",
+            "word": "mooli"
+        },
+        {
+            "id": "multiflora",
+            "word": "multiflora"
+        },
+        {
+            "id": "musambi",
+            "word": "musambi"
+        },
+        {
+            "id": "muscadelle",
+            "word": "muscadelle"
+        },
+        {
+            "id": "muscadine",
+            "word": "muscadine"
+        },
+        {
+            "id": "muscat",
+            "word": "muscat"
+        },
+        {
+            "id": "muscatel",
+            "word": "muscatel"
+        },
+        {
+            "id": "musk_melon",
+            "word": "musk melon"
+        },
+        {
+            "id": "naartjie",
+            "word": "naartjie"
+        },
+        {
+            "id": "navel_orange",
+            "word": "navel orange"
+        },
+        {
+            "id": "navy_bean",
+            "word": "navy bean"
+        },
+        {
+            "id": "nebbiolo",
+            "word": "nebbiolo"
+        },
+        {
+            "id": "nectarine",
+            "word": "nectarine"
+        },
+        {
+            "id": "oak_leaf",
+            "word": "oak leaf"
+        },
+        {
+            "id": "old_rose",
+            "word": "old rose"
+        },
+        {
+            "id": "olive",
+            "word": "olive"
+        },
+        {
+            "id": "orange",
+            "word": "orange"
+        },
+        {
+            "id": "pak_choi",
+            "word": "pak choi"
+        },
+        {
+            "id": "pampelmoes",
+            "word": "pampelmoes"
+        },
+        {
+            "id": "parrot_tulip",
+            "word": "parrot tulip"
+        },
+        {
+            "id": "partridge_pea",
+            "word": "partridge pea"
+        },
+        {
+            "id": "patio_rose",
+            "word": "patio rose"
+        },
+        {
+            "id": "patna_rice",
+            "word": "patna rice"
+        },
+        {
+            "id": "pattypan",
+            "word": "pattypan"
+        },
+        {
+            "id": "pea_bean",
+            "word": "pea bean"
+        },
+        {
+            "id": "peaberry",
+            "word": "peaberry"
+        },
+        {
+            "id": "pear",
+            "word": "pear"
+        },
+        {
+            "id": "pearmain",
+            "word": "pearmain"
+        },
+        {
+            "id": "pedro_ximenez",
+            "word": "pedro ximenez"
+        },
+        {
+            "id": "pe_tsai",
+            "word": "pe tsai"
+        },
+        {
+            "id": "pickler",
+            "word": "pickler"
+        },
+        {
+            "id": "pink_fir_apple",
+            "word": "pink fir apple"
+        },
+        {
+            "id": "pinot",
+            "word": "pinot"
+        },
+        {
+            "id": "pinotage",
+            "word": "pinotage"
+        },
+        {
+            "id": "pinot_grigio",
+            "word": "pinot grigio"
+        },
+        {
+            "id": "pinto_bean",
+            "word": "pinto bean"
+        },
+        {
+            "id": "pippin",
+            "word": "pippin"
+        },
+        {
+            "id": "plantain",
+            "word": "plantain"
+        },
+        {
+            "id": "plum",
+            "word": "plum"
+        },
+        {
+            "id": "plum_tomato",
+            "word": "plum tomato"
+        },
+        {
+            "id": "poblano",
+            "word": "poblano"
+        },
+        {
+            "id": "pole_bean",
+            "word": "pole bean"
+        },
+        {
+            "id": "pomegranate",
+            "word": "pomegranate"
+        },
+        {
+            "id": "pomelo",
+            "word": "pomelo"
+        },
+        {
+            "id": "popple",
+            "word": "popple"
+        },
+        {
+            "id": "radicchio",
+            "word": "radicchio"
+        },
+        {
+            "id": "redcurrant",
+            "word": "redcurrant"
+        },
+        {
+            "id": "red_delicious",
+            "word": "red delicious"
+        },
+        {
+            "id": "red_pepper",
+            "word": "red pepper"
+        },
+        {
+            "id": "rhubarb",
+            "word": "rhubarb"
+        },
+        {
+            "id": "riesling",
+            "word": "riesling"
+        },
+        {
+            "id": "romaine",
+            "word": "romaine"
+        },
+        {
+            "id": "royal_gala",
+            "word": "royal gala"
+        },
+        {
+            "id": "sangiovese",
+            "word": "sangiovese"
+        },
+        {
+            "id": "satsuma",
+            "word": "satsuma"
+        },
+        {
+            "id": "sauvignon",
+            "word": "sauvignon"
+        },
+        {
+            "id": "savoy",
+            "word": "savoy"
+        },
+        {
+            "id": "s%C3%A9millon",
+            "word": "sémillon"
+        },
+        {
+            "id": "scallion",
+            "word": "scallion"
+        },
+        {
+            "id": "scotch_bonnet",
+            "word": "scotch bonnet"
+        },
+        {
+            "id": "scotch_kale",
+            "word": "scotch kale"
+        },
+        {
+            "id": "scuppernong",
+            "word": "scuppernong"
+        },
+        {
+            "id": "seckel",
+            "word": "seckel"
+        },
+        {
+            "id": "sercial",
+            "word": "sercial"
+        },
+        {
+            "id": "serrano",
+            "word": "serrano"
+        },
+        {
+            "id": "seville_orange",
+            "word": "seville orange"
+        },
+        {
+            "id": "sharon_fruit",
+            "word": "sharon fruit"
+        },
+        {
+            "id": "shiraz",
+            "word": "shiraz"
+        },
+        {
+            "id": "silver_beet",
+            "word": "silver beet"
+        },
+        {
+            "id": "sinsemilla",
+            "word": "sinsemilla"
+        },
+        {
+            "id": "skunkweed",
+            "word": "skunkweed"
+        },
+        {
+            "id": "sloe",
+            "word": "sloe"
+        },
+        {
+            "id": "snap_bean",
+            "word": "snap bean"
+        },
+        {
+            "id": "snowball_tree",
+            "word": "snowball tree"
+        },
+        {
+            "id": "soft_wheat",
+            "word": "soft wheat"
+        },
+        {
+            "id": "spanspek",
+            "word": "spanspek"
+        },
+        {
+            "id": "spartan",
+            "word": "spartan"
+        },
+        {
+            "id": "spinach_beet",
+            "word": "spinach beet"
+        },
+        {
+            "id": "spring_greens",
+            "word": "spring greens"
+        },
+        {
+            "id": "star_anise",
+            "word": "star anise"
+        },
+        {
+            "id": "stayman",
+            "word": "stayman"
+        },
+        {
+            "id": "steen",
+            "word": "steen"
+        },
+        {
+            "id": "string_bean",
+            "word": "string bean"
+        },
+        {
+            "id": "sturmer",
+            "word": "sturmer"
+        },
+        {
+            "id": "sugar_bean",
+            "word": "sugar bean"
+        },
+        {
+            "id": "sugar_beet",
+            "word": "sugar beet"
+        },
+        {
+            "id": "sugar_snap",
+            "word": "sugar snap"
+        },
+        {
+            "id": "sweetcorn",
+            "word": "sweetcorn"
+        },
+        {
+            "id": "sweeting",
+            "word": "sweeting"
+        },
+        {
+            "id": "sweet_pepper",
+            "word": "sweet pepper"
+        },
+        {
+            "id": "sweetsop",
+            "word": "sweetsop"
+        },
+        {
+            "id": "sylvaner",
+            "word": "sylvaner"
+        },
+        {
+            "id": "tangelo",
+            "word": "tangelo"
+        },
+        {
+            "id": "tater",
+            "word": "tater"
+        },
+        {
+            "id": "tattie",
+            "word": "tattie"
+        },
+        {
+            "id": "tayberry",
+            "word": "tayberry"
+        },
+        {
+            "id": "tea_rose",
+            "word": "tea rose"
+        },
+        {
+            "id": "tempranillo",
+            "word": "tempranillo"
+        },
+        {
+            "id": "ten-week_stock",
+            "word": "ten-week stock"
+        },
+        {
+            "id": "tom_thumb",
+            "word": "tom thumb"
+        },
+        {
+            "id": "traminer",
+            "word": "traminer"
+        },
+        {
+            "id": "trebbiano",
+            "word": "trebbiano"
+        },
+        {
+            "id": "tuna",
+            "word": "tuna"
+        },
+        {
+            "id": "ube",
+            "word": "ube"
+        },
+        {
+            "id": "veg",
+            "word": "veg"
+        },
+        {
+            "id": "vegetable_spaghetti",
+            "word": "vegetable spaghetti"
+        },
+        {
+            "id": "verdicchio",
+            "word": "verdicchio"
+        },
+        {
+            "id": "vernaccia",
+            "word": "vernaccia"
+        },
+        {
+            "id": "victoria_plum",
+            "word": "victoria plum"
+        },
+        {
+            "id": "viognier",
+            "word": "viognier"
+        },
+        {
+            "id": "wasabi",
+            "word": "wasabi"
+        },
+        {
+            "id": "wax_bean",
+            "word": "wax bean"
+        },
+        {
+            "id": "waxpod",
+            "word": "waxpod"
+        },
+        {
+            "id": "white_currant",
+            "word": "white currant"
+        },
+        {
+            "id": "williams",
+            "word": "williams"
+        },
+        {
+            "id": "winesap",
+            "word": "winesap"
+        },
+        {
+            "id": "winter_squash",
+            "word": "winter squash"
+        },
+        {
+            "id": "witloof",
+            "word": "witloof"
+        },
+        {
+            "id": "yam",
+            "word": "yam"
+        },
+        {
+            "id": "yellow_pepper",
+            "word": "yellow pepper"
+        },
+        {
+            "id": "youngberry",
+            "word": "youngberry"
+        },
+        {
+            "id": "yuzu",
+            "word": "yuzu"
+        },
+        {
+            "id": "zinfandel",
+            "word": "zinfandel"
+        },
+        {
+            "id": "zucchini",
+            "word": "zucchini"
+        }
+    ]
+}

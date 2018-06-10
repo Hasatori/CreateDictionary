@@ -1,0 +1,243 @@
+{
+    "results": [
+        {
+            "id": "bergamot",
+            "word": "bergamot"
+        },
+        {
+            "id": "billy_tea",
+            "word": "billy tea"
+        },
+        {
+            "id": "black_tea",
+            "word": "black tea"
+        },
+        {
+            "id": "bohea",
+            "word": "bohea"
+        },
+        {
+            "id": "brew-up",
+            "word": "brew-up"
+        },
+        {
+            "id": "bubble_tea",
+            "word": "bubble tea"
+        },
+        {
+            "id": "bush_tea",
+            "word": "bush tea"
+        },
+        {
+            "id": "caddy_spoon",
+            "word": "caddy spoon"
+        },
+        {
+            "id": "caffeinated",
+            "word": "caffeinated"
+        },
+        {
+            "id": "caffeine",
+            "word": "caffeine"
+        },
+        {
+            "id": "camomile_tea",
+            "word": "camomile tea"
+        },
+        {
+            "id": "chai",
+            "word": "chai"
+        },
+        {
+            "id": "char",
+            "word": "char"
+        },
+        {
+            "id": "china_tea",
+            "word": "china tea"
+        },
+        {
+            "id": "creamer",
+            "word": "creamer"
+        },
+        {
+            "id": "cuppa",
+            "word": "cuppa"
+        },
+        {
+            "id": "darjeeling",
+            "word": "darjeeling"
+        },
+        {
+            "id": "decaffeinate",
+            "word": "decaffeinate"
+        },
+        {
+            "id": "decaffeinated",
+            "word": "decaffeinated"
+        },
+        {
+            "id": "earl_grey",
+            "word": "earl grey"
+        },
+        {
+            "id": "green_tea",
+            "word": "green tea"
+        },
+        {
+            "id": "herbal_tea",
+            "word": "herbal tea"
+        },
+        {
+            "id": "herb_tea",
+            "word": "herb tea"
+        },
+        {
+            "id": "hyson",
+            "word": "hyson"
+        },
+        {
+            "id": "iced_tea",
+            "word": "iced tea"
+        },
+        {
+            "id": "jasmine_tea",
+            "word": "jasmine tea"
+        },
+        {
+            "id": "keemun",
+            "word": "keemun"
+        },
+        {
+            "id": "lapsang_souchong",
+            "word": "lapsang souchong"
+        },
+        {
+            "id": "loose_tea",
+            "word": "loose tea"
+        },
+        {
+            "id": "mast",
+            "word": "mast"
+        },
+        {
+            "id": "matcha",
+            "word": "matcha"
+        },
+        {
+            "id": "morning_tea",
+            "word": "morning tea"
+        },
+        {
+            "id": "oolong",
+            "word": "oolong"
+        },
+        {
+            "id": "orange_pekoe",
+            "word": "orange pekoe"
+        },
+        {
+            "id": "pekoe",
+            "word": "pekoe"
+        },
+        {
+            "id": "pouchong",
+            "word": "pouchong"
+        },
+        {
+            "id": "red_tea",
+            "word": "red tea"
+        },
+        {
+            "id": "rosie_lee",
+            "word": "rosie lee"
+        },
+        {
+            "id": "russian_tea",
+            "word": "russian tea"
+        },
+        {
+            "id": "samovar",
+            "word": "samovar"
+        },
+        {
+            "id": "souchong",
+            "word": "souchong"
+        },
+        {
+            "id": "tea",
+            "word": "tea"
+        },
+        {
+            "id": "teabag",
+            "word": "teabag"
+        },
+        {
+            "id": "tea_ball",
+            "word": "tea ball"
+        },
+        {
+            "id": "tea_caddy",
+            "word": "tea caddy"
+        },
+        {
+            "id": "tea_ceremony",
+            "word": "tea ceremony"
+        },
+        {
+            "id": "tea_chest",
+            "word": "tea chest"
+        },
+        {
+            "id": "tea_cosy",
+            "word": "tea cosy"
+        },
+        {
+            "id": "teacup",
+            "word": "teacup"
+        },
+        {
+            "id": "tea_garden",
+            "word": "tea garden"
+        },
+        {
+            "id": "teahouse",
+            "word": "teahouse"
+        },
+        {
+            "id": "tea_leaf",
+            "word": "tea leaf"
+        },
+        {
+            "id": "tea_planter",
+            "word": "tea planter"
+        },
+        {
+            "id": "teapot",
+            "word": "teapot"
+        },
+        {
+            "id": "tea_set",
+            "word": "tea set"
+        },
+        {
+            "id": "teasmade",
+            "word": "teasmade"
+        },
+        {
+            "id": "tea_strainer",
+            "word": "tea strainer"
+        },
+        {
+            "id": "tisane",
+            "word": "tisane"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 58,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

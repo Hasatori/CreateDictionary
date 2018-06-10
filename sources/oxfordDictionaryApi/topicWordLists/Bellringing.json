@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 13
+    },
+    "results": [
+        {
+            "id": "bell-ringing",
+            "word": "bell-ringing"
+        },
+        {
+            "id": "bob",
+            "word": "bob"
+        },
+        {
+            "id": "call_changes",
+            "word": "call changes"
+        },
+        {
+            "id": "campanology",
+            "word": "campanology"
+        },
+        {
+            "id": "caters",
+            "word": "caters"
+        },
+        {
+            "id": "change-ringing",
+            "word": "change-ringing"
+        },
+        {
+            "id": "clapper",
+            "word": "clapper"
+        },
+        {
+            "id": "handstroke",
+            "word": "handstroke"
+        },
+        {
+            "id": "peal",
+            "word": "peal"
+        },
+        {
+            "id": "ring_someone%2Fsomething_in_%28or_out%29",
+            "word": "ring someone/something in (or out)"
+        },
+        {
+            "id": "ropesight",
+            "word": "ropesight"
+        },
+        {
+            "id": "sally",
+            "word": "sally"
+        },
+        {
+            "id": "stedman",
+            "word": "stedman"
+        }
+    ]
+}

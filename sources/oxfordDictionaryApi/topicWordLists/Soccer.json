@@ -1,0 +1,651 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 160,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "a.e.t.",
+            "word": "a.e.t."
+        },
+        {
+            "id": "all_whites",
+            "word": "all whites"
+        },
+        {
+            "id": "assistant_referee",
+            "word": "assistant referee"
+        },
+        {
+            "id": "back_four",
+            "word": "back four"
+        },
+        {
+            "id": "back_pass",
+            "word": "back pass"
+        },
+        {
+            "id": "ballboy",
+            "word": "ballboy"
+        },
+        {
+            "id": "ballgirl",
+            "word": "ballgirl"
+        },
+        {
+            "id": "ball_kid",
+            "word": "ball kid"
+        },
+        {
+            "id": "banks%2C_gordon",
+            "word": "banks, gordon"
+        },
+        {
+            "id": "beckenbauer%2C_franz",
+            "word": "beckenbauer, franz"
+        },
+        {
+            "id": "beckham%2C_david",
+            "word": "beckham, david"
+        },
+        {
+            "id": "best%2C_george",
+            "word": "best, george"
+        },
+        {
+            "id": "bosman",
+            "word": "bosman"
+        },
+        {
+            "id": "bundesliga",
+            "word": "bundesliga"
+        },
+        {
+            "id": "busby%2C_sir_matt",
+            "word": "busby, sir matt"
+        },
+        {
+            "id": "catenaccio",
+            "word": "catenaccio"
+        },
+        {
+            "id": "centre_back",
+            "word": "centre back"
+        },
+        {
+            "id": "centre_forward",
+            "word": "centre forward"
+        },
+        {
+            "id": "centre_half",
+            "word": "centre half"
+        },
+        {
+            "id": "champions_league",
+            "word": "champions league"
+        },
+        {
+            "id": "charlton%2C_bobby",
+            "word": "charlton, bobby"
+        },
+        {
+            "id": "charlton%2C_jack",
+            "word": "charlton, jack"
+        },
+        {
+            "id": "chase_the_game",
+            "word": "chase the game"
+        },
+        {
+            "id": "compton%2C_denis",
+            "word": "compton, denis"
+        },
+        {
+            "id": "corner_kick",
+            "word": "corner kick"
+        },
+        {
+            "id": "crossbar",
+            "word": "crossbar"
+        },
+        {
+            "id": "cruyff%2C_johan",
+            "word": "cruyff, johan"
+        },
+        {
+            "id": "cup_tie",
+            "word": "cup tie"
+        },
+        {
+            "id": "cup-tied",
+            "word": "cup-tied"
+        },
+        {
+            "id": "dalglish%2C_kenny",
+            "word": "dalglish, kenny"
+        },
+        {
+            "id": "di_stefano%2C_alfredo",
+            "word": "di stefano, alfredo"
+        },
+        {
+            "id": "eusebio",
+            "word": "eusebio"
+        },
+        {
+            "id": "fa",
+            "word": "fa"
+        },
+        {
+            "id": "fa_cup",
+            "word": "fa cup"
+        },
+        {
+            "id": "fc",
+            "word": "fc"
+        },
+        {
+            "id": "ferguson%2C_sir_alex",
+            "word": "ferguson, sir alex"
+        },
+        {
+            "id": "fifa",
+            "word": "fifa"
+        },
+        {
+            "id": "finney%2C_sir_tom",
+            "word": "finney, sir tom"
+        },
+        {
+            "id": "five-a-side",
+            "word": "five-a-side"
+        },
+        {
+            "id": "football",
+            "word": "football"
+        },
+        {
+            "id": "football_coach",
+            "word": "football coach"
+        },
+        {
+            "id": "footballer",
+            "word": "footballer"
+        },
+        {
+            "id": "football_game",
+            "word": "football game"
+        },
+        {
+            "id": "football_hooligan",
+            "word": "football hooligan"
+        },
+        {
+            "id": "footballing",
+            "word": "footballing"
+        },
+        {
+            "id": "football_match",
+            "word": "football match"
+        },
+        {
+            "id": "football_player",
+            "word": "football player"
+        },
+        {
+            "id": "football_season",
+            "word": "football season"
+        },
+        {
+            "id": "football_special",
+            "word": "football special"
+        },
+        {
+            "id": "football_supporter",
+            "word": "football supporter"
+        },
+        {
+            "id": "footer",
+            "word": "footer"
+        },
+        {
+            "id": "fourth_official",
+            "word": "fourth official"
+        },
+        {
+            "id": "free_kick",
+            "word": "free kick"
+        },
+        {
+            "id": "futsal",
+            "word": "futsal"
+        },
+        {
+            "id": "galactico",
+            "word": "galactico"
+        },
+        {
+            "id": "goal",
+            "word": "goal"
+        },
+        {
+            "id": "goal_area",
+            "word": "goal area"
+        },
+        {
+            "id": "goal_average",
+            "word": "goal average"
+        },
+        {
+            "id": "goal_difference",
+            "word": "goal difference"
+        },
+        {
+            "id": "goalhanger",
+            "word": "goalhanger"
+        },
+        {
+            "id": "goal_kick",
+            "word": "goal kick"
+        },
+        {
+            "id": "goalless",
+            "word": "goalless"
+        },
+        {
+            "id": "goal_line",
+            "word": "goal line"
+        },
+        {
+            "id": "goalmouth",
+            "word": "goalmouth"
+        },
+        {
+            "id": "goalwards",
+            "word": "goalwards"
+        },
+        {
+            "id": "golden_goal",
+            "word": "golden goal"
+        },
+        {
+            "id": "greaves%2C_jimmy",
+            "word": "greaves, jimmy"
+        },
+        {
+            "id": "hack",
+            "word": "hack"
+        },
+        {
+            "id": "half-volley",
+            "word": "half-volley"
+        },
+        {
+            "id": "halfway_line",
+            "word": "halfway line"
+        },
+        {
+            "id": "handle",
+            "word": "handle"
+        },
+        {
+            "id": "header",
+            "word": "header"
+        },
+        {
+            "id": "hospital_pass",
+            "word": "hospital pass"
+        },
+        {
+            "id": "in_goal",
+            "word": "in goal"
+        },
+        {
+            "id": "injury_time",
+            "word": "injury time"
+        },
+        {
+            "id": "inside_forward",
+            "word": "inside forward"
+        },
+        {
+            "id": "inside_left",
+            "word": "inside left"
+        },
+        {
+            "id": "inside_right",
+            "word": "inside right"
+        },
+        {
+            "id": "keegan%2C_kevin",
+            "word": "keegan, kevin"
+        },
+        {
+            "id": "keepy-uppy",
+            "word": "keepy-uppy"
+        },
+        {
+            "id": "kick-and-rush",
+            "word": "kick-and-rush"
+        },
+        {
+            "id": "kick_off",
+            "word": "kick off"
+        },
+        {
+            "id": "kick-off",
+            "word": "kick-off"
+        },
+        {
+            "id": "ko",
+            "word": "ko"
+        },
+        {
+            "id": "kop",
+            "word": "kop"
+        },
+        {
+            "id": "la_liga",
+            "word": "la liga"
+        },
+        {
+            "id": "law%2C_sir_denis",
+            "word": "law, sir denis"
+        },
+        {
+            "id": "lay_something_off",
+            "word": "lay something off"
+        },
+        {
+            "id": "left_back",
+            "word": "left back"
+        },
+        {
+            "id": "libero",
+            "word": "libero"
+        },
+        {
+            "id": "lineker%2C_gary",
+            "word": "lineker, gary"
+        },
+        {
+            "id": "linesman",
+            "word": "linesman"
+        },
+        {
+            "id": "maradona%2C_diego",
+            "word": "maradona, diego"
+        },
+        {
+            "id": "marksman",
+            "word": "marksman"
+        },
+        {
+            "id": "matthews%2C_sir_stanley",
+            "word": "matthews, sir stanley"
+        },
+        {
+            "id": "midfield",
+            "word": "midfield"
+        },
+        {
+            "id": "midfielder",
+            "word": "midfielder"
+        },
+        {
+            "id": "moore%2C_bobby",
+            "word": "moore, bobby"
+        },
+        {
+            "id": "no-score_draw",
+            "word": "no-score draw"
+        },
+        {
+            "id": "offside",
+            "word": "offside"
+        },
+        {
+            "id": "off_the_ball",
+            "word": "off the ball"
+        },
+        {
+            "id": "onion_bag",
+            "word": "onion bag"
+        },
+        {
+            "id": "outside_left",
+            "word": "outside left"
+        },
+        {
+            "id": "outside_right",
+            "word": "outside right"
+        },
+        {
+            "id": "own_goal",
+            "word": "own goal"
+        },
+        {
+            "id": "parachute_payment",
+            "word": "parachute payment"
+        },
+        {
+            "id": "pel%C3%A9",
+            "word": "pelé"
+        },
+        {
+            "id": "penalty_area",
+            "word": "penalty area"
+        },
+        {
+            "id": "penalty_kick",
+            "word": "penalty kick"
+        },
+        {
+            "id": "penalty_spot",
+            "word": "penalty spot"
+        },
+        {
+            "id": "place_kick",
+            "word": "place kick"
+        },
+        {
+            "id": "play-off",
+            "word": "play-off"
+        },
+        {
+            "id": "premier_league",
+            "word": "premier league"
+        },
+        {
+            "id": "professional_foul",
+            "word": "professional foul"
+        },
+        {
+            "id": "punt",
+            "word": "punt"
+        },
+        {
+            "id": "puskas%2C_ferenc",
+            "word": "puskas, ferenc"
+        },
+        {
+            "id": "rabona",
+            "word": "rabona"
+        },
+        {
+            "id": "ramsey%2C_sir_alf",
+            "word": "ramsey, sir alf"
+        },
+        {
+            "id": "red_card",
+            "word": "red card"
+        },
+        {
+            "id": "referee%27s_assistant",
+            "word": "referee's assistant"
+        },
+        {
+            "id": "right_back",
+            "word": "right back"
+        },
+        {
+            "id": "ronaldo",
+            "word": "ronaldo"
+        },
+        {
+            "id": "rooney%2C_wayne",
+            "word": "rooney, wayne"
+        },
+        {
+            "id": "route_one",
+            "word": "route one"
+        },
+        {
+            "id": "score_draw",
+            "word": "score draw"
+        },
+        {
+            "id": "scudetto",
+            "word": "scudetto"
+        },
+        {
+            "id": "sending_off",
+            "word": "sending off"
+        },
+        {
+            "id": "serie_a",
+            "word": "serie a"
+        },
+        {
+            "id": "shankly%2C_bill",
+            "word": "shankly, bill"
+        },
+        {
+            "id": "shilton%2C_peter",
+            "word": "shilton, peter"
+        },
+        {
+            "id": "shoot-out",
+            "word": "shoot-out"
+        },
+        {
+            "id": "short_corner",
+            "word": "short corner"
+        },
+        {
+            "id": "shot_on_goal",
+            "word": "shot on goal"
+        },
+        {
+            "id": "side-foot",
+            "word": "side-foot"
+        },
+        {
+            "id": "soccer",
+            "word": "soccer"
+        },
+        {
+            "id": "socceroos",
+            "word": "socceroos"
+        },
+        {
+            "id": "spl",
+            "word": "spl"
+        },
+        {
+            "id": "tap-in",
+            "word": "tap-in"
+        },
+        {
+            "id": "target_man",
+            "word": "target man"
+        },
+        {
+            "id": "technical_area",
+            "word": "technical area"
+        },
+        {
+            "id": "the_beautiful_game",
+            "word": "the beautiful game"
+        },
+        {
+            "id": "the_old_firm",
+            "word": "the old firm"
+        },
+        {
+            "id": "through_ball",
+            "word": "through ball"
+        },
+        {
+            "id": "throw-in",
+            "word": "throw-in"
+        },
+        {
+            "id": "tiki-taka",
+            "word": "tiki-taka"
+        },
+        {
+            "id": "total_football",
+            "word": "total football"
+        },
+        {
+            "id": "touchline",
+            "word": "touchline"
+        },
+        {
+            "id": "transfer_list",
+            "word": "transfer list"
+        },
+        {
+            "id": "transfer_window",
+            "word": "transfer window"
+        },
+        {
+            "id": "uefa",
+            "word": "uefa"
+        },
+        {
+            "id": "utd",
+            "word": "utd"
+        },
+        {
+            "id": "vanishing_spray",
+            "word": "vanishing spray"
+        },
+        {
+            "id": "vuvuzela",
+            "word": "vuvuzela"
+        },
+        {
+            "id": "wall_pass",
+            "word": "wall pass"
+        },
+        {
+            "id": "wantaway",
+            "word": "wantaway"
+        },
+        {
+            "id": "wing_back",
+            "word": "wing back"
+        },
+        {
+            "id": "wing_half",
+            "word": "wing half"
+        },
+        {
+            "id": "world_cup",
+            "word": "world cup"
+        },
+        {
+            "id": "wright%2C_billy",
+            "word": "wright, billy"
+        },
+        {
+            "id": "yellow_card",
+            "word": "yellow card"
+        }
+    ]
+}

@@ -1,0 +1,383 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 93
+    },
+    "results": [
+        {
+            "id": "abseil",
+            "word": "abseil"
+        },
+        {
+            "id": "abseiling",
+            "word": "abseiling"
+        },
+        {
+            "id": "aid_climbing",
+            "word": "aid climbing"
+        },
+        {
+            "id": "alpenstock",
+            "word": "alpenstock"
+        },
+        {
+            "id": "alpinist",
+            "word": "alpinist"
+        },
+        {
+            "id": "artificial_aid",
+            "word": "artificial aid"
+        },
+        {
+            "id": "base_camp",
+            "word": "base camp"
+        },
+        {
+            "id": "belay",
+            "word": "belay"
+        },
+        {
+            "id": "belaying_pin",
+            "word": "belaying pin"
+        },
+        {
+            "id": "bivouac",
+            "word": "bivouac"
+        },
+        {
+            "id": "bivouac_bag",
+            "word": "bivouac bag"
+        },
+        {
+            "id": "bivouac_sack",
+            "word": "bivouac sack"
+        },
+        {
+            "id": "bivvy_bag",
+            "word": "bivvy bag"
+        },
+        {
+            "id": "bivvy_sack",
+            "word": "bivvy sack"
+        },
+        {
+            "id": "bolting",
+            "word": "bolting"
+        },
+        {
+            "id": "bong",
+            "word": "bong"
+        },
+        {
+            "id": "bonington%2C_chris",
+            "word": "bonington, chris"
+        },
+        {
+            "id": "bouldering",
+            "word": "bouldering"
+        },
+        {
+            "id": "bridging",
+            "word": "bridging"
+        },
+        {
+            "id": "chockstone",
+            "word": "chockstone"
+        },
+        {
+            "id": "chossy",
+            "word": "chossy"
+        },
+        {
+            "id": "climbing",
+            "word": "climbing"
+        },
+        {
+            "id": "climbing_irons",
+            "word": "climbing irons"
+        },
+        {
+            "id": "climbing_wall",
+            "word": "climbing wall"
+        },
+        {
+            "id": "cragsman",
+            "word": "cragsman"
+        },
+        {
+            "id": "crampon",
+            "word": "crampon"
+        },
+        {
+            "id": "descendeur",
+            "word": "descendeur"
+        },
+        {
+            "id": "etrier",
+            "word": "etrier"
+        },
+        {
+            "id": "finger_jam",
+            "word": "finger jam"
+        },
+        {
+            "id": "free_climber",
+            "word": "free climber"
+        },
+        {
+            "id": "free_climbing",
+            "word": "free climbing"
+        },
+        {
+            "id": "glissade",
+            "word": "glissade"
+        },
+        {
+            "id": "grappling_hook",
+            "word": "grappling hook"
+        },
+        {
+            "id": "guide",
+            "word": "guide"
+        },
+        {
+            "id": "hand_jam",
+            "word": "hand jam"
+        },
+        {
+            "id": "hand-jamming",
+            "word": "hand-jamming"
+        },
+        {
+            "id": "hand_traverse",
+            "word": "hand traverse"
+        },
+        {
+            "id": "hillary%2C_sir_edmund",
+            "word": "hillary, sir edmund"
+        },
+        {
+            "id": "ice_axe",
+            "word": "ice axe"
+        },
+        {
+            "id": "ice_chimney",
+            "word": "ice chimney"
+        },
+        {
+            "id": "ice_climbing",
+            "word": "ice climbing"
+        },
+        {
+            "id": "ice_hook",
+            "word": "ice hook"
+        },
+        {
+            "id": "ice_pick",
+            "word": "ice pick"
+        },
+        {
+            "id": "ice_piton",
+            "word": "ice piton"
+        },
+        {
+            "id": "jumar",
+            "word": "jumar"
+        },
+        {
+            "id": "karabiner",
+            "word": "karabiner"
+        },
+        {
+            "id": "kletterschuh",
+            "word": "kletterschuh"
+        },
+        {
+            "id": "layback",
+            "word": "layback"
+        },
+        {
+            "id": "mantelshelf",
+            "word": "mantelshelf"
+        },
+        {
+            "id": "mauvais_pas",
+            "word": "mauvais pas"
+        },
+        {
+            "id": "mountain_climbing",
+            "word": "mountain climbing"
+        },
+        {
+            "id": "mountaineer",
+            "word": "mountaineer"
+        },
+        {
+            "id": "mountaineering",
+            "word": "mountaineering"
+        },
+        {
+            "id": "munro",
+            "word": "munro"
+        },
+        {
+            "id": "munro-bagger",
+            "word": "munro-bagger"
+        },
+        {
+            "id": "munro-bagging",
+            "word": "munro-bagging"
+        },
+        {
+            "id": "munroist",
+            "word": "munroist"
+        },
+        {
+            "id": "objective_danger",
+            "word": "objective danger"
+        },
+        {
+            "id": "off-width",
+            "word": "off-width"
+        },
+        {
+            "id": "on_the_rope",
+            "word": "on the rope"
+        },
+        {
+            "id": "peg-climbing",
+            "word": "peg-climbing"
+        },
+        {
+            "id": "pendule",
+            "word": "pendule"
+        },
+        {
+            "id": "pied_d%27%C3%A9l%C3%A9phant",
+            "word": "pied d'éléphant"
+        },
+        {
+            "id": "piolet",
+            "word": "piolet"
+        },
+        {
+            "id": "piton",
+            "word": "piton"
+        },
+        {
+            "id": "pressure_hold",
+            "word": "pressure hold"
+        },
+        {
+            "id": "prusik",
+            "word": "prusik"
+        },
+        {
+            "id": "push_hold",
+            "word": "push hold"
+        },
+        {
+            "id": "rib_riding",
+            "word": "rib riding"
+        },
+        {
+            "id": "rimaye",
+            "word": "rimaye"
+        },
+        {
+            "id": "rock-climb",
+            "word": "rock-climb"
+        },
+        {
+            "id": "rock_climbing",
+            "word": "rock climbing"
+        },
+        {
+            "id": "rock_jock",
+            "word": "rock jock"
+        },
+        {
+            "id": "rock_peg",
+            "word": "rock peg"
+        },
+        {
+            "id": "rock_pitch",
+            "word": "rock pitch"
+        },
+        {
+            "id": "ropemanship",
+            "word": "ropemanship"
+        },
+        {
+            "id": "running_belay",
+            "word": "running belay"
+        },
+        {
+            "id": "rurp",
+            "word": "rurp"
+        },
+        {
+            "id": "scrambling",
+            "word": "scrambling"
+        },
+        {
+            "id": "screwgate",
+            "word": "screwgate"
+        },
+        {
+            "id": "serac",
+            "word": "serac"
+        },
+        {
+            "id": "slab_avalanche",
+            "word": "slab avalanche"
+        },
+        {
+            "id": "snow-blind",
+            "word": "snow-blind"
+        },
+        {
+            "id": "snowblink",
+            "word": "snowblink"
+        },
+        {
+            "id": "tenzing_norgay",
+            "word": "tenzing norgay"
+        },
+        {
+            "id": "topo",
+            "word": "topo"
+        },
+        {
+            "id": "top_rope",
+            "word": "top rope"
+        },
+        {
+            "id": "unclimbed",
+            "word": "unclimbed"
+        },
+        {
+            "id": "undercling",
+            "word": "undercling"
+        },
+        {
+            "id": "unrope",
+            "word": "unrope"
+        },
+        {
+            "id": "via_ferrata",
+            "word": "via ferrata"
+        },
+        {
+            "id": "whymper%2C_edward",
+            "word": "whymper, edward"
+        },
+        {
+            "id": "windslab",
+            "word": "windslab"
+        }
+    ]
+}

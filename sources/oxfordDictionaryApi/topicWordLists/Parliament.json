@@ -1,0 +1,815 @@
+{
+    "results": [
+        {
+            "id": "adjournment_debate",
+            "word": "adjournment debate"
+        },
+        {
+            "id": "all-party",
+            "word": "all-party"
+        },
+        {
+            "id": "althing",
+            "word": "althing"
+        },
+        {
+            "id": "another_place",
+            "word": "another place"
+        },
+        {
+            "id": "apportionment",
+            "word": "apportionment"
+        },
+        {
+            "id": "assemblyman",
+            "word": "assemblyman"
+        },
+        {
+            "id": "assemblywoman",
+            "word": "assemblywoman"
+        },
+        {
+            "id": "backbench",
+            "word": "backbench"
+        },
+        {
+            "id": "backbencher",
+            "word": "backbencher"
+        },
+        {
+            "id": "backwoodsman",
+            "word": "backwoodsman"
+        },
+        {
+            "id": "bicameral",
+            "word": "bicameral"
+        },
+        {
+            "id": "black_rod",
+            "word": "black rod"
+        },
+        {
+            "id": "blue_book",
+            "word": "blue book"
+        },
+        {
+            "id": "bundesrat",
+            "word": "bundesrat"
+        },
+        {
+            "id": "bundestag",
+            "word": "bundestag"
+        },
+        {
+            "id": "cabinet_minister",
+            "word": "cabinet minister"
+        },
+        {
+            "id": "capitol_hill",
+            "word": "capitol hill"
+        },
+        {
+            "id": "carpetbagger",
+            "word": "carpetbagger"
+        },
+        {
+            "id": "carpetbagging",
+            "word": "carpetbagging"
+        },
+        {
+            "id": "cd.",
+            "word": "cd."
+        },
+        {
+            "id": "chamber",
+            "word": "chamber"
+        },
+        {
+            "id": "chamber_of_deputies",
+            "word": "chamber of deputies"
+        },
+        {
+            "id": "chancellor_of_the_duchy_of_lancaster",
+            "word": "chancellor of the duchy of lancaster"
+        },
+        {
+            "id": "chapter",
+            "word": "chapter"
+        },
+        {
+            "id": "chiltern_hundreds",
+            "word": "chiltern hundreds"
+        },
+        {
+            "id": "cm.",
+            "word": "cm."
+        },
+        {
+            "id": "cmd.",
+            "word": "cmd."
+        },
+        {
+            "id": "cmnd.",
+            "word": "cmnd."
+        },
+        {
+            "id": "coalition",
+            "word": "coalition"
+        },
+        {
+            "id": "command_paper",
+            "word": "command paper"
+        },
+        {
+            "id": "committee_stage",
+            "word": "committee stage"
+        },
+        {
+            "id": "con.",
+            "word": "con."
+        },
+        {
+            "id": "congressional",
+            "word": "congressional"
+        },
+        {
+            "id": "congressionally",
+            "word": "congressionally"
+        },
+        {
+            "id": "cons.",
+            "word": "cons."
+        },
+        {
+            "id": "constituency",
+            "word": "constituency"
+        },
+        {
+            "id": "cortes",
+            "word": "cortes"
+        },
+        {
+            "id": "cross_bench",
+            "word": "cross bench"
+        },
+        {
+            "id": "cross-voting",
+            "word": "cross-voting"
+        },
+        {
+            "id": "d%C3%A1il",
+            "word": "dáil"
+        },
+        {
+            "id": "dem.",
+            "word": "dem."
+        },
+        {
+            "id": "deputy",
+            "word": "deputy"
+        },
+        {
+            "id": "die_on_the_order_paper",
+            "word": "die on the order paper"
+        },
+        {
+            "id": "diet",
+            "word": "diet"
+        },
+        {
+            "id": "division_bell",
+            "word": "division bell"
+        },
+        {
+            "id": "dorothy_dix",
+            "word": "dorothy dix"
+        },
+        {
+            "id": "double_dissolution",
+            "word": "double dissolution"
+        },
+        {
+            "id": "downing_street",
+            "word": "downing street"
+        },
+        {
+            "id": "early_day_motion",
+            "word": "early day motion"
+        },
+        {
+            "id": "edm",
+            "word": "edm"
+        },
+        {
+            "id": "electoral_college",
+            "word": "electoral college"
+        },
+        {
+            "id": "euro-mp",
+            "word": "euro-mp"
+        },
+        {
+            "id": "european_parliament",
+            "word": "european parliament"
+        },
+        {
+            "id": "father_of_the_house",
+            "word": "father of the house"
+        },
+        {
+            "id": "filibuster",
+            "word": "filibuster"
+        },
+        {
+            "id": "finance_bill",
+            "word": "finance bill"
+        },
+        {
+            "id": "foggy_bottom",
+            "word": "foggy bottom"
+        },
+        {
+            "id": "foreign_minister",
+            "word": "foreign minister"
+        },
+        {
+            "id": "foreign_ministry",
+            "word": "foreign ministry"
+        },
+        {
+            "id": "free_vote",
+            "word": "free vote"
+        },
+        {
+            "id": "front_bench",
+            "word": "front bench"
+        },
+        {
+            "id": "general_seat",
+            "word": "general seat"
+        },
+        {
+            "id": "grand_committee",
+            "word": "grand committee"
+        },
+        {
+            "id": "hansard",
+            "word": "hansard"
+        },
+        {
+            "id": "house_of_commons",
+            "word": "house of commons"
+        },
+        {
+            "id": "house_of_keys",
+            "word": "house of keys"
+        },
+        {
+            "id": "house_of_lords",
+            "word": "house of lords"
+        },
+        {
+            "id": "house_of_representatives",
+            "word": "house of representatives"
+        },
+        {
+            "id": "houses_of_parliament",
+            "word": "houses of parliament"
+        },
+        {
+            "id": "hung_parliament",
+            "word": "hung parliament"
+        },
+        {
+            "id": "hybrid_bill",
+            "word": "hybrid bill"
+        },
+        {
+            "id": "in_opposition",
+            "word": "in opposition"
+        },
+        {
+            "id": "interpellate",
+            "word": "interpellate"
+        },
+        {
+            "id": "intitule",
+            "word": "intitule"
+        },
+        {
+            "id": "jirga",
+            "word": "jirga"
+        },
+        {
+            "id": "joint_resolution",
+            "word": "joint resolution"
+        },
+        {
+            "id": "junior_minister",
+            "word": "junior minister"
+        },
+        {
+            "id": "knesset",
+            "word": "knesset"
+        },
+        {
+            "id": "lab.",
+            "word": "lab."
+        },
+        {
+            "id": "lady",
+            "word": "lady"
+        },
+        {
+            "id": "leader",
+            "word": "leader"
+        },
+        {
+            "id": "lib.",
+            "word": "lib."
+        },
+        {
+            "id": "list_system",
+            "word": "list system"
+        },
+        {
+            "id": "lobby_correspondent",
+            "word": "lobby correspondent"
+        },
+        {
+            "id": "lok_sabha",
+            "word": "lok sabha"
+        },
+        {
+            "id": "lord_president_of_the_council",
+            "word": "lord president of the council"
+        },
+        {
+            "id": "lord_privy_seal",
+            "word": "lord privy seal"
+        },
+        {
+            "id": "lords_spiritual",
+            "word": "lords spiritual"
+        },
+        {
+            "id": "lords_temporal",
+            "word": "lords temporal"
+        },
+        {
+            "id": "lower_chamber",
+            "word": "lower chamber"
+        },
+        {
+            "id": "lower_house",
+            "word": "lower house"
+        },
+        {
+            "id": "mace",
+            "word": "mace"
+        },
+        {
+            "id": "majlis",
+            "word": "majlis"
+        },
+        {
+            "id": "make_a_house",
+            "word": "make a house"
+        },
+        {
+            "id": "manifesto",
+            "word": "manifesto"
+        },
+        {
+            "id": "maori_seat",
+            "word": "maori seat"
+        },
+        {
+            "id": "mep",
+            "word": "mep"
+        },
+        {
+            "id": "mhk",
+            "word": "mhk"
+        },
+        {
+            "id": "mhr",
+            "word": "mhr"
+        },
+        {
+            "id": "minister",
+            "word": "minister"
+        },
+        {
+            "id": "ministerial",
+            "word": "ministerial"
+        },
+        {
+            "id": "minister_of_state",
+            "word": "minister of state"
+        },
+        {
+            "id": "minister_of_the_crown",
+            "word": "minister of the crown"
+        },
+        {
+            "id": "minister_without_portfolio",
+            "word": "minister without portfolio"
+        },
+        {
+            "id": "ministry",
+            "word": "ministry"
+        },
+        {
+            "id": "minority_government",
+            "word": "minority government"
+        },
+        {
+            "id": "minority_report",
+            "word": "minority report"
+        },
+        {
+            "id": "mla",
+            "word": "mla"
+        },
+        {
+            "id": "mlc",
+            "word": "mlc"
+        },
+        {
+            "id": "mna",
+            "word": "mna"
+        },
+        {
+            "id": "morning_sitting",
+            "word": "morning sitting"
+        },
+        {
+            "id": "mp",
+            "word": "mp"
+        },
+        {
+            "id": "msp",
+            "word": "msp"
+        },
+        {
+            "id": "multiparty",
+            "word": "multiparty"
+        },
+        {
+            "id": "my_honourable_friend",
+            "word": "my honourable friend"
+        },
+        {
+            "id": "my_noble_friend",
+            "word": "my noble friend"
+        },
+        {
+            "id": "my_right_honourable_friend",
+            "word": "my right honourable friend"
+        },
+        {
+            "id": "national_assembly",
+            "word": "national assembly"
+        },
+        {
+            "id": "non-content",
+            "word": "non-content"
+        },
+        {
+            "id": "non-ministerial",
+            "word": "non-ministerial"
+        },
+        {
+            "id": "obstructionism",
+            "word": "obstructionism"
+        },
+        {
+            "id": "off_year",
+            "word": "off year"
+        },
+        {
+            "id": "oireachtas",
+            "word": "oireachtas"
+        },
+        {
+            "id": "on_report",
+            "word": "on report"
+        },
+        {
+            "id": "order_paper",
+            "word": "order paper"
+        },
+        {
+            "id": "own_affair",
+            "word": "own affair"
+        },
+        {
+            "id": "pack",
+            "word": "pack"
+        },
+        {
+            "id": "parl.",
+            "word": "parl."
+        },
+        {
+            "id": "parliament",
+            "word": "parliament"
+        },
+        {
+            "id": "parliamentarian",
+            "word": "parliamentarian"
+        },
+        {
+            "id": "parliamentary",
+            "word": "parliamentary"
+        },
+        {
+            "id": "parliamentary_party",
+            "word": "parliamentary party"
+        },
+        {
+            "id": "parliamentary_private_secretary",
+            "word": "parliamentary private secretary"
+        },
+        {
+            "id": "parliamentary_undersecretary",
+            "word": "parliamentary undersecretary"
+        },
+        {
+            "id": "parliament_hill",
+            "word": "parliament hill"
+        },
+        {
+            "id": "party_list",
+            "word": "party list"
+        },
+        {
+            "id": "peer_of_the_realm",
+            "word": "peer of the realm"
+        },
+        {
+            "id": "permanent_undersecretary",
+            "word": "permanent undersecretary"
+        },
+        {
+            "id": "pocket_veto",
+            "word": "pocket veto"
+        },
+        {
+            "id": "political_action_committee",
+            "word": "political action committee"
+        },
+        {
+            "id": "press_gallery",
+            "word": "press gallery"
+        },
+        {
+            "id": "previous_question",
+            "word": "previous question"
+        },
+        {
+            "id": "private_bill",
+            "word": "private bill"
+        },
+        {
+            "id": "private_member",
+            "word": "private member"
+        },
+        {
+            "id": "private_member%27s_bill",
+            "word": "private member's bill"
+        },
+        {
+            "id": "prorogation",
+            "word": "prorogation"
+        },
+        {
+            "id": "prorogue",
+            "word": "prorogue"
+        },
+        {
+            "id": "queen%27s_speech",
+            "word": "queen's speech"
+        },
+        {
+            "id": "question_time",
+            "word": "question time"
+        },
+        {
+            "id": "rajya_sabha",
+            "word": "rajya sabha"
+        },
+        {
+            "id": "reasoned_amendment",
+            "word": "reasoned amendment"
+        },
+        {
+            "id": "recommit",
+            "word": "recommit"
+        },
+        {
+            "id": "red_box",
+            "word": "red box"
+        },
+        {
+            "id": "reform_act",
+            "word": "reform act"
+        },
+        {
+            "id": "reichstag",
+            "word": "reichstag"
+        },
+        {
+            "id": "rep.",
+            "word": "rep."
+        },
+        {
+            "id": "repeal",
+            "word": "repeal"
+        },
+        {
+            "id": "report_stage",
+            "word": "report stage"
+        },
+        {
+            "id": "resident_commissioner",
+            "word": "resident commissioner"
+        },
+        {
+            "id": "right_honourable",
+            "word": "right honourable"
+        },
+        {
+            "id": "royal_assent",
+            "word": "royal assent"
+        },
+        {
+            "id": "rules_committee",
+            "word": "rules committee"
+        },
+        {
+            "id": "runanga",
+            "word": "runanga"
+        },
+        {
+            "id": "safe_seat",
+            "word": "safe seat"
+        },
+        {
+            "id": "seanad",
+            "word": "seanad"
+        },
+        {
+            "id": "second_chamber",
+            "word": "second chamber"
+        },
+        {
+            "id": "second_reading",
+            "word": "second reading"
+        },
+        {
+            "id": "sejm",
+            "word": "sejm"
+        },
+        {
+            "id": "senate",
+            "word": "senate"
+        },
+        {
+            "id": "senedd",
+            "word": "senedd"
+        },
+        {
+            "id": "shadow_cabinet",
+            "word": "shadow cabinet"
+        },
+        {
+            "id": "stalking_horse",
+            "word": "stalking horse"
+        },
+        {
+            "id": "stand_aside",
+            "word": "stand aside"
+        },
+        {
+            "id": "stand_down",
+            "word": "stand down"
+        },
+        {
+            "id": "states_general",
+            "word": "states general"
+        },
+        {
+            "id": "storting",
+            "word": "storting"
+        },
+        {
+            "id": "st_stephens",
+            "word": "st stephens"
+        },
+        {
+            "id": "take_one%27s_seat",
+            "word": "take one's seat"
+        },
+        {
+            "id": "talk_something_out",
+            "word": "talk something out"
+        },
+        {
+            "id": "teachta_d%C3%A1la",
+            "word": "teachta dála"
+        },
+        {
+            "id": "ten-minute_rule",
+            "word": "ten-minute rule"
+        },
+        {
+            "id": "third_reading",
+            "word": "third reading"
+        },
+        {
+            "id": "three-line_whip",
+            "word": "three-line whip"
+        },
+        {
+            "id": "treasury_bench",
+            "word": "treasury bench"
+        },
+        {
+            "id": "tricameral",
+            "word": "tricameral"
+        },
+        {
+            "id": "tynwald",
+            "word": "tynwald"
+        },
+        {
+            "id": "undersecretary",
+            "word": "undersecretary"
+        },
+        {
+            "id": "unicameral",
+            "word": "unicameral"
+        },
+        {
+            "id": "university_member",
+            "word": "university member"
+        },
+        {
+            "id": "unparliamentary",
+            "word": "unparliamentary"
+        },
+        {
+            "id": "unwhipped",
+            "word": "unwhipped"
+        },
+        {
+            "id": "upper_house",
+            "word": "upper house"
+        },
+        {
+            "id": "vote_of_confidence",
+            "word": "vote of confidence"
+        },
+        {
+            "id": "vote_of_no_confidence_%28or_vote_of_censure%29",
+            "word": "vote of no confidence (or vote of censure)"
+        },
+        {
+            "id": "westminster",
+            "word": "westminster"
+        },
+        {
+            "id": "westminster%2C_palace_of",
+            "word": "westminster, palace of"
+        },
+        {
+            "id": "westminster_village",
+            "word": "westminster village"
+        },
+        {
+            "id": "whipless",
+            "word": "whipless"
+        },
+        {
+            "id": "whitehall",
+            "word": "whitehall"
+        },
+        {
+            "id": "white_paper",
+            "word": "white paper"
+        },
+        {
+            "id": "woolsack",
+            "word": "woolsack"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 201,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

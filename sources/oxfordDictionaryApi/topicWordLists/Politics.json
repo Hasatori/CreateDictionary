@@ -1,0 +1,5939 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 1482,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "9%2F11",
+            "word": "9/11"
+        },
+        {
+            "id": "abdication",
+            "word": "abdication"
+        },
+        {
+            "id": "aboriginal_and_torres_strait_islander_commission",
+            "word": "aboriginal and torres strait islander commission"
+        },
+        {
+            "id": "aboriginalization",
+            "word": "aboriginalization"
+        },
+        {
+            "id": "aboriginal_tent_embassy",
+            "word": "aboriginal tent embassy"
+        },
+        {
+            "id": "absolute_majority",
+            "word": "absolute majority"
+        },
+        {
+            "id": "absolutism",
+            "word": "absolutism"
+        },
+        {
+            "id": "absolutist",
+            "word": "absolutist"
+        },
+        {
+            "id": "accc",
+            "word": "accc"
+        },
+        {
+            "id": "accommodationist",
+            "word": "accommodationist"
+        },
+        {
+            "id": "aclu",
+            "word": "aclu"
+        },
+        {
+            "id": "acoss",
+            "word": "acoss"
+        },
+        {
+            "id": "action_group",
+            "word": "action group"
+        },
+        {
+            "id": "activism",
+            "word": "activism"
+        },
+        {
+            "id": "activist",
+            "word": "activist"
+        },
+        {
+            "id": "act_of_state",
+            "word": "act of state"
+        },
+        {
+            "id": "adullamite",
+            "word": "adullamite"
+        },
+        {
+            "id": "affirmative_action",
+            "word": "affirmative action"
+        },
+        {
+            "id": "afl-cio",
+            "word": "afl-cio"
+        },
+        {
+            "id": "african_national_congress",
+            "word": "african national congress"
+        },
+        {
+            "id": "african_union",
+            "word": "african union"
+        },
+        {
+            "id": "afrikanerbond",
+            "word": "afrikanerbond"
+        },
+        {
+            "id": "agent_general",
+            "word": "agent general"
+        },
+        {
+            "id": "agitational",
+            "word": "agitational"
+        },
+        {
+            "id": "agitprop",
+            "word": "agitprop"
+        },
+        {
+            "id": "agroterrorism",
+            "word": "agroterrorism"
+        },
+        {
+            "id": "akali",
+            "word": "akali"
+        },
+        {
+            "id": "alderman",
+            "word": "alderman"
+        },
+        {
+            "id": "allied",
+            "word": "allied"
+        },
+        {
+            "id": "al-nakba",
+            "word": "al-nakba"
+        },
+        {
+            "id": "ambassador",
+            "word": "ambassador"
+        },
+        {
+            "id": "ambassador-at-large",
+            "word": "ambassador-at-large"
+        },
+        {
+            "id": "ambassador_extraordinary",
+            "word": "ambassador extraordinary"
+        },
+        {
+            "id": "ambassador_plenipotentiary",
+            "word": "ambassador plenipotentiary"
+        },
+        {
+            "id": "amnesty_international",
+            "word": "amnesty international"
+        },
+        {
+            "id": "anarchic",
+            "word": "anarchic"
+        },
+        {
+            "id": "anarchism",
+            "word": "anarchism"
+        },
+        {
+            "id": "anarchist",
+            "word": "anarchist"
+        },
+        {
+            "id": "anchor_baby",
+            "word": "anchor baby"
+        },
+        {
+            "id": "ancien_r%C3%A9gime",
+            "word": "ancien régime"
+        },
+        {
+            "id": "androcracy",
+            "word": "androcracy"
+        },
+        {
+            "id": "androcratic",
+            "word": "androcratic"
+        },
+        {
+            "id": "anti-apartheid",
+            "word": "anti-apartheid"
+        },
+        {
+            "id": "anti-communist",
+            "word": "anti-communist"
+        },
+        {
+            "id": "anti-constitutional",
+            "word": "anti-constitutional"
+        },
+        {
+            "id": "anti-corn-law_league",
+            "word": "anti-corn-law league"
+        },
+        {
+            "id": "anti-discrimination",
+            "word": "anti-discrimination"
+        },
+        {
+            "id": "antifa",
+            "word": "antifa"
+        },
+        {
+            "id": "anti-fascist",
+            "word": "anti-fascist"
+        },
+        {
+            "id": "antiglobalization",
+            "word": "antiglobalization"
+        },
+        {
+            "id": "anti-government",
+            "word": "anti-government"
+        },
+        {
+            "id": "anti-nuclear",
+            "word": "anti-nuclear"
+        },
+        {
+            "id": "anti-racism",
+            "word": "anti-racism"
+        },
+        {
+            "id": "anti-racist",
+            "word": "anti-racist"
+        },
+        {
+            "id": "apartheid",
+            "word": "apartheid"
+        },
+        {
+            "id": "apolitical",
+            "word": "apolitical"
+        },
+        {
+            "id": "apolitically",
+            "word": "apolitically"
+        },
+        {
+            "id": "apparat",
+            "word": "apparat"
+        },
+        {
+            "id": "apparatchik",
+            "word": "apparatchik"
+        },
+        {
+            "id": "approval_rating",
+            "word": "approval rating"
+        },
+        {
+            "id": "arabist",
+            "word": "arabist"
+        },
+        {
+            "id": "ard_fheis",
+            "word": "ard fheis"
+        },
+        {
+            "id": "aristocracy",
+            "word": "aristocracy"
+        },
+        {
+            "id": "aristocrat",
+            "word": "aristocrat"
+        },
+        {
+            "id": "aristocratic",
+            "word": "aristocratic"
+        },
+        {
+            "id": "arms_control",
+            "word": "arms control"
+        },
+        {
+            "id": "asio",
+            "word": "asio"
+        },
+        {
+            "id": "association_of_southeast_asian_nations",
+            "word": "association of southeast asian nations"
+        },
+        {
+            "id": "astroturfing",
+            "word": "astroturfing"
+        },
+        {
+            "id": "asylum_seeker",
+            "word": "asylum seeker"
+        },
+        {
+            "id": "atlanticism",
+            "word": "atlanticism"
+        },
+        {
+            "id": "atsic",
+            "word": "atsic"
+        },
+        {
+            "id": "attach%C3%A9",
+            "word": "attaché"
+        },
+        {
+            "id": "australian_competition_and_consumer_commission",
+            "word": "australian competition and consumer commission"
+        },
+        {
+            "id": "australian_council_of_social_service",
+            "word": "australian council of social service"
+        },
+        {
+            "id": "australian_labor_party",
+            "word": "australian labor party"
+        },
+        {
+            "id": "australian_security_intelligence_organisation",
+            "word": "australian security intelligence organisation"
+        },
+        {
+            "id": "austro-",
+            "word": "austro-"
+        },
+        {
+            "id": "autocracy",
+            "word": "autocracy"
+        },
+        {
+            "id": "autocrat",
+            "word": "autocrat"
+        },
+        {
+            "id": "autocratic",
+            "word": "autocratic"
+        },
+        {
+            "id": "autonomous",
+            "word": "autonomous"
+        },
+        {
+            "id": "autonomy",
+            "word": "autonomy"
+        },
+        {
+            "id": "baathism",
+            "word": "baathism"
+        },
+        {
+            "id": "baathist",
+            "word": "baathist"
+        },
+        {
+            "id": "baath_party",
+            "word": "baath party"
+        },
+        {
+            "id": "backward_classes",
+            "word": "backward classes"
+        },
+        {
+            "id": "balance_of_power",
+            "word": "balance of power"
+        },
+        {
+            "id": "balkanize",
+            "word": "balkanize"
+        },
+        {
+            "id": "better_dead_than_red_%28or_better_red_than_dead%29",
+            "word": "better dead than red (or better red than dead)"
+        },
+        {
+            "id": "big_government",
+            "word": "big government"
+        },
+        {
+            "id": "big_society",
+            "word": "big society"
+        },
+        {
+            "id": "big_tent",
+            "word": "big tent"
+        },
+        {
+            "id": "bilat",
+            "word": "bilat"
+        },
+        {
+            "id": "bipartisan",
+            "word": "bipartisan"
+        },
+        {
+            "id": "bipartisanship",
+            "word": "bipartisanship"
+        },
+        {
+            "id": "bircher",
+            "word": "bircher"
+        },
+        {
+            "id": "birtherism",
+            "word": "birtherism"
+        },
+        {
+            "id": "birthright_citizenship",
+            "word": "birthright citizenship"
+        },
+        {
+            "id": "bismarckian",
+            "word": "bismarckian"
+        },
+        {
+            "id": "black_bloc",
+            "word": "black bloc"
+        },
+        {
+            "id": "black_lives_matter",
+            "word": "black lives matter"
+        },
+        {
+            "id": "black_nationalism",
+            "word": "black nationalism"
+        },
+        {
+            "id": "black_operations",
+            "word": "black operations"
+        },
+        {
+            "id": "black_power",
+            "word": "black power"
+        },
+        {
+            "id": "blairism",
+            "word": "blairism"
+        },
+        {
+            "id": "blairite",
+            "word": "blairite"
+        },
+        {
+            "id": "blind_trust",
+            "word": "blind trust"
+        },
+        {
+            "id": "bloc",
+            "word": "bloc"
+        },
+        {
+            "id": "body_man",
+            "word": "body man"
+        },
+        {
+            "id": "body_politic",
+            "word": "body politic"
+        },
+        {
+            "id": "bolshevik",
+            "word": "bolshevik"
+        },
+        {
+            "id": "bolshevism",
+            "word": "bolshevism"
+        },
+        {
+            "id": "bolshevist",
+            "word": "bolshevist"
+        },
+        {
+            "id": "boom_and_bust",
+            "word": "boom and bust"
+        },
+        {
+            "id": "born-free",
+            "word": "born-free"
+        },
+        {
+            "id": "bourgeois",
+            "word": "bourgeois"
+        },
+        {
+            "id": "bourgeoisie",
+            "word": "bourgeoisie"
+        },
+        {
+            "id": "boycott",
+            "word": "boycott"
+        },
+        {
+            "id": "branch_stacker",
+            "word": "branch stacker"
+        },
+        {
+            "id": "branch_stacking",
+            "word": "branch stacking"
+        },
+        {
+            "id": "brexit",
+            "word": "brexit"
+        },
+        {
+            "id": "brexiteer",
+            "word": "brexiteer"
+        },
+        {
+            "id": "brexiter",
+            "word": "brexiter"
+        },
+        {
+            "id": "briefer",
+            "word": "briefer"
+        },
+        {
+            "id": "british_national_party",
+            "word": "british national party"
+        },
+        {
+            "id": "british_overseas_territory",
+            "word": "british overseas territory"
+        },
+        {
+            "id": "british_union_of_fascists",
+            "word": "british union of fascists"
+        },
+        {
+            "id": "brownite",
+            "word": "brownite"
+        },
+        {
+            "id": "brownshirt",
+            "word": "brownshirt"
+        },
+        {
+            "id": "buffer_state",
+            "word": "buffer state"
+        },
+        {
+            "id": "bully_pulpit",
+            "word": "bully pulpit"
+        },
+        {
+            "id": "bumbledom",
+            "word": "bumbledom"
+        },
+        {
+            "id": "bund",
+            "word": "bund"
+        },
+        {
+            "id": "bureaucracy",
+            "word": "bureaucracy"
+        },
+        {
+            "id": "bureaucrat",
+            "word": "bureaucrat"
+        },
+        {
+            "id": "bureaucratize",
+            "word": "bureaucratize"
+        },
+        {
+            "id": "bushism",
+            "word": "bushism"
+        },
+        {
+            "id": "%C3%A9migr%C3%A9",
+            "word": "émigré"
+        },
+        {
+            "id": "ca%27canny",
+            "word": "ca'canny"
+        },
+        {
+            "id": "cabildo",
+            "word": "cabildo"
+        },
+        {
+            "id": "cacique",
+            "word": "cacique"
+        },
+        {
+            "id": "campaign_for_nuclear_disarmament",
+            "word": "campaign for nuclear disarmament"
+        },
+        {
+            "id": "capitalism",
+            "word": "capitalism"
+        },
+        {
+            "id": "capitalist",
+            "word": "capitalist"
+        },
+        {
+            "id": "capitalistic",
+            "word": "capitalistic"
+        },
+        {
+            "id": "capitol",
+            "word": "capitol"
+        },
+        {
+            "id": "caribbean_community_and_common_market",
+            "word": "caribbean community and common market"
+        },
+        {
+            "id": "carlism",
+            "word": "carlism"
+        },
+        {
+            "id": "casteism",
+            "word": "casteism"
+        },
+        {
+            "id": "casting_vote",
+            "word": "casting vote"
+        },
+        {
+            "id": "caucusgoer",
+            "word": "caucusgoer"
+        },
+        {
+            "id": "centralism",
+            "word": "centralism"
+        },
+        {
+            "id": "centralist",
+            "word": "centralist"
+        },
+        {
+            "id": "centralization",
+            "word": "centralization"
+        },
+        {
+            "id": "centralize",
+            "word": "centralize"
+        },
+        {
+            "id": "centrist",
+            "word": "centrist"
+        },
+        {
+            "id": "chakka_jam",
+            "word": "chakka jam"
+        },
+        {
+            "id": "chancellor_of_the_exchequer",
+            "word": "chancellor of the exchequer"
+        },
+        {
+            "id": "charg%C3%A9_d%27affaires",
+            "word": "chargé d'affaires"
+        },
+        {
+            "id": "chartism",
+            "word": "chartism"
+        },
+        {
+            "id": "checks_and_balances",
+            "word": "checks and balances"
+        },
+        {
+            "id": "chronicler",
+            "word": "chronicler"
+        },
+        {
+            "id": "chronographer",
+            "word": "chronographer"
+        },
+        {
+            "id": "citizen",
+            "word": "citizen"
+        },
+        {
+            "id": "citizen%27s_charter",
+            "word": "citizen's charter"
+        },
+        {
+            "id": "city_hall",
+            "word": "city hall"
+        },
+        {
+            "id": "civic",
+            "word": "civic"
+        },
+        {
+            "id": "civic_nationalism",
+            "word": "civic nationalism"
+        },
+        {
+            "id": "civil_disobedience",
+            "word": "civil disobedience"
+        },
+        {
+            "id": "civil_servant",
+            "word": "civil servant"
+        },
+        {
+            "id": "civil_service",
+            "word": "civil service"
+        },
+        {
+            "id": "civil_society",
+            "word": "civil society"
+        },
+        {
+            "id": "civil_war",
+            "word": "civil war"
+        },
+        {
+            "id": "class_struggle",
+            "word": "class struggle"
+        },
+        {
+            "id": "clicktivist",
+            "word": "clicktivist"
+        },
+        {
+            "id": "clientelism",
+            "word": "clientelism"
+        },
+        {
+            "id": "closer_settlement",
+            "word": "closer settlement"
+        },
+        {
+            "id": "cold_war",
+            "word": "cold war"
+        },
+        {
+            "id": "cold_warrior",
+            "word": "cold warrior"
+        },
+        {
+            "id": "collective_ownership",
+            "word": "collective ownership"
+        },
+        {
+            "id": "collective_security",
+            "word": "collective security"
+        },
+        {
+            "id": "collectivism",
+            "word": "collectivism"
+        },
+        {
+            "id": "collectivize",
+            "word": "collectivize"
+        },
+        {
+            "id": "collectorate",
+            "word": "collectorate"
+        },
+        {
+            "id": "colonialism",
+            "word": "colonialism"
+        },
+        {
+            "id": "colonialist",
+            "word": "colonialist"
+        },
+        {
+            "id": "colonization",
+            "word": "colonization"
+        },
+        {
+            "id": "colony",
+            "word": "colony"
+        },
+        {
+            "id": "colour_bar",
+            "word": "colour bar"
+        },
+        {
+            "id": "comecon",
+            "word": "comecon"
+        },
+        {
+            "id": "comintern",
+            "word": "comintern"
+        },
+        {
+            "id": "comity",
+            "word": "comity"
+        },
+        {
+            "id": "commie",
+            "word": "commie"
+        },
+        {
+            "id": "commissar",
+            "word": "commissar"
+        },
+        {
+            "id": "commissary",
+            "word": "commissary"
+        },
+        {
+            "id": "committee",
+            "word": "committee"
+        },
+        {
+            "id": "committeeman",
+            "word": "committeeman"
+        },
+        {
+            "id": "committeewoman",
+            "word": "committeewoman"
+        },
+        {
+            "id": "common_agricultural_policy",
+            "word": "common agricultural policy"
+        },
+        {
+            "id": "commons",
+            "word": "commons"
+        },
+        {
+            "id": "commonwealth",
+            "word": "commonwealth"
+        },
+        {
+            "id": "communalism",
+            "word": "communalism"
+        },
+        {
+            "id": "communard",
+            "word": "communard"
+        },
+        {
+            "id": "communism",
+            "word": "communism"
+        },
+        {
+            "id": "communist",
+            "word": "communist"
+        },
+        {
+            "id": "communitarianism",
+            "word": "communitarianism"
+        },
+        {
+            "id": "community_organizer",
+            "word": "community organizer"
+        },
+        {
+            "id": "community_organizing",
+            "word": "community organizing"
+        },
+        {
+            "id": "comprador",
+            "word": "comprador"
+        },
+        {
+            "id": "concordat",
+            "word": "concordat"
+        },
+        {
+            "id": "confederacy",
+            "word": "confederacy"
+        },
+        {
+            "id": "confederal",
+            "word": "confederal"
+        },
+        {
+            "id": "confederate",
+            "word": "confederate"
+        },
+        {
+            "id": "confederation",
+            "word": "confederation"
+        },
+        {
+            "id": "conference_on_disarmament",
+            "word": "conference on disarmament"
+        },
+        {
+            "id": "congress",
+            "word": "congress"
+        },
+        {
+            "id": "congressman",
+            "word": "congressman"
+        },
+        {
+            "id": "congresswoman",
+            "word": "congresswoman"
+        },
+        {
+            "id": "consciousness-raising",
+            "word": "consciousness-raising"
+        },
+        {
+            "id": "conservative_party",
+            "word": "conservative party"
+        },
+        {
+            "id": "consociation",
+            "word": "consociation"
+        },
+        {
+            "id": "consociational",
+            "word": "consociational"
+        },
+        {
+            "id": "constitution",
+            "word": "constitution"
+        },
+        {
+            "id": "constitutional",
+            "word": "constitutional"
+        },
+        {
+            "id": "constitutionalism",
+            "word": "constitutionalism"
+        },
+        {
+            "id": "constitutionality",
+            "word": "constitutionality"
+        },
+        {
+            "id": "constitutionally",
+            "word": "constitutionally"
+        },
+        {
+            "id": "consulate",
+            "word": "consulate"
+        },
+        {
+            "id": "consul_general",
+            "word": "consul general"
+        },
+        {
+            "id": "contender",
+            "word": "contender"
+        },
+        {
+            "id": "contra",
+            "word": "contra"
+        },
+        {
+            "id": "corporate_state",
+            "word": "corporate state"
+        },
+        {
+            "id": "corporate_welfare_bum",
+            "word": "corporate welfare bum"
+        },
+        {
+            "id": "corporatocracy",
+            "word": "corporatocracy"
+        },
+        {
+            "id": "corporator",
+            "word": "corporator"
+        },
+        {
+            "id": "corrupt_practice",
+            "word": "corrupt practice"
+        },
+        {
+            "id": "co-signatory",
+            "word": "co-signatory"
+        },
+        {
+            "id": "council",
+            "word": "council"
+        },
+        {
+            "id": "councillor",
+            "word": "councillor"
+        },
+        {
+            "id": "councilman",
+            "word": "councilman"
+        },
+        {
+            "id": "councilwoman",
+            "word": "councilwoman"
+        },
+        {
+            "id": "counsellor_of_state",
+            "word": "counsellor of state"
+        },
+        {
+            "id": "counterdemonstration",
+            "word": "counterdemonstration"
+        },
+        {
+            "id": "counterproliferation",
+            "word": "counterproliferation"
+        },
+        {
+            "id": "counter-revolution",
+            "word": "counter-revolution"
+        },
+        {
+            "id": "counter-revolutionary",
+            "word": "counter-revolutionary"
+        },
+        {
+            "id": "country",
+            "word": "country"
+        },
+        {
+            "id": "country_party",
+            "word": "country party"
+        },
+        {
+            "id": "county_council",
+            "word": "county council"
+        },
+        {
+            "id": "county_councillor",
+            "word": "county councillor"
+        },
+        {
+            "id": "cr",
+            "word": "cr"
+        },
+        {
+            "id": "-cracy",
+            "word": "-cracy"
+        },
+        {
+            "id": "-crat",
+            "word": "-crat"
+        },
+        {
+            "id": "-cratic",
+            "word": "-cratic"
+        },
+        {
+            "id": "cross-party",
+            "word": "cross-party"
+        },
+        {
+            "id": "crown_agents",
+            "word": "crown agents"
+        },
+        {
+            "id": "crown_colony",
+            "word": "crown colony"
+        },
+        {
+            "id": "crown_dependency",
+            "word": "crown dependency"
+        },
+        {
+            "id": "csr",
+            "word": "csr"
+        },
+        {
+            "id": "cuck",
+            "word": "cuck"
+        },
+        {
+            "id": "cuckservative",
+            "word": "cuckservative"
+        },
+        {
+            "id": "customary_right",
+            "word": "customary right"
+        },
+        {
+            "id": "customs_union",
+            "word": "customs union"
+        },
+        {
+            "id": "cwlth",
+            "word": "cwlth"
+        },
+        {
+            "id": "d",
+            "word": "d"
+        },
+        {
+            "id": "daimyo",
+            "word": "daimyo"
+        },
+        {
+            "id": "dalai_lama",
+            "word": "dalai lama"
+        },
+        {
+            "id": "dark_money",
+            "word": "dark money"
+        },
+        {
+            "id": "dazibao",
+            "word": "dazibao"
+        },
+        {
+            "id": "d%C3%A9marche",
+            "word": "démarche"
+        },
+        {
+            "id": "dead-ender",
+            "word": "dead-ender"
+        },
+        {
+            "id": "dealmaker",
+            "word": "dealmaker"
+        },
+        {
+            "id": "death_camp",
+            "word": "death camp"
+        },
+        {
+            "id": "debatable",
+            "word": "debatable"
+        },
+        {
+            "id": "decapitation",
+            "word": "decapitation"
+        },
+        {
+            "id": "decentralist",
+            "word": "decentralist"
+        },
+        {
+            "id": "decentralization",
+            "word": "decentralization"
+        },
+        {
+            "id": "declassify",
+            "word": "declassify"
+        },
+        {
+            "id": "declinism",
+            "word": "declinism"
+        },
+        {
+            "id": "decolonization",
+            "word": "decolonization"
+        },
+        {
+            "id": "decolonize",
+            "word": "decolonize"
+        },
+        {
+            "id": "decommunize",
+            "word": "decommunize"
+        },
+        {
+            "id": "decontrol",
+            "word": "decontrol"
+        },
+        {
+            "id": "deep_state",
+            "word": "deep state"
+        },
+        {
+            "id": "defect",
+            "word": "defect"
+        },
+        {
+            "id": "defection",
+            "word": "defection"
+        },
+        {
+            "id": "defector",
+            "word": "defector"
+        },
+        {
+            "id": "deficiency_payment",
+            "word": "deficiency payment"
+        },
+        {
+            "id": "deindustrialization",
+            "word": "deindustrialization"
+        },
+        {
+            "id": "deindustrialize",
+            "word": "deindustrialize"
+        },
+        {
+            "id": "delegate",
+            "word": "delegate"
+        },
+        {
+            "id": "delink",
+            "word": "delink"
+        },
+        {
+            "id": "demagogue",
+            "word": "demagogue"
+        },
+        {
+            "id": "demagoguery",
+            "word": "demagoguery"
+        },
+        {
+            "id": "demagogy",
+            "word": "demagogy"
+        },
+        {
+            "id": "demassify",
+            "word": "demassify"
+        },
+        {
+            "id": "democracy",
+            "word": "democracy"
+        },
+        {
+            "id": "democrat",
+            "word": "democrat"
+        },
+        {
+            "id": "democratic",
+            "word": "democratic"
+        },
+        {
+            "id": "democratically",
+            "word": "democratically"
+        },
+        {
+            "id": "democratic_centralism",
+            "word": "democratic centralism"
+        },
+        {
+            "id": "democratic_party",
+            "word": "democratic party"
+        },
+        {
+            "id": "democratic-republican_party",
+            "word": "democratic-republican party"
+        },
+        {
+            "id": "democratic_unionist_party",
+            "word": "democratic unionist party"
+        },
+        {
+            "id": "democratization",
+            "word": "democratization"
+        },
+        {
+            "id": "democratize",
+            "word": "democratize"
+        },
+        {
+            "id": "denationalize",
+            "word": "denationalize"
+        },
+        {
+            "id": "dependency",
+            "word": "dependency"
+        },
+        {
+            "id": "deputy_lieutenant",
+            "word": "deputy lieutenant"
+        },
+        {
+            "id": "derecognition",
+            "word": "derecognition"
+        },
+        {
+            "id": "derecognize",
+            "word": "derecognize"
+        },
+        {
+            "id": "deregulation",
+            "word": "deregulation"
+        },
+        {
+            "id": "desaparecido",
+            "word": "desaparecido"
+        },
+        {
+            "id": "descamisado",
+            "word": "descamisado"
+        },
+        {
+            "id": "desegregate",
+            "word": "desegregate"
+        },
+        {
+            "id": "desegregation",
+            "word": "desegregation"
+        },
+        {
+            "id": "despotism",
+            "word": "despotism"
+        },
+        {
+            "id": "destabilization",
+            "word": "destabilization"
+        },
+        {
+            "id": "destabilize",
+            "word": "destabilize"
+        },
+        {
+            "id": "detainee",
+            "word": "detainee"
+        },
+        {
+            "id": "detente",
+            "word": "detente"
+        },
+        {
+            "id": "developing_country",
+            "word": "developing country"
+        },
+        {
+            "id": "devo",
+            "word": "devo"
+        },
+        {
+            "id": "devolution",
+            "word": "devolution"
+        },
+        {
+            "id": "devo_max",
+            "word": "devo max"
+        },
+        {
+            "id": "dialectical_materialism",
+            "word": "dialectical materialism"
+        },
+        {
+            "id": "diarchy",
+            "word": "diarchy"
+        },
+        {
+            "id": "dictator",
+            "word": "dictator"
+        },
+        {
+            "id": "dictatorship",
+            "word": "dictatorship"
+        },
+        {
+            "id": "diktat",
+            "word": "diktat"
+        },
+        {
+            "id": "diplomatic_bag",
+            "word": "diplomatic bag"
+        },
+        {
+            "id": "diplomatic_corps",
+            "word": "diplomatic corps"
+        },
+        {
+            "id": "diplomatic_immunity",
+            "word": "diplomatic immunity"
+        },
+        {
+            "id": "direct_action",
+            "word": "direct action"
+        },
+        {
+            "id": "direct_rule",
+            "word": "direct rule"
+        },
+        {
+            "id": "dirigisme",
+            "word": "dirigisme"
+        },
+        {
+            "id": "dirigiste",
+            "word": "dirigiste"
+        },
+        {
+            "id": "dirty_trick",
+            "word": "dirty trick"
+        },
+        {
+            "id": "disenfranchisement",
+            "word": "disenfranchisement"
+        },
+        {
+            "id": "disloyalty",
+            "word": "disloyalty"
+        },
+        {
+            "id": "dissident",
+            "word": "dissident"
+        },
+        {
+            "id": "dissolution",
+            "word": "dissolution"
+        },
+        {
+            "id": "district_plan",
+            "word": "district plan"
+        },
+        {
+            "id": "dixiecrat",
+            "word": "dixiecrat"
+        },
+        {
+            "id": "d-notice",
+            "word": "d-notice"
+        },
+        {
+            "id": "doctrine",
+            "word": "doctrine"
+        },
+        {
+            "id": "dod",
+            "word": "dod"
+        },
+        {
+            "id": "dog_whistle",
+            "word": "dog whistle"
+        },
+        {
+            "id": "dollar_diplomacy",
+            "word": "dollar diplomacy"
+        },
+        {
+            "id": "doublethink",
+            "word": "doublethink"
+        },
+        {
+            "id": "dovish",
+            "word": "dovish"
+        },
+        {
+            "id": "dream_ticket",
+            "word": "dream ticket"
+        },
+        {
+            "id": "duma",
+            "word": "duma"
+        },
+        {
+            "id": "dup",
+            "word": "dup"
+        },
+        {
+            "id": "dystopian",
+            "word": "dystopian"
+        },
+        {
+            "id": "eastern_bloc",
+            "word": "eastern bloc"
+        },
+        {
+            "id": "echr",
+            "word": "echr"
+        },
+        {
+            "id": "economic_and_social_committee",
+            "word": "economic and social committee"
+        },
+        {
+            "id": "egalitarian",
+            "word": "egalitarian"
+        },
+        {
+            "id": "egalitarianism",
+            "word": "egalitarianism"
+        },
+        {
+            "id": "elder_statesman",
+            "word": "elder statesman"
+        },
+        {
+            "id": "elective",
+            "word": "elective"
+        },
+        {
+            "id": "electorate_mp",
+            "word": "electorate mp"
+        },
+        {
+            "id": "electorate_vote",
+            "word": "electorate vote"
+        },
+        {
+            "id": "elitism",
+            "word": "elitism"
+        },
+        {
+            "id": "elitist",
+            "word": "elitist"
+        },
+        {
+            "id": "emancipation",
+            "word": "emancipation"
+        },
+        {
+            "id": "embourgeoisement",
+            "word": "embourgeoisement"
+        },
+        {
+            "id": "emir",
+            "word": "emir"
+        },
+        {
+            "id": "empire",
+            "word": "empire"
+        },
+        {
+            "id": "employment_office",
+            "word": "employment office"
+        },
+        {
+            "id": "enclave",
+            "word": "enclave"
+        },
+        {
+            "id": "enosis",
+            "word": "enosis"
+        },
+        {
+            "id": "entente",
+            "word": "entente"
+        },
+        {
+            "id": "entryism",
+            "word": "entryism"
+        },
+        {
+            "id": "envoy",
+            "word": "envoy"
+        },
+        {
+            "id": "eoc",
+            "word": "eoc"
+        },
+        {
+            "id": "eoka",
+            "word": "eoka"
+        },
+        {
+            "id": "eplf",
+            "word": "eplf"
+        },
+        {
+            "id": "equality_rights",
+            "word": "equality rights"
+        },
+        {
+            "id": "equalization_payment",
+            "word": "equalization payment"
+        },
+        {
+            "id": "erewhonian",
+            "word": "erewhonian"
+        },
+        {
+            "id": "esrc",
+            "word": "esrc"
+        },
+        {
+            "id": "eta",
+            "word": "eta"
+        },
+        {
+            "id": "ethnic_cleansing",
+            "word": "ethnic cleansing"
+        },
+        {
+            "id": "ethnonationalism",
+            "word": "ethnonationalism"
+        },
+        {
+            "id": "ethnonationalist",
+            "word": "ethnonationalist"
+        },
+        {
+            "id": "euro_area",
+            "word": "euro area"
+        },
+        {
+            "id": "eurocommunism",
+            "word": "eurocommunism"
+        },
+        {
+            "id": "eurocrat",
+            "word": "eurocrat"
+        },
+        {
+            "id": "europe",
+            "word": "europe"
+        },
+        {
+            "id": "europe%2C_council_of",
+            "word": "europe, council of"
+        },
+        {
+            "id": "european_atomic_energy_community",
+            "word": "european atomic energy community"
+        },
+        {
+            "id": "european_bank_for_reconstruction_and_development",
+            "word": "european bank for reconstruction and development"
+        },
+        {
+            "id": "european_coal_and_steel_community",
+            "word": "european coal and steel community"
+        },
+        {
+            "id": "european_commission",
+            "word": "european commission"
+        },
+        {
+            "id": "european_commission_for_human_rights",
+            "word": "european commission for human rights"
+        },
+        {
+            "id": "european_community",
+            "word": "european community"
+        },
+        {
+            "id": "european_convention_on_human_rights",
+            "word": "european convention on human rights"
+        },
+        {
+            "id": "european_council",
+            "word": "european council"
+        },
+        {
+            "id": "european_court_of_human_rights",
+            "word": "european court of human rights"
+        },
+        {
+            "id": "european_court_of_justice",
+            "word": "european court of justice"
+        },
+        {
+            "id": "european_economic_community",
+            "word": "european economic community"
+        },
+        {
+            "id": "european_free_trade_association",
+            "word": "european free trade association"
+        },
+        {
+            "id": "european_investment_bank",
+            "word": "european investment bank"
+        },
+        {
+            "id": "europeanize",
+            "word": "europeanize"
+        },
+        {
+            "id": "european_monetary_union",
+            "word": "european monetary union"
+        },
+        {
+            "id": "european_union",
+            "word": "european union"
+        },
+        {
+            "id": "europhile",
+            "word": "europhile"
+        },
+        {
+            "id": "europhobe",
+            "word": "europhobe"
+        },
+        {
+            "id": "eurosceptic",
+            "word": "eurosceptic"
+        },
+        {
+            "id": "exceptionalism",
+            "word": "exceptionalism"
+        },
+        {
+            "id": "exchequer",
+            "word": "exchequer"
+        },
+        {
+            "id": "exclave",
+            "word": "exclave"
+        },
+        {
+            "id": "exclusionist",
+            "word": "exclusionist"
+        },
+        {
+            "id": "executive",
+            "word": "executive"
+        },
+        {
+            "id": "executive_federalism",
+            "word": "executive federalism"
+        },
+        {
+            "id": "executive_privilege",
+            "word": "executive privilege"
+        },
+        {
+            "id": "executive_session",
+            "word": "executive session"
+        },
+        {
+            "id": "exequatur",
+            "word": "exequatur"
+        },
+        {
+            "id": "exit_visa",
+            "word": "exit visa"
+        },
+        {
+            "id": "expansion",
+            "word": "expansion"
+        },
+        {
+            "id": "expatriate",
+            "word": "expatriate"
+        },
+        {
+            "id": "expropriate",
+            "word": "expropriate"
+        },
+        {
+            "id": "expropriation",
+            "word": "expropriation"
+        },
+        {
+            "id": "extremism",
+            "word": "extremism"
+        },
+        {
+            "id": "extremist",
+            "word": "extremist"
+        },
+        {
+            "id": "fabian",
+            "word": "fabian"
+        },
+        {
+            "id": "factional",
+            "word": "factional"
+        },
+        {
+            "id": "factious",
+            "word": "factious"
+        },
+        {
+            "id": "failed_state",
+            "word": "failed state"
+        },
+        {
+            "id": "faithless_elector",
+            "word": "faithless elector"
+        },
+        {
+            "id": "falange",
+            "word": "falange"
+        },
+        {
+            "id": "falangism",
+            "word": "falangism"
+        },
+        {
+            "id": "falangist",
+            "word": "falangist"
+        },
+        {
+            "id": "family_benefit",
+            "word": "family benefit"
+        },
+        {
+            "id": "fanatic",
+            "word": "fanatic"
+        },
+        {
+            "id": "farc",
+            "word": "farc"
+        },
+        {
+            "id": "far_left",
+            "word": "far left"
+        },
+        {
+            "id": "far_right",
+            "word": "far right"
+        },
+        {
+            "id": "fasces",
+            "word": "fasces"
+        },
+        {
+            "id": "fascism",
+            "word": "fascism"
+        },
+        {
+            "id": "fascist",
+            "word": "fascist"
+        },
+        {
+            "id": "fascistic",
+            "word": "fascistic"
+        },
+        {
+            "id": "fatah",
+            "word": "fatah"
+        },
+        {
+            "id": "f%C3%BChrer",
+            "word": "führer"
+        },
+        {
+            "id": "federacy",
+            "word": "federacy"
+        },
+        {
+            "id": "federal",
+            "word": "federal"
+        },
+        {
+            "id": "federalism",
+            "word": "federalism"
+        },
+        {
+            "id": "federalist",
+            "word": "federalist"
+        },
+        {
+            "id": "federalist_party",
+            "word": "federalist party"
+        },
+        {
+            "id": "federalize",
+            "word": "federalize"
+        },
+        {
+            "id": "federally",
+            "word": "federally"
+        },
+        {
+            "id": "federate",
+            "word": "federate"
+        },
+        {
+            "id": "federated",
+            "word": "federated"
+        },
+        {
+            "id": "federation",
+            "word": "federation"
+        },
+        {
+            "id": "fellow_traveller",
+            "word": "fellow traveller"
+        },
+        {
+            "id": "fema",
+            "word": "fema"
+        },
+        {
+            "id": "feminism",
+            "word": "feminism"
+        },
+        {
+            "id": "femocrat",
+            "word": "femocrat"
+        },
+        {
+            "id": "fenian",
+            "word": "fenian"
+        },
+        {
+            "id": "fianna_f%C3%A1il",
+            "word": "fianna fáil"
+        },
+        {
+            "id": "fifth_republic",
+            "word": "fifth republic"
+        },
+        {
+            "id": "fifty-year_rule",
+            "word": "fifty-year rule"
+        },
+        {
+            "id": "fine_gael",
+            "word": "fine gael"
+        },
+        {
+            "id": "finlandization",
+            "word": "finlandization"
+        },
+        {
+            "id": "finlandize",
+            "word": "finlandize"
+        },
+        {
+            "id": "first_minister",
+            "word": "first minister"
+        },
+        {
+            "id": "first_reading",
+            "word": "first reading"
+        },
+        {
+            "id": "fiscal_envelope",
+            "word": "fiscal envelope"
+        },
+        {
+            "id": "five-year_plan",
+            "word": "five-year plan"
+        },
+        {
+            "id": "flag-waving",
+            "word": "flag-waving"
+        },
+        {
+            "id": "flq",
+            "word": "flq"
+        },
+        {
+            "id": "foreign_affairs",
+            "word": "foreign affairs"
+        },
+        {
+            "id": "foreign_and_commonwealth_office",
+            "word": "foreign and commonwealth office"
+        },
+        {
+            "id": "foreign_policy",
+            "word": "foreign policy"
+        },
+        {
+            "id": "foreign_secretary",
+            "word": "foreign secretary"
+        },
+        {
+            "id": "founding_father",
+            "word": "founding father"
+        },
+        {
+            "id": "fourierism",
+            "word": "fourierism"
+        },
+        {
+            "id": "fourth_republic",
+            "word": "fourth republic"
+        },
+        {
+            "id": "fourth_world",
+            "word": "fourth world"
+        },
+        {
+            "id": "framer",
+            "word": "framer"
+        },
+        {
+            "id": "francize",
+            "word": "francize"
+        },
+        {
+            "id": "franco-",
+            "word": "franco-"
+        },
+        {
+            "id": "francophonie",
+            "word": "francophonie"
+        },
+        {
+            "id": "freeborn",
+            "word": "freeborn"
+        },
+        {
+            "id": "freedom_fighter",
+            "word": "freedom fighter"
+        },
+        {
+            "id": "freedom_of_conscience",
+            "word": "freedom of conscience"
+        },
+        {
+            "id": "freedom_of_information_act",
+            "word": "freedom of information act"
+        },
+        {
+            "id": "free_enterprise",
+            "word": "free enterprise"
+        },
+        {
+            "id": "free_stater",
+            "word": "free stater"
+        },
+        {
+            "id": "frelimo",
+            "word": "frelimo"
+        },
+        {
+            "id": "frondeur",
+            "word": "frondeur"
+        },
+        {
+            "id": "front_de_lib%C3%A9ration_nationale",
+            "word": "front de libération nationale"
+        },
+        {
+            "id": "front-line_state",
+            "word": "front-line state"
+        },
+        {
+            "id": "fusionist",
+            "word": "fusionist"
+        },
+        {
+            "id": "g20",
+            "word": "g20"
+        },
+        {
+            "id": "g7",
+            "word": "g7"
+        },
+        {
+            "id": "g77",
+            "word": "g77"
+        },
+        {
+            "id": "g8",
+            "word": "g8"
+        },
+        {
+            "id": "gallup_poll",
+            "word": "gallup poll"
+        },
+        {
+            "id": "gandhian",
+            "word": "gandhian"
+        },
+        {
+            "id": "gang_of_four",
+            "word": "gang of four"
+        },
+        {
+            "id": "gaullism",
+            "word": "gaullism"
+        },
+        {
+            "id": "gay_rights",
+            "word": "gay rights"
+        },
+        {
+            "id": "gender_equality",
+            "word": "gender equality"
+        },
+        {
+            "id": "general_seat",
+            "word": "general seat"
+        },
+        {
+            "id": "geneva_convention",
+            "word": "geneva convention"
+        },
+        {
+            "id": "geneva_protocol",
+            "word": "geneva protocol"
+        },
+        {
+            "id": "geopolitical",
+            "word": "geopolitical"
+        },
+        {
+            "id": "geopolitician",
+            "word": "geopolitician"
+        },
+        {
+            "id": "geopolitics",
+            "word": "geopolitics"
+        },
+        {
+            "id": "geostrategic",
+            "word": "geostrategic"
+        },
+        {
+            "id": "germanize",
+            "word": "germanize"
+        },
+        {
+            "id": "gerontocracy",
+            "word": "gerontocracy"
+        },
+        {
+            "id": "gerontocrat",
+            "word": "gerontocrat"
+        },
+        {
+            "id": "gerrymander",
+            "word": "gerrymander"
+        },
+        {
+            "id": "gesture_politics",
+            "word": "gesture politics"
+        },
+        {
+            "id": "ginger_group",
+            "word": "ginger group"
+        },
+        {
+            "id": "gladstonian",
+            "word": "gladstonian"
+        },
+        {
+            "id": "glasnost",
+            "word": "glasnost"
+        },
+        {
+            "id": "gleichschaltung",
+            "word": "gleichschaltung"
+        },
+        {
+            "id": "globalism",
+            "word": "globalism"
+        },
+        {
+            "id": "gop",
+            "word": "gop"
+        },
+        {
+            "id": "go-slow",
+            "word": "go-slow"
+        },
+        {
+            "id": "gotv",
+            "word": "gotv"
+        },
+        {
+            "id": "government",
+            "word": "government"
+        },
+        {
+            "id": "governmental",
+            "word": "governmental"
+        },
+        {
+            "id": "government_house",
+            "word": "government house"
+        },
+        {
+            "id": "government_office",
+            "word": "government office"
+        },
+        {
+            "id": "government_official",
+            "word": "government official"
+        },
+        {
+            "id": "governor",
+            "word": "governor"
+        },
+        {
+            "id": "governor_general",
+            "word": "governor general"
+        },
+        {
+            "id": "governorship",
+            "word": "governorship"
+        },
+        {
+            "id": "govt",
+            "word": "govt"
+        },
+        {
+            "id": "grand_apartheid",
+            "word": "grand apartheid"
+        },
+        {
+            "id": "grand_duchy",
+            "word": "grand duchy"
+        },
+        {
+            "id": "grant-in-aid",
+            "word": "grant-in-aid"
+        },
+        {
+            "id": "great_power",
+            "word": "great power"
+        },
+        {
+            "id": "green_paper",
+            "word": "green paper"
+        },
+        {
+            "id": "green_party",
+            "word": "green party"
+        },
+        {
+            "id": "greenpeace",
+            "word": "greenpeace"
+        },
+        {
+            "id": "greenwash",
+            "word": "greenwash"
+        },
+        {
+            "id": "grexit",
+            "word": "grexit"
+        },
+        {
+            "id": "group_of_eight",
+            "word": "group of eight"
+        },
+        {
+            "id": "group_of_twenty",
+            "word": "group of twenty"
+        },
+        {
+            "id": "groupuscule",
+            "word": "groupuscule"
+        },
+        {
+            "id": "gynarchy",
+            "word": "gynarchy"
+        },
+        {
+            "id": "hamiltonianism",
+            "word": "hamiltonianism"
+        },
+        {
+            "id": "hammer_and_sickle",
+            "word": "hammer and sickle"
+        },
+        {
+            "id": "hansonite",
+            "word": "hansonite"
+        },
+        {
+            "id": "hard_power",
+            "word": "hard power"
+        },
+        {
+            "id": "hartal",
+            "word": "hartal"
+        },
+        {
+            "id": "hatemonger",
+            "word": "hatemonger"
+        },
+        {
+            "id": "headland_speech",
+            "word": "headland speech"
+        },
+        {
+            "id": "head_of_state",
+            "word": "head of state"
+        },
+        {
+            "id": "hegemony",
+            "word": "hegemony"
+        },
+        {
+            "id": "heptarchy",
+            "word": "heptarchy"
+        },
+        {
+            "id": "herrenvolk",
+            "word": "herrenvolk"
+        },
+        {
+            "id": "herut",
+            "word": "herut"
+        },
+        {
+            "id": "high_commission",
+            "word": "high commission"
+        },
+        {
+            "id": "hikoi",
+            "word": "hikoi"
+        },
+        {
+            "id": "hindutva",
+            "word": "hindutva"
+        },
+        {
+            "id": "hmg",
+            "word": "hmg"
+        },
+        {
+            "id": "holyrood",
+            "word": "holyrood"
+        },
+        {
+            "id": "home_country",
+            "word": "home country"
+        },
+        {
+            "id": "homeland_movement",
+            "word": "homeland movement"
+        },
+        {
+            "id": "homeland_security",
+            "word": "homeland security"
+        },
+        {
+            "id": "home_office",
+            "word": "home office"
+        },
+        {
+            "id": "home_rule",
+            "word": "home rule"
+        },
+        {
+            "id": "home_secretary",
+            "word": "home secretary"
+        },
+        {
+            "id": "honest_broker",
+            "word": "honest broker"
+        },
+        {
+            "id": "hot_war",
+            "word": "hot war"
+        },
+        {
+            "id": "house_un-american_activities_committee",
+            "word": "house un-american activities committee"
+        },
+        {
+            "id": "how-to-vote_card",
+            "word": "how-to-vote card"
+        },
+        {
+            "id": "human_right",
+            "word": "human right"
+        },
+        {
+            "id": "human_rights_act",
+            "word": "human rights act"
+        },
+        {
+            "id": "human_rights_activist",
+            "word": "human rights activist"
+        },
+        {
+            "id": "human_rights_campaign",
+            "word": "human rights campaign"
+        },
+        {
+            "id": "human_rights_campaigner",
+            "word": "human rights campaigner"
+        },
+        {
+            "id": "human_rights_group",
+            "word": "human rights group"
+        },
+        {
+            "id": "human_rights_movement",
+            "word": "human rights movement"
+        },
+        {
+            "id": "human_rights_record",
+            "word": "human rights record"
+        },
+        {
+            "id": "hunger_march",
+            "word": "hunger march"
+        },
+        {
+            "id": "icac",
+            "word": "icac"
+        },
+        {
+            "id": "identitarianism",
+            "word": "identitarianism"
+        },
+        {
+            "id": "identity_politics",
+            "word": "identity politics"
+        },
+        {
+            "id": "ideologue",
+            "word": "ideologue"
+        },
+        {
+            "id": "immigrant",
+            "word": "immigrant"
+        },
+        {
+            "id": "immobilism",
+            "word": "immobilism"
+        },
+        {
+            "id": "imperialism",
+            "word": "imperialism"
+        },
+        {
+            "id": "imperialist",
+            "word": "imperialist"
+        },
+        {
+            "id": "imperialistic",
+            "word": "imperialistic"
+        },
+        {
+            "id": "imperium",
+            "word": "imperium"
+        },
+        {
+            "id": "impossibilism",
+            "word": "impossibilism"
+        },
+        {
+            "id": "inauguration",
+            "word": "inauguration"
+        },
+        {
+            "id": "inauguration_day",
+            "word": "inauguration day"
+        },
+        {
+            "id": "incomes_policy",
+            "word": "incomes policy"
+        },
+        {
+            "id": "independence_day",
+            "word": "independence day"
+        },
+        {
+            "id": "independency",
+            "word": "independency"
+        },
+        {
+            "id": "independent_labour_party",
+            "word": "independent labour party"
+        },
+        {
+            "id": "indian_national_congress",
+            "word": "indian national congress"
+        },
+        {
+            "id": "indirect_rule",
+            "word": "indirect rule"
+        },
+        {
+            "id": "industrial_democracy",
+            "word": "industrial democracy"
+        },
+        {
+            "id": "industrial_workers_of_the_world",
+            "word": "industrial workers of the world"
+        },
+        {
+            "id": "inkatha",
+            "word": "inkatha"
+        },
+        {
+            "id": "inquilab",
+            "word": "inquilab"
+        },
+        {
+            "id": "instraw",
+            "word": "instraw"
+        },
+        {
+            "id": "insurgence",
+            "word": "insurgence"
+        },
+        {
+            "id": "insurgency",
+            "word": "insurgency"
+        },
+        {
+            "id": "insurgent",
+            "word": "insurgent"
+        },
+        {
+            "id": "insurrection",
+            "word": "insurrection"
+        },
+        {
+            "id": "intelligentsia",
+            "word": "intelligentsia"
+        },
+        {
+            "id": "inter-allied",
+            "word": "inter-allied"
+        },
+        {
+            "id": "inter-class",
+            "word": "inter-class"
+        },
+        {
+            "id": "intercolonial",
+            "word": "intercolonial"
+        },
+        {
+            "id": "interest_group",
+            "word": "interest group"
+        },
+        {
+            "id": "intergovernmental",
+            "word": "intergovernmental"
+        },
+        {
+            "id": "internationalism",
+            "word": "internationalism"
+        },
+        {
+            "id": "internationalist",
+            "word": "internationalist"
+        },
+        {
+            "id": "international_labour_organization",
+            "word": "international labour organization"
+        },
+        {
+            "id": "international_relations",
+            "word": "international relations"
+        },
+        {
+            "id": "interregnum",
+            "word": "interregnum"
+        },
+        {
+            "id": "intervention",
+            "word": "intervention"
+        },
+        {
+            "id": "interventionist",
+            "word": "interventionist"
+        },
+        {
+            "id": "interwar",
+            "word": "interwar"
+        },
+        {
+            "id": "intifada",
+            "word": "intifada"
+        },
+        {
+            "id": "irgun",
+            "word": "irgun"
+        },
+        {
+            "id": "irish_national_liberation_army",
+            "word": "irish national liberation army"
+        },
+        {
+            "id": "irish_republican_army",
+            "word": "irish republican army"
+        },
+        {
+            "id": "iron_curtain",
+            "word": "iron curtain"
+        },
+        {
+            "id": "iron_fist",
+            "word": "iron fist"
+        },
+        {
+            "id": "iron-fisted",
+            "word": "iron-fisted"
+        },
+        {
+            "id": "iron_guard",
+            "word": "iron guard"
+        },
+        {
+            "id": "irredentism",
+            "word": "irredentism"
+        },
+        {
+            "id": "irredentist",
+            "word": "irredentist"
+        },
+        {
+            "id": "island_state",
+            "word": "island state"
+        },
+        {
+            "id": "isolationism",
+            "word": "isolationism"
+        },
+        {
+            "id": "isolationist",
+            "word": "isolationist"
+        },
+        {
+            "id": "ist",
+            "word": "ist"
+        },
+        {
+            "id": "-ite",
+            "word": "-ite"
+        },
+        {
+            "id": "jeffersonian",
+            "word": "jeffersonian"
+        },
+        {
+            "id": "jim_crow",
+            "word": "jim crow"
+        },
+        {
+            "id": "job_creation_scheme",
+            "word": "job creation scheme"
+        },
+        {
+            "id": "joined-up_government",
+            "word": "joined-up government"
+        },
+        {
+            "id": "joint_committee",
+            "word": "joint committee"
+        },
+        {
+            "id": "judenrein",
+            "word": "judenrein"
+        },
+        {
+            "id": "junior_partner",
+            "word": "junior partner"
+        },
+        {
+            "id": "junta",
+            "word": "junta"
+        },
+        {
+            "id": "junto",
+            "word": "junto"
+        },
+        {
+            "id": "kakistocracy",
+            "word": "kakistocracy"
+        },
+        {
+            "id": "kawanatanga",
+            "word": "kawanatanga"
+        },
+        {
+            "id": "keep_%28or_make%29_a_house",
+            "word": "keep (or make) a house"
+        },
+        {
+            "id": "kenya_african_national_union",
+            "word": "kenya african national union"
+        },
+        {
+            "id": "khalistan",
+            "word": "khalistan"
+        },
+        {
+            "id": "khan",
+            "word": "khan"
+        },
+        {
+            "id": "khmer_rouge",
+            "word": "khmer rouge"
+        },
+        {
+            "id": "khrushchevian",
+            "word": "khrushchevian"
+        },
+        {
+            "id": "kingcraft",
+            "word": "kingcraft"
+        },
+        {
+            "id": "kingdom",
+            "word": "kingdom"
+        },
+        {
+            "id": "kitchen_cabinet",
+            "word": "kitchen cabinet"
+        },
+        {
+            "id": "komsomol",
+            "word": "komsomol"
+        },
+        {
+            "id": "kremlinology",
+            "word": "kremlinology"
+        },
+        {
+            "id": "kulak",
+            "word": "kulak"
+        },
+        {
+            "id": "kuomintang",
+            "word": "kuomintang"
+        },
+        {
+            "id": "labourism",
+            "word": "labourism"
+        },
+        {
+            "id": "labourite",
+            "word": "labourite"
+        },
+        {
+            "id": "labour_movement",
+            "word": "labour movement"
+        },
+        {
+            "id": "labour_party",
+            "word": "labour party"
+        },
+        {
+            "id": "labour_theory_of_value",
+            "word": "labour theory of value"
+        },
+        {
+            "id": "lactivism",
+            "word": "lactivism"
+        },
+        {
+            "id": "laissez-faire",
+            "word": "laissez-faire"
+        },
+        {
+            "id": "laissez-passer",
+            "word": "laissez-passer"
+        },
+        {
+            "id": "lame_duck",
+            "word": "lame duck"
+        },
+        {
+            "id": "land_council",
+            "word": "land council"
+        },
+        {
+            "id": "landlordism",
+            "word": "landlordism"
+        },
+        {
+            "id": "land_march",
+            "word": "land march"
+        },
+        {
+            "id": "lateran_treaty",
+            "word": "lateran treaty"
+        },
+        {
+            "id": "lcc",
+            "word": "lcc"
+        },
+        {
+            "id": "leadership_contest",
+            "word": "leadership contest"
+        },
+        {
+            "id": "league",
+            "word": "league"
+        },
+        {
+            "id": "league_of_arab_states",
+            "word": "league of arab states"
+        },
+        {
+            "id": "league_of_nations",
+            "word": "league of nations"
+        },
+        {
+            "id": "leaver",
+            "word": "leaver"
+        },
+        {
+            "id": "lebensraum",
+            "word": "lebensraum"
+        },
+        {
+            "id": "leftism",
+            "word": "leftism"
+        },
+        {
+            "id": "leftist",
+            "word": "leftist"
+        },
+        {
+            "id": "left-leaning",
+            "word": "left-leaning"
+        },
+        {
+            "id": "left_of_centre",
+            "word": "left of centre"
+        },
+        {
+            "id": "left_wing",
+            "word": "left wing"
+        },
+        {
+            "id": "left-winger",
+            "word": "left-winger"
+        },
+        {
+            "id": "lefty",
+            "word": "lefty"
+        },
+        {
+            "id": "legation",
+            "word": "legation"
+        },
+        {
+            "id": "legislature",
+            "word": "legislature"
+        },
+        {
+            "id": "legitimism",
+            "word": "legitimism"
+        },
+        {
+            "id": "leninism",
+            "word": "leninism"
+        },
+        {
+            "id": "levy",
+            "word": "levy"
+        },
+        {
+            "id": "lib",
+            "word": "lib"
+        },
+        {
+            "id": "libber",
+            "word": "libber"
+        },
+        {
+            "id": "lib_dem",
+            "word": "lib dem"
+        },
+        {
+            "id": "liberal_democracy",
+            "word": "liberal democracy"
+        },
+        {
+            "id": "liberal_democrat",
+            "word": "liberal democrat"
+        },
+        {
+            "id": "liberalism",
+            "word": "liberalism"
+        },
+        {
+            "id": "liberal_party",
+            "word": "liberal party"
+        },
+        {
+            "id": "liberal_party_of_australia",
+            "word": "liberal party of australia"
+        },
+        {
+            "id": "liberal_party_of_canada",
+            "word": "liberal party of canada"
+        },
+        {
+            "id": "liberal_unionist",
+            "word": "liberal unionist"
+        },
+        {
+            "id": "liberation",
+            "word": "liberation"
+        },
+        {
+            "id": "liberation_front",
+            "word": "liberation front"
+        },
+        {
+            "id": "liberation_movement",
+            "word": "liberation movement"
+        },
+        {
+            "id": "liberation_war",
+            "word": "liberation war"
+        },
+        {
+            "id": "libertarian",
+            "word": "libertarian"
+        },
+        {
+            "id": "libtard",
+            "word": "libtard"
+        },
+        {
+            "id": "likud",
+            "word": "likud"
+        },
+        {
+            "id": "limited",
+            "word": "limited"
+        },
+        {
+            "id": "list_mp",
+            "word": "list mp"
+        },
+        {
+            "id": "little_englander",
+            "word": "little englander"
+        },
+        {
+            "id": "lobby_group",
+            "word": "lobby group"
+        },
+        {
+            "id": "lobbyist",
+            "word": "lobbyist"
+        },
+        {
+            "id": "local_authority",
+            "word": "local authority"
+        },
+        {
+            "id": "local_council",
+            "word": "local council"
+        },
+        {
+            "id": "local_government",
+            "word": "local government"
+        },
+        {
+            "id": "local_option",
+            "word": "local option"
+        },
+        {
+            "id": "lockout",
+            "word": "lockout"
+        },
+        {
+            "id": "logrolling",
+            "word": "logrolling"
+        },
+        {
+            "id": "lord_mayor",
+            "word": "lord mayor"
+        },
+        {
+            "id": "lord_provost",
+            "word": "lord provost"
+        },
+        {
+            "id": "loyalist",
+            "word": "loyalist"
+        },
+        {
+            "id": "lumpenproletariat",
+            "word": "lumpenproletariat"
+        },
+        {
+            "id": "machtpolitik",
+            "word": "machtpolitik"
+        },
+        {
+            "id": "majoritarian",
+            "word": "majoritarian"
+        },
+        {
+            "id": "majority_rule",
+            "word": "majority rule"
+        },
+        {
+            "id": "mana_motuhake",
+            "word": "mana motuhake"
+        },
+        {
+            "id": "mandatary",
+            "word": "mandatary"
+        },
+        {
+            "id": "maoism",
+            "word": "maoism"
+        },
+        {
+            "id": "maoist",
+            "word": "maoist"
+        },
+        {
+            "id": "maori_land_march",
+            "word": "maori land march"
+        },
+        {
+            "id": "maori_trustee",
+            "word": "maori trustee"
+        },
+        {
+            "id": "marriage_equality",
+            "word": "marriage equality"
+        },
+        {
+            "id": "marseillaise",
+            "word": "marseillaise"
+        },
+        {
+            "id": "marx%2C_karl",
+            "word": "marx, karl"
+        },
+        {
+            "id": "marxian",
+            "word": "marxian"
+        },
+        {
+            "id": "marxism",
+            "word": "marxism"
+        },
+        {
+            "id": "marxism%E2%80%93leninism",
+            "word": "marxism–leninism"
+        },
+        {
+            "id": "marxist",
+            "word": "marxist"
+        },
+        {
+            "id": "massey%27s_cossacks",
+            "word": "massey's cossacks"
+        },
+        {
+            "id": "maximalist",
+            "word": "maximalist"
+        },
+        {
+            "id": "mayor",
+            "word": "mayor"
+        },
+        {
+            "id": "mayoral",
+            "word": "mayoral"
+        },
+        {
+            "id": "mccarthyism",
+            "word": "mccarthyism"
+        },
+        {
+            "id": "means_of_production",
+            "word": "means of production"
+        },
+        {
+            "id": "mediator",
+            "word": "mediator"
+        },
+        {
+            "id": "medicare_levy",
+            "word": "medicare levy"
+        },
+        {
+            "id": "member",
+            "word": "member"
+        },
+        {
+            "id": "member_of_congress",
+            "word": "member of congress"
+        },
+        {
+            "id": "member_of_parliament",
+            "word": "member of parliament"
+        },
+        {
+            "id": "memorandum",
+            "word": "memorandum"
+        },
+        {
+            "id": "menshevik",
+            "word": "menshevik"
+        },
+        {
+            "id": "meritocracy",
+            "word": "meritocracy"
+        },
+        {
+            "id": "meritocrat",
+            "word": "meritocrat"
+        },
+        {
+            "id": "merit_system",
+            "word": "merit system"
+        },
+        {
+            "id": "me-too",
+            "word": "me-too"
+        },
+        {
+            "id": "micronation",
+            "word": "micronation"
+        },
+        {
+            "id": "micro_party",
+            "word": "micro party"
+        },
+        {
+            "id": "microstate",
+            "word": "microstate"
+        },
+        {
+            "id": "middle_england",
+            "word": "middle england"
+        },
+        {
+            "id": "midterm",
+            "word": "midterm"
+        },
+        {
+            "id": "migrancy",
+            "word": "migrancy"
+        },
+        {
+            "id": "militancy",
+            "word": "militancy"
+        },
+        {
+            "id": "militant",
+            "word": "militant"
+        },
+        {
+            "id": "militarist",
+            "word": "militarist"
+        },
+        {
+            "id": "military_junta",
+            "word": "military junta"
+        },
+        {
+            "id": "minority_rule",
+            "word": "minority rule"
+        },
+        {
+            "id": "misgovern",
+            "word": "misgovern"
+        },
+        {
+            "id": "mobocracy",
+            "word": "mobocracy"
+        },
+        {
+            "id": "mob_rule",
+            "word": "mob rule"
+        },
+        {
+            "id": "monarchism",
+            "word": "monarchism"
+        },
+        {
+            "id": "monarchist",
+            "word": "monarchist"
+        },
+        {
+            "id": "monarchy",
+            "word": "monarchy"
+        },
+        {
+            "id": "monocracy",
+            "word": "monocracy"
+        },
+        {
+            "id": "monroe_doctrine",
+            "word": "monroe doctrine"
+        },
+        {
+            "id": "montonero",
+            "word": "montonero"
+        },
+        {
+            "id": "moonbat",
+            "word": "moonbat"
+        },
+        {
+            "id": "moral_majority",
+            "word": "moral majority"
+        },
+        {
+            "id": "morcha",
+            "word": "morcha"
+        },
+        {
+            "id": "mosleyite",
+            "word": "mosleyite"
+        },
+        {
+            "id": "mother_country",
+            "word": "mother country"
+        },
+        {
+            "id": "mpla",
+            "word": "mpla"
+        },
+        {
+            "id": "mujahideen",
+            "word": "mujahideen"
+        },
+        {
+            "id": "muldoonism",
+            "word": "muldoonism"
+        },
+        {
+            "id": "multicultural",
+            "word": "multicultural"
+        },
+        {
+            "id": "multiculturalism",
+            "word": "multiculturalism"
+        },
+        {
+            "id": "multilateral",
+            "word": "multilateral"
+        },
+        {
+            "id": "multilateralism",
+            "word": "multilateralism"
+        },
+        {
+            "id": "multilateralist",
+            "word": "multilateralist"
+        },
+        {
+            "id": "municipal",
+            "word": "municipal"
+        },
+        {
+            "id": "naderism",
+            "word": "naderism"
+        },
+        {
+            "id": "nanny_state",
+            "word": "nanny state"
+        },
+        {
+            "id": "nat",
+            "word": "nat"
+        },
+        {
+            "id": "nation",
+            "word": "nation"
+        },
+        {
+            "id": "national_association_for_the_advancement_of_colored_people",
+            "word": "national association for the advancement of colored people"
+        },
+        {
+            "id": "national_convention",
+            "word": "national convention"
+        },
+        {
+            "id": "national_front",
+            "word": "national front"
+        },
+        {
+            "id": "national_government",
+            "word": "national government"
+        },
+        {
+            "id": "nationalism",
+            "word": "nationalism"
+        },
+        {
+            "id": "nationalist",
+            "word": "nationalist"
+        },
+        {
+            "id": "nationalization",
+            "word": "nationalization"
+        },
+        {
+            "id": "nationalize",
+            "word": "nationalize"
+        },
+        {
+            "id": "national_minority",
+            "word": "national minority"
+        },
+        {
+            "id": "national_party",
+            "word": "national party"
+        },
+        {
+            "id": "national_security",
+            "word": "national security"
+        },
+        {
+            "id": "national_socialism",
+            "word": "national socialism"
+        },
+        {
+            "id": "nation-building",
+            "word": "nation-building"
+        },
+        {
+            "id": "nationhood",
+            "word": "nationhood"
+        },
+        {
+            "id": "nation_state",
+            "word": "nation state"
+        },
+        {
+            "id": "naval_attach%C3%A9",
+            "word": "naval attaché"
+        },
+        {
+            "id": "naxalite",
+            "word": "naxalite"
+        },
+        {
+            "id": "nazi",
+            "word": "nazi"
+        },
+        {
+            "id": "nazify",
+            "word": "nazify"
+        },
+        {
+            "id": "nazism",
+            "word": "nazism"
+        },
+        {
+            "id": "ndp",
+            "word": "ndp"
+        },
+        {
+            "id": "neocolonial",
+            "word": "neocolonial"
+        },
+        {
+            "id": "neocolonialism",
+            "word": "neocolonialism"
+        },
+        {
+            "id": "neocon",
+            "word": "neocon"
+        },
+        {
+            "id": "neoconservatism",
+            "word": "neoconservatism"
+        },
+        {
+            "id": "neoconservative",
+            "word": "neoconservative"
+        },
+        {
+            "id": "neo-fascist",
+            "word": "neo-fascist"
+        },
+        {
+            "id": "neo-liberal",
+            "word": "neo-liberal"
+        },
+        {
+            "id": "neo-liberalism",
+            "word": "neo-liberalism"
+        },
+        {
+            "id": "neo-marxist",
+            "word": "neo-marxist"
+        },
+        {
+            "id": "neo-nazi",
+            "word": "neo-nazi"
+        },
+        {
+            "id": "nepad",
+            "word": "nepad"
+        },
+        {
+            "id": "neta",
+            "word": "neta"
+        },
+        {
+            "id": "netroots",
+            "word": "netroots"
+        },
+        {
+            "id": "neutralism",
+            "word": "neutralism"
+        },
+        {
+            "id": "new_order",
+            "word": "new order"
+        },
+        {
+            "id": "news_blackout",
+            "word": "news blackout"
+        },
+        {
+            "id": "newspeak",
+            "word": "newspeak"
+        },
+        {
+            "id": "ngo",
+            "word": "ngo"
+        },
+        {
+            "id": "non-aggression",
+            "word": "non-aggression"
+        },
+        {
+            "id": "non-aligned",
+            "word": "non-aligned"
+        },
+        {
+            "id": "non-aligned_movement",
+            "word": "non-aligned movement"
+        },
+        {
+            "id": "non-alignment",
+            "word": "non-alignment"
+        },
+        {
+            "id": "non-allied",
+            "word": "non-allied"
+        },
+        {
+            "id": "non-belligerent",
+            "word": "non-belligerent"
+        },
+        {
+            "id": "non-citizen",
+            "word": "non-citizen"
+        },
+        {
+            "id": "non-communist",
+            "word": "non-communist"
+        },
+        {
+            "id": "non-governmental",
+            "word": "non-governmental"
+        },
+        {
+            "id": "non-interference",
+            "word": "non-interference"
+        },
+        {
+            "id": "non-intervention",
+            "word": "non-intervention"
+        },
+        {
+            "id": "non-interventionist",
+            "word": "non-interventionist"
+        },
+        {
+            "id": "non-partisanship",
+            "word": "non-partisanship"
+        },
+        {
+            "id": "non-party",
+            "word": "non-party"
+        },
+        {
+            "id": "non-political",
+            "word": "non-political"
+        },
+        {
+            "id": "non-proliferation",
+            "word": "non-proliferation"
+        },
+        {
+            "id": "non-reactionary",
+            "word": "non-reactionary"
+        },
+        {
+            "id": "non-refoulement",
+            "word": "non-refoulement"
+        },
+        {
+            "id": "non-state_actor",
+            "word": "non-state actor"
+        },
+        {
+            "id": "non-voting",
+            "word": "non-voting"
+        },
+        {
+            "id": "no-platforming",
+            "word": "no-platforming"
+        },
+        {
+            "id": "normalization",
+            "word": "normalization"
+        },
+        {
+            "id": "north_atlantic_treaty_organization",
+            "word": "north atlantic treaty organization"
+        },
+        {
+            "id": "nuclear_club",
+            "word": "nuclear club"
+        },
+        {
+            "id": "nuclear_disarmament",
+            "word": "nuclear disarmament"
+        },
+        {
+            "id": "nuclear_umbrella",
+            "word": "nuclear umbrella"
+        },
+        {
+            "id": "ochlocracy",
+            "word": "ochlocracy"
+        },
+        {
+            "id": "octarchy",
+            "word": "octarchy"
+        },
+        {
+            "id": "octobrist",
+            "word": "octobrist"
+        },
+        {
+            "id": "office_holder",
+            "word": "office holder"
+        },
+        {
+            "id": "officialdom",
+            "word": "officialdom"
+        },
+        {
+            "id": "official_secret",
+            "word": "official secret"
+        },
+        {
+            "id": "oligarch",
+            "word": "oligarch"
+        },
+        {
+            "id": "oligarchy",
+            "word": "oligarchy"
+        },
+        {
+            "id": "ombudsman",
+            "word": "ombudsman"
+        },
+        {
+            "id": "omnicompetent",
+            "word": "omnicompetent"
+        },
+        {
+            "id": "one-party_system",
+            "word": "one-party system"
+        },
+        {
+            "id": "on_the_knocker",
+            "word": "on the knocker"
+        },
+        {
+            "id": "open_door",
+            "word": "open door"
+        },
+        {
+            "id": "open_society",
+            "word": "open society"
+        },
+        {
+            "id": "opinion_poll",
+            "word": "opinion poll"
+        },
+        {
+            "id": "oppo",
+            "word": "oppo"
+        },
+        {
+            "id": "oppositionist",
+            "word": "oppositionist"
+        },
+        {
+            "id": "opposition_research",
+            "word": "opposition research"
+        },
+        {
+            "id": "opt_out",
+            "word": "opt out"
+        },
+        {
+            "id": "orange",
+            "word": "orange"
+        },
+        {
+            "id": "orangeman",
+            "word": "orangeman"
+        },
+        {
+            "id": "orange_order",
+            "word": "orange order"
+        },
+        {
+            "id": "order_in_council",
+            "word": "order in council"
+        },
+        {
+            "id": "organization",
+            "word": "organization"
+        },
+        {
+            "id": "organizational",
+            "word": "organizational"
+        },
+        {
+            "id": "organization_of_african_unity",
+            "word": "organization of african unity"
+        },
+        {
+            "id": "organization_of_american_states",
+            "word": "organization of american states"
+        },
+        {
+            "id": "organization_of_arab_petroleum_exporting_countries",
+            "word": "organization of arab petroleum exporting countries"
+        },
+        {
+            "id": "organization_of_central_american_states",
+            "word": "organization of central american states"
+        },
+        {
+            "id": "ostpolitik",
+            "word": "ostpolitik"
+        },
+        {
+            "id": "outraise",
+            "word": "outraise"
+        },
+        {
+            "id": "oval_office",
+            "word": "oval office"
+        },
+        {
+            "id": "overclass",
+            "word": "overclass"
+        },
+        {
+            "id": "overton_window",
+            "word": "overton window"
+        },
+        {
+            "id": "pac",
+            "word": "pac"
+        },
+        {
+            "id": "pacifism",
+            "word": "pacifism"
+        },
+        {
+            "id": "pact",
+            "word": "pact"
+        },
+        {
+            "id": "pai_marire",
+            "word": "pai marire"
+        },
+        {
+            "id": "pakistan_people%27s_party",
+            "word": "pakistan people's party"
+        },
+        {
+            "id": "palace_revolution",
+            "word": "palace revolution"
+        },
+        {
+            "id": "paleo-conservative",
+            "word": "paleo-conservative"
+        },
+        {
+            "id": "palestine_liberation_organization",
+            "word": "palestine liberation organization"
+        },
+        {
+            "id": "pan-africanism",
+            "word": "pan-africanism"
+        },
+        {
+            "id": "pan-africanist_congress",
+            "word": "pan-africanist congress"
+        },
+        {
+            "id": "pan-americanism",
+            "word": "pan-americanism"
+        },
+        {
+            "id": "pan-arab",
+            "word": "pan-arab"
+        },
+        {
+            "id": "pan-arabism",
+            "word": "pan-arabism"
+        },
+        {
+            "id": "pan-german",
+            "word": "pan-german"
+        },
+        {
+            "id": "pan-germanism",
+            "word": "pan-germanism"
+        },
+        {
+            "id": "panhellenic",
+            "word": "panhellenic"
+        },
+        {
+            "id": "pan-slavism",
+            "word": "pan-slavism"
+        },
+        {
+            "id": "pantisocracy",
+            "word": "pantisocracy"
+        },
+        {
+            "id": "pantisocratic",
+            "word": "pantisocratic"
+        },
+        {
+            "id": "parastatal",
+            "word": "parastatal"
+        },
+        {
+            "id": "parastate",
+            "word": "parastate"
+        },
+        {
+            "id": "parens_patriae",
+            "word": "parens patriae"
+        },
+        {
+            "id": "parishad",
+            "word": "parishad"
+        },
+        {
+            "id": "parish_clerk",
+            "word": "parish clerk"
+        },
+        {
+            "id": "parish_council",
+            "word": "parish council"
+        },
+        {
+            "id": "parliamentary_commissioner_for_administration",
+            "word": "parliamentary commissioner for administration"
+        },
+        {
+            "id": "parliamentary_counsel",
+            "word": "parliamentary counsel"
+        },
+        {
+            "id": "parnellite",
+            "word": "parnellite"
+        },
+        {
+            "id": "parochialism",
+            "word": "parochialism"
+        },
+        {
+            "id": "particularism",
+            "word": "particularism"
+        },
+        {
+            "id": "partisanship",
+            "word": "partisanship"
+        },
+        {
+            "id": "party_line",
+            "word": "party line"
+        },
+        {
+            "id": "partyman",
+            "word": "partyman"
+        },
+        {
+            "id": "party_political",
+            "word": "party political"
+        },
+        {
+            "id": "party_politics",
+            "word": "party politics"
+        },
+        {
+            "id": "patriarchy",
+            "word": "patriarchy"
+        },
+        {
+            "id": "patriate",
+            "word": "patriate"
+        },
+        {
+            "id": "patriot",
+            "word": "patriot"
+        },
+        {
+            "id": "pax_americana",
+            "word": "pax americana"
+        },
+        {
+            "id": "pay-to-play",
+            "word": "pay-to-play"
+        },
+        {
+            "id": "p%C3%A9quiste",
+            "word": "péquiste"
+        },
+        {
+            "id": "peace_camp",
+            "word": "peace camp"
+        },
+        {
+            "id": "peace_dividend",
+            "word": "peace dividend"
+        },
+        {
+            "id": "peacekeeping",
+            "word": "peacekeeping"
+        },
+        {
+            "id": "peacenik",
+            "word": "peacenik"
+        },
+        {
+            "id": "peace_pledge_union",
+            "word": "peace pledge union"
+        },
+        {
+            "id": "peace_talks",
+            "word": "peace talks"
+        },
+        {
+            "id": "pegida",
+            "word": "pegida"
+        },
+        {
+            "id": "people%27s_democracy",
+            "word": "people's democracy"
+        },
+        {
+            "id": "people%27s_republic",
+            "word": "people's republic"
+        },
+        {
+            "id": "people_power",
+            "word": "people power"
+        },
+        {
+            "id": "perestroika",
+            "word": "perestroika"
+        },
+        {
+            "id": "periclean",
+            "word": "periclean"
+        },
+        {
+            "id": "perk-buster",
+            "word": "perk-buster"
+        },
+        {
+            "id": "perk-busting",
+            "word": "perk-busting"
+        },
+        {
+            "id": "permanent_revolution",
+            "word": "permanent revolution"
+        },
+        {
+            "id": "peronism",
+            "word": "peronism"
+        },
+        {
+            "id": "persona_grata",
+            "word": "persona grata"
+        },
+        {
+            "id": "peshmerga",
+            "word": "peshmerga"
+        },
+        {
+            "id": "petit_bourgeois",
+            "word": "petit bourgeois"
+        },
+        {
+            "id": "petite_bourgeoisie",
+            "word": "petite bourgeoisie"
+        },
+        {
+            "id": "phalangist",
+            "word": "phalangist"
+        },
+        {
+            "id": "philhellene",
+            "word": "philhellene"
+        },
+        {
+            "id": "pinko",
+            "word": "pinko"
+        },
+        {
+            "id": "placeman",
+            "word": "placeman"
+        },
+        {
+            "id": "plaid_cymru",
+            "word": "plaid cymru"
+        },
+        {
+            "id": "planification",
+            "word": "planification"
+        },
+        {
+            "id": "plebiscite",
+            "word": "plebiscite"
+        },
+        {
+            "id": "plp",
+            "word": "plp"
+        },
+        {
+            "id": "pluralism",
+            "word": "pluralism"
+        },
+        {
+            "id": "pluralist",
+            "word": "pluralist"
+        },
+        {
+            "id": "plural_voting",
+            "word": "plural voting"
+        },
+        {
+            "id": "plutocracy",
+            "word": "plutocracy"
+        },
+        {
+            "id": "plutocratic",
+            "word": "plutocratic"
+        },
+        {
+            "id": "pmg",
+            "word": "pmg"
+        },
+        {
+            "id": "pmqs",
+            "word": "pmqs"
+        },
+        {
+            "id": "pol",
+            "word": "pol"
+        },
+        {
+            "id": "police_state",
+            "word": "police state"
+        },
+        {
+            "id": "policy",
+            "word": "policy"
+        },
+        {
+            "id": "policymaker",
+            "word": "policymaker"
+        },
+        {
+            "id": "policymaking",
+            "word": "policymaking"
+        },
+        {
+            "id": "polisario",
+            "word": "polisario"
+        },
+        {
+            "id": "politburo",
+            "word": "politburo"
+        },
+        {
+            "id": "political_commissar",
+            "word": "political commissar"
+        },
+        {
+            "id": "political_geography",
+            "word": "political geography"
+        },
+        {
+            "id": "political_prisoner",
+            "word": "political prisoner"
+        },
+        {
+            "id": "political_refugee",
+            "word": "political refugee"
+        },
+        {
+            "id": "political_science",
+            "word": "political science"
+        },
+        {
+            "id": "political_scientist",
+            "word": "political scientist"
+        },
+        {
+            "id": "politicization",
+            "word": "politicization"
+        },
+        {
+            "id": "politico",
+            "word": "politico"
+        },
+        {
+            "id": "politico-",
+            "word": "politico-"
+        },
+        {
+            "id": "polity",
+            "word": "polity"
+        },
+        {
+            "id": "polly",
+            "word": "polly"
+        },
+        {
+            "id": "popular_front",
+            "word": "popular front"
+        },
+        {
+            "id": "populism",
+            "word": "populism"
+        },
+        {
+            "id": "populist",
+            "word": "populist"
+        },
+        {
+            "id": "pork_barrel",
+            "word": "pork barrel"
+        },
+        {
+            "id": "pork-barrelling",
+            "word": "pork-barrelling"
+        },
+        {
+            "id": "positive_discrimination",
+            "word": "positive discrimination"
+        },
+        {
+            "id": "positive_vetting",
+            "word": "positive vetting"
+        },
+        {
+            "id": "postcolonialism",
+            "word": "postcolonialism"
+        },
+        {
+            "id": "post-feminist",
+            "word": "post-feminist"
+        },
+        {
+            "id": "potemkin",
+            "word": "potemkin"
+        },
+        {
+            "id": "power_base",
+            "word": "power base"
+        },
+        {
+            "id": "power_bloc",
+            "word": "power bloc"
+        },
+        {
+            "id": "power_lunch",
+            "word": "power lunch"
+        },
+        {
+            "id": "power_politics",
+            "word": "power politics"
+        },
+        {
+            "id": "power-sharing",
+            "word": "power-sharing"
+        },
+        {
+            "id": "pq",
+            "word": "pq"
+        },
+        {
+            "id": "pragmatic",
+            "word": "pragmatic"
+        },
+        {
+            "id": "pragmatically",
+            "word": "pragmatically"
+        },
+        {
+            "id": "prebuttal",
+            "word": "prebuttal"
+        },
+        {
+            "id": "precariat",
+            "word": "precariat"
+        },
+        {
+            "id": "precarity",
+            "word": "precarity"
+        },
+        {
+            "id": "preferment",
+            "word": "preferment"
+        },
+        {
+            "id": "prerogative",
+            "word": "prerogative"
+        },
+        {
+            "id": "pres.",
+            "word": "pres."
+        },
+        {
+            "id": "president",
+            "word": "president"
+        },
+        {
+            "id": "president-elect",
+            "word": "president-elect"
+        },
+        {
+            "id": "presidential",
+            "word": "presidential"
+        },
+        {
+            "id": "presidentially",
+            "word": "presidentially"
+        },
+        {
+            "id": "presidentship",
+            "word": "presidentship"
+        },
+        {
+            "id": "presidium",
+            "word": "presidium"
+        },
+        {
+            "id": "pressure_group",
+            "word": "pressure group"
+        },
+        {
+            "id": "prime_minister",
+            "word": "prime minister"
+        },
+        {
+            "id": "primitive_accumulation",
+            "word": "primitive accumulation"
+        },
+        {
+            "id": "primitive_socialist_accumulation",
+            "word": "primitive socialist accumulation"
+        },
+        {
+            "id": "primrose_league",
+            "word": "primrose league"
+        },
+        {
+            "id": "principality",
+            "word": "principality"
+        },
+        {
+            "id": "principate",
+            "word": "principate"
+        },
+        {
+            "id": "prisoner_of_conscience",
+            "word": "prisoner of conscience"
+        },
+        {
+            "id": "prisoner_of_state",
+            "word": "prisoner of state"
+        },
+        {
+            "id": "privatism",
+            "word": "privatism"
+        },
+        {
+            "id": "privatization",
+            "word": "privatization"
+        },
+        {
+            "id": "privatize",
+            "word": "privatize"
+        },
+        {
+            "id": "privy_council",
+            "word": "privy council"
+        },
+        {
+            "id": "privy_counsellor",
+            "word": "privy counsellor"
+        },
+        {
+            "id": "privy_seal",
+            "word": "privy seal"
+        },
+        {
+            "id": "procuracy",
+            "word": "procuracy"
+        },
+        {
+            "id": "pro-democracy",
+            "word": "pro-democracy"
+        },
+        {
+            "id": "progressive_conservative_party",
+            "word": "progressive conservative party"
+        },
+        {
+            "id": "progressivism",
+            "word": "progressivism"
+        },
+        {
+            "id": "prole",
+            "word": "prole"
+        },
+        {
+            "id": "proletarian",
+            "word": "proletarian"
+        },
+        {
+            "id": "proletarianize",
+            "word": "proletarianize"
+        },
+        {
+            "id": "proletariat",
+            "word": "proletariat"
+        },
+        {
+            "id": "pro-life",
+            "word": "pro-life"
+        },
+        {
+            "id": "propaganda",
+            "word": "propaganda"
+        },
+        {
+            "id": "propagandist",
+            "word": "propagandist"
+        },
+        {
+            "id": "propagandize",
+            "word": "propagandize"
+        },
+        {
+            "id": "property_qualification",
+            "word": "property qualification"
+        },
+        {
+            "id": "protestant_ascendancy",
+            "word": "protestant ascendancy"
+        },
+        {
+            "id": "protester",
+            "word": "protester"
+        },
+        {
+            "id": "proxy_war",
+            "word": "proxy war"
+        },
+        {
+            "id": "public_advocate",
+            "word": "public advocate"
+        },
+        {
+            "id": "public_office",
+            "word": "public office"
+        },
+        {
+            "id": "public_sector",
+            "word": "public sector"
+        },
+        {
+            "id": "public_servant",
+            "word": "public servant"
+        },
+        {
+            "id": "public_service",
+            "word": "public service"
+        },
+        {
+            "id": "public_spending",
+            "word": "public spending"
+        },
+        {
+            "id": "puppetmaster",
+            "word": "puppetmaster"
+        },
+        {
+            "id": "push_poll",
+            "word": "push poll"
+        },
+        {
+            "id": "putsch",
+            "word": "putsch"
+        },
+        {
+            "id": "quai_d%27orsay",
+            "word": "quai d'orsay"
+        },
+        {
+            "id": "quango",
+            "word": "quango"
+        },
+        {
+            "id": "queen%27s_messenger",
+            "word": "queen's messenger"
+        },
+        {
+            "id": "queen_in_council",
+            "word": "queen in council"
+        },
+        {
+            "id": "radicalism",
+            "word": "radicalism"
+        },
+        {
+            "id": "rainbow_coalition",
+            "word": "rainbow coalition"
+        },
+        {
+            "id": "raj",
+            "word": "raj"
+        },
+        {
+            "id": "rangatiratanga",
+            "word": "rangatiratanga"
+        },
+        {
+            "id": "rapprochement",
+            "word": "rapprochement"
+        },
+        {
+            "id": "ratana",
+            "word": "ratana"
+        },
+        {
+            "id": "rate-cap",
+            "word": "rate-cap"
+        },
+        {
+            "id": "rate-capping",
+            "word": "rate-capping"
+        },
+        {
+            "id": "raupatu",
+            "word": "raupatu"
+        },
+        {
+            "id": "rdc",
+            "word": "rdc"
+        },
+        {
+            "id": "reactionary",
+            "word": "reactionary"
+        },
+        {
+            "id": "reaganism",
+            "word": "reaganism"
+        },
+        {
+            "id": "realign",
+            "word": "realign"
+        },
+        {
+            "id": "realignment",
+            "word": "realignment"
+        },
+        {
+            "id": "realism",
+            "word": "realism"
+        },
+        {
+            "id": "realist",
+            "word": "realist"
+        },
+        {
+            "id": "realo",
+            "word": "realo"
+        },
+        {
+            "id": "realpolitik",
+            "word": "realpolitik"
+        },
+        {
+            "id": "recommendation",
+            "word": "recommendation"
+        },
+        {
+            "id": "red_army_faction",
+            "word": "red army faction"
+        },
+        {
+            "id": "red_brigades",
+            "word": "red brigades"
+        },
+        {
+            "id": "red_flag",
+            "word": "red flag"
+        },
+        {
+            "id": "red_guard",
+            "word": "red guard"
+        },
+        {
+            "id": "redistributionist",
+            "word": "redistributionist"
+        },
+        {
+            "id": "redistrict",
+            "word": "redistrict"
+        },
+        {
+            "id": "redistricting",
+            "word": "redistricting"
+        },
+        {
+            "id": "redneck",
+            "word": "redneck"
+        },
+        {
+            "id": "red_power",
+            "word": "red power"
+        },
+        {
+            "id": "red_ragger",
+            "word": "red ragger"
+        },
+        {
+            "id": "red_star",
+            "word": "red star"
+        },
+        {
+            "id": "red_tape",
+            "word": "red tape"
+        },
+        {
+            "id": "red_tory",
+            "word": "red tory"
+        },
+        {
+            "id": "referendum",
+            "word": "referendum"
+        },
+        {
+            "id": "reflag",
+            "word": "reflag"
+        },
+        {
+            "id": "reformist",
+            "word": "reformist"
+        },
+        {
+            "id": "refoulement",
+            "word": "refoulement"
+        },
+        {
+            "id": "refugee",
+            "word": "refugee"
+        },
+        {
+            "id": "refusenik",
+            "word": "refusenik"
+        },
+        {
+            "id": "regalism",
+            "word": "regalism"
+        },
+        {
+            "id": "regency",
+            "word": "regency"
+        },
+        {
+            "id": "regime",
+            "word": "regime"
+        },
+        {
+            "id": "regime_change",
+            "word": "regime change"
+        },
+        {
+            "id": "regionalism",
+            "word": "regionalism"
+        },
+        {
+            "id": "regionalize",
+            "word": "regionalize"
+        },
+        {
+            "id": "regulator",
+            "word": "regulator"
+        },
+        {
+            "id": "reign_of_terror",
+            "word": "reign of terror"
+        },
+        {
+            "id": "rejectionist",
+            "word": "rejectionist"
+        },
+        {
+            "id": "remainer",
+            "word": "remainer"
+        },
+        {
+            "id": "renationalize",
+            "word": "renationalize"
+        },
+        {
+            "id": "repartition",
+            "word": "repartition"
+        },
+        {
+            "id": "repat",
+            "word": "repat"
+        },
+        {
+            "id": "repressive",
+            "word": "repressive"
+        },
+        {
+            "id": "republic",
+            "word": "republic"
+        },
+        {
+            "id": "republican",
+            "word": "republican"
+        },
+        {
+            "id": "republicanism",
+            "word": "republicanism"
+        },
+        {
+            "id": "republican_party",
+            "word": "republican party"
+        },
+        {
+            "id": "republic_day",
+            "word": "republic day"
+        },
+        {
+            "id": "reservation_policy",
+            "word": "reservation policy"
+        },
+        {
+            "id": "resettle",
+            "word": "resettle"
+        },
+        {
+            "id": "resettlement",
+            "word": "resettlement"
+        },
+        {
+            "id": "res_publica",
+            "word": "res publica"
+        },
+        {
+            "id": "retail_politics",
+            "word": "retail politics"
+        },
+        {
+            "id": "reunification",
+            "word": "reunification"
+        },
+        {
+            "id": "reunify",
+            "word": "reunify"
+        },
+        {
+            "id": "revanchism",
+            "word": "revanchism"
+        },
+        {
+            "id": "revisionism",
+            "word": "revisionism"
+        },
+        {
+            "id": "revisionist",
+            "word": "revisionist"
+        },
+        {
+            "id": "revolution",
+            "word": "revolution"
+        },
+        {
+            "id": "rightism",
+            "word": "rightism"
+        },
+        {
+            "id": "rightist",
+            "word": "rightist"
+        },
+        {
+            "id": "right_of_centre",
+            "word": "right of centre"
+        },
+        {
+            "id": "rights_of_man",
+            "word": "rights of man"
+        },
+        {
+            "id": "right_wing",
+            "word": "right wing"
+        },
+        {
+            "id": "right-winger",
+            "word": "right-winger"
+        },
+        {
+            "id": "ringster",
+            "word": "ringster"
+        },
+        {
+            "id": "risorgimento",
+            "word": "risorgimento"
+        },
+        {
+            "id": "rogue_state",
+            "word": "rogue state"
+        },
+        {
+            "id": "rome%2C_treaty_of",
+            "word": "rome, treaty of"
+        },
+        {
+            "id": "rule_of_law",
+            "word": "rule of law"
+        },
+        {
+            "id": "salariat",
+            "word": "salariat"
+        },
+        {
+            "id": "sanctuary_city",
+            "word": "sanctuary city"
+        },
+        {
+            "id": "sandinista",
+            "word": "sandinista"
+        },
+        {
+            "id": "sarvodaya",
+            "word": "sarvodaya"
+        },
+        {
+            "id": "satyagraha",
+            "word": "satyagraha"
+        },
+        {
+            "id": "satyagrahi",
+            "word": "satyagrahi"
+        },
+        {
+            "id": "schengen_agreement",
+            "word": "schengen agreement"
+        },
+        {
+            "id": "scottish_national_party",
+            "word": "scottish national party"
+        },
+        {
+            "id": "sdlp",
+            "word": "sdlp"
+        },
+        {
+            "id": "seals_of_office",
+            "word": "seals of office"
+        },
+        {
+            "id": "secede",
+            "word": "secede"
+        },
+        {
+            "id": "secession",
+            "word": "secession"
+        },
+        {
+            "id": "secessionist",
+            "word": "secessionist"
+        },
+        {
+            "id": "second-class_citizen",
+            "word": "second-class citizen"
+        },
+        {
+            "id": "secretariat",
+            "word": "secretariat"
+        },
+        {
+            "id": "secretary_of_state",
+            "word": "secretary of state"
+        },
+        {
+            "id": "secret_police",
+            "word": "secret police"
+        },
+        {
+            "id": "sectarian",
+            "word": "sectarian"
+        },
+        {
+            "id": "sectarianism",
+            "word": "sectarianism"
+        },
+        {
+            "id": "sectarianize",
+            "word": "sectarianize"
+        },
+        {
+            "id": "sectary",
+            "word": "sectary"
+        },
+        {
+            "id": "secularism",
+            "word": "secularism"
+        },
+        {
+            "id": "security",
+            "word": "security"
+        },
+        {
+            "id": "security_council",
+            "word": "security council"
+        },
+        {
+            "id": "security_risk",
+            "word": "security risk"
+        },
+        {
+            "id": "securocrat",
+            "word": "securocrat"
+        },
+        {
+            "id": "sedition",
+            "word": "sedition"
+        },
+        {
+            "id": "seditious",
+            "word": "seditious"
+        },
+        {
+            "id": "segregate",
+            "word": "segregate"
+        },
+        {
+            "id": "segregated",
+            "word": "segregated"
+        },
+        {
+            "id": "segregation",
+            "word": "segregation"
+        },
+        {
+            "id": "segregationist",
+            "word": "segregationist"
+        },
+        {
+            "id": "seguridad",
+            "word": "seguridad"
+        },
+        {
+            "id": "select_committee",
+            "word": "select committee"
+        },
+        {
+            "id": "self-governed",
+            "word": "self-governed"
+        },
+        {
+            "id": "self-government",
+            "word": "self-government"
+        },
+        {
+            "id": "self-management",
+            "word": "self-management"
+        },
+        {
+            "id": "self-ruling",
+            "word": "self-ruling"
+        },
+        {
+            "id": "semi-autonomous",
+            "word": "semi-autonomous"
+        },
+        {
+            "id": "senator",
+            "word": "senator"
+        },
+        {
+            "id": "senatorial",
+            "word": "senatorial"
+        },
+        {
+            "id": "september_11",
+            "word": "september 11"
+        },
+        {
+            "id": "serjeant-at-arms",
+            "word": "serjeant-at-arms"
+        },
+        {
+            "id": "settlement",
+            "word": "settlement"
+        },
+        {
+            "id": "settlement_scheme",
+            "word": "settlement scheme"
+        },
+        {
+            "id": "sexual_equality",
+            "word": "sexual equality"
+        },
+        {
+            "id": "shed_rep",
+            "word": "shed rep"
+        },
+        {
+            "id": "shining_path",
+            "word": "shining path"
+        },
+        {
+            "id": "shiny_bum",
+            "word": "shiny bum"
+        },
+        {
+            "id": "shiv_sena",
+            "word": "shiv sena"
+        },
+        {
+            "id": "show_trial",
+            "word": "show trial"
+        },
+        {
+            "id": "sickness_benefit",
+            "word": "sickness benefit"
+        },
+        {
+            "id": "single_european_act",
+            "word": "single european act"
+        },
+        {
+            "id": "sinn_fein",
+            "word": "sinn fein"
+        },
+        {
+            "id": "sinn_feiner",
+            "word": "sinn feiner"
+        },
+        {
+            "id": "six_counties",
+            "word": "six counties"
+        },
+        {
+            "id": "slacktivist",
+            "word": "slacktivist"
+        },
+        {
+            "id": "slush_fund",
+            "word": "slush fund"
+        },
+        {
+            "id": "slut_walk",
+            "word": "slut walk"
+        },
+        {
+            "id": "small-l_liberal",
+            "word": "small-l liberal"
+        },
+        {
+            "id": "snollygoster",
+            "word": "snollygoster"
+        },
+        {
+            "id": "snp",
+            "word": "snp"
+        },
+        {
+            "id": "soc.",
+            "word": "soc."
+        },
+        {
+            "id": "social_and_liberal_democrats",
+            "word": "social and liberal democrats"
+        },
+        {
+            "id": "social_cleansing",
+            "word": "social cleansing"
+        },
+        {
+            "id": "social_contract",
+            "word": "social contract"
+        },
+        {
+            "id": "social_darwinism",
+            "word": "social darwinism"
+        },
+        {
+            "id": "social_democracy",
+            "word": "social democracy"
+        },
+        {
+            "id": "social_democrat",
+            "word": "social democrat"
+        },
+        {
+            "id": "social_democratic_and_labour_party",
+            "word": "social democratic and labour party"
+        },
+        {
+            "id": "social_democratic_party",
+            "word": "social democratic party"
+        },
+        {
+            "id": "socialism",
+            "word": "socialism"
+        },
+        {
+            "id": "socialist",
+            "word": "socialist"
+        },
+        {
+            "id": "social_justice",
+            "word": "social justice"
+        },
+        {
+            "id": "socred",
+            "word": "socred"
+        },
+        {
+            "id": "south_east_asia_treaty_organization",
+            "word": "south east asia treaty organization"
+        },
+        {
+            "id": "south_pacific_commission",
+            "word": "south pacific commission"
+        },
+        {
+            "id": "south_west_africa_people%27s_organization",
+            "word": "south west africa people's organization"
+        },
+        {
+            "id": "sovereign_citizen",
+            "word": "sovereign citizen"
+        },
+        {
+            "id": "sovereign_state",
+            "word": "sovereign state"
+        },
+        {
+            "id": "sovereigntist",
+            "word": "sovereigntist"
+        },
+        {
+            "id": "soviet",
+            "word": "soviet"
+        },
+        {
+            "id": "sovietologist",
+            "word": "sovietologist"
+        },
+        {
+            "id": "sovietology",
+            "word": "sovietology"
+        },
+        {
+            "id": "spad",
+            "word": "spad"
+        },
+        {
+            "id": "spartacist",
+            "word": "spartacist"
+        },
+        {
+            "id": "spartacus_league",
+            "word": "spartacus league"
+        },
+        {
+            "id": "special_adviser",
+            "word": "special adviser"
+        },
+        {
+            "id": "special_development_area",
+            "word": "special development area"
+        },
+        {
+            "id": "special_interest_group",
+            "word": "special interest group"
+        },
+        {
+            "id": "speciesism",
+            "word": "speciesism"
+        },
+        {
+            "id": "speech-writer",
+            "word": "speech-writer"
+        },
+        {
+            "id": "spin_doctor",
+            "word": "spin doctor"
+        },
+        {
+            "id": "spinmeister",
+            "word": "spinmeister"
+        },
+        {
+            "id": "spin_room",
+            "word": "spin room"
+        },
+        {
+            "id": "splinter_group",
+            "word": "splinter group"
+        },
+        {
+            "id": "splittism",
+            "word": "splittism"
+        },
+        {
+            "id": "spoilsman",
+            "word": "spoilsman"
+        },
+        {
+            "id": "spoils_system",
+            "word": "spoils system"
+        },
+        {
+            "id": "squatterdom",
+            "word": "squatterdom"
+        },
+        {
+            "id": "squattocracy",
+            "word": "squattocracy"
+        },
+        {
+            "id": "squeezed_middle",
+            "word": "squeezed middle"
+        },
+        {
+            "id": "squirearchy",
+            "word": "squirearchy"
+        },
+        {
+            "id": "stadtholder",
+            "word": "stadtholder"
+        },
+        {
+            "id": "stakhanovite",
+            "word": "stakhanovite"
+        },
+        {
+            "id": "stalinism",
+            "word": "stalinism"
+        },
+        {
+            "id": "stalinist",
+            "word": "stalinist"
+        },
+        {
+            "id": "stars_and_stripes",
+            "word": "stars and stripes"
+        },
+        {
+            "id": "starve_the_beast",
+            "word": "starve the beast"
+        },
+        {
+            "id": "state-building",
+            "word": "state-building"
+        },
+        {
+            "id": "state_capitalism",
+            "word": "state capitalism"
+        },
+        {
+            "id": "statecraft",
+            "word": "statecraft"
+        },
+        {
+            "id": "state_department",
+            "word": "state department"
+        },
+        {
+            "id": "state_house",
+            "word": "state house"
+        },
+        {
+            "id": "statelet",
+            "word": "statelet"
+        },
+        {
+            "id": "state-owned",
+            "word": "state-owned"
+        },
+        {
+            "id": "state_premier",
+            "word": "state premier"
+        },
+        {
+            "id": "states%27_rights",
+            "word": "states' rights"
+        },
+        {
+            "id": "state_secret",
+            "word": "state secret"
+        },
+        {
+            "id": "statesman",
+            "word": "statesman"
+        },
+        {
+            "id": "statesmanship",
+            "word": "statesmanship"
+        },
+        {
+            "id": "state_socialism",
+            "word": "state socialism"
+        },
+        {
+            "id": "statesperson",
+            "word": "statesperson"
+        },
+        {
+            "id": "stateswoman",
+            "word": "stateswoman"
+        },
+        {
+            "id": "statism",
+            "word": "statism"
+        },
+        {
+            "id": "statist",
+            "word": "statist"
+        },
+        {
+            "id": "step_change",
+            "word": "step change"
+        },
+        {
+            "id": "stern_gang",
+            "word": "stern gang"
+        },
+        {
+            "id": "strategery",
+            "word": "strategery"
+        },
+        {
+            "id": "strategic_arms_limitation_talks",
+            "word": "strategic arms limitation talks"
+        },
+        {
+            "id": "strategic_arms_reduction_talks",
+            "word": "strategic arms reduction talks"
+        },
+        {
+            "id": "stratocracy",
+            "word": "stratocracy"
+        },
+        {
+            "id": "street_fighting",
+            "word": "street fighting"
+        },
+        {
+            "id": "subsidiarity",
+            "word": "subsidiarity"
+        },
+        {
+            "id": "subversion",
+            "word": "subversion"
+        },
+        {
+            "id": "subversive",
+            "word": "subversive"
+        },
+        {
+            "id": "subvert",
+            "word": "subvert"
+        },
+        {
+            "id": "succession_state",
+            "word": "succession state"
+        },
+        {
+            "id": "suffragette",
+            "word": "suffragette"
+        },
+        {
+            "id": "suffragist",
+            "word": "suffragist"
+        },
+        {
+            "id": "summiteer",
+            "word": "summiteer"
+        },
+        {
+            "id": "superdelegate",
+            "word": "superdelegate"
+        },
+        {
+            "id": "superpower",
+            "word": "superpower"
+        },
+        {
+            "id": "superstate",
+            "word": "superstate"
+        },
+        {
+            "id": "super_tuesday",
+            "word": "super tuesday"
+        },
+        {
+            "id": "supporter",
+            "word": "supporter"
+        },
+        {
+            "id": "supranational",
+            "word": "supranational"
+        },
+        {
+            "id": "supremacist",
+            "word": "supremacist"
+        },
+        {
+            "id": "supreme_soviet",
+            "word": "supreme soviet"
+        },
+        {
+            "id": "supremo",
+            "word": "supremo"
+        },
+        {
+            "id": "surplus_value",
+            "word": "surplus value"
+        },
+        {
+            "id": "surveyor_general",
+            "word": "surveyor general"
+        },
+        {
+            "id": "suzerain",
+            "word": "suzerain"
+        },
+        {
+            "id": "suzerainty",
+            "word": "suzerainty"
+        },
+        {
+            "id": "swaraj",
+            "word": "swaraj"
+        },
+        {
+            "id": "swearing-in",
+            "word": "swearing-in"
+        },
+        {
+            "id": "sweatshop",
+            "word": "sweatshop"
+        },
+        {
+            "id": "sweetheart_deal",
+            "word": "sweetheart deal"
+        },
+        {
+            "id": "synarchy",
+            "word": "synarchy"
+        },
+        {
+            "id": "syndic",
+            "word": "syndic"
+        },
+        {
+            "id": "syndicalism",
+            "word": "syndicalism"
+        },
+        {
+            "id": "talib",
+            "word": "talib"
+        },
+        {
+            "id": "tamil_tigers",
+            "word": "tamil tigers"
+        },
+        {
+            "id": "tammany",
+            "word": "tammany"
+        },
+        {
+            "id": "tammanyite",
+            "word": "tammanyite"
+        },
+        {
+            "id": "taoiseach",
+            "word": "taoiseach"
+        },
+        {
+            "id": "tax_and_spend",
+            "word": "tax and spend"
+        },
+        {
+            "id": "t%C3%A1naiste",
+            "word": "tánaiste"
+        },
+        {
+            "id": "technocracy",
+            "word": "technocracy"
+        },
+        {
+            "id": "technocrat",
+            "word": "technocrat"
+        },
+        {
+            "id": "technocratic",
+            "word": "technocratic"
+        },
+        {
+            "id": "tendency",
+            "word": "tendency"
+        },
+        {
+            "id": "tenderpreneur",
+            "word": "tenderpreneur"
+        },
+        {
+            "id": "term_limit",
+            "word": "term limit"
+        },
+        {
+            "id": "territorial_waters",
+            "word": "territorial waters"
+        },
+        {
+            "id": "terrorist",
+            "word": "terrorist"
+        },
+        {
+            "id": "thatcherism",
+            "word": "thatcherism"
+        },
+        {
+            "id": "thatcherite",
+            "word": "thatcherite"
+        },
+        {
+            "id": "the_four_freedoms",
+            "word": "the four freedoms"
+        },
+        {
+            "id": "the_free_world",
+            "word": "the free world"
+        },
+        {
+            "id": "the_north%E2%80%93south_divide",
+            "word": "the north–south divide"
+        },
+        {
+            "id": "theocrat",
+            "word": "theocrat"
+        },
+        {
+            "id": "theocratic",
+            "word": "theocratic"
+        },
+        {
+            "id": "think_tank",
+            "word": "think tank"
+        },
+        {
+            "id": "third_country",
+            "word": "third country"
+        },
+        {
+            "id": "third_force",
+            "word": "third force"
+        },
+        {
+            "id": "third_way",
+            "word": "third way"
+        },
+        {
+            "id": "third_world",
+            "word": "third world"
+        },
+        {
+            "id": "thirty-year_rule",
+            "word": "thirty-year rule"
+        },
+        {
+            "id": "thoughtcrime",
+            "word": "thoughtcrime"
+        },
+        {
+            "id": "thought_police",
+            "word": "thought police"
+        },
+        {
+            "id": "thought_reform",
+            "word": "thought reform"
+        },
+        {
+            "id": "timocratic",
+            "word": "timocratic"
+        },
+        {
+            "id": "tino_rangatiratanga",
+            "word": "tino rangatiratanga"
+        },
+        {
+            "id": "titoism",
+            "word": "titoism"
+        },
+        {
+            "id": "tory",
+            "word": "tory"
+        },
+        {
+            "id": "totalitarian",
+            "word": "totalitarian"
+        },
+        {
+            "id": "totalitarianism",
+            "word": "totalitarianism"
+        },
+        {
+            "id": "tough_love",
+            "word": "tough love"
+        },
+        {
+            "id": "town_council",
+            "word": "town council"
+        },
+        {
+            "id": "town_councillor",
+            "word": "town councillor"
+        },
+        {
+            "id": "town_hall",
+            "word": "town hall"
+        },
+        {
+            "id": "transit_visa",
+            "word": "transit visa"
+        },
+        {
+            "id": "trapo",
+            "word": "trapo"
+        },
+        {
+            "id": "treason",
+            "word": "treason"
+        },
+        {
+            "id": "treasonous",
+            "word": "treasonous"
+        },
+        {
+            "id": "tribunal",
+            "word": "tribunal"
+        },
+        {
+            "id": "tribune_group",
+            "word": "tribune group"
+        },
+        {
+            "id": "trotskyism",
+            "word": "trotskyism"
+        },
+        {
+            "id": "trotskyist",
+            "word": "trotskyist"
+        },
+        {
+            "id": "trotskyite",
+            "word": "trotskyite"
+        },
+        {
+            "id": "trougher",
+            "word": "trougher"
+        },
+        {
+            "id": "trudeaumania",
+            "word": "trudeaumania"
+        },
+        {
+            "id": "true-blue",
+            "word": "true-blue"
+        },
+        {
+            "id": "truman_doctrine",
+            "word": "truman doctrine"
+        },
+        {
+            "id": "trust_territory",
+            "word": "trust territory"
+        },
+        {
+            "id": "tudeh",
+            "word": "tudeh"
+        },
+        {
+            "id": "tupamaro",
+            "word": "tupamaro"
+        },
+        {
+            "id": "twenty-six_counties",
+            "word": "twenty-six counties"
+        },
+        {
+            "id": "tyrannical",
+            "word": "tyrannical"
+        },
+        {
+            "id": "tyrannicide",
+            "word": "tyrannicide"
+        },
+        {
+            "id": "tyrannous",
+            "word": "tyrannous"
+        },
+        {
+            "id": "tyranny",
+            "word": "tyranny"
+        },
+        {
+            "id": "uda",
+            "word": "uda"
+        },
+        {
+            "id": "ukase",
+            "word": "ukase"
+        },
+        {
+            "id": "ukip",
+            "word": "ukip"
+        },
+        {
+            "id": "ukipper",
+            "word": "ukipper"
+        },
+        {
+            "id": "ulster_unionist_council",
+            "word": "ulster unionist council"
+        },
+        {
+            "id": "ultimatum",
+            "word": "ultimatum"
+        },
+        {
+            "id": "ultra",
+            "word": "ultra"
+        },
+        {
+            "id": "ultraist",
+            "word": "ultraist"
+        },
+        {
+            "id": "ultra-left",
+            "word": "ultra-left"
+        },
+        {
+            "id": "ultranationalism",
+            "word": "ultranationalism"
+        },
+        {
+            "id": "ultra-right",
+            "word": "ultra-right"
+        },
+        {
+            "id": "una",
+            "word": "una"
+        },
+        {
+            "id": "unban",
+            "word": "unban"
+        },
+        {
+            "id": "uncommitted",
+            "word": "uncommitted"
+        },
+        {
+            "id": "unconstitutional",
+            "word": "unconstitutional"
+        },
+        {
+            "id": "undemocratic",
+            "word": "undemocratic"
+        },
+        {
+            "id": "underclass",
+            "word": "underclass"
+        },
+        {
+            "id": "underground",
+            "word": "underground"
+        },
+        {
+            "id": "underprivileged",
+            "word": "underprivileged"
+        },
+        {
+            "id": "unelected",
+            "word": "unelected"
+        },
+        {
+            "id": "unfree",
+            "word": "unfree"
+        },
+        {
+            "id": "unfreedom",
+            "word": "unfreedom"
+        },
+        {
+            "id": "unification",
+            "word": "unification"
+        },
+        {
+            "id": "unilateral",
+            "word": "unilateral"
+        },
+        {
+            "id": "unilateralism",
+            "word": "unilateralism"
+        },
+        {
+            "id": "unilateralist",
+            "word": "unilateralist"
+        },
+        {
+            "id": "unilaterally",
+            "word": "unilaterally"
+        },
+        {
+            "id": "unita",
+            "word": "unita"
+        },
+        {
+            "id": "unitarist",
+            "word": "unitarist"
+        },
+        {
+            "id": "unitary",
+            "word": "unitary"
+        },
+        {
+            "id": "united_nations",
+            "word": "united nations"
+        },
+        {
+            "id": "unity_ticket",
+            "word": "unity ticket"
+        },
+        {
+            "id": "universal_suffrage",
+            "word": "universal suffrage"
+        },
+        {
+            "id": "uno",
+            "word": "uno"
+        },
+        {
+            "id": "unreconstructed",
+            "word": "unreconstructed"
+        },
+        {
+            "id": "unsegregated",
+            "word": "unsegregated"
+        },
+        {
+            "id": "uprising",
+            "word": "uprising"
+        },
+        {
+            "id": "usurp",
+            "word": "usurp"
+        },
+        {
+            "id": "usurper",
+            "word": "usurper"
+        },
+        {
+            "id": "utopia",
+            "word": "utopia"
+        },
+        {
+            "id": "utopian",
+            "word": "utopian"
+        },
+        {
+            "id": "utopianism",
+            "word": "utopianism"
+        },
+        {
+            "id": "utopian_socialism",
+            "word": "utopian socialism"
+        },
+        {
+            "id": "values_voter",
+            "word": "values voter"
+        },
+        {
+            "id": "v%C3%B6lkisch",
+            "word": "völkisch"
+        },
+        {
+            "id": "veep",
+            "word": "veep"
+        },
+        {
+            "id": "velvet_revolution",
+            "word": "velvet revolution"
+        },
+        {
+            "id": "verwoerdian",
+            "word": "verwoerdian"
+        },
+        {
+            "id": "veto",
+            "word": "veto"
+        },
+        {
+            "id": "vice_chamberlain",
+            "word": "vice chamberlain"
+        },
+        {
+            "id": "vice_president",
+            "word": "vice president"
+        },
+        {
+            "id": "vice-presidential",
+            "word": "vice-presidential"
+        },
+        {
+            "id": "viceregal",
+            "word": "viceregal"
+        },
+        {
+            "id": "vietnamization",
+            "word": "vietnamization"
+        },
+        {
+            "id": "vigil",
+            "word": "vigil"
+        },
+        {
+            "id": "visa",
+            "word": "visa"
+        },
+        {
+            "id": "vlast",
+            "word": "vlast"
+        },
+        {
+            "id": "voice_vote",
+            "word": "voice vote"
+        },
+        {
+            "id": "voivode",
+            "word": "voivode"
+        },
+        {
+            "id": "volstead_act",
+            "word": "volstead act"
+        },
+        {
+            "id": "wages_council",
+            "word": "wages council"
+        },
+        {
+            "id": "waka_jumper",
+            "word": "waka jumper"
+        },
+        {
+            "id": "walkout",
+            "word": "walkout"
+        },
+        {
+            "id": "ward_heeler",
+            "word": "ward heeler"
+        },
+        {
+            "id": "warmonger",
+            "word": "warmonger"
+        },
+        {
+            "id": "warmongering",
+            "word": "warmongering"
+        },
+        {
+            "id": "watchword",
+            "word": "watchword"
+        },
+        {
+            "id": "wedge_issue",
+            "word": "wedge issue"
+        },
+        {
+            "id": "wel",
+            "word": "wel"
+        },
+        {
+            "id": "welfare_state",
+            "word": "welfare state"
+        },
+        {
+            "id": "welfarism",
+            "word": "welfarism"
+        },
+        {
+            "id": "western_european_union",
+            "word": "western european union"
+        },
+        {
+            "id": "westernize",
+            "word": "westernize"
+        },
+        {
+            "id": "westernized",
+            "word": "westernized"
+        },
+        {
+            "id": "westernizing",
+            "word": "westernizing"
+        },
+        {
+            "id": "western_union",
+            "word": "western union"
+        },
+        {
+            "id": "westminster%2C_statute_of",
+            "word": "westminster, statute of"
+        },
+        {
+            "id": "wharenui",
+            "word": "wharenui"
+        },
+        {
+            "id": "whataboutery",
+            "word": "whataboutery"
+        },
+        {
+            "id": "whataboutism",
+            "word": "whataboutism"
+        },
+        {
+            "id": "whig",
+            "word": "whig"
+        },
+        {
+            "id": "white_blindfold",
+            "word": "white blindfold"
+        },
+        {
+            "id": "white_house",
+            "word": "white house"
+        },
+        {
+            "id": "white_nationalism",
+            "word": "white nationalism"
+        },
+        {
+            "id": "white_nationalist",
+            "word": "white nationalist"
+        },
+        {
+            "id": "white_shoe_brigade",
+            "word": "white shoe brigade"
+        },
+        {
+            "id": "winz",
+            "word": "winz"
+        },
+        {
+            "id": "wirepuller",
+            "word": "wirepuller"
+        },
+        {
+            "id": "womanism",
+            "word": "womanism"
+        },
+        {
+            "id": "women%27s_electoral_lobby",
+            "word": "women's electoral lobby"
+        },
+        {
+            "id": "women%27s_liberation",
+            "word": "women's liberation"
+        },
+        {
+            "id": "women%27s_rights",
+            "word": "women's rights"
+        },
+        {
+            "id": "women%27s_suffrage",
+            "word": "women's suffrage"
+        },
+        {
+            "id": "work_and_income",
+            "word": "work and income"
+        },
+        {
+            "id": "workfare",
+            "word": "workfare"
+        },
+        {
+            "id": "working_class",
+            "word": "working class"
+        },
+        {
+            "id": "works_council",
+            "word": "works council"
+        },
+        {
+            "id": "world_heritage_site",
+            "word": "world heritage site"
+        },
+        {
+            "id": "world_order",
+            "word": "world order"
+        },
+        {
+            "id": "world_power",
+            "word": "world power"
+        },
+        {
+            "id": "yeoman_usher",
+            "word": "yeoman usher"
+        },
+        {
+            "id": "yippie",
+            "word": "yippie"
+        },
+        {
+            "id": "young_italy",
+            "word": "young italy"
+        },
+        {
+            "id": "young_turk",
+            "word": "young turk"
+        },
+        {
+            "id": "zamindari",
+            "word": "zamindari"
+        },
+        {
+            "id": "zealot",
+            "word": "zealot"
+        },
+        {
+            "id": "zero_option",
+            "word": "zero option"
+        },
+        {
+            "id": "zimbabwe_african_national_union",
+            "word": "zimbabwe african national union"
+        },
+        {
+            "id": "zimbabwe_african_people%27s_union",
+            "word": "zimbabwe african people's union"
+        },
+        {
+            "id": "zionism",
+            "word": "zionism"
+        },
+        {
+            "id": "zionist",
+            "word": "zionist"
+        },
+        {
+            "id": "zollverein",
+            "word": "zollverein"
+        }
+    ]
+}

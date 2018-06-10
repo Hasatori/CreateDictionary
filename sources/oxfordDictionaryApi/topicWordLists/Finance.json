@@ -1,0 +1,2555 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 636,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "above_the_line",
+            "word": "above the line"
+        },
+        {
+            "id": "acceptance",
+            "word": "acceptance"
+        },
+        {
+            "id": "accrue",
+            "word": "accrue"
+        },
+        {
+            "id": "acquisition_accounting",
+            "word": "acquisition accounting"
+        },
+        {
+            "id": "actuarial",
+            "word": "actuarial"
+        },
+        {
+            "id": "actuary",
+            "word": "actuary"
+        },
+        {
+            "id": "ad_valorem",
+            "word": "ad valorem"
+        },
+        {
+            "id": "aer",
+            "word": "aer"
+        },
+        {
+            "id": "affinity_card",
+            "word": "affinity card"
+        },
+        {
+            "id": "agio",
+            "word": "agio"
+        },
+        {
+            "id": "allonge",
+            "word": "allonge"
+        },
+        {
+            "id": "amortize",
+            "word": "amortize"
+        },
+        {
+            "id": "amt",
+            "word": "amt"
+        },
+        {
+            "id": "annualized",
+            "word": "annualized"
+        },
+        {
+            "id": "annual_report",
+            "word": "annual report"
+        },
+        {
+            "id": "annuitant",
+            "word": "annuitant"
+        },
+        {
+            "id": "annuitize",
+            "word": "annuitize"
+        },
+        {
+            "id": "annuity",
+            "word": "annuity"
+        },
+        {
+            "id": "apr",
+            "word": "apr"
+        },
+        {
+            "id": "apra",
+            "word": "apra"
+        },
+        {
+            "id": "asian_development_bank",
+            "word": "asian development bank"
+        },
+        {
+            "id": "asset",
+            "word": "asset"
+        },
+        {
+            "id": "asset-backed",
+            "word": "asset-backed"
+        },
+        {
+            "id": "asx",
+            "word": "asx"
+        },
+        {
+            "id": "at_call",
+            "word": "at call"
+        },
+        {
+            "id": "at_source",
+            "word": "at source"
+        },
+        {
+            "id": "australian_prudential_regulation_authority",
+            "word": "australian prudential regulation authority"
+        },
+        {
+            "id": "auto-enrol",
+            "word": "auto-enrol"
+        },
+        {
+            "id": "auto-enrolment",
+            "word": "auto-enrolment"
+        },
+        {
+            "id": "avoision",
+            "word": "avoision"
+        },
+        {
+            "id": "bail-in",
+            "word": "bail-in"
+        },
+        {
+            "id": "bailout",
+            "word": "bailout"
+        },
+        {
+            "id": "balance_sheet",
+            "word": "balance sheet"
+        },
+        {
+            "id": "bancassurance",
+            "word": "bancassurance"
+        },
+        {
+            "id": "bank_account",
+            "word": "bank account"
+        },
+        {
+            "id": "bank_bill",
+            "word": "bank bill"
+        },
+        {
+            "id": "bank_clerk",
+            "word": "bank clerk"
+        },
+        {
+            "id": "bank_draft",
+            "word": "bank draft"
+        },
+        {
+            "id": "banker%27s_order",
+            "word": "banker's order"
+        },
+        {
+            "id": "bank_for_international_settlements",
+            "word": "bank for international settlements"
+        },
+        {
+            "id": "banking",
+            "word": "banking"
+        },
+        {
+            "id": "banknote",
+            "word": "banknote"
+        },
+        {
+            "id": "bank_of_canada",
+            "word": "bank of canada"
+        },
+        {
+            "id": "bank_of_england",
+            "word": "bank of england"
+        },
+        {
+            "id": "bankruptcy",
+            "word": "bankruptcy"
+        },
+        {
+            "id": "base_rate",
+            "word": "base rate"
+        },
+        {
+            "id": "bean_counter",
+            "word": "bean counter"
+        },
+        {
+            "id": "below_the_line",
+            "word": "below the line"
+        },
+        {
+            "id": "bifu",
+            "word": "bifu"
+        },
+        {
+            "id": "bill_of_exchange",
+            "word": "bill of exchange"
+        },
+        {
+            "id": "black_information",
+            "word": "black information"
+        },
+        {
+            "id": "blank_cheque",
+            "word": "blank cheque"
+        },
+        {
+            "id": "board_of_trade",
+            "word": "board of trade"
+        },
+        {
+            "id": "bonus",
+            "word": "bonus"
+        },
+        {
+            "id": "boom_and_bust",
+            "word": "boom and bust"
+        },
+        {
+            "id": "bracket_creep",
+            "word": "bracket creep"
+        },
+        {
+            "id": "bridging_loan",
+            "word": "bridging loan"
+        },
+        {
+            "id": "budget",
+            "word": "budget"
+        },
+        {
+            "id": "budget_account",
+            "word": "budget account"
+        },
+        {
+            "id": "budgetary",
+            "word": "budgetary"
+        },
+        {
+            "id": "budgeted",
+            "word": "budgeted"
+        },
+        {
+            "id": "building_society",
+            "word": "building society"
+        },
+        {
+            "id": "bulk_funding",
+            "word": "bulk funding"
+        },
+        {
+            "id": "bulldog_bond",
+            "word": "bulldog bond"
+        },
+        {
+            "id": "bundesbank",
+            "word": "bundesbank"
+        },
+        {
+            "id": "callable",
+            "word": "callable"
+        },
+        {
+            "id": "call_money",
+            "word": "call money"
+        },
+        {
+            "id": "cap",
+            "word": "cap"
+        },
+        {
+            "id": "capital_adequacy",
+            "word": "capital adequacy"
+        },
+        {
+            "id": "capital_budget",
+            "word": "capital budget"
+        },
+        {
+            "id": "capital_gain",
+            "word": "capital gain"
+        },
+        {
+            "id": "capital_market",
+            "word": "capital market"
+        },
+        {
+            "id": "capital_ratio",
+            "word": "capital ratio"
+        },
+        {
+            "id": "capital_reserve",
+            "word": "capital reserve"
+        },
+        {
+            "id": "capital_structure",
+            "word": "capital structure"
+        },
+        {
+            "id": "capital_sum",
+            "word": "capital sum"
+        },
+        {
+            "id": "cash_book",
+            "word": "cash book"
+        },
+        {
+            "id": "cash_card",
+            "word": "cash card"
+        },
+        {
+            "id": "cash_ratio",
+            "word": "cash ratio"
+        },
+        {
+            "id": "casino_bank",
+            "word": "casino bank"
+        },
+        {
+            "id": "casino_banking",
+            "word": "casino banking"
+        },
+        {
+            "id": "cbo",
+            "word": "cbo"
+        },
+        {
+            "id": "cbo_score",
+            "word": "cbo score"
+        },
+        {
+            "id": "cdo",
+            "word": "cdo"
+        },
+        {
+            "id": "central_bank",
+            "word": "central bank"
+        },
+        {
+            "id": "certificate_of_deposit",
+            "word": "certificate of deposit"
+        },
+        {
+            "id": "c.f.",
+            "word": "c.f."
+        },
+        {
+            "id": "cfa",
+            "word": "cfa"
+        },
+        {
+            "id": "challenger_bank",
+            "word": "challenger bank"
+        },
+        {
+            "id": "chargeback",
+            "word": "chargeback"
+        },
+        {
+            "id": "checking_account",
+            "word": "checking account"
+        },
+        {
+            "id": "cheque",
+            "word": "cheque"
+        },
+        {
+            "id": "chequebook",
+            "word": "chequebook"
+        },
+        {
+            "id": "city_gent",
+            "word": "city gent"
+        },
+        {
+            "id": "clearer",
+            "word": "clearer"
+        },
+        {
+            "id": "clearing_bank",
+            "word": "clearing bank"
+        },
+        {
+            "id": "clearing_house",
+            "word": "clearing house"
+        },
+        {
+            "id": "closed-end",
+            "word": "closed-end"
+        },
+        {
+            "id": "close_the_books",
+            "word": "close the books"
+        },
+        {
+            "id": "collateralize",
+            "word": "collateralize"
+        },
+        {
+            "id": "commercial_bank",
+            "word": "commercial bank"
+        },
+        {
+            "id": "commercial_bill",
+            "word": "commercial bill"
+        },
+        {
+            "id": "commercial_paper",
+            "word": "commercial paper"
+        },
+        {
+            "id": "commodity",
+            "word": "commodity"
+        },
+        {
+            "id": "consolidated_fund",
+            "word": "consolidated fund"
+        },
+        {
+            "id": "consols",
+            "word": "consols"
+        },
+        {
+            "id": "consumer_credit",
+            "word": "consumer credit"
+        },
+        {
+            "id": "contingent",
+            "word": "contingent"
+        },
+        {
+            "id": "control_account",
+            "word": "control account"
+        },
+        {
+            "id": "convertible",
+            "word": "convertible"
+        },
+        {
+            "id": "cost_accountant",
+            "word": "cost accountant"
+        },
+        {
+            "id": "cost_accounting",
+            "word": "cost accounting"
+        },
+        {
+            "id": "cost_centre",
+            "word": "cost centre"
+        },
+        {
+            "id": "cost-of-carry",
+            "word": "cost-of-carry"
+        },
+        {
+            "id": "counterfoil",
+            "word": "counterfoil"
+        },
+        {
+            "id": "counterpart_fund",
+            "word": "counterpart fund"
+        },
+        {
+            "id": "coupon_bond",
+            "word": "coupon bond"
+        },
+        {
+            "id": "coupon-clipper",
+            "word": "coupon-clipper"
+        },
+        {
+            "id": "cover_one%27s_position",
+            "word": "cover one's position"
+        },
+        {
+            "id": "cramdown",
+            "word": "cramdown"
+        },
+        {
+            "id": "crawling_peg",
+            "word": "crawling peg"
+        },
+        {
+            "id": "creative_accountancy",
+            "word": "creative accountancy"
+        },
+        {
+            "id": "credit",
+            "word": "credit"
+        },
+        {
+            "id": "credit_agency",
+            "word": "credit agency"
+        },
+        {
+            "id": "credit_analyst",
+            "word": "credit analyst"
+        },
+        {
+            "id": "credit_bureau",
+            "word": "credit bureau"
+        },
+        {
+            "id": "credit_crunch",
+            "word": "credit crunch"
+        },
+        {
+            "id": "credit_derivative",
+            "word": "credit derivative"
+        },
+        {
+            "id": "credit_insurance",
+            "word": "credit insurance"
+        },
+        {
+            "id": "credit_rating",
+            "word": "credit rating"
+        },
+        {
+            "id": "credit_union",
+            "word": "credit union"
+        },
+        {
+            "id": "creditworthy",
+            "word": "creditworthy"
+        },
+        {
+            "id": "cross-rate",
+            "word": "cross-rate"
+        },
+        {
+            "id": "cryptocurrency",
+            "word": "cryptocurrency"
+        },
+        {
+            "id": "current_account",
+            "word": "current account"
+        },
+        {
+            "id": "current_assets",
+            "word": "current assets"
+        },
+        {
+            "id": "current_cost_accounting",
+            "word": "current cost accounting"
+        },
+        {
+            "id": "current_liabilities",
+            "word": "current liabilities"
+        },
+        {
+            "id": "custom_house",
+            "word": "custom house"
+        },
+        {
+            "id": "dax",
+            "word": "dax"
+        },
+        {
+            "id": "day_trading",
+            "word": "day trading"
+        },
+        {
+            "id": "death_futures",
+            "word": "death futures"
+        },
+        {
+            "id": "death_grant",
+            "word": "death grant"
+        },
+        {
+            "id": "debenture",
+            "word": "debenture"
+        },
+        {
+            "id": "debit",
+            "word": "debit"
+        },
+        {
+            "id": "debit_card",
+            "word": "debit card"
+        },
+        {
+            "id": "debt_ceiling",
+            "word": "debt ceiling"
+        },
+        {
+            "id": "debt_counsellor",
+            "word": "debt counsellor"
+        },
+        {
+            "id": "debt_security",
+            "word": "debt security"
+        },
+        {
+            "id": "debt_trap",
+            "word": "debt trap"
+        },
+        {
+            "id": "deductible",
+            "word": "deductible"
+        },
+        {
+            "id": "deduction",
+            "word": "deduction"
+        },
+        {
+            "id": "deeming_rate",
+            "word": "deeming rate"
+        },
+        {
+            "id": "deener",
+            "word": "deener"
+        },
+        {
+            "id": "deep-discount",
+            "word": "deep-discount"
+        },
+        {
+            "id": "deep_pockets",
+            "word": "deep pockets"
+        },
+        {
+            "id": "deferred_annuity",
+            "word": "deferred annuity"
+        },
+        {
+            "id": "deficit",
+            "word": "deficit"
+        },
+        {
+            "id": "deleverage",
+            "word": "deleverage"
+        },
+        {
+            "id": "deleveraging",
+            "word": "deleveraging"
+        },
+        {
+            "id": "demand_deposit",
+            "word": "demand deposit"
+        },
+        {
+            "id": "demand_draft",
+            "word": "demand draft"
+        },
+        {
+            "id": "demonetization",
+            "word": "demonetization"
+        },
+        {
+            "id": "demonetize",
+            "word": "demonetize"
+        },
+        {
+            "id": "demutualize",
+            "word": "demutualize"
+        },
+        {
+            "id": "denominate",
+            "word": "denominate"
+        },
+        {
+            "id": "depletion_allowance",
+            "word": "depletion allowance"
+        },
+        {
+            "id": "deposit",
+            "word": "deposit"
+        },
+        {
+            "id": "deposit_account",
+            "word": "deposit account"
+        },
+        {
+            "id": "depositor",
+            "word": "depositor"
+        },
+        {
+            "id": "depreciate",
+            "word": "depreciate"
+        },
+        {
+            "id": "depreciation",
+            "word": "depreciation"
+        },
+        {
+            "id": "de-risk",
+            "word": "de-risk"
+        },
+        {
+            "id": "dilutive",
+            "word": "dilutive"
+        },
+        {
+            "id": "direct_debit",
+            "word": "direct debit"
+        },
+        {
+            "id": "direct_deposit",
+            "word": "direct deposit"
+        },
+        {
+            "id": "discounted_cash_flow",
+            "word": "discounted cash flow"
+        },
+        {
+            "id": "discount_factor",
+            "word": "discount factor"
+        },
+        {
+            "id": "discount_house",
+            "word": "discount house"
+        },
+        {
+            "id": "discount_market",
+            "word": "discount market"
+        },
+        {
+            "id": "discount_rate",
+            "word": "discount rate"
+        },
+        {
+            "id": "discretionary",
+            "word": "discretionary"
+        },
+        {
+            "id": "discretionary_trust",
+            "word": "discretionary trust"
+        },
+        {
+            "id": "district_auditor",
+            "word": "district auditor"
+        },
+        {
+            "id": "dividend",
+            "word": "dividend"
+        },
+        {
+            "id": "dividend_cover",
+            "word": "dividend cover"
+        },
+        {
+            "id": "divvy",
+            "word": "divvy"
+        },
+        {
+            "id": "dollarization",
+            "word": "dollarization"
+        },
+        {
+            "id": "douceur",
+            "word": "douceur"
+        },
+        {
+            "id": "drawee",
+            "word": "drawee"
+        },
+        {
+            "id": "due_date",
+            "word": "due date"
+        },
+        {
+            "id": "earned_income",
+            "word": "earned income"
+        },
+        {
+            "id": "earn-out",
+            "word": "earn-out"
+        },
+        {
+            "id": "easy_money",
+            "word": "easy money"
+        },
+        {
+            "id": "e-banking",
+            "word": "e-banking"
+        },
+        {
+            "id": "ebit",
+            "word": "ebit"
+        },
+        {
+            "id": "ebitda",
+            "word": "ebitda"
+        },
+        {
+            "id": "ebrd",
+            "word": "ebrd"
+        },
+        {
+            "id": "efsf",
+            "word": "efsf"
+        },
+        {
+            "id": "eligible_termination_payment",
+            "word": "eligible termination payment"
+        },
+        {
+            "id": "eps",
+            "word": "eps"
+        },
+        {
+            "id": "etf",
+            "word": "etf"
+        },
+        {
+            "id": "euribor",
+            "word": "euribor"
+        },
+        {
+            "id": "eurobond",
+            "word": "eurobond"
+        },
+        {
+            "id": "eurocurrency",
+            "word": "eurocurrency"
+        },
+        {
+            "id": "eurodollar",
+            "word": "eurodollar"
+        },
+        {
+            "id": "euromarket",
+            "word": "euromarket"
+        },
+        {
+            "id": "european_investment_bank",
+            "word": "european investment bank"
+        },
+        {
+            "id": "exchange_control",
+            "word": "exchange control"
+        },
+        {
+            "id": "exchange_rate",
+            "word": "exchange rate"
+        },
+        {
+            "id": "exchange_rate_mechanism",
+            "word": "exchange rate mechanism"
+        },
+        {
+            "id": "exchange-traded_fund",
+            "word": "exchange-traded fund"
+        },
+        {
+            "id": "face_value",
+            "word": "face value"
+        },
+        {
+            "id": "fairness_opinion",
+            "word": "fairness opinion"
+        },
+        {
+            "id": "family_benefit",
+            "word": "family benefit"
+        },
+        {
+            "id": "fannie_mae",
+            "word": "fannie mae"
+        },
+        {
+            "id": "fdi",
+            "word": "fdi"
+        },
+        {
+            "id": "fdic",
+            "word": "fdic"
+        },
+        {
+            "id": "federal_reserve",
+            "word": "federal reserve"
+        },
+        {
+            "id": "fiat_money",
+            "word": "fiat money"
+        },
+        {
+            "id": "final_dividend",
+            "word": "final dividend"
+        },
+        {
+            "id": "final_salary_scheme",
+            "word": "final salary scheme"
+        },
+        {
+            "id": "finance",
+            "word": "finance"
+        },
+        {
+            "id": "financial",
+            "word": "financial"
+        },
+        {
+            "id": "financial_adviser",
+            "word": "financial adviser"
+        },
+        {
+            "id": "financial_analyst",
+            "word": "financial analyst"
+        },
+        {
+            "id": "financial_intermediary",
+            "word": "financial intermediary"
+        },
+        {
+            "id": "financially",
+            "word": "financially"
+        },
+        {
+            "id": "financial_planner",
+            "word": "financial planner"
+        },
+        {
+            "id": "financial_services",
+            "word": "financial services"
+        },
+        {
+            "id": "financier",
+            "word": "financier"
+        },
+        {
+            "id": "fintech",
+            "word": "fintech"
+        },
+        {
+            "id": "fire_insurance",
+            "word": "fire insurance"
+        },
+        {
+            "id": "fiscal_cliff",
+            "word": "fiscal cliff"
+        },
+        {
+            "id": "fiscal_envelope",
+            "word": "fiscal envelope"
+        },
+        {
+            "id": "fixed_assets",
+            "word": "fixed assets"
+        },
+        {
+            "id": "fixed_capital",
+            "word": "fixed capital"
+        },
+        {
+            "id": "fixed_charge",
+            "word": "fixed charge"
+        },
+        {
+            "id": "fixed-rate",
+            "word": "fixed-rate"
+        },
+        {
+            "id": "flight_capital",
+            "word": "flight capital"
+        },
+        {
+            "id": "floating_charge",
+            "word": "floating charge"
+        },
+        {
+            "id": "floating_debt",
+            "word": "floating debt"
+        },
+        {
+            "id": "foreign_exchange",
+            "word": "foreign exchange"
+        },
+        {
+            "id": "foreign_exchange_dealer",
+            "word": "foreign exchange dealer"
+        },
+        {
+            "id": "forex",
+            "word": "forex"
+        },
+        {
+            "id": "freddie_mac",
+            "word": "freddie mac"
+        },
+        {
+            "id": "front-load",
+            "word": "front-load"
+        },
+        {
+            "id": "frugality",
+            "word": "frugality"
+        },
+        {
+            "id": "funded_debt",
+            "word": "funded debt"
+        },
+        {
+            "id": "fund_manager",
+            "word": "fund manager"
+        },
+        {
+            "id": "fundraiser",
+            "word": "fundraiser"
+        },
+        {
+            "id": "fundraising",
+            "word": "fundraising"
+        },
+        {
+            "id": "fy",
+            "word": "fy"
+        },
+        {
+            "id": "gao",
+            "word": "gao"
+        },
+        {
+            "id": "general_ledger",
+            "word": "general ledger"
+        },
+        {
+            "id": "gift_duty",
+            "word": "gift duty"
+        },
+        {
+            "id": "girl_guide_biscuits",
+            "word": "girl guide biscuits"
+        },
+        {
+            "id": "goldbug",
+            "word": "goldbug"
+        },
+        {
+            "id": "gold_card",
+            "word": "gold card"
+        },
+        {
+            "id": "golden_share",
+            "word": "golden share"
+        },
+        {
+            "id": "government_bond",
+            "word": "government bond"
+        },
+        {
+            "id": "government_paper",
+            "word": "government paper"
+        },
+        {
+            "id": "government_valuation",
+            "word": "government valuation"
+        },
+        {
+            "id": "granny_bond",
+            "word": "granny bond"
+        },
+        {
+            "id": "grey_market",
+            "word": "grey market"
+        },
+        {
+            "id": "half-year",
+            "word": "half-year"
+        },
+        {
+            "id": "hard_cash",
+            "word": "hard cash"
+        },
+        {
+            "id": "hard_currency",
+            "word": "hard currency"
+        },
+        {
+            "id": "hawala",
+            "word": "hawala"
+        },
+        {
+            "id": "health_insurance",
+            "word": "health insurance"
+        },
+        {
+            "id": "hedge_fund",
+            "word": "hedge fund"
+        },
+        {
+            "id": "hft",
+            "word": "hft"
+        },
+        {
+            "id": "high_finance",
+            "word": "high finance"
+        },
+        {
+            "id": "high-interest",
+            "word": "high-interest"
+        },
+        {
+            "id": "high-street_bank",
+            "word": "high-street bank"
+        },
+        {
+            "id": "hmrc",
+            "word": "hmrc"
+        },
+        {
+            "id": "holey_dollar",
+            "word": "holey dollar"
+        },
+        {
+            "id": "hollow_log",
+            "word": "hollow log"
+        },
+        {
+            "id": "home_loan",
+            "word": "home loan"
+        },
+        {
+            "id": "home_reversion",
+            "word": "home reversion"
+        },
+        {
+            "id": "hot_money",
+            "word": "hot money"
+        },
+        {
+            "id": "housing_association",
+            "word": "housing association"
+        },
+        {
+            "id": "hypothecate",
+            "word": "hypothecate"
+        },
+        {
+            "id": "iht",
+            "word": "iht"
+        },
+        {
+            "id": "implosion",
+            "word": "implosion"
+        },
+        {
+            "id": "improvement_grant",
+            "word": "improvement grant"
+        },
+        {
+            "id": "imputed",
+            "word": "imputed"
+        },
+        {
+            "id": "incentive_scheme",
+            "word": "incentive scheme"
+        },
+        {
+            "id": "incidental_expenses",
+            "word": "incidental expenses"
+        },
+        {
+            "id": "inconvertible",
+            "word": "inconvertible"
+        },
+        {
+            "id": "indebt",
+            "word": "indebt"
+        },
+        {
+            "id": "individual_voluntary_arrangement",
+            "word": "individual voluntary arrangement"
+        },
+        {
+            "id": "inland_revenue",
+            "word": "inland revenue"
+        },
+        {
+            "id": "insolvency",
+            "word": "insolvency"
+        },
+        {
+            "id": "insurance_premium",
+            "word": "insurance premium"
+        },
+        {
+            "id": "interbank",
+            "word": "interbank"
+        },
+        {
+            "id": "interdealer_broker",
+            "word": "interdealer broker"
+        },
+        {
+            "id": "interest-bearing",
+            "word": "interest-bearing"
+        },
+        {
+            "id": "interest_rate",
+            "word": "interest rate"
+        },
+        {
+            "id": "international_bank_for_reconstruction_and_development",
+            "word": "international bank for reconstruction and development"
+        },
+        {
+            "id": "international_development_association",
+            "word": "international development association"
+        },
+        {
+            "id": "international_finance_corporation",
+            "word": "international finance corporation"
+        },
+        {
+            "id": "international_monetary_fund",
+            "word": "international monetary fund"
+        },
+        {
+            "id": "internet_banking",
+            "word": "internet banking"
+        },
+        {
+            "id": "investment_adviser",
+            "word": "investment adviser"
+        },
+        {
+            "id": "investment_analyst",
+            "word": "investment analyst"
+        },
+        {
+            "id": "investment_bank",
+            "word": "investment bank"
+        },
+        {
+            "id": "investment_banker",
+            "word": "investment banker"
+        },
+        {
+            "id": "investment_banking",
+            "word": "investment banking"
+        },
+        {
+            "id": "investment_bond",
+            "word": "investment bond"
+        },
+        {
+            "id": "investment_income",
+            "word": "investment income"
+        },
+        {
+            "id": "investment_management",
+            "word": "investment management"
+        },
+        {
+            "id": "investment_manager",
+            "word": "investment manager"
+        },
+        {
+            "id": "investment_trust",
+            "word": "investment trust"
+        },
+        {
+            "id": "ira",
+            "word": "ira"
+        },
+        {
+            "id": "iro",
+            "word": "iro"
+        },
+        {
+            "id": "irs",
+            "word": "irs"
+        },
+        {
+            "id": "isa",
+            "word": "isa"
+        },
+        {
+            "id": "iva",
+            "word": "iva"
+        },
+        {
+            "id": "joint_account",
+            "word": "joint account"
+        },
+        {
+            "id": "junk_bond",
+            "word": "junk bond"
+        },
+        {
+            "id": "kiwibank",
+            "word": "kiwibank"
+        },
+        {
+            "id": "ledger",
+            "word": "ledger"
+        },
+        {
+            "id": "lending_rate",
+            "word": "lending rate"
+        },
+        {
+            "id": "letter_of_comfort",
+            "word": "letter of comfort"
+        },
+        {
+            "id": "letter_of_credit",
+            "word": "letter of credit"
+        },
+        {
+            "id": "liability",
+            "word": "liability"
+        },
+        {
+            "id": "libor",
+            "word": "libor"
+        },
+        {
+            "id": "life_office",
+            "word": "life office"
+        },
+        {
+            "id": "lifo",
+            "word": "lifo"
+        },
+        {
+            "id": "line_of_credit",
+            "word": "line of credit"
+        },
+        {
+            "id": "liquidity_ratio",
+            "word": "liquidity ratio"
+        },
+        {
+            "id": "lloyd%27s",
+            "word": "lloyd's"
+        },
+        {
+            "id": "loan_account",
+            "word": "loan account"
+        },
+        {
+            "id": "loan_agreement",
+            "word": "loan agreement"
+        },
+        {
+            "id": "loan_book",
+            "word": "loan book"
+        },
+        {
+            "id": "loan_capital",
+            "word": "loan capital"
+        },
+        {
+            "id": "loan_facility",
+            "word": "loan facility"
+        },
+        {
+            "id": "loanholder",
+            "word": "loanholder"
+        },
+        {
+            "id": "loan_shark",
+            "word": "loan shark"
+        },
+        {
+            "id": "lockbox",
+            "word": "lockbox"
+        },
+        {
+            "id": "lutine_bell",
+            "word": "lutine bell"
+        },
+        {
+            "id": "m_%26_a",
+            "word": "m & a"
+        },
+        {
+            "id": "maintenance_fee",
+            "word": "maintenance fee"
+        },
+        {
+            "id": "make_a_market",
+            "word": "make a market"
+        },
+        {
+            "id": "malinvestment",
+            "word": "malinvestment"
+        },
+        {
+            "id": "managed_fund",
+            "word": "managed fund"
+        },
+        {
+            "id": "management_accountant",
+            "word": "management accountant"
+        },
+        {
+            "id": "management_accounting",
+            "word": "management accounting"
+        },
+        {
+            "id": "management_company",
+            "word": "management company"
+        },
+        {
+            "id": "management_fee",
+            "word": "management fee"
+        },
+        {
+            "id": "margin_account",
+            "word": "margin account"
+        },
+        {
+            "id": "market_analysis",
+            "word": "market analysis"
+        },
+        {
+            "id": "market_analyst",
+            "word": "market analyst"
+        },
+        {
+            "id": "market_cap",
+            "word": "market cap"
+        },
+        {
+            "id": "market_maker",
+            "word": "market maker"
+        },
+        {
+            "id": "market_rent",
+            "word": "market rent"
+        },
+        {
+            "id": "market_valuation",
+            "word": "market valuation"
+        },
+        {
+            "id": "mark-to-market",
+            "word": "mark-to-market"
+        },
+        {
+            "id": "maturity",
+            "word": "maturity"
+        },
+        {
+            "id": "megabucks",
+            "word": "megabucks"
+        },
+        {
+            "id": "merchant_bank",
+            "word": "merchant bank"
+        },
+        {
+            "id": "microcredit",
+            "word": "microcredit"
+        },
+        {
+            "id": "microfinance",
+            "word": "microfinance"
+        },
+        {
+            "id": "microlending",
+            "word": "microlending"
+        },
+        {
+            "id": "microloan",
+            "word": "microloan"
+        },
+        {
+            "id": "minority_shareholder",
+            "word": "minority shareholder"
+        },
+        {
+            "id": "misalignment",
+            "word": "misalignment"
+        },
+        {
+            "id": "mlr",
+            "word": "mlr"
+        },
+        {
+            "id": "monetary_unit",
+            "word": "monetary unit"
+        },
+        {
+            "id": "monetize",
+            "word": "monetize"
+        },
+        {
+            "id": "money_broker",
+            "word": "money broker"
+        },
+        {
+            "id": "money_changer",
+            "word": "money changer"
+        },
+        {
+            "id": "moneylender",
+            "word": "moneylender"
+        },
+        {
+            "id": "money_man",
+            "word": "money man"
+        },
+        {
+            "id": "money_market",
+            "word": "money market"
+        },
+        {
+            "id": "money_of_account",
+            "word": "money of account"
+        },
+        {
+            "id": "money_order",
+            "word": "money order"
+        },
+        {
+            "id": "mortgage_broker",
+            "word": "mortgage broker"
+        },
+        {
+            "id": "mortgage_rate",
+            "word": "mortgage rate"
+        },
+        {
+            "id": "mortgage_repayment",
+            "word": "mortgage repayment"
+        },
+        {
+            "id": "morton%27s_fork",
+            "word": "morton's fork"
+        },
+        {
+            "id": "mum_and_dad_investor",
+            "word": "mum and dad investor"
+        },
+        {
+            "id": "municipal_bond",
+            "word": "municipal bond"
+        },
+        {
+            "id": "mutual_fund",
+            "word": "mutual fund"
+        },
+        {
+            "id": "mutualize",
+            "word": "mutualize"
+        },
+        {
+            "id": "national_bank",
+            "word": "national bank"
+        },
+        {
+            "id": "national_debt",
+            "word": "national debt"
+        },
+        {
+            "id": "national_insurance",
+            "word": "national insurance"
+        },
+        {
+            "id": "national_superannuation",
+            "word": "national superannuation"
+        },
+        {
+            "id": "near_money",
+            "word": "near money"
+        },
+        {
+            "id": "negative_gearing",
+            "word": "negative gearing"
+        },
+        {
+            "id": "net_book_value",
+            "word": "net book value"
+        },
+        {
+            "id": "new_zealand_superannuation",
+            "word": "new zealand superannuation"
+        },
+        {
+            "id": "no-load",
+            "word": "no-load"
+        },
+        {
+            "id": "nominal_account",
+            "word": "nominal account"
+        },
+        {
+            "id": "nominal_ledger",
+            "word": "nominal ledger"
+        },
+        {
+            "id": "non-contributory",
+            "word": "non-contributory"
+        },
+        {
+            "id": "non-dom",
+            "word": "non-dom"
+        },
+        {
+            "id": "non-payment",
+            "word": "non-payment"
+        },
+        {
+            "id": "non-recourse",
+            "word": "non-recourse"
+        },
+        {
+            "id": "non-remittance",
+            "word": "non-remittance"
+        },
+        {
+            "id": "non-voting",
+            "word": "non-voting"
+        },
+        {
+            "id": "nsb",
+            "word": "nsb"
+        },
+        {
+            "id": "numbered_account",
+            "word": "numbered account"
+        },
+        {
+            "id": "occupational_pension",
+            "word": "occupational pension"
+        },
+        {
+            "id": "odd_lot",
+            "word": "odd lot"
+        },
+        {
+            "id": "offeree",
+            "word": "offeree"
+        },
+        {
+            "id": "offset",
+            "word": "offset"
+        },
+        {
+            "id": "old_lady_of_threadneedle_street",
+            "word": "old lady of threadneedle street"
+        },
+        {
+            "id": "on_deposit",
+            "word": "on deposit"
+        },
+        {
+            "id": "online_bank",
+            "word": "online bank"
+        },
+        {
+            "id": "online_banking",
+            "word": "online banking"
+        },
+        {
+            "id": "on_security_of_something",
+            "word": "on security of something"
+        },
+        {
+            "id": "opening_balance",
+            "word": "opening balance"
+        },
+        {
+            "id": "operating_budget",
+            "word": "operating budget"
+        },
+        {
+            "id": "origination_fee",
+            "word": "origination fee"
+        },
+        {
+            "id": "outstation_cheque",
+            "word": "outstation cheque"
+        },
+        {
+            "id": "overcapitalize",
+            "word": "overcapitalize"
+        },
+        {
+            "id": "overdraft",
+            "word": "overdraft"
+        },
+        {
+            "id": "overdraw",
+            "word": "overdraw"
+        },
+        {
+            "id": "overinvest",
+            "word": "overinvest"
+        },
+        {
+            "id": "overinvestment",
+            "word": "overinvestment"
+        },
+        {
+            "id": "overvalue",
+            "word": "overvalue"
+        },
+        {
+            "id": "p45",
+            "word": "p45"
+        },
+        {
+            "id": "parallel_market",
+            "word": "parallel market"
+        },
+        {
+            "id": "parity",
+            "word": "parity"
+        },
+        {
+            "id": "passbook",
+            "word": "passbook"
+        },
+        {
+            "id": "payday_lender",
+            "word": "payday lender"
+        },
+        {
+            "id": "payday_loan",
+            "word": "payday loan"
+        },
+        {
+            "id": "payee",
+            "word": "payee"
+        },
+        {
+            "id": "penny_stock",
+            "word": "penny stock"
+        },
+        {
+            "id": "pension",
+            "word": "pension"
+        },
+        {
+            "id": "pensionable",
+            "word": "pensionable"
+        },
+        {
+            "id": "pension_fund",
+            "word": "pension fund"
+        },
+        {
+            "id": "pension_mortgage",
+            "word": "pension mortgage"
+        },
+        {
+            "id": "pension_pot",
+            "word": "pension pot"
+        },
+        {
+            "id": "per_annum",
+            "word": "per annum"
+        },
+        {
+            "id": "per_capita",
+            "word": "per capita"
+        },
+        {
+            "id": "per_diem",
+            "word": "per diem"
+        },
+        {
+            "id": "performance_bond",
+            "word": "performance bond"
+        },
+        {
+            "id": "per_mille",
+            "word": "per mille"
+        },
+        {
+            "id": "personal_equity_plan",
+            "word": "personal equity plan"
+        },
+        {
+            "id": "personal_identification_number",
+            "word": "personal identification number"
+        },
+        {
+            "id": "personal_pension",
+            "word": "personal pension"
+        },
+        {
+            "id": "pfi",
+            "word": "pfi"
+        },
+        {
+            "id": "planning_horizon",
+            "word": "planning horizon"
+        },
+        {
+            "id": "poison_pill",
+            "word": "poison pill"
+        },
+        {
+            "id": "post-tax",
+            "word": "post-tax"
+        },
+        {
+            "id": "preference_share",
+            "word": "preference share"
+        },
+        {
+            "id": "premium",
+            "word": "premium"
+        },
+        {
+            "id": "premium_bond",
+            "word": "premium bond"
+        },
+        {
+            "id": "pre-need",
+            "word": "pre-need"
+        },
+        {
+            "id": "present_value",
+            "word": "present value"
+        },
+        {
+            "id": "price_relative",
+            "word": "price relative"
+        },
+        {
+            "id": "prior_charge",
+            "word": "prior charge"
+        },
+        {
+            "id": "private_means",
+            "word": "private means"
+        },
+        {
+            "id": "private_treaty",
+            "word": "private treaty"
+        },
+        {
+            "id": "profit_and_loss_account",
+            "word": "profit and loss account"
+        },
+        {
+            "id": "profit_warning",
+            "word": "profit warning"
+        },
+        {
+            "id": "promissory_note",
+            "word": "promissory note"
+        },
+        {
+            "id": "promoter",
+            "word": "promoter"
+        },
+        {
+            "id": "provident_fund",
+            "word": "provident fund"
+        },
+        {
+            "id": "proxy_fight",
+            "word": "proxy fight"
+        },
+        {
+            "id": "proxy_vote",
+            "word": "proxy vote"
+        },
+        {
+            "id": "public_company",
+            "word": "public company"
+        },
+        {
+            "id": "pump-and-dump",
+            "word": "pump-and-dump"
+        },
+        {
+            "id": "q",
+            "word": "q"
+        },
+        {
+            "id": "quant",
+            "word": "quant"
+        },
+        {
+            "id": "quantitative_analysis",
+            "word": "quantitative analysis"
+        },
+        {
+            "id": "quantitative_analyst",
+            "word": "quantitative analyst"
+        },
+        {
+            "id": "quantitative_easing",
+            "word": "quantitative easing"
+        },
+        {
+            "id": "rate_of_return",
+            "word": "rate of return"
+        },
+        {
+            "id": "rate_tart",
+            "word": "rate tart"
+        },
+        {
+            "id": "real_account",
+            "word": "real account"
+        },
+        {
+            "id": "rebase",
+            "word": "rebase"
+        },
+        {
+            "id": "rebate",
+            "word": "rebate"
+        },
+        {
+            "id": "recapitalize",
+            "word": "recapitalize"
+        },
+        {
+            "id": "receivership",
+            "word": "receivership"
+        },
+        {
+            "id": "redemption_yield",
+            "word": "redemption yield"
+        },
+        {
+            "id": "rediscount",
+            "word": "rediscount"
+        },
+        {
+            "id": "refinance",
+            "word": "refinance"
+        },
+        {
+            "id": "re-fund",
+            "word": "re-fund"
+        },
+        {
+            "id": "regtech",
+            "word": "regtech"
+        },
+        {
+            "id": "reimbursement",
+            "word": "reimbursement"
+        },
+        {
+            "id": "reinvest",
+            "word": "reinvest"
+        },
+        {
+            "id": "reinvestment",
+            "word": "reinvestment"
+        },
+        {
+            "id": "remonetize",
+            "word": "remonetize"
+        },
+        {
+            "id": "remortgage",
+            "word": "remortgage"
+        },
+        {
+            "id": "repatriation",
+            "word": "repatriation"
+        },
+        {
+            "id": "repayment",
+            "word": "repayment"
+        },
+        {
+            "id": "repossessor",
+            "word": "repossessor"
+        },
+        {
+            "id": "re-present",
+            "word": "re-present"
+        },
+        {
+            "id": "repurchase_agreement",
+            "word": "repurchase agreement"
+        },
+        {
+            "id": "rerate",
+            "word": "rerate"
+        },
+        {
+            "id": "reserve_bank",
+            "word": "reserve bank"
+        },
+        {
+            "id": "reserve_currency",
+            "word": "reserve currency"
+        },
+        {
+            "id": "resident_withholding_tax",
+            "word": "resident withholding tax"
+        },
+        {
+            "id": "restricted_stock",
+            "word": "restricted stock"
+        },
+        {
+            "id": "restructure",
+            "word": "restructure"
+        },
+        {
+            "id": "retail_bank",
+            "word": "retail bank"
+        },
+        {
+            "id": "reverse_mortgage",
+            "word": "reverse mortgage"
+        },
+        {
+            "id": "reverse_takeover",
+            "word": "reverse takeover"
+        },
+        {
+            "id": "reversionary_bonus",
+            "word": "reversionary bonus"
+        },
+        {
+            "id": "revolving_fund",
+            "word": "revolving fund"
+        },
+        {
+            "id": "rights_issue",
+            "word": "rights issue"
+        },
+        {
+            "id": "risk-neutral",
+            "word": "risk-neutral"
+        },
+        {
+            "id": "robo-adviser",
+            "word": "robo-adviser"
+        },
+        {
+            "id": "roce",
+            "word": "roce"
+        },
+        {
+            "id": "roe",
+            "word": "roe"
+        },
+        {
+            "id": "rogue_trader",
+            "word": "rogue trader"
+        },
+        {
+            "id": "roi",
+            "word": "roi"
+        },
+        {
+            "id": "rollover",
+            "word": "rollover"
+        },
+        {
+            "id": "roll_something_over",
+            "word": "roll something over"
+        },
+        {
+            "id": "rrsp",
+            "word": "rrsp"
+        },
+        {
+            "id": "s_%26_l",
+            "word": "s & l"
+        },
+        {
+            "id": "save_as_you_earn",
+            "word": "save as you earn"
+        },
+        {
+            "id": "savings_account",
+            "word": "savings account"
+        },
+        {
+            "id": "savings_and_loan",
+            "word": "savings and loan"
+        },
+        {
+            "id": "savings_bank",
+            "word": "savings bank"
+        },
+        {
+            "id": "savings_certificate",
+            "word": "savings certificate"
+        },
+        {
+            "id": "scrappage",
+            "word": "scrappage"
+        },
+        {
+            "id": "scrip",
+            "word": "scrip"
+        },
+        {
+            "id": "sec",
+            "word": "sec"
+        },
+        {
+            "id": "second_mortgage",
+            "word": "second mortgage"
+        },
+        {
+            "id": "self-assessment",
+            "word": "self-assessment"
+        },
+        {
+            "id": "self-balancing",
+            "word": "self-balancing"
+        },
+        {
+            "id": "self-certify",
+            "word": "self-certify"
+        },
+        {
+            "id": "self-insurance",
+            "word": "self-insurance"
+        },
+        {
+            "id": "self-liquidating",
+            "word": "self-liquidating"
+        },
+        {
+            "id": "selldown",
+            "word": "selldown"
+        },
+        {
+            "id": "sell-off",
+            "word": "sell-off"
+        },
+        {
+            "id": "serps",
+            "word": "serps"
+        },
+        {
+            "id": "set-off",
+            "word": "set-off"
+        },
+        {
+            "id": "shadow_banking",
+            "word": "shadow banking"
+        },
+        {
+            "id": "share_capital",
+            "word": "share capital"
+        },
+        {
+            "id": "sharemarket",
+            "word": "sharemarket"
+        },
+        {
+            "id": "share_option",
+            "word": "share option"
+        },
+        {
+            "id": "share_premium",
+            "word": "share premium"
+        },
+        {
+            "id": "shell_company",
+            "word": "shell company"
+        },
+        {
+            "id": "shroff",
+            "word": "shroff"
+        },
+        {
+            "id": "sifi",
+            "word": "sifi"
+        },
+        {
+            "id": "sight_deposit",
+            "word": "sight deposit"
+        },
+        {
+            "id": "silver_standard",
+            "word": "silver standard"
+        },
+        {
+            "id": "single-entry",
+            "word": "single-entry"
+        },
+        {
+            "id": "sipp",
+            "word": "sipp"
+        },
+        {
+            "id": "smart_card",
+            "word": "smart card"
+        },
+        {
+            "id": "sovereign_debt",
+            "word": "sovereign debt"
+        },
+        {
+            "id": "sovereign_wealth_fund",
+            "word": "sovereign wealth fund"
+        },
+        {
+            "id": "special_drawing_rights",
+            "word": "special drawing rights"
+        },
+        {
+            "id": "spin_something_off",
+            "word": "spin something off"
+        },
+        {
+            "id": "sponsorship",
+            "word": "sponsorship"
+        },
+        {
+            "id": "sro",
+            "word": "sro"
+        },
+        {
+            "id": "stakeholder_pension",
+            "word": "stakeholder pension"
+        },
+        {
+            "id": "starting_salary",
+            "word": "starting salary"
+        },
+        {
+            "id": "statement_of_affairs",
+            "word": "statement of affairs"
+        },
+        {
+            "id": "stock_split",
+            "word": "stock split"
+        },
+        {
+            "id": "stop_payment",
+            "word": "stop payment"
+        },
+        {
+            "id": "sub-prime",
+            "word": "sub-prime"
+        },
+        {
+            "id": "surcharge",
+            "word": "surcharge"
+        },
+        {
+            "id": "surplus",
+            "word": "surplus"
+        },
+        {
+            "id": "surrender_value",
+            "word": "surrender value"
+        },
+        {
+            "id": "suspense_account",
+            "word": "suspense account"
+        },
+        {
+            "id": "swaption",
+            "word": "swaption"
+        },
+        {
+            "id": "sweat_equity",
+            "word": "sweat equity"
+        },
+        {
+            "id": "swiss_bank_account",
+            "word": "swiss bank account"
+        },
+        {
+            "id": "tax_and_spend",
+            "word": "tax and spend"
+        },
+        {
+            "id": "tax_avoidance",
+            "word": "tax avoidance"
+        },
+        {
+            "id": "tax_break",
+            "word": "tax break"
+        },
+        {
+            "id": "tax-deductible",
+            "word": "tax-deductible"
+        },
+        {
+            "id": "tax_evasion",
+            "word": "tax evasion"
+        },
+        {
+            "id": "tax_file_number",
+            "word": "tax file number"
+        },
+        {
+            "id": "tax_haven",
+            "word": "tax haven"
+        },
+        {
+            "id": "tax_point",
+            "word": "tax point"
+        },
+        {
+            "id": "tax_relief",
+            "word": "tax relief"
+        },
+        {
+            "id": "tax_return",
+            "word": "tax return"
+        },
+        {
+            "id": "tax_shelter",
+            "word": "tax shelter"
+        },
+        {
+            "id": "tax_year",
+            "word": "tax year"
+        },
+        {
+            "id": "tco",
+            "word": "tco"
+        },
+        {
+            "id": "technical_analysis",
+            "word": "technical analysis"
+        },
+        {
+            "id": "technical_analyst",
+            "word": "technical analyst"
+        },
+        {
+            "id": "telephone_banking",
+            "word": "telephone banking"
+        },
+        {
+            "id": "teller",
+            "word": "teller"
+        },
+        {
+            "id": "tellership",
+            "word": "tellership"
+        },
+        {
+            "id": "tessa",
+            "word": "tessa"
+        },
+        {
+            "id": "third_market",
+            "word": "third market"
+        },
+        {
+            "id": "time_deposit",
+            "word": "time deposit"
+        },
+        {
+            "id": "token_money",
+            "word": "token money"
+        },
+        {
+            "id": "tokkin",
+            "word": "tokkin"
+        },
+        {
+            "id": "tracker_fund",
+            "word": "tracker fund"
+        },
+        {
+            "id": "trade-weighted",
+            "word": "trade-weighted"
+        },
+        {
+            "id": "transfer_payment",
+            "word": "transfer payment"
+        },
+        {
+            "id": "treasurer",
+            "word": "treasurer"
+        },
+        {
+            "id": "treasury",
+            "word": "treasury"
+        },
+        {
+            "id": "treasury_bill",
+            "word": "treasury bill"
+        },
+        {
+            "id": "treasury_bond",
+            "word": "treasury bond"
+        },
+        {
+            "id": "triple_a",
+            "word": "triple a"
+        },
+        {
+            "id": "trust_fund",
+            "word": "trust fund"
+        },
+        {
+            "id": "umbrella_fund",
+            "word": "umbrella fund"
+        },
+        {
+            "id": "unadjusted",
+            "word": "unadjusted"
+        },
+        {
+            "id": "unaudited",
+            "word": "unaudited"
+        },
+        {
+            "id": "unbanked",
+            "word": "unbanked"
+        },
+        {
+            "id": "undercapitalize",
+            "word": "undercapitalize"
+        },
+        {
+            "id": "underinsured",
+            "word": "underinsured"
+        },
+        {
+            "id": "underperform",
+            "word": "underperform"
+        },
+        {
+            "id": "unearned_income",
+            "word": "unearned income"
+        },
+        {
+            "id": "unearned_increment",
+            "word": "unearned increment"
+        },
+        {
+            "id": "unissued",
+            "word": "unissued"
+        },
+        {
+            "id": "unitholder",
+            "word": "unitholder"
+        },
+        {
+            "id": "unit-linked",
+            "word": "unit-linked"
+        },
+        {
+            "id": "unit_trust",
+            "word": "unit trust"
+        },
+        {
+            "id": "unsecured",
+            "word": "unsecured"
+        },
+        {
+            "id": "uprate",
+            "word": "uprate"
+        },
+        {
+            "id": "vendor_placing",
+            "word": "vendor placing"
+        },
+        {
+            "id": "venture",
+            "word": "venture"
+        },
+        {
+            "id": "venture_capital",
+            "word": "venture capital"
+        },
+        {
+            "id": "viatical_settlement",
+            "word": "viatical settlement"
+        },
+        {
+            "id": "victory_bond",
+            "word": "victory bond"
+        },
+        {
+            "id": "vigorish",
+            "word": "vigorish"
+        },
+        {
+            "id": "virement",
+            "word": "virement"
+        },
+        {
+            "id": "vulture_fund",
+            "word": "vulture fund"
+        },
+        {
+            "id": "weighting",
+            "word": "weighting"
+        },
+        {
+            "id": "when-issued",
+            "word": "when-issued"
+        },
+        {
+            "id": "white_information",
+            "word": "white information"
+        },
+        {
+            "id": "wire_fraud",
+            "word": "wire fraud"
+        },
+        {
+            "id": "without_recourse",
+            "word": "without recourse"
+        },
+        {
+            "id": "with-profits",
+            "word": "with-profits"
+        },
+        {
+            "id": "working_capital",
+            "word": "working capital"
+        },
+        {
+            "id": "write-back",
+            "word": "write-back"
+        },
+        {
+            "id": "year_end",
+            "word": "year end"
+        },
+        {
+            "id": "yield_curve",
+            "word": "yield curve"
+        },
+        {
+            "id": "ytd",
+            "word": "ytd"
+        },
+        {
+            "id": "zero-based",
+            "word": "zero-based"
+        },
+        {
+            "id": "zero-coupon_bond",
+            "word": "zero-coupon bond"
+        },
+        {
+            "id": "zombie_bank",
+            "word": "zombie bank"
+        },
+        {
+            "id": "zoom",
+            "word": "zoom"
+        }
+    ]
+}

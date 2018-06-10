@@ -1,0 +1,383 @@
+{
+    "results": [
+        {
+            "id": "acidization",
+            "word": "acidization"
+        },
+        {
+            "id": "appraisal_drilling",
+            "word": "appraisal drilling"
+        },
+        {
+            "id": "bbl.",
+            "word": "bbl."
+        },
+        {
+            "id": "black_gold",
+            "word": "black gold"
+        },
+        {
+            "id": "blowout_preventer",
+            "word": "blowout preventer"
+        },
+        {
+            "id": "boe",
+            "word": "boe"
+        },
+        {
+            "id": "borehole",
+            "word": "borehole"
+        },
+        {
+            "id": "cap_rock",
+            "word": "cap rock"
+        },
+        {
+            "id": "crude",
+            "word": "crude"
+        },
+        {
+            "id": "crude_oil",
+            "word": "crude oil"
+        },
+        {
+            "id": "depletion_allowance",
+            "word": "depletion allowance"
+        },
+        {
+            "id": "discovery_well",
+            "word": "discovery well"
+        },
+        {
+            "id": "downhole",
+            "word": "downhole"
+        },
+        {
+            "id": "dracone",
+            "word": "dracone"
+        },
+        {
+            "id": "drilling",
+            "word": "drilling"
+        },
+        {
+            "id": "drilling_rig",
+            "word": "drilling rig"
+        },
+        {
+            "id": "drill_string",
+            "word": "drill string"
+        },
+        {
+            "id": "dry_hole",
+            "word": "dry hole"
+        },
+        {
+            "id": "exclusive_economic_zone",
+            "word": "exclusive economic zone"
+        },
+        {
+            "id": "gusher",
+            "word": "gusher"
+        },
+        {
+            "id": "heave_compensator",
+            "word": "heave compensator"
+        },
+        {
+            "id": "jack-up",
+            "word": "jack-up"
+        },
+        {
+            "id": "kharg_island",
+            "word": "kharg island"
+        },
+        {
+            "id": "landman",
+            "word": "landman"
+        },
+        {
+            "id": "middle_distillate",
+            "word": "middle distillate"
+        },
+        {
+            "id": "middle_oil",
+            "word": "middle oil"
+        },
+        {
+            "id": "moon_pool",
+            "word": "moon pool"
+        },
+        {
+            "id": "motor_gasoline",
+            "word": "motor gasoline"
+        },
+        {
+            "id": "motor_octane_number",
+            "word": "motor octane number"
+        },
+        {
+            "id": "mud_balance",
+            "word": "mud balance"
+        },
+        {
+            "id": "mudboy",
+            "word": "mudboy"
+        },
+        {
+            "id": "mud_engineer",
+            "word": "mud engineer"
+        },
+        {
+            "id": "mud_flush",
+            "word": "mud flush"
+        },
+        {
+            "id": "mud_hog",
+            "word": "mud hog"
+        },
+        {
+            "id": "mud-logger",
+            "word": "mud-logger"
+        },
+        {
+            "id": "mud_logging",
+            "word": "mud logging"
+        },
+        {
+            "id": "mud_pit",
+            "word": "mud pit"
+        },
+        {
+            "id": "mud_pump",
+            "word": "mud pump"
+        },
+        {
+            "id": "mud_tank",
+            "word": "mud tank"
+        },
+        {
+            "id": "natural_gas_liquid",
+            "word": "natural gas liquid"
+        },
+        {
+            "id": "netback",
+            "word": "netback"
+        },
+        {
+            "id": "nodding_donkey",
+            "word": "nodding donkey"
+        },
+        {
+            "id": "offtake",
+            "word": "offtake"
+        },
+        {
+            "id": "oil",
+            "word": "oil"
+        },
+        {
+            "id": "oil_baron",
+            "word": "oil baron"
+        },
+        {
+            "id": "oil-based",
+            "word": "oil-based"
+        },
+        {
+            "id": "oil_drum",
+            "word": "oil drum"
+        },
+        {
+            "id": "oiler",
+            "word": "oiler"
+        },
+        {
+            "id": "oilman",
+            "word": "oilman"
+        },
+        {
+            "id": "oil_pipeline",
+            "word": "oil pipeline"
+        },
+        {
+            "id": "oil_platform",
+            "word": "oil platform"
+        },
+        {
+            "id": "oil_refinery",
+            "word": "oil refinery"
+        },
+        {
+            "id": "oil_rig",
+            "word": "oil rig"
+        },
+        {
+            "id": "oil_tanker",
+            "word": "oil tanker"
+        },
+        {
+            "id": "oil_well",
+            "word": "oil well"
+        },
+        {
+            "id": "onshore",
+            "word": "onshore"
+        },
+        {
+            "id": "operatorship",
+            "word": "operatorship"
+        },
+        {
+            "id": "organization_of_arab_petroleum_exporting_countries",
+            "word": "organization of arab petroleum exporting countries"
+        },
+        {
+            "id": "organization_of_the_petroleum_exporting_countries",
+            "word": "organization of the petroleum exporting countries"
+        },
+        {
+            "id": "peak_oil",
+            "word": "peak oil"
+        },
+        {
+            "id": "petroleum",
+            "word": "petroleum"
+        },
+        {
+            "id": "pipeline",
+            "word": "pipeline"
+        },
+        {
+            "id": "production_platform",
+            "word": "production platform"
+        },
+        {
+            "id": "production_well",
+            "word": "production well"
+        },
+        {
+            "id": "pup_joint",
+            "word": "pup joint"
+        },
+        {
+            "id": "reel_barge",
+            "word": "reel barge"
+        },
+        {
+            "id": "reel_ship",
+            "word": "reel ship"
+        },
+        {
+            "id": "repressure",
+            "word": "repressure"
+        },
+        {
+            "id": "research_octane_number",
+            "word": "research octane number"
+        },
+        {
+            "id": "rock_bit",
+            "word": "rock bit"
+        },
+        {
+            "id": "roustabout",
+            "word": "roustabout"
+        },
+        {
+            "id": "salt_dome",
+            "word": "salt dome"
+        },
+        {
+            "id": "semi-submersible",
+            "word": "semi-submersible"
+        },
+        {
+            "id": "sensator",
+            "word": "sensator"
+        },
+        {
+            "id": "shale_oil",
+            "word": "shale oil"
+        },
+        {
+            "id": "subsea",
+            "word": "subsea"
+        },
+        {
+            "id": "supertanker",
+            "word": "supertanker"
+        },
+        {
+            "id": "surface_casing",
+            "word": "surface casing"
+        },
+        {
+            "id": "tanker",
+            "word": "tanker"
+        },
+        {
+            "id": "tank_farm",
+            "word": "tank farm"
+        },
+        {
+            "id": "tool_pusher",
+            "word": "tool pusher"
+        },
+        {
+            "id": "top_kill",
+            "word": "top kill"
+        },
+        {
+            "id": "viewport",
+            "word": "viewport"
+        },
+        {
+            "id": "water_drive",
+            "word": "water drive"
+        },
+        {
+            "id": "water_flooding",
+            "word": "water flooding"
+        },
+        {
+            "id": "water_injection",
+            "word": "water injection"
+        },
+        {
+            "id": "water_packer",
+            "word": "water packer"
+        },
+        {
+            "id": "well",
+            "word": "well"
+        },
+        {
+            "id": "well_conductor",
+            "word": "well conductor"
+        },
+        {
+            "id": "well_kick",
+            "word": "well kick"
+        },
+        {
+            "id": "well_packing",
+            "word": "well packing"
+        },
+        {
+            "id": "wildcatter",
+            "word": "wildcatter"
+        },
+        {
+            "id": "workover",
+            "word": "workover"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 93,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

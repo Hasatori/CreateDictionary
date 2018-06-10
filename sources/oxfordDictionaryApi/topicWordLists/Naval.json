@@ -1,0 +1,835 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 206,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "able-bodied_seaman",
+            "word": "able-bodied seaman"
+        },
+        {
+            "id": "able_seaman",
+            "word": "able seaman"
+        },
+        {
+            "id": "aboukir_bay%2C_battle_of",
+            "word": "aboukir bay, battle of"
+        },
+        {
+            "id": "adm.",
+            "word": "adm."
+        },
+        {
+            "id": "admiral",
+            "word": "admiral"
+        },
+        {
+            "id": "admiral_of_the_fleet",
+            "word": "admiral of the fleet"
+        },
+        {
+            "id": "admiralty",
+            "word": "admiralty"
+        },
+        {
+            "id": "aiguillette",
+            "word": "aiguillette"
+        },
+        {
+            "id": "aircraft_carrier",
+            "word": "aircraft carrier"
+        },
+        {
+            "id": "air_station",
+            "word": "air station"
+        },
+        {
+            "id": "armada",
+            "word": "armada"
+        },
+        {
+            "id": "asdic",
+            "word": "asdic"
+        },
+        {
+            "id": "atlantic%2C_battle_of_the",
+            "word": "atlantic, battle of the"
+        },
+        {
+            "id": "barbette",
+            "word": "barbette"
+        },
+        {
+            "id": "battlecruiser",
+            "word": "battlecruiser"
+        },
+        {
+            "id": "battleship",
+            "word": "battleship"
+        },
+        {
+            "id": "beakhead",
+            "word": "beakhead"
+        },
+        {
+            "id": "beatty%2C_david",
+            "word": "beatty, david"
+        },
+        {
+            "id": "bligh%2C_william",
+            "word": "bligh, william"
+        },
+        {
+            "id": "blockade_runner",
+            "word": "blockade runner"
+        },
+        {
+            "id": "blockship",
+            "word": "blockship"
+        },
+        {
+            "id": "blue_ensign",
+            "word": "blue ensign"
+        },
+        {
+            "id": "bluejacket",
+            "word": "bluejacket"
+        },
+        {
+            "id": "capital_ship",
+            "word": "capital ship"
+        },
+        {
+            "id": "capt.",
+            "word": "capt."
+        },
+        {
+            "id": "carronade",
+            "word": "carronade"
+        },
+        {
+            "id": "cat-o%27-nine-tails",
+            "word": "cat-o'-nine-tails"
+        },
+        {
+            "id": "cdr",
+            "word": "cdr"
+        },
+        {
+            "id": "cdre",
+            "word": "cdre"
+        },
+        {
+            "id": "chain_shot",
+            "word": "chain shot"
+        },
+        {
+            "id": "chief_petty_officer",
+            "word": "chief petty officer"
+        },
+        {
+            "id": "cmdre",
+            "word": "cmdre"
+        },
+        {
+            "id": "commodore",
+            "word": "commodore"
+        },
+        {
+            "id": "conning_tower",
+            "word": "conning tower"
+        },
+        {
+            "id": "convoy",
+            "word": "convoy"
+        },
+        {
+            "id": "corvette",
+            "word": "corvette"
+        },
+        {
+            "id": "cpo",
+            "word": "cpo"
+        },
+        {
+            "id": "crash-dive",
+            "word": "crash-dive"
+        },
+        {
+            "id": "crewman",
+            "word": "crewman"
+        },
+        {
+            "id": "crew_woman",
+            "word": "crew woman"
+        },
+        {
+            "id": "cross_the_t",
+            "word": "cross the t"
+        },
+        {
+            "id": "cruiser",
+            "word": "cruiser"
+        },
+        {
+            "id": "depth_charge",
+            "word": "depth charge"
+        },
+        {
+            "id": "destroyer",
+            "word": "destroyer"
+        },
+        {
+            "id": "diego_garcia",
+            "word": "diego garcia"
+        },
+        {
+            "id": "dog-robber",
+            "word": "dog-robber"
+        },
+        {
+            "id": "drake%2C_sir_francis",
+            "word": "drake, sir francis"
+        },
+        {
+            "id": "dreadnought",
+            "word": "dreadnought"
+        },
+        {
+            "id": "e-boat",
+            "word": "e-boat"
+        },
+        {
+            "id": "ensign",
+            "word": "ensign"
+        },
+        {
+            "id": "executive_officer",
+            "word": "executive officer"
+        },
+        {
+            "id": "fantail",
+            "word": "fantail"
+        },
+        {
+            "id": "fighting_top",
+            "word": "fighting top"
+        },
+        {
+            "id": "fireship",
+            "word": "fireship"
+        },
+        {
+            "id": "first_fleet",
+            "word": "first fleet"
+        },
+        {
+            "id": "first_lieutenant",
+            "word": "first lieutenant"
+        },
+        {
+            "id": "flag_captain",
+            "word": "flag captain"
+        },
+        {
+            "id": "flag_lieutenant",
+            "word": "flag lieutenant"
+        },
+        {
+            "id": "flag_officer",
+            "word": "flag officer"
+        },
+        {
+            "id": "flag_rank",
+            "word": "flag rank"
+        },
+        {
+            "id": "flagship",
+            "word": "flagship"
+        },
+        {
+            "id": "fleet_admiral",
+            "word": "fleet admiral"
+        },
+        {
+            "id": "fleet_air_arm",
+            "word": "fleet air arm"
+        },
+        {
+            "id": "flinders%2C_matthew",
+            "word": "flinders, matthew"
+        },
+        {
+            "id": "frigate",
+            "word": "frigate"
+        },
+        {
+            "id": "grand_fleet",
+            "word": "grand fleet"
+        },
+        {
+            "id": "grapnel",
+            "word": "grapnel"
+        },
+        {
+            "id": "grappling_hook",
+            "word": "grappling hook"
+        },
+        {
+            "id": "greek_fire",
+            "word": "greek fire"
+        },
+        {
+            "id": "gunboat",
+            "word": "gunboat"
+        },
+        {
+            "id": "gun_deck",
+            "word": "gun deck"
+        },
+        {
+            "id": "hard_tack",
+            "word": "hard tack"
+        },
+        {
+            "id": "hawkins%2C_sir_john",
+            "word": "hawkins, sir john"
+        },
+        {
+            "id": "hmas",
+            "word": "hmas"
+        },
+        {
+            "id": "hms",
+            "word": "hms"
+        },
+        {
+            "id": "hospital_ship",
+            "word": "hospital ship"
+        },
+        {
+            "id": "hunter-killer",
+            "word": "hunter-killer"
+        },
+        {
+            "id": "impress",
+            "word": "impress"
+        },
+        {
+            "id": "jellicoe%2C_john_rushworth",
+            "word": "jellicoe, john rushworth"
+        },
+        {
+            "id": "jenkins%27s_ear%2C_war_of",
+            "word": "jenkins's ear, war of"
+        },
+        {
+            "id": "jervis%2C_john",
+            "word": "jervis, john"
+        },
+        {
+            "id": "jones%2C_john_paul",
+            "word": "jones, john paul"
+        },
+        {
+            "id": "jutland%2C_battle_of",
+            "word": "jutland, battle of"
+        },
+        {
+            "id": "keelhaul",
+            "word": "keelhaul"
+        },
+        {
+            "id": "landing_craft",
+            "word": "landing craft"
+        },
+        {
+            "id": "landing_party",
+            "word": "landing party"
+        },
+        {
+            "id": "ldg",
+            "word": "ldg"
+        },
+        {
+            "id": "leading_seaman",
+            "word": "leading seaman"
+        },
+        {
+            "id": "leatherneck",
+            "word": "leatherneck"
+        },
+        {
+            "id": "letter_of_marque",
+            "word": "letter of marque"
+        },
+        {
+            "id": "liberty_boat",
+            "word": "liberty boat"
+        },
+        {
+            "id": "liberty_man",
+            "word": "liberty man"
+        },
+        {
+            "id": "lieutenant_commander",
+            "word": "lieutenant commander"
+        },
+        {
+            "id": "limpet_mine",
+            "word": "limpet mine"
+        },
+        {
+            "id": "line_abreast",
+            "word": "line abreast"
+        },
+        {
+            "id": "line_ahead",
+            "word": "line ahead"
+        },
+        {
+            "id": "line_astern",
+            "word": "line astern"
+        },
+        {
+            "id": "lord_high_admiral",
+            "word": "lord high admiral"
+        },
+        {
+            "id": "magnetic_mine",
+            "word": "magnetic mine"
+        },
+        {
+            "id": "man-of-war",
+            "word": "man-of-war"
+        },
+        {
+            "id": "marine_corps",
+            "word": "marine corps"
+        },
+        {
+            "id": "mary_rose",
+            "word": "mary rose"
+        },
+        {
+            "id": "master-at-arms",
+            "word": "master-at-arms"
+        },
+        {
+            "id": "master_chief_petty_officer",
+            "word": "master chief petty officer"
+        },
+        {
+            "id": "mcpo",
+            "word": "mcpo"
+        },
+        {
+            "id": "messmate",
+            "word": "messmate"
+        },
+        {
+            "id": "middy",
+            "word": "middy"
+        },
+        {
+            "id": "midshipman",
+            "word": "midshipman"
+        },
+        {
+            "id": "midway_islands",
+            "word": "midway islands"
+        },
+        {
+            "id": "minehunter",
+            "word": "minehunter"
+        },
+        {
+            "id": "minelayer",
+            "word": "minelayer"
+        },
+        {
+            "id": "minesweeper",
+            "word": "minesweeper"
+        },
+        {
+            "id": "monkey_jacket",
+            "word": "monkey jacket"
+        },
+        {
+            "id": "mtb",
+            "word": "mtb"
+        },
+        {
+            "id": "muster_roll",
+            "word": "muster roll"
+        },
+        {
+            "id": "mutineer",
+            "word": "mutineer"
+        },
+        {
+            "id": "mutinous",
+            "word": "mutinous"
+        },
+        {
+            "id": "mutiny",
+            "word": "mutiny"
+        },
+        {
+            "id": "naval",
+            "word": "naval"
+        },
+        {
+            "id": "naval_academy",
+            "word": "naval academy"
+        },
+        {
+            "id": "naval_attach%C3%A9",
+            "word": "naval attaché"
+        },
+        {
+            "id": "naval_base",
+            "word": "naval base"
+        },
+        {
+            "id": "naval_battle",
+            "word": "naval battle"
+        },
+        {
+            "id": "naval_dockyard",
+            "word": "naval dockyard"
+        },
+        {
+            "id": "naval_forces",
+            "word": "naval forces"
+        },
+        {
+            "id": "naval_station",
+            "word": "naval station"
+        },
+        {
+            "id": "naval_warfare",
+            "word": "naval warfare"
+        },
+        {
+            "id": "navarino%2C_battle_of",
+            "word": "navarino, battle of"
+        },
+        {
+            "id": "navy",
+            "word": "navy"
+        },
+        {
+            "id": "navy_department",
+            "word": "navy department"
+        },
+        {
+            "id": "navy_list",
+            "word": "navy list"
+        },
+        {
+            "id": "navy_yard",
+            "word": "navy yard"
+        },
+        {
+            "id": "nelson%2C_horatio",
+            "word": "nelson, horatio"
+        },
+        {
+            "id": "nuclear_submarine",
+            "word": "nuclear submarine"
+        },
+        {
+            "id": "ordinary_seaman",
+            "word": "ordinary seaman"
+        },
+        {
+            "id": "paravane",
+            "word": "paravane"
+        },
+        {
+            "id": "pearl_harbor",
+            "word": "pearl harbor"
+        },
+        {
+            "id": "periscope",
+            "word": "periscope"
+        },
+        {
+            "id": "petty_officer",
+            "word": "petty officer"
+        },
+        {
+            "id": "pilot_biscuit",
+            "word": "pilot biscuit"
+        },
+        {
+            "id": "pinnace",
+            "word": "pinnace"
+        },
+        {
+            "id": "planesman",
+            "word": "planesman"
+        },
+        {
+            "id": "plebe",
+            "word": "plebe"
+        },
+        {
+            "id": "po",
+            "word": "po"
+        },
+        {
+            "id": "pocket_battleship",
+            "word": "pocket battleship"
+        },
+        {
+            "id": "poleaxe",
+            "word": "poleaxe"
+        },
+        {
+            "id": "pom-pom",
+            "word": "pom-pom"
+        },
+        {
+            "id": "pongo",
+            "word": "pongo"
+        },
+        {
+            "id": "post_captain",
+            "word": "post captain"
+        },
+        {
+            "id": "potemkin",
+            "word": "potemkin"
+        },
+        {
+            "id": "powder_monkey",
+            "word": "powder monkey"
+        },
+        {
+            "id": "press_gang",
+            "word": "press gang"
+        },
+        {
+            "id": "privateer",
+            "word": "privateer"
+        },
+        {
+            "id": "privateersman",
+            "word": "privateersman"
+        },
+        {
+            "id": "prize_court",
+            "word": "prize court"
+        },
+        {
+            "id": "pt_boat",
+            "word": "pt boat"
+        },
+        {
+            "id": "q-ship",
+            "word": "q-ship"
+        },
+        {
+            "id": "quarterdeck",
+            "word": "quarterdeck"
+        },
+        {
+            "id": "rear_admiral",
+            "word": "rear admiral"
+        },
+        {
+            "id": "rfa",
+            "word": "rfa"
+        },
+        {
+            "id": "rnas",
+            "word": "rnas"
+        },
+        {
+            "id": "rnzn",
+            "word": "rnzn"
+        },
+        {
+            "id": "royal_marines",
+            "word": "royal marines"
+        },
+        {
+            "id": "royal_navy",
+            "word": "royal navy"
+        },
+        {
+            "id": "run_a_blockade",
+            "word": "run a blockade"
+        },
+        {
+            "id": "salute",
+            "word": "salute"
+        },
+        {
+            "id": "salvo",
+            "word": "salvo"
+        },
+        {
+            "id": "scapa_flow",
+            "word": "scapa flow"
+        },
+        {
+            "id": "scpo",
+            "word": "scpo"
+        },
+        {
+            "id": "scuttle",
+            "word": "scuttle"
+        },
+        {
+            "id": "seabee",
+            "word": "seabee"
+        },
+        {
+            "id": "seal",
+            "word": "seal"
+        },
+        {
+            "id": "sealift",
+            "word": "sealift"
+        },
+        {
+            "id": "sea_lord",
+            "word": "sea lord"
+        },
+        {
+            "id": "sea_power",
+            "word": "sea power"
+        },
+        {
+            "id": "senior_chief_petty_officer",
+            "word": "senior chief petty officer"
+        },
+        {
+            "id": "senior_service",
+            "word": "senior service"
+        },
+        {
+            "id": "ship_money",
+            "word": "ship money"
+        },
+        {
+            "id": "ship_of_the_line",
+            "word": "ship of the line"
+        },
+        {
+            "id": "show_the_flag",
+            "word": "show the flag"
+        },
+        {
+            "id": "slbm",
+            "word": "slbm"
+        },
+        {
+            "id": "special_boat_service",
+            "word": "special boat service"
+        },
+        {
+            "id": "splice_the_main_brace",
+            "word": "splice the main brace"
+        },
+        {
+            "id": "sub",
+            "word": "sub"
+        },
+        {
+            "id": "sub_lieutenant",
+            "word": "sub lieutenant"
+        },
+        {
+            "id": "sub-lt.",
+            "word": "sub-lt."
+        },
+        {
+            "id": "submarine",
+            "word": "submarine"
+        },
+        {
+            "id": "swabbie",
+            "word": "swabbie"
+        },
+        {
+            "id": "torpedo",
+            "word": "torpedo"
+        },
+        {
+            "id": "torpedo_boat",
+            "word": "torpedo boat"
+        },
+        {
+            "id": "torpedo_net",
+            "word": "torpedo net"
+        },
+        {
+            "id": "torpedo_tube",
+            "word": "torpedo tube"
+        },
+        {
+            "id": "trafalgar%2C_battle_of",
+            "word": "trafalgar, battle of"
+        },
+        {
+            "id": "troopship",
+            "word": "troopship"
+        },
+        {
+            "id": "u-boat",
+            "word": "u-boat"
+        },
+        {
+            "id": "usn",
+            "word": "usn"
+        },
+        {
+            "id": "uss",
+            "word": "uss"
+        },
+        {
+            "id": "vice_admiral",
+            "word": "vice admiral"
+        },
+        {
+            "id": "wardroom",
+            "word": "wardroom"
+        },
+        {
+            "id": "warship",
+            "word": "warship"
+        },
+        {
+            "id": "watch_cap",
+            "word": "watch cap"
+        },
+        {
+            "id": "waves",
+            "word": "waves"
+        },
+        {
+            "id": "white_ensign",
+            "word": "white ensign"
+        },
+        {
+            "id": "wolf_pack",
+            "word": "wolf pack"
+        },
+        {
+            "id": "wrns",
+            "word": "wrns"
+        },
+        {
+            "id": "yamamoto%2C_isoroku",
+            "word": "yamamoto, isoroku"
+        }
+    ]
+}

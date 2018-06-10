@@ -1,0 +1,955 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press",
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 236,
+        "offset": 0
+    },
+    "results": [
+        {
+            "id": "adder%27s_tongue",
+            "word": "adder's tongue"
+        },
+        {
+            "id": "agaric",
+            "word": "agaric"
+        },
+        {
+            "id": "alga",
+            "word": "alga"
+        },
+        {
+            "id": "algal",
+            "word": "algal"
+        },
+        {
+            "id": "amethyst_deceiver",
+            "word": "amethyst deceiver"
+        },
+        {
+            "id": "anise_cap",
+            "word": "anise cap"
+        },
+        {
+            "id": "arame",
+            "word": "arame"
+        },
+        {
+            "id": "armillaria",
+            "word": "armillaria"
+        },
+        {
+            "id": "artist%27s_fungus",
+            "word": "artist's fungus"
+        },
+        {
+            "id": "ascomycete",
+            "word": "ascomycete"
+        },
+        {
+            "id": "aspergillosis",
+            "word": "aspergillosis"
+        },
+        {
+            "id": "badderlocks",
+            "word": "badderlocks"
+        },
+        {
+            "id": "basidiomycete",
+            "word": "basidiomycete"
+        },
+        {
+            "id": "beech_fern",
+            "word": "beech fern"
+        },
+        {
+            "id": "beefsteak_fungus",
+            "word": "beefsteak fungus"
+        },
+        {
+            "id": "bird%27s-nest",
+            "word": "bird's-nest"
+        },
+        {
+            "id": "black_bulgar",
+            "word": "black bulgar"
+        },
+        {
+            "id": "black_rot",
+            "word": "black rot"
+        },
+        {
+            "id": "bladder_fern",
+            "word": "bladder fern"
+        },
+        {
+            "id": "bladderwrack",
+            "word": "bladderwrack"
+        },
+        {
+            "id": "blanket_weed",
+            "word": "blanket weed"
+        },
+        {
+            "id": "blewit",
+            "word": "blewit"
+        },
+        {
+            "id": "blue_mould",
+            "word": "blue mould"
+        },
+        {
+            "id": "boletus",
+            "word": "boletus"
+        },
+        {
+            "id": "botrytis",
+            "word": "botrytis"
+        },
+        {
+            "id": "bracken",
+            "word": "bracken"
+        },
+        {
+            "id": "bracket_fungus",
+            "word": "bracket fungus"
+        },
+        {
+            "id": "brain_fungus",
+            "word": "brain fungus"
+        },
+        {
+            "id": "brake",
+            "word": "brake"
+        },
+        {
+            "id": "brewer%27s_yeast",
+            "word": "brewer's yeast"
+        },
+        {
+            "id": "bristle_fern",
+            "word": "bristle fern"
+        },
+        {
+            "id": "brown_algae",
+            "word": "brown algae"
+        },
+        {
+            "id": "brown_rot",
+            "word": "brown rot"
+        },
+        {
+            "id": "bryophyta",
+            "word": "bryophyta"
+        },
+        {
+            "id": "bryophyte",
+            "word": "bryophyte"
+        },
+        {
+            "id": "buckler_fern",
+            "word": "buckler fern"
+        },
+        {
+            "id": "bull_kelp",
+            "word": "bull kelp"
+        },
+        {
+            "id": "bunt",
+            "word": "bunt"
+        },
+        {
+            "id": "butter_cap",
+            "word": "butter cap"
+        },
+        {
+            "id": "cage_fungus",
+            "word": "cage fungus"
+        },
+        {
+            "id": "candida",
+            "word": "candida"
+        },
+        {
+            "id": "carrageen",
+            "word": "carrageen"
+        },
+        {
+            "id": "cauliflower_fungus",
+            "word": "cauliflower fungus"
+        },
+        {
+            "id": "cep",
+            "word": "cep"
+        },
+        {
+            "id": "ceylon_moss",
+            "word": "ceylon moss"
+        },
+        {
+            "id": "champignon",
+            "word": "champignon"
+        },
+        {
+            "id": "chanterelle",
+            "word": "chanterelle"
+        },
+        {
+            "id": "charophyta",
+            "word": "charophyta"
+        },
+        {
+            "id": "charophyte",
+            "word": "charophyte"
+        },
+        {
+            "id": "chlamydomonas",
+            "word": "chlamydomonas"
+        },
+        {
+            "id": "chlorella",
+            "word": "chlorella"
+        },
+        {
+            "id": "chlorophyta",
+            "word": "chlorophyta"
+        },
+        {
+            "id": "chlorophyte",
+            "word": "chlorophyte"
+        },
+        {
+            "id": "chocolate_spot",
+            "word": "chocolate spot"
+        },
+        {
+            "id": "ciguatera",
+            "word": "ciguatera"
+        },
+        {
+            "id": "cinnamon_fern",
+            "word": "cinnamon fern"
+        },
+        {
+            "id": "clubmoss",
+            "word": "clubmoss"
+        },
+        {
+            "id": "clubroot",
+            "word": "clubroot"
+        },
+        {
+            "id": "coccidioidomycosis",
+            "word": "coccidioidomycosis"
+        },
+        {
+            "id": "coral_fungus",
+            "word": "coral fungus"
+        },
+        {
+            "id": "coralline",
+            "word": "coralline"
+        },
+        {
+            "id": "coral_spot",
+            "word": "coral spot"
+        },
+        {
+            "id": "cramp_balls",
+            "word": "cramp balls"
+        },
+        {
+            "id": "crape_fern",
+            "word": "crape fern"
+        },
+        {
+            "id": "cremini",
+            "word": "cremini"
+        },
+        {
+            "id": "crottle",
+            "word": "crottle"
+        },
+        {
+            "id": "cryptococcal",
+            "word": "cryptococcal"
+        },
+        {
+            "id": "cryptococcosis",
+            "word": "cryptococcosis"
+        },
+        {
+            "id": "cup_fungus",
+            "word": "cup fungus"
+        },
+        {
+            "id": "cup_lichen",
+            "word": "cup lichen"
+        },
+        {
+            "id": "cyanophyte",
+            "word": "cyanophyte"
+        },
+        {
+            "id": "death_cap",
+            "word": "death cap"
+        },
+        {
+            "id": "dermatophyte",
+            "word": "dermatophyte"
+        },
+        {
+            "id": "desmid",
+            "word": "desmid"
+        },
+        {
+            "id": "destroying_angel",
+            "word": "destroying angel"
+        },
+        {
+            "id": "diatom",
+            "word": "diatom"
+        },
+        {
+            "id": "dinoflagellate",
+            "word": "dinoflagellate"
+        },
+        {
+            "id": "downy_mildew",
+            "word": "downy mildew"
+        },
+        {
+            "id": "dryad%27s_saddle",
+            "word": "dryad's saddle"
+        },
+        {
+            "id": "dulse",
+            "word": "dulse"
+        },
+        {
+            "id": "dutch_elm_disease",
+            "word": "dutch elm disease"
+        },
+        {
+            "id": "earth_ball",
+            "word": "earth ball"
+        },
+        {
+            "id": "earthstar",
+            "word": "earthstar"
+        },
+        {
+            "id": "elf_cup",
+            "word": "elf cup"
+        },
+        {
+            "id": "enoki",
+            "word": "enoki"
+        },
+        {
+            "id": "equisetum",
+            "word": "equisetum"
+        },
+        {
+            "id": "ergot",
+            "word": "ergot"
+        },
+        {
+            "id": "euglena",
+            "word": "euglena"
+        },
+        {
+            "id": "fairies%27_bonnets",
+            "word": "fairies' bonnets"
+        },
+        {
+            "id": "fairy_ring_champignon",
+            "word": "fairy ring champignon"
+        },
+        {
+            "id": "fern",
+            "word": "fern"
+        },
+        {
+            "id": "field_mushroom",
+            "word": "field mushroom"
+        },
+        {
+            "id": "filicopsida",
+            "word": "filicopsida"
+        },
+        {
+            "id": "filmy_fern",
+            "word": "filmy fern"
+        },
+        {
+            "id": "fly_agaric",
+            "word": "fly agaric"
+        },
+        {
+            "id": "fucoid",
+            "word": "fucoid"
+        },
+        {
+            "id": "fucus",
+            "word": "fucus"
+        },
+        {
+            "id": "funnel_cap",
+            "word": "funnel cap"
+        },
+        {
+            "id": "fusarium",
+            "word": "fusarium"
+        },
+        {
+            "id": "giant_puffball",
+            "word": "giant puffball"
+        },
+        {
+            "id": "girolle",
+            "word": "girolle"
+        },
+        {
+            "id": "green_algae",
+            "word": "green algae"
+        },
+        {
+            "id": "grisette",
+            "word": "grisette"
+        },
+        {
+            "id": "hard_fern",
+            "word": "hard fern"
+        },
+        {
+            "id": "hart%27s_tongue",
+            "word": "hart's tongue"
+        },
+        {
+            "id": "hedgehog_fungus",
+            "word": "hedgehog fungus"
+        },
+        {
+            "id": "hen_of_the_woods",
+            "word": "hen of the woods"
+        },
+        {
+            "id": "hepaticae",
+            "word": "hepaticae"
+        },
+        {
+            "id": "holly_fern",
+            "word": "holly fern"
+        },
+        {
+            "id": "honey_fungus",
+            "word": "honey fungus"
+        },
+        {
+            "id": "horse_mushroom",
+            "word": "horse mushroom"
+        },
+        {
+            "id": "horsetail",
+            "word": "horsetail"
+        },
+        {
+            "id": "iceland_moss",
+            "word": "iceland moss"
+        },
+        {
+            "id": "ink_cap",
+            "word": "ink cap"
+        },
+        {
+            "id": "jew%27s_ear",
+            "word": "jew's ear"
+        },
+        {
+            "id": "kelp",
+            "word": "kelp"
+        },
+        {
+            "id": "killarney_fern",
+            "word": "killarney fern"
+        },
+        {
+            "id": "knotted_wrack",
+            "word": "knotted wrack"
+        },
+        {
+            "id": "kombu",
+            "word": "kombu"
+        },
+        {
+            "id": "lady_fern",
+            "word": "lady fern"
+        },
+        {
+            "id": "laver",
+            "word": "laver"
+        },
+        {
+            "id": "leaf_spot",
+            "word": "leaf spot"
+        },
+        {
+            "id": "liberty_cap",
+            "word": "liberty cap"
+        },
+        {
+            "id": "lichen",
+            "word": "lichen"
+        },
+        {
+            "id": "liverwort",
+            "word": "liverwort"
+        },
+        {
+            "id": "lycopod",
+            "word": "lycopod"
+        },
+        {
+            "id": "lycopodium",
+            "word": "lycopodium"
+        },
+        {
+            "id": "lycopsida",
+            "word": "lycopsida"
+        },
+        {
+            "id": "magic_mushroom",
+            "word": "magic mushroom"
+        },
+        {
+            "id": "maidenhair",
+            "word": "maidenhair"
+        },
+        {
+            "id": "maitake",
+            "word": "maitake"
+        },
+        {
+            "id": "male_fern",
+            "word": "male fern"
+        },
+        {
+            "id": "marsh_fern",
+            "word": "marsh fern"
+        },
+        {
+            "id": "mildew",
+            "word": "mildew"
+        },
+        {
+            "id": "milk_cap",
+            "word": "milk cap"
+        },
+        {
+            "id": "moonwort",
+            "word": "moonwort"
+        },
+        {
+            "id": "morel",
+            "word": "morel"
+        },
+        {
+            "id": "moss",
+            "word": "moss"
+        },
+        {
+            "id": "mould",
+            "word": "mould"
+        },
+        {
+            "id": "mousseron",
+            "word": "mousseron"
+        },
+        {
+            "id": "musci",
+            "word": "musci"
+        },
+        {
+            "id": "mushroom",
+            "word": "mushroom"
+        },
+        {
+            "id": "myxomycete",
+            "word": "myxomycete"
+        },
+        {
+            "id": "nardoo",
+            "word": "nardoo"
+        },
+        {
+            "id": "noble_rot",
+            "word": "noble rot"
+        },
+        {
+            "id": "noctiluca",
+            "word": "noctiluca"
+        },
+        {
+            "id": "nori",
+            "word": "nori"
+        },
+        {
+            "id": "nostoc",
+            "word": "nostoc"
+        },
+        {
+            "id": "oak_fern",
+            "word": "oak fern"
+        },
+        {
+            "id": "oarweed",
+            "word": "oarweed"
+        },
+        {
+            "id": "osmunda",
+            "word": "osmunda"
+        },
+        {
+            "id": "oyster_mushroom",
+            "word": "oyster mushroom"
+        },
+        {
+            "id": "panama_disease",
+            "word": "panama disease"
+        },
+        {
+            "id": "panther_cap",
+            "word": "panther cap"
+        },
+        {
+            "id": "parsley_fern",
+            "word": "parsley fern"
+        },
+        {
+            "id": "peat_moss",
+            "word": "peat moss"
+        },
+        {
+            "id": "penicillium",
+            "word": "penicillium"
+        },
+        {
+            "id": "pepper_dulse",
+            "word": "pepper dulse"
+        },
+        {
+            "id": "phaeophyceae",
+            "word": "phaeophyceae"
+        },
+        {
+            "id": "phycomycete",
+            "word": "phycomycete"
+        },
+        {
+            "id": "pillwort",
+            "word": "pillwort"
+        },
+        {
+            "id": "polypody",
+            "word": "polypody"
+        },
+        {
+            "id": "polypore",
+            "word": "polypore"
+        },
+        {
+            "id": "pond_scum",
+            "word": "pond scum"
+        },
+        {
+            "id": "ponga",
+            "word": "ponga"
+        },
+        {
+            "id": "porcelain_fungus",
+            "word": "porcelain fungus"
+        },
+        {
+            "id": "potato_blight",
+            "word": "potato blight"
+        },
+        {
+            "id": "powdery_mildew",
+            "word": "powdery mildew"
+        },
+        {
+            "id": "protist",
+            "word": "protist"
+        },
+        {
+            "id": "protista",
+            "word": "protista"
+        },
+        {
+            "id": "pteridophyta",
+            "word": "pteridophyta"
+        },
+        {
+            "id": "pteridophyte",
+            "word": "pteridophyte"
+        },
+        {
+            "id": "puffball",
+            "word": "puffball"
+        },
+        {
+            "id": "quillwort",
+            "word": "quillwort"
+        },
+        {
+            "id": "rasp_fern",
+            "word": "rasp fern"
+        },
+        {
+            "id": "red_algae",
+            "word": "red algae"
+        },
+        {
+            "id": "reindeer_moss",
+            "word": "reindeer moss"
+        },
+        {
+            "id": "resurrection_plant",
+            "word": "resurrection plant"
+        },
+        {
+            "id": "rhizoctonia",
+            "word": "rhizoctonia"
+        },
+        {
+            "id": "rhodophyta",
+            "word": "rhodophyta"
+        },
+        {
+            "id": "rhodophyte",
+            "word": "rhodophyte"
+        },
+        {
+            "id": "rhynchosporium",
+            "word": "rhynchosporium"
+        },
+        {
+            "id": "royal_fern",
+            "word": "royal fern"
+        },
+        {
+            "id": "running_pine",
+            "word": "running pine"
+        },
+        {
+            "id": "russula",
+            "word": "russula"
+        },
+        {
+            "id": "saprolegnia",
+            "word": "saprolegnia"
+        },
+        {
+            "id": "sargassum",
+            "word": "sargassum"
+        },
+        {
+            "id": "scouring_rush",
+            "word": "scouring rush"
+        },
+        {
+            "id": "sea_lettuce",
+            "word": "sea lettuce"
+        },
+        {
+            "id": "seaweed",
+            "word": "seaweed"
+        },
+        {
+            "id": "selaginella",
+            "word": "selaginella"
+        },
+        {
+            "id": "septoria",
+            "word": "septoria"
+        },
+        {
+            "id": "shaggy_ink_cap",
+            "word": "shaggy ink cap"
+        },
+        {
+            "id": "shield_fern",
+            "word": "shield fern"
+        },
+        {
+            "id": "shiitake",
+            "word": "shiitake"
+        },
+        {
+            "id": "sigatoka",
+            "word": "sigatoka"
+        },
+        {
+            "id": "silver_leaf",
+            "word": "silver leaf"
+        },
+        {
+            "id": "slime_mould",
+            "word": "slime mould"
+        },
+        {
+            "id": "sooty_mould",
+            "word": "sooty mould"
+        },
+        {
+            "id": "sphagnum",
+            "word": "sphagnum"
+        },
+        {
+            "id": "sphenopsida",
+            "word": "sphenopsida"
+        },
+        {
+            "id": "spikemoss",
+            "word": "spikemoss"
+        },
+        {
+            "id": "spirogyra",
+            "word": "spirogyra"
+        },
+        {
+            "id": "spleenwort",
+            "word": "spleenwort"
+        },
+        {
+            "id": "stag%27s-horn_fungus",
+            "word": "stag's-horn fungus"
+        },
+        {
+            "id": "staghorn_fern",
+            "word": "staghorn fern"
+        },
+        {
+            "id": "st_george%27s_mushroom",
+            "word": "st george's mushroom"
+        },
+        {
+            "id": "stinkhorn",
+            "word": "stinkhorn"
+        },
+        {
+            "id": "straw_mushroom",
+            "word": "straw mushroom"
+        },
+        {
+            "id": "sugar_kelp",
+            "word": "sugar kelp"
+        },
+        {
+            "id": "sword_fern",
+            "word": "sword fern"
+        },
+        {
+            "id": "tangle",
+            "word": "tangle"
+        },
+        {
+            "id": "tinder_fungus",
+            "word": "tinder fungus"
+        },
+        {
+            "id": "toadstool",
+            "word": "toadstool"
+        },
+        {
+            "id": "torula",
+            "word": "torula"
+        },
+        {
+            "id": "tree_fern",
+            "word": "tree fern"
+        },
+        {
+            "id": "truffle",
+            "word": "truffle"
+        },
+        {
+            "id": "varec",
+            "word": "varec"
+        },
+        {
+            "id": "vascular_cryptogam",
+            "word": "vascular cryptogam"
+        },
+        {
+            "id": "verdigris_agaric",
+            "word": "verdigris agaric"
+        },
+        {
+            "id": "verticillium",
+            "word": "verticillium"
+        },
+        {
+            "id": "volvox",
+            "word": "volvox"
+        },
+        {
+            "id": "wakame",
+            "word": "wakame"
+        },
+        {
+            "id": "walking_fern",
+            "word": "walking fern"
+        },
+        {
+            "id": "wall_rue",
+            "word": "wall rue"
+        },
+        {
+            "id": "wart_disease",
+            "word": "wart disease"
+        },
+        {
+            "id": "water_fern",
+            "word": "water fern"
+        },
+        {
+            "id": "weeping_widow",
+            "word": "weeping widow"
+        },
+        {
+            "id": "white_truffle",
+            "word": "white truffle"
+        },
+        {
+            "id": "witches%27_butter",
+            "word": "witches' butter"
+        },
+        {
+            "id": "wood_mushroom",
+            "word": "wood mushroom"
+        },
+        {
+            "id": "woodsia",
+            "word": "woodsia"
+        },
+        {
+            "id": "woolly_foot",
+            "word": "woolly foot"
+        },
+        {
+            "id": "wrack",
+            "word": "wrack"
+        },
+        {
+            "id": "yeast",
+            "word": "yeast"
+        },
+        {
+            "id": "zooxanthella",
+            "word": "zooxanthella"
+        }
+    ]
+}

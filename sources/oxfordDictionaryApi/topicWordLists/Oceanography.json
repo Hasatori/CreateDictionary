@@ -1,0 +1,491 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 120
+    },
+    "results": [
+        {
+            "id": "aanderaa",
+            "word": "aanderaa"
+        },
+        {
+            "id": "abyssal_plain",
+            "word": "abyssal plain"
+        },
+        {
+            "id": "abyssal_zone",
+            "word": "abyssal zone"
+        },
+        {
+            "id": "agassiz_trawl",
+            "word": "agassiz trawl"
+        },
+        {
+            "id": "agulhas_current",
+            "word": "agulhas current"
+        },
+        {
+            "id": "alaska_current",
+            "word": "alaska current"
+        },
+        {
+            "id": "antarctic_convergence",
+            "word": "antarctic convergence"
+        },
+        {
+            "id": "barrier_reef",
+            "word": "barrier reef"
+        },
+        {
+            "id": "bathyal",
+            "word": "bathyal"
+        },
+        {
+            "id": "bathymeter",
+            "word": "bathymeter"
+        },
+        {
+            "id": "bathyscaphe",
+            "word": "bathyscaphe"
+        },
+        {
+            "id": "bathysphere",
+            "word": "bathysphere"
+        },
+        {
+            "id": "benguela_current",
+            "word": "benguela current"
+        },
+        {
+            "id": "benioff_zone",
+            "word": "benioff zone"
+        },
+        {
+            "id": "bioerosion",
+            "word": "bioerosion"
+        },
+        {
+            "id": "black_smoker",
+            "word": "black smoker"
+        },
+        {
+            "id": "california_current",
+            "word": "california current"
+        },
+        {
+            "id": "canaries_current",
+            "word": "canaries current"
+        },
+        {
+            "id": "cay",
+            "word": "cay"
+        },
+        {
+            "id": "continental_shelf",
+            "word": "continental shelf"
+        },
+        {
+            "id": "continental_slope",
+            "word": "continental slope"
+        },
+        {
+            "id": "contour_line",
+            "word": "contour line"
+        },
+        {
+            "id": "coral_reef",
+            "word": "coral reef"
+        },
+        {
+            "id": "countercurrent",
+            "word": "countercurrent"
+        },
+        {
+            "id": "cousteau%2C_jacques",
+            "word": "cousteau, jacques"
+        },
+        {
+            "id": "cross-current",
+            "word": "cross-current"
+        },
+        {
+            "id": "deep_sea",
+            "word": "deep sea"
+        },
+        {
+            "id": "discontinuity_layer",
+            "word": "discontinuity layer"
+        },
+        {
+            "id": "downwelling",
+            "word": "downwelling"
+        },
+        {
+            "id": "drift_ice",
+            "word": "drift ice"
+        },
+        {
+            "id": "echo_sounder",
+            "word": "echo sounder"
+        },
+        {
+            "id": "ekman%2C_vagn_walfrid",
+            "word": "ekman, vagn walfrid"
+        },
+        {
+            "id": "epicontinental",
+            "word": "epicontinental"
+        },
+        {
+            "id": "eustasy",
+            "word": "eustasy"
+        },
+        {
+            "id": "eustatic",
+            "word": "eustatic"
+        },
+        {
+            "id": "fast_ice",
+            "word": "fast ice"
+        },
+        {
+            "id": "fathometer",
+            "word": "fathometer"
+        },
+        {
+            "id": "floe",
+            "word": "floe"
+        },
+        {
+            "id": "fringing_reef",
+            "word": "fringing reef"
+        },
+        {
+            "id": "geostrophic",
+            "word": "geostrophic"
+        },
+        {
+            "id": "grand_banks",
+            "word": "grand banks"
+        },
+        {
+            "id": "gulf_stream",
+            "word": "gulf stream"
+        },
+        {
+            "id": "guyot",
+            "word": "guyot"
+        },
+        {
+            "id": "hadal",
+            "word": "hadal"
+        },
+        {
+            "id": "humboldt_current",
+            "word": "humboldt current"
+        },
+        {
+            "id": "hydrosphere",
+            "word": "hydrosphere"
+        },
+        {
+            "id": "hydrothermal",
+            "word": "hydrothermal"
+        },
+        {
+            "id": "hydrothermal_vent",
+            "word": "hydrothermal vent"
+        },
+        {
+            "id": "iceberg",
+            "word": "iceberg"
+        },
+        {
+            "id": "ice_shelf",
+            "word": "ice shelf"
+        },
+        {
+            "id": "inshore",
+            "word": "inshore"
+        },
+        {
+            "id": "isopycnal",
+            "word": "isopycnal"
+        },
+        {
+            "id": "kuroshio",
+            "word": "kuroshio"
+        },
+        {
+            "id": "labrador_current",
+            "word": "labrador current"
+        },
+        {
+            "id": "mariana_trench",
+            "word": "mariana trench"
+        },
+        {
+            "id": "maury%2C_matthew_fontaine",
+            "word": "maury, matthew fontaine"
+        },
+        {
+            "id": "mid-atlantic_ridge",
+            "word": "mid-atlantic ridge"
+        },
+        {
+            "id": "mid-ocean_ridge",
+            "word": "mid-ocean ridge"
+        },
+        {
+            "id": "mixohaline",
+            "word": "mixohaline"
+        },
+        {
+            "id": "nearshore",
+            "word": "nearshore"
+        },
+        {
+            "id": "nepheloid",
+            "word": "nepheloid"
+        },
+        {
+            "id": "neptunian_dyke",
+            "word": "neptunian dyke"
+        },
+        {
+            "id": "neritic",
+            "word": "neritic"
+        },
+        {
+            "id": "niskin",
+            "word": "niskin"
+        },
+        {
+            "id": "north_atlantic_drift",
+            "word": "north atlantic drift"
+        },
+        {
+            "id": "north_equatorial_current",
+            "word": "north equatorial current"
+        },
+        {
+            "id": "oceanic",
+            "word": "oceanic"
+        },
+        {
+            "id": "oceanic_crust",
+            "word": "oceanic crust"
+        },
+        {
+            "id": "oceanography",
+            "word": "oceanography"
+        },
+        {
+            "id": "oceanology",
+            "word": "oceanology"
+        },
+        {
+            "id": "ooze",
+            "word": "ooze"
+        },
+        {
+            "id": "overfall",
+            "word": "overfall"
+        },
+        {
+            "id": "pack_ice",
+            "word": "pack ice"
+        },
+        {
+            "id": "palaeocurrent",
+            "word": "palaeocurrent"
+        },
+        {
+            "id": "patch_reef",
+            "word": "patch reef"
+        },
+        {
+            "id": "pelagic",
+            "word": "pelagic"
+        },
+        {
+            "id": "peru_current",
+            "word": "peru current"
+        },
+        {
+            "id": "peruvian_current",
+            "word": "peruvian current"
+        },
+        {
+            "id": "piston_corer",
+            "word": "piston corer"
+        },
+        {
+            "id": "polynya",
+            "word": "polynya"
+        },
+        {
+            "id": "psychrosphere",
+            "word": "psychrosphere"
+        },
+        {
+            "id": "psychrospheric",
+            "word": "psychrospheric"
+        },
+        {
+            "id": "pteropod_ooze",
+            "word": "pteropod ooze"
+        },
+        {
+            "id": "puerto_rico_trench",
+            "word": "puerto rico trench"
+        },
+        {
+            "id": "pycnocline",
+            "word": "pycnocline"
+        },
+        {
+            "id": "radiolarian_ooze",
+            "word": "radiolarian ooze"
+        },
+        {
+            "id": "radio_sounder",
+            "word": "radio sounder"
+        },
+        {
+            "id": "radio_sounding",
+            "word": "radio sounding"
+        },
+        {
+            "id": "reef",
+            "word": "reef"
+        },
+        {
+            "id": "reef_flat",
+            "word": "reef flat"
+        },
+        {
+            "id": "rip",
+            "word": "rip"
+        },
+        {
+            "id": "rip_current",
+            "word": "rip current"
+        },
+        {
+            "id": "salt_finger",
+            "word": "salt finger"
+        },
+        {
+            "id": "seabed",
+            "word": "seabed"
+        },
+        {
+            "id": "sea-floor_spreading",
+            "word": "sea-floor spreading"
+        },
+        {
+            "id": "sea_level",
+            "word": "sea level"
+        },
+        {
+            "id": "seamount",
+            "word": "seamount"
+        },
+        {
+            "id": "seaquake",
+            "word": "seaquake"
+        },
+        {
+            "id": "secchi_disc",
+            "word": "secchi disc"
+        },
+        {
+            "id": "skerry",
+            "word": "skerry"
+        },
+        {
+            "id": "south_equatorial_current",
+            "word": "south equatorial current"
+        },
+        {
+            "id": "subgyre",
+            "word": "subgyre"
+        },
+        {
+            "id": "sublittoral",
+            "word": "sublittoral"
+        },
+        {
+            "id": "surf_beat",
+            "word": "surf beat"
+        },
+        {
+            "id": "tablemount",
+            "word": "tablemount"
+        },
+        {
+            "id": "thalassic",
+            "word": "thalassic"
+        },
+        {
+            "id": "thermocline",
+            "word": "thermocline"
+        },
+        {
+            "id": "thermohaline_circulation",
+            "word": "thermohaline circulation"
+        },
+        {
+            "id": "tidewater",
+            "word": "tidewater"
+        },
+        {
+            "id": "tsunami",
+            "word": "tsunami"
+        },
+        {
+            "id": "turbidity_current",
+            "word": "turbidity current"
+        },
+        {
+            "id": "underflow",
+            "word": "underflow"
+        },
+        {
+            "id": "undersea",
+            "word": "undersea"
+        },
+        {
+            "id": "underswell",
+            "word": "underswell"
+        },
+        {
+            "id": "upwelling",
+            "word": "upwelling"
+        },
+        {
+            "id": "vening_meinesz%2C_felix_andries",
+            "word": "vening meinesz, felix andries"
+        },
+        {
+            "id": "waterbody",
+            "word": "waterbody"
+        },
+        {
+            "id": "water_mass",
+            "word": "water mass"
+        },
+        {
+            "id": "wave_farm",
+            "word": "wave farm"
+        },
+        {
+            "id": "white_smoker",
+            "word": "white smoker"
+        }
+    ]
+}

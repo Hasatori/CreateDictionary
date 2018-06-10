@@ -1,0 +1,759 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 187
+    },
+    "results": [
+        {
+            "id": "appliqu%C3%A9",
+            "word": "appliqué"
+        },
+        {
+            "id": "appliqu%C3%A9d",
+            "word": "appliquéd"
+        },
+        {
+            "id": "backstitch",
+            "word": "backstitch"
+        },
+        {
+            "id": "bar_tack",
+            "word": "bar tack"
+        },
+        {
+            "id": "baste",
+            "word": "baste"
+        },
+        {
+            "id": "batt",
+            "word": "batt"
+        },
+        {
+            "id": "beading",
+            "word": "beading"
+        },
+        {
+            "id": "berlin_work",
+            "word": "berlin work"
+        },
+        {
+            "id": "bias_binding",
+            "word": "bias binding"
+        },
+        {
+            "id": "bias-cut",
+            "word": "bias-cut"
+        },
+        {
+            "id": "blackwork",
+            "word": "blackwork"
+        },
+        {
+            "id": "blanket_stitch",
+            "word": "blanket stitch"
+        },
+        {
+            "id": "blind_stitch",
+            "word": "blind stitch"
+        },
+        {
+            "id": "bobbin",
+            "word": "bobbin"
+        },
+        {
+            "id": "bodkin",
+            "word": "bodkin"
+        },
+        {
+            "id": "braid",
+            "word": "braid"
+        },
+        {
+            "id": "broderie_anglaise",
+            "word": "broderie anglaise"
+        },
+        {
+            "id": "brussels_lace",
+            "word": "brussels lace"
+        },
+        {
+            "id": "bullion_knot",
+            "word": "bullion knot"
+        },
+        {
+            "id": "buttonholer",
+            "word": "buttonholer"
+        },
+        {
+            "id": "buttonhole_stitch",
+            "word": "buttonhole stitch"
+        },
+        {
+            "id": "cafe_curtain",
+            "word": "cafe curtain"
+        },
+        {
+            "id": "chain_stitch",
+            "word": "chain stitch"
+        },
+        {
+            "id": "chikan",
+            "word": "chikan"
+        },
+        {
+            "id": "cording",
+            "word": "cording"
+        },
+        {
+            "id": "crazy_quilt",
+            "word": "crazy quilt"
+        },
+        {
+            "id": "crewel",
+            "word": "crewel"
+        },
+        {
+            "id": "crewel_work",
+            "word": "crewel work"
+        },
+        {
+            "id": "crochet",
+            "word": "crochet"
+        },
+        {
+            "id": "cross-stitch",
+            "word": "cross-stitch"
+        },
+        {
+            "id": "cross-stitched",
+            "word": "cross-stitched"
+        },
+        {
+            "id": "cutwork",
+            "word": "cutwork"
+        },
+        {
+            "id": "darn",
+            "word": "darn"
+        },
+        {
+            "id": "darning",
+            "word": "darning"
+        },
+        {
+            "id": "darning_mushroom",
+            "word": "darning mushroom"
+        },
+        {
+            "id": "darning_needle",
+            "word": "darning needle"
+        },
+        {
+            "id": "directoire",
+            "word": "directoire"
+        },
+        {
+            "id": "drawn_work",
+            "word": "drawn work"
+        },
+        {
+            "id": "dress_length",
+            "word": "dress length"
+        },
+        {
+            "id": "embroider",
+            "word": "embroider"
+        },
+        {
+            "id": "embroidered",
+            "word": "embroidered"
+        },
+        {
+            "id": "embroidery",
+            "word": "embroidery"
+        },
+        {
+            "id": "etui",
+            "word": "etui"
+        },
+        {
+            "id": "eyelet_stitch",
+            "word": "eyelet stitch"
+        },
+        {
+            "id": "eye_stitch",
+            "word": "eye stitch"
+        },
+        {
+            "id": "faggoting",
+            "word": "faggoting"
+        },
+        {
+            "id": "fancywork",
+            "word": "fancywork"
+        },
+        {
+            "id": "feather_stitch",
+            "word": "feather stitch"
+        },
+        {
+            "id": "feed_dog",
+            "word": "feed dog"
+        },
+        {
+            "id": "festoon_blind",
+            "word": "festoon blind"
+        },
+        {
+            "id": "filoselle",
+            "word": "filoselle"
+        },
+        {
+            "id": "fine-draw",
+            "word": "fine-draw"
+        },
+        {
+            "id": "french_knot",
+            "word": "french knot"
+        },
+        {
+            "id": "french_seam",
+            "word": "french seam"
+        },
+        {
+            "id": "french_tack",
+            "word": "french tack"
+        },
+        {
+            "id": "frill",
+            "word": "frill"
+        },
+        {
+            "id": "galloon",
+            "word": "galloon"
+        },
+        {
+            "id": "goffer",
+            "word": "goffer"
+        },
+        {
+            "id": "gore",
+            "word": "gore"
+        },
+        {
+            "id": "gros_point",
+            "word": "gros point"
+        },
+        {
+            "id": "gusset",
+            "word": "gusset"
+        },
+        {
+            "id": "handkerchief_hem",
+            "word": "handkerchief hem"
+        },
+        {
+            "id": "hem",
+            "word": "hem"
+        },
+        {
+            "id": "hemline",
+            "word": "hemline"
+        },
+        {
+            "id": "hemstitch",
+            "word": "hemstitch"
+        },
+        {
+            "id": "honeycomb_ground",
+            "word": "honeycomb ground"
+        },
+        {
+            "id": "honeycomb_stitch",
+            "word": "honeycomb stitch"
+        },
+        {
+            "id": "honiton_lace",
+            "word": "honiton lace"
+        },
+        {
+            "id": "interfacing",
+            "word": "interfacing"
+        },
+        {
+            "id": "interline",
+            "word": "interline"
+        },
+        {
+            "id": "interlining",
+            "word": "interlining"
+        },
+        {
+            "id": "invisible_mending",
+            "word": "invisible mending"
+        },
+        {
+            "id": "lace",
+            "word": "lace"
+        },
+        {
+            "id": "lacemaking",
+            "word": "lacemaking"
+        },
+        {
+            "id": "lace_pillow",
+            "word": "lace pillow"
+        },
+        {
+            "id": "lacework",
+            "word": "lacework"
+        },
+        {
+            "id": "ladder_stitch",
+            "word": "ladder stitch"
+        },
+        {
+            "id": "lady%27s_companion",
+            "word": "lady's companion"
+        },
+        {
+            "id": "lazy_daisy_stitch",
+            "word": "lazy daisy stitch"
+        },
+        {
+            "id": "lock_stitch",
+            "word": "lock stitch"
+        },
+        {
+            "id": "loop_stitch",
+            "word": "loop stitch"
+        },
+        {
+            "id": "machine-stitch",
+            "word": "machine-stitch"
+        },
+        {
+            "id": "mending",
+            "word": "mending"
+        },
+        {
+            "id": "mitred",
+            "word": "mitred"
+        },
+        {
+            "id": "mother-of-pearl_work",
+            "word": "mother-of-pearl work"
+        },
+        {
+            "id": "needle",
+            "word": "needle"
+        },
+        {
+            "id": "needlecraft",
+            "word": "needlecraft"
+        },
+        {
+            "id": "needleful",
+            "word": "needleful"
+        },
+        {
+            "id": "needlepoint",
+            "word": "needlepoint"
+        },
+        {
+            "id": "needlewoman",
+            "word": "needlewoman"
+        },
+        {
+            "id": "needlework",
+            "word": "needlework"
+        },
+        {
+            "id": "openwork",
+            "word": "openwork"
+        },
+        {
+            "id": "overlock",
+            "word": "overlock"
+        },
+        {
+            "id": "overseam",
+            "word": "overseam"
+        },
+        {
+            "id": "oversew",
+            "word": "oversew"
+        },
+        {
+            "id": "overstitch",
+            "word": "overstitch"
+        },
+        {
+            "id": "packthread",
+            "word": "packthread"
+        },
+        {
+            "id": "pad_stitch",
+            "word": "pad stitch"
+        },
+        {
+            "id": "pad-stitch",
+            "word": "pad-stitch"
+        },
+        {
+            "id": "pad_stitching",
+            "word": "pad stitching"
+        },
+        {
+            "id": "passementerie",
+            "word": "passementerie"
+        },
+        {
+            "id": "patchwork",
+            "word": "patchwork"
+        },
+        {
+            "id": "patchwork_quilt",
+            "word": "patchwork quilt"
+        },
+        {
+            "id": "pelerine_stitch",
+            "word": "pelerine stitch"
+        },
+        {
+            "id": "petit_point",
+            "word": "petit point"
+        },
+        {
+            "id": "picoted",
+            "word": "picoted"
+        },
+        {
+            "id": "pincushion",
+            "word": "pincushion"
+        },
+        {
+            "id": "pink",
+            "word": "pink"
+        },
+        {
+            "id": "pinked",
+            "word": "pinked"
+        },
+        {
+            "id": "pinking_shears",
+            "word": "pinking shears"
+        },
+        {
+            "id": "pin_stitch",
+            "word": "pin stitch"
+        },
+        {
+            "id": "pin-stitched",
+            "word": "pin-stitched"
+        },
+        {
+            "id": "pin_stitching",
+            "word": "pin stitching"
+        },
+        {
+            "id": "pintuck",
+            "word": "pintuck"
+        },
+        {
+            "id": "pin-tucked",
+            "word": "pin-tucked"
+        },
+        {
+            "id": "pintucking",
+            "word": "pintucking"
+        },
+        {
+            "id": "pin_work",
+            "word": "pin work"
+        },
+        {
+            "id": "plain_sewing",
+            "word": "plain sewing"
+        },
+        {
+            "id": "plush_stitch",
+            "word": "plush stitch"
+        },
+        {
+            "id": "popper",
+            "word": "popper"
+        },
+        {
+            "id": "presser_foot",
+            "word": "presser foot"
+        },
+        {
+            "id": "press_stud",
+            "word": "press stud"
+        },
+        {
+            "id": "purl_edge",
+            "word": "purl edge"
+        },
+        {
+            "id": "purl-edged",
+            "word": "purl-edged"
+        },
+        {
+            "id": "quilling",
+            "word": "quilling"
+        },
+        {
+            "id": "quilting",
+            "word": "quilting"
+        },
+        {
+            "id": "r%C3%A9seau",
+            "word": "réseau"
+        },
+        {
+            "id": "remnant",
+            "word": "remnant"
+        },
+        {
+            "id": "rentering",
+            "word": "rentering"
+        },
+        {
+            "id": "resht",
+            "word": "resht"
+        },
+        {
+            "id": "rice_stitch",
+            "word": "rice stitch"
+        },
+        {
+            "id": "rickrack",
+            "word": "rickrack"
+        },
+        {
+            "id": "romanian_stitch",
+            "word": "romanian stitch"
+        },
+        {
+            "id": "rosaline",
+            "word": "rosaline"
+        },
+        {
+            "id": "rose-point",
+            "word": "rose-point"
+        },
+        {
+            "id": "rub_board",
+            "word": "rub board"
+        },
+        {
+            "id": "running_stitch",
+            "word": "running stitch"
+        },
+        {
+            "id": "satin_stitch",
+            "word": "satin stitch"
+        },
+        {
+            "id": "scalloped",
+            "word": "scalloped"
+        },
+        {
+            "id": "seam",
+            "word": "seam"
+        },
+        {
+            "id": "seamstress",
+            "word": "seamstress"
+        },
+        {
+            "id": "serger",
+            "word": "serger"
+        },
+        {
+            "id": "set-in",
+            "word": "set-in"
+        },
+        {
+            "id": "set_something_in",
+            "word": "set something in"
+        },
+        {
+            "id": "sew",
+            "word": "sew"
+        },
+        {
+            "id": "sewing",
+            "word": "sewing"
+        },
+        {
+            "id": "sewing_machine",
+            "word": "sewing machine"
+        },
+        {
+            "id": "shadow_stitch",
+            "word": "shadow stitch"
+        },
+        {
+            "id": "shadow_work",
+            "word": "shadow work"
+        },
+        {
+            "id": "shirr",
+            "word": "shirr"
+        },
+        {
+            "id": "shirred",
+            "word": "shirred"
+        },
+        {
+            "id": "slip_stitch",
+            "word": "slip stitch"
+        },
+        {
+            "id": "smocking",
+            "word": "smocking"
+        },
+        {
+            "id": "soumak",
+            "word": "soumak"
+        },
+        {
+            "id": "stab_stitch",
+            "word": "stab stitch"
+        },
+        {
+            "id": "stay_stitching",
+            "word": "stay stitching"
+        },
+        {
+            "id": "stem_stitch",
+            "word": "stem stitch"
+        },
+        {
+            "id": "stevengraph",
+            "word": "stevengraph"
+        },
+        {
+            "id": "stitch",
+            "word": "stitch"
+        },
+        {
+            "id": "stitch_and_bitch",
+            "word": "stitch and bitch"
+        },
+        {
+            "id": "stitcher",
+            "word": "stitcher"
+        },
+        {
+            "id": "stitching",
+            "word": "stitching"
+        },
+        {
+            "id": "straight_stitch",
+            "word": "straight stitch"
+        },
+        {
+            "id": "stump_work",
+            "word": "stump work"
+        },
+        {
+            "id": "swiss_darning",
+            "word": "swiss darning"
+        },
+        {
+            "id": "tailor%27s_chalk",
+            "word": "tailor's chalk"
+        },
+        {
+            "id": "tapestry",
+            "word": "tapestry"
+        },
+        {
+            "id": "tassel",
+            "word": "tassel"
+        },
+        {
+            "id": "tat",
+            "word": "tat"
+        },
+        {
+            "id": "tatting",
+            "word": "tatting"
+        },
+        {
+            "id": "tent_stitch",
+            "word": "tent stitch"
+        },
+        {
+            "id": "thimble",
+            "word": "thimble"
+        },
+        {
+            "id": "threader",
+            "word": "threader"
+        },
+        {
+            "id": "tie-back",
+            "word": "tie-back"
+        },
+        {
+            "id": "topstitch",
+            "word": "topstitch"
+        },
+        {
+            "id": "treadle",
+            "word": "treadle"
+        },
+        {
+            "id": "tucking",
+            "word": "tucking"
+        },
+        {
+            "id": "unpick",
+            "word": "unpick"
+        },
+        {
+            "id": "unstitch",
+            "word": "unstitch"
+        },
+        {
+            "id": "wadding",
+            "word": "wadding"
+        },
+        {
+            "id": "whipstitch",
+            "word": "whipstitch"
+        },
+        {
+            "id": "whitework",
+            "word": "whitework"
+        },
+        {
+            "id": "wool_work",
+            "word": "wool work"
+        },
+        {
+            "id": "work_basket",
+            "word": "work basket"
+        },
+        {
+            "id": "workbox",
+            "word": "workbox"
+        },
+        {
+            "id": "yarn",
+            "word": "yarn"
+        },
+        {
+            "id": "zardozi",
+            "word": "zardozi"
+        }
+    ]
+}

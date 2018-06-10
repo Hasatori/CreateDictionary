@@ -1,0 +1,459 @@
+{
+    "results": [
+        {
+            "id": "algorithmic_trading",
+            "word": "algorithmic trading"
+        },
+        {
+            "id": "algo_trading",
+            "word": "algo trading"
+        },
+        {
+            "id": "all_ordinaries_index",
+            "word": "all ordinaries index"
+        },
+        {
+            "id": "american_depositary_receipt",
+            "word": "american depositary receipt"
+        },
+        {
+            "id": "arbitrage",
+            "word": "arbitrage"
+        },
+        {
+            "id": "arbitrageur",
+            "word": "arbitrageur"
+        },
+        {
+            "id": "backwardation",
+            "word": "backwardation"
+        },
+        {
+            "id": "bear_market",
+            "word": "bear market"
+        },
+        {
+            "id": "bid_price",
+            "word": "bid price"
+        },
+        {
+            "id": "black_knight",
+            "word": "black knight"
+        },
+        {
+            "id": "black_thursday",
+            "word": "black thursday"
+        },
+        {
+            "id": "blue-chip",
+            "word": "blue-chip"
+        },
+        {
+            "id": "bourse",
+            "word": "bourse"
+        },
+        {
+            "id": "brokerage",
+            "word": "brokerage"
+        },
+        {
+            "id": "broker-dealer",
+            "word": "broker-dealer"
+        },
+        {
+            "id": "broking",
+            "word": "broking"
+        },
+        {
+            "id": "bucket_shop",
+            "word": "bucket shop"
+        },
+        {
+            "id": "buffer_stock",
+            "word": "buffer stock"
+        },
+        {
+            "id": "bull_market",
+            "word": "bull market"
+        },
+        {
+            "id": "buy-in",
+            "word": "buy-in"
+        },
+        {
+            "id": "call_option",
+            "word": "call option"
+        },
+        {
+            "id": "cds",
+            "word": "cds"
+        },
+        {
+            "id": "closing_price",
+            "word": "closing price"
+        },
+        {
+            "id": "common_stock",
+            "word": "common stock"
+        },
+        {
+            "id": "contango",
+            "word": "contango"
+        },
+        {
+            "id": "contract_note",
+            "word": "contract note"
+        },
+        {
+            "id": "contrarian",
+            "word": "contrarian"
+        },
+        {
+            "id": "corporate_raider",
+            "word": "corporate raider"
+        },
+        {
+            "id": "credit_default_swap",
+            "word": "credit default swap"
+        },
+        {
+            "id": "credit_derivative",
+            "word": "credit derivative"
+        },
+        {
+            "id": "cum_dividend",
+            "word": "cum dividend"
+        },
+        {
+            "id": "cumulative_preference_share",
+            "word": "cumulative preference share"
+        },
+        {
+            "id": "dark_pool",
+            "word": "dark pool"
+        },
+        {
+            "id": "dead_cat_bounce",
+            "word": "dead cat bounce"
+        },
+        {
+            "id": "delist",
+            "word": "delist"
+        },
+        {
+            "id": "dividend_warrant",
+            "word": "dividend warrant"
+        },
+        {
+            "id": "dividend_yield",
+            "word": "dividend yield"
+        },
+        {
+            "id": "dow",
+            "word": "dow"
+        },
+        {
+            "id": "dow_jones",
+            "word": "dow jones"
+        },
+        {
+            "id": "etf",
+            "word": "etf"
+        },
+        {
+            "id": "exchange-traded_fund",
+            "word": "exchange-traded fund"
+        },
+        {
+            "id": "ex_div.",
+            "word": "ex div."
+        },
+        {
+            "id": "ex_dividend",
+            "word": "ex dividend"
+        },
+        {
+            "id": "exercise_price",
+            "word": "exercise price"
+        },
+        {
+            "id": "foreign_exchange_market",
+            "word": "foreign exchange market"
+        },
+        {
+            "id": "ftse_index",
+            "word": "ftse index"
+        },
+        {
+            "id": "futures_contract",
+            "word": "futures contract"
+        },
+        {
+            "id": "futures_exchange",
+            "word": "futures exchange"
+        },
+        {
+            "id": "futures_market",
+            "word": "futures market"
+        },
+        {
+            "id": "futures_options",
+            "word": "futures options"
+        },
+        {
+            "id": "futures_trader",
+            "word": "futures trader"
+        },
+        {
+            "id": "fx",
+            "word": "fx"
+        },
+        {
+            "id": "gilt-edged",
+            "word": "gilt-edged"
+        },
+        {
+            "id": "greenmail",
+            "word": "greenmail"
+        },
+        {
+            "id": "grey_knight",
+            "word": "grey knight"
+        },
+        {
+            "id": "growth_stock",
+            "word": "growth stock"
+        },
+        {
+            "id": "hang_seng_index",
+            "word": "hang seng index"
+        },
+        {
+            "id": "high-frequency_trading",
+            "word": "high-frequency trading"
+        },
+        {
+            "id": "index_futures",
+            "word": "index futures"
+        },
+        {
+            "id": "initial_public_offering",
+            "word": "initial public offering"
+        },
+        {
+            "id": "insider_dealer",
+            "word": "insider dealer"
+        },
+        {
+            "id": "insider_dealing",
+            "word": "insider dealing"
+        },
+        {
+            "id": "intraday",
+            "word": "intraday"
+        },
+        {
+            "id": "investment_grade",
+            "word": "investment grade"
+        },
+        {
+            "id": "ipo",
+            "word": "ipo"
+        },
+        {
+            "id": "jobber",
+            "word": "jobber"
+        },
+        {
+            "id": "kerb_market",
+            "word": "kerb market"
+        },
+        {
+            "id": "limit_order",
+            "word": "limit order"
+        },
+        {
+            "id": "margin_call",
+            "word": "margin call"
+        },
+        {
+            "id": "nasdaq",
+            "word": "nasdaq"
+        },
+        {
+            "id": "nikkei_index",
+            "word": "nikkei index"
+        },
+        {
+            "id": "nyse",
+            "word": "nyse"
+        },
+        {
+            "id": "off-market",
+            "word": "off-market"
+        },
+        {
+            "id": "options_exchange",
+            "word": "options exchange"
+        },
+        {
+            "id": "ordinary_share",
+            "word": "ordinary share"
+        },
+        {
+            "id": "play_the_market",
+            "word": "play the market"
+        },
+        {
+            "id": "portfolio_insurance",
+            "word": "portfolio insurance"
+        },
+        {
+            "id": "preferred_stock",
+            "word": "preferred stock"
+        },
+        {
+            "id": "private_placement",
+            "word": "private placement"
+        },
+        {
+            "id": "programme_trading",
+            "word": "programme trading"
+        },
+        {
+            "id": "public_offering",
+            "word": "public offering"
+        },
+        {
+            "id": "put_option",
+            "word": "put option"
+        },
+        {
+            "id": "quiet_period",
+            "word": "quiet period"
+        },
+        {
+            "id": "recovery_stock",
+            "word": "recovery stock"
+        },
+        {
+            "id": "relist",
+            "word": "relist"
+        },
+        {
+            "id": "rerate",
+            "word": "rerate"
+        },
+        {
+            "id": "resistance_level",
+            "word": "resistance level"
+        },
+        {
+            "id": "restricted_stock",
+            "word": "restricted stock"
+        },
+        {
+            "id": "seaq",
+            "word": "seaq"
+        },
+        {
+            "id": "sell_short",
+            "word": "sell short"
+        },
+        {
+            "id": "sensex",
+            "word": "sensex"
+        },
+        {
+            "id": "shareholder",
+            "word": "shareholder"
+        },
+        {
+            "id": "shareholding",
+            "word": "shareholding"
+        },
+        {
+            "id": "sharemarket",
+            "word": "sharemarket"
+        },
+        {
+            "id": "short_covering",
+            "word": "short covering"
+        },
+        {
+            "id": "short_end",
+            "word": "short end"
+        },
+        {
+            "id": "stakebuilding",
+            "word": "stakebuilding"
+        },
+        {
+            "id": "stockbroker",
+            "word": "stockbroker"
+        },
+        {
+            "id": "stock_exchange",
+            "word": "stock exchange"
+        },
+        {
+            "id": "stockholder",
+            "word": "stockholder"
+        },
+        {
+            "id": "stock_market",
+            "word": "stock market"
+        },
+        {
+            "id": "stock_option",
+            "word": "stock option"
+        },
+        {
+            "id": "strike_price",
+            "word": "strike price"
+        },
+        {
+            "id": "support_level",
+            "word": "support level"
+        },
+        {
+            "id": "tech_wreck",
+            "word": "tech wreck"
+        },
+        {
+            "id": "the_big_board",
+            "word": "the big board"
+        },
+        {
+            "id": "traded_option",
+            "word": "traded option"
+        },
+        {
+            "id": "trading_floor",
+            "word": "trading floor"
+        },
+        {
+            "id": "unlisted",
+            "word": "unlisted"
+        },
+        {
+            "id": "unquoted",
+            "word": "unquoted"
+        },
+        {
+            "id": "usm",
+            "word": "usm"
+        },
+        {
+            "id": "xd",
+            "word": "xd"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 112,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}

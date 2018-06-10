@@ -1,0 +1,2563 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 638
+    },
+    "results": [
+        {
+            "id": "accelerometer",
+            "word": "accelerometer"
+        },
+        {
+            "id": "actuate",
+            "word": "actuate"
+        },
+        {
+            "id": "afterburner",
+            "word": "afterburner"
+        },
+        {
+            "id": "air_bearing",
+            "word": "air bearing"
+        },
+        {
+            "id": "air_brake",
+            "word": "air brake"
+        },
+        {
+            "id": "air-cooled",
+            "word": "air-cooled"
+        },
+        {
+            "id": "air_filter",
+            "word": "air filter"
+        },
+        {
+            "id": "allen_key",
+            "word": "allen key"
+        },
+        {
+            "id": "allen_screw",
+            "word": "allen screw"
+        },
+        {
+            "id": "allen_wrench",
+            "word": "allen wrench"
+        },
+        {
+            "id": "all-up_weight",
+            "word": "all-up weight"
+        },
+        {
+            "id": "arbor",
+            "word": "arbor"
+        },
+        {
+            "id": "archimedean_screw",
+            "word": "archimedean screw"
+        },
+        {
+            "id": "assembly_shop",
+            "word": "assembly shop"
+        },
+        {
+            "id": "automaton",
+            "word": "automaton"
+        },
+        {
+            "id": "axle",
+            "word": "axle"
+        },
+        {
+            "id": "backfire",
+            "word": "backfire"
+        },
+        {
+            "id": "ball_bearing",
+            "word": "ball bearing"
+        },
+        {
+            "id": "ballcock",
+            "word": "ballcock"
+        },
+        {
+            "id": "ball_valve",
+            "word": "ball valve"
+        },
+        {
+            "id": "baseplate",
+            "word": "baseplate"
+        },
+        {
+            "id": "beam_engine",
+            "word": "beam engine"
+        },
+        {
+            "id": "bedplate",
+            "word": "bedplate"
+        },
+        {
+            "id": "beer_engine",
+            "word": "beer engine"
+        },
+        {
+            "id": "beetle",
+            "word": "beetle"
+        },
+        {
+            "id": "bell_crank",
+            "word": "bell crank"
+        },
+        {
+            "id": "belt_drive",
+            "word": "belt drive"
+        },
+        {
+            "id": "bench_test",
+            "word": "bench test"
+        },
+        {
+            "id": "bevel_gear",
+            "word": "bevel gear"
+        },
+        {
+            "id": "bevel_wheel",
+            "word": "bevel wheel"
+        },
+        {
+            "id": "bhp",
+            "word": "bhp"
+        },
+        {
+            "id": "bifilar",
+            "word": "bifilar"
+        },
+        {
+            "id": "big_end",
+            "word": "big end"
+        },
+        {
+            "id": "blanking_plate",
+            "word": "blanking plate"
+        },
+        {
+            "id": "block_and_tackle",
+            "word": "block and tackle"
+        },
+        {
+            "id": "block_diagram",
+            "word": "block diagram"
+        },
+        {
+            "id": "blow-off",
+            "word": "blow-off"
+        },
+        {
+            "id": "bobbin",
+            "word": "bobbin"
+        },
+        {
+            "id": "bob_weight",
+            "word": "bob weight"
+        },
+        {
+            "id": "boilerplate",
+            "word": "boilerplate"
+        },
+        {
+            "id": "bolt",
+            "word": "bolt"
+        },
+        {
+            "id": "bolt-on",
+            "word": "bolt-on"
+        },
+        {
+            "id": "brake",
+            "word": "brake"
+        },
+        {
+            "id": "brake_disc",
+            "word": "brake disc"
+        },
+        {
+            "id": "brake_drum",
+            "word": "brake drum"
+        },
+        {
+            "id": "brake_fluid",
+            "word": "brake fluid"
+        },
+        {
+            "id": "brake_lining",
+            "word": "brake lining"
+        },
+        {
+            "id": "brake_pad",
+            "word": "brake pad"
+        },
+        {
+            "id": "brake_shoe",
+            "word": "brake shoe"
+        },
+        {
+            "id": "brunel%2C_sir_marc_isambard",
+            "word": "brunel, sir marc isambard"
+        },
+        {
+            "id": "burton",
+            "word": "burton"
+        },
+        {
+            "id": "bush",
+            "word": "bush"
+        },
+        {
+            "id": "butterfly_valve",
+            "word": "butterfly valve"
+        },
+        {
+            "id": "calibrate",
+            "word": "calibrate"
+        },
+        {
+            "id": "calibrated",
+            "word": "calibrated"
+        },
+        {
+            "id": "calibration",
+            "word": "calibration"
+        },
+        {
+            "id": "cam",
+            "word": "cam"
+        },
+        {
+            "id": "cam_follower",
+            "word": "cam follower"
+        },
+        {
+            "id": "camshaft",
+            "word": "camshaft"
+        },
+        {
+            "id": "cantilever",
+            "word": "cantilever"
+        },
+        {
+            "id": "carbie",
+            "word": "carbie"
+        },
+        {
+            "id": "carburettor",
+            "word": "carburettor"
+        },
+        {
+            "id": "cardan_shaft",
+            "word": "cardan shaft"
+        },
+        {
+            "id": "castor",
+            "word": "castor"
+        },
+        {
+            "id": "centrifugal_pump",
+            "word": "centrifugal pump"
+        },
+        {
+            "id": "chain_drive",
+            "word": "chain drive"
+        },
+        {
+            "id": "chain_gear",
+            "word": "chain gear"
+        },
+        {
+            "id": "chainring",
+            "word": "chainring"
+        },
+        {
+            "id": "chainsaw",
+            "word": "chainsaw"
+        },
+        {
+            "id": "chain_wheel",
+            "word": "chain wheel"
+        },
+        {
+            "id": "chassis",
+            "word": "chassis"
+        },
+        {
+            "id": "check_valve",
+            "word": "check valve"
+        },
+        {
+            "id": "chuck",
+            "word": "chuck"
+        },
+        {
+            "id": "circlip",
+            "word": "circlip"
+        },
+        {
+            "id": "clamp",
+            "word": "clamp"
+        },
+        {
+            "id": "clevis",
+            "word": "clevis"
+        },
+        {
+            "id": "clockwork",
+            "word": "clockwork"
+        },
+        {
+            "id": "cog",
+            "word": "cog"
+        },
+        {
+            "id": "coil_spring",
+            "word": "coil spring"
+        },
+        {
+            "id": "collet",
+            "word": "collet"
+        },
+        {
+            "id": "combination_lock",
+            "word": "combination lock"
+        },
+        {
+            "id": "combustion_chamber",
+            "word": "combustion chamber"
+        },
+        {
+            "id": "come-along",
+            "word": "come-along"
+        },
+        {
+            "id": "componentry",
+            "word": "componentry"
+        },
+        {
+            "id": "compression_ratio",
+            "word": "compression ratio"
+        },
+        {
+            "id": "compressive_strength",
+            "word": "compressive strength"
+        },
+        {
+            "id": "compressor",
+            "word": "compressor"
+        },
+        {
+            "id": "connecting_rod",
+            "word": "connecting rod"
+        },
+        {
+            "id": "contra-rotating",
+            "word": "contra-rotating"
+        },
+        {
+            "id": "cotter_pin",
+            "word": "cotter pin"
+        },
+        {
+            "id": "cotton_gin",
+            "word": "cotton gin"
+        },
+        {
+            "id": "counterbalance",
+            "word": "counterbalance"
+        },
+        {
+            "id": "counterbore",
+            "word": "counterbore"
+        },
+        {
+            "id": "countershaft",
+            "word": "countershaft"
+        },
+        {
+            "id": "coupling",
+            "word": "coupling"
+        },
+        {
+            "id": "crane",
+            "word": "crane"
+        },
+        {
+            "id": "crank",
+            "word": "crank"
+        },
+        {
+            "id": "crankcase",
+            "word": "crankcase"
+        },
+        {
+            "id": "crankpin",
+            "word": "crankpin"
+        },
+        {
+            "id": "crankshaft",
+            "word": "crankshaft"
+        },
+        {
+            "id": "cross_head",
+            "word": "cross head"
+        },
+        {
+            "id": "cross_member",
+            "word": "cross member"
+        },
+        {
+            "id": "crosspiece",
+            "word": "crosspiece"
+        },
+        {
+            "id": "crown_wheel",
+            "word": "crown wheel"
+        },
+        {
+            "id": "cut_out",
+            "word": "cut out"
+        },
+        {
+            "id": "cvt",
+            "word": "cvt"
+        },
+        {
+            "id": "cylinder_head",
+            "word": "cylinder head"
+        },
+        {
+            "id": "dandy_roll",
+            "word": "dandy roll"
+        },
+        {
+            "id": "dashpot",
+            "word": "dashpot"
+        },
+        {
+            "id": "deadbolt",
+            "word": "deadbolt"
+        },
+        {
+            "id": "dead_centre",
+            "word": "dead centre"
+        },
+        {
+            "id": "decarbonize",
+            "word": "decarbonize"
+        },
+        {
+            "id": "deckle",
+            "word": "deckle"
+        },
+        {
+            "id": "declutch",
+            "word": "declutch"
+        },
+        {
+            "id": "decoke",
+            "word": "decoke"
+        },
+        {
+            "id": "decompressor",
+            "word": "decompressor"
+        },
+        {
+            "id": "dedendum",
+            "word": "dedendum"
+        },
+        {
+            "id": "derrick",
+            "word": "derrick"
+        },
+        {
+            "id": "derv",
+            "word": "derv"
+        },
+        {
+            "id": "desuperheater",
+            "word": "desuperheater"
+        },
+        {
+            "id": "detent",
+            "word": "detent"
+        },
+        {
+            "id": "diaphragm_pump",
+            "word": "diaphragm pump"
+        },
+        {
+            "id": "diesel",
+            "word": "diesel"
+        },
+        {
+            "id": "dieselize",
+            "word": "dieselize"
+        },
+        {
+            "id": "direct-drive",
+            "word": "direct-drive"
+        },
+        {
+            "id": "direct_injection",
+            "word": "direct injection"
+        },
+        {
+            "id": "disassemble",
+            "word": "disassemble"
+        },
+        {
+            "id": "disassembly",
+            "word": "disassembly"
+        },
+        {
+            "id": "disc_brake",
+            "word": "disc brake"
+        },
+        {
+            "id": "disc_wheel",
+            "word": "disc wheel"
+        },
+        {
+            "id": "displacement_pump",
+            "word": "displacement pump"
+        },
+        {
+            "id": "d-lock",
+            "word": "d-lock"
+        },
+        {
+            "id": "dobby",
+            "word": "dobby"
+        },
+        {
+            "id": "dog_clutch",
+            "word": "dog clutch"
+        },
+        {
+            "id": "dohc",
+            "word": "dohc"
+        },
+        {
+            "id": "donkey_engine",
+            "word": "donkey engine"
+        },
+        {
+            "id": "double_lock",
+            "word": "double lock"
+        },
+        {
+            "id": "dragline",
+            "word": "dragline"
+        },
+        {
+            "id": "drill_press",
+            "word": "drill press"
+        },
+        {
+            "id": "drill_stem",
+            "word": "drill stem"
+        },
+        {
+            "id": "drip_feed",
+            "word": "drip feed"
+        },
+        {
+            "id": "drive_belt",
+            "word": "drive belt"
+        },
+        {
+            "id": "drive_chain",
+            "word": "drive chain"
+        },
+        {
+            "id": "driveshaft",
+            "word": "driveshaft"
+        },
+        {
+            "id": "drive_system",
+            "word": "drive system"
+        },
+        {
+            "id": "drivetrain",
+            "word": "drivetrain"
+        },
+        {
+            "id": "drop_hammer",
+            "word": "drop hammer"
+        },
+        {
+            "id": "drum_brake",
+            "word": "drum brake"
+        },
+        {
+            "id": "dumb_iron",
+            "word": "dumb iron"
+        },
+        {
+            "id": "dunger",
+            "word": "dunger"
+        },
+        {
+            "id": "duty_cycle",
+            "word": "duty cycle"
+        },
+        {
+            "id": "dynamicist",
+            "word": "dynamicist"
+        },
+        {
+            "id": "dynamics",
+            "word": "dynamics"
+        },
+        {
+            "id": "dynamo",
+            "word": "dynamo"
+        },
+        {
+            "id": "dynamometer",
+            "word": "dynamometer"
+        },
+        {
+            "id": "electro-hydraulic",
+            "word": "electro-hydraulic"
+        },
+        {
+            "id": "electromechanical",
+            "word": "electromechanical"
+        },
+        {
+            "id": "emergency_brake",
+            "word": "emergency brake"
+        },
+        {
+            "id": "endless_screw",
+            "word": "endless screw"
+        },
+        {
+            "id": "end_plate",
+            "word": "end plate"
+        },
+        {
+            "id": "engine_room",
+            "word": "engine room"
+        },
+        {
+            "id": "enginery",
+            "word": "enginery"
+        },
+        {
+            "id": "ergometer",
+            "word": "ergometer"
+        },
+        {
+            "id": "expansion_bolt",
+            "word": "expansion bolt"
+        },
+        {
+            "id": "explosive_bolt",
+            "word": "explosive bolt"
+        },
+        {
+            "id": "faceplate",
+            "word": "faceplate"
+        },
+        {
+            "id": "fairing",
+            "word": "fairing"
+        },
+        {
+            "id": "fan",
+            "word": "fan"
+        },
+        {
+            "id": "fan_belt",
+            "word": "fan belt"
+        },
+        {
+            "id": "feeler_gauge",
+            "word": "feeler gauge"
+        },
+        {
+            "id": "felloes",
+            "word": "felloes"
+        },
+        {
+            "id": "ferrule",
+            "word": "ferrule"
+        },
+        {
+            "id": "fettler",
+            "word": "fettler"
+        },
+        {
+            "id": "filter_press",
+            "word": "filter press"
+        },
+        {
+            "id": "filter_pump",
+            "word": "filter pump"
+        },
+        {
+            "id": "final_drive",
+            "word": "final drive"
+        },
+        {
+            "id": "fine-tune",
+            "word": "fine-tune"
+        },
+        {
+            "id": "firebox",
+            "word": "firebox"
+        },
+        {
+            "id": "fitter",
+            "word": "fitter"
+        },
+        {
+            "id": "fitting_shop",
+            "word": "fitting shop"
+        },
+        {
+            "id": "flanging",
+            "word": "flanging"
+        },
+        {
+            "id": "flap_valve",
+            "word": "flap valve"
+        },
+        {
+            "id": "flat-four",
+            "word": "flat-four"
+        },
+        {
+            "id": "fluxgate",
+            "word": "fluxgate"
+        },
+        {
+            "id": "flywheel",
+            "word": "flywheel"
+        },
+        {
+            "id": "foot_valve",
+            "word": "foot valve"
+        },
+        {
+            "id": "force_pump",
+            "word": "force pump"
+        },
+        {
+            "id": "form_drag",
+            "word": "form drag"
+        },
+        {
+            "id": "fourdrinier_machine",
+            "word": "fourdrinier machine"
+        },
+        {
+            "id": "four-engined",
+            "word": "four-engined"
+        },
+        {
+            "id": "four_on_the_floor",
+            "word": "four on the floor"
+        },
+        {
+            "id": "four-stroke",
+            "word": "four-stroke"
+        },
+        {
+            "id": "four-wheel_drive",
+            "word": "four-wheel drive"
+        },
+        {
+            "id": "front_end",
+            "word": "front end"
+        },
+        {
+            "id": "front-end_loader",
+            "word": "front-end loader"
+        },
+        {
+            "id": "frost_stat",
+            "word": "frost stat"
+        },
+        {
+            "id": "fuel_injection",
+            "word": "fuel injection"
+        },
+        {
+            "id": "fuel_oil",
+            "word": "fuel oil"
+        },
+        {
+            "id": "fulcrum",
+            "word": "fulcrum"
+        },
+        {
+            "id": "fwb",
+            "word": "fwb"
+        },
+        {
+            "id": "f.w.d.",
+            "word": "f.w.d."
+        },
+        {
+            "id": "gantry",
+            "word": "gantry"
+        },
+        {
+            "id": "gasket",
+            "word": "gasket"
+        },
+        {
+            "id": "gas_pedal",
+            "word": "gas pedal"
+        },
+        {
+            "id": "gas_turbine",
+            "word": "gas turbine"
+        },
+        {
+            "id": "gear",
+            "word": "gear"
+        },
+        {
+            "id": "gearbox",
+            "word": "gearbox"
+        },
+        {
+            "id": "gear_change",
+            "word": "gear change"
+        },
+        {
+            "id": "geared",
+            "word": "geared"
+        },
+        {
+            "id": "gearing",
+            "word": "gearing"
+        },
+        {
+            "id": "gear_train",
+            "word": "gear train"
+        },
+        {
+            "id": "gearwheel",
+            "word": "gearwheel"
+        },
+        {
+            "id": "gimlet",
+            "word": "gimlet"
+        },
+        {
+            "id": "gin",
+            "word": "gin"
+        },
+        {
+            "id": "gland",
+            "word": "gland"
+        },
+        {
+            "id": "gravity-fed",
+            "word": "gravity-fed"
+        },
+        {
+            "id": "gravity_feed",
+            "word": "gravity feed"
+        },
+        {
+            "id": "grease",
+            "word": "grease"
+        },
+        {
+            "id": "grease_gun",
+            "word": "grease gun"
+        },
+        {
+            "id": "grease_nipple",
+            "word": "grease nipple"
+        },
+        {
+            "id": "grille",
+            "word": "grille"
+        },
+        {
+            "id": "grinding_wheel",
+            "word": "grinding wheel"
+        },
+        {
+            "id": "grindstone",
+            "word": "grindstone"
+        },
+        {
+            "id": "grooving_saw",
+            "word": "grooving saw"
+        },
+        {
+            "id": "ground_clearance",
+            "word": "ground clearance"
+        },
+        {
+            "id": "grub_screw",
+            "word": "grub screw"
+        },
+        {
+            "id": "gudgeon",
+            "word": "gudgeon"
+        },
+        {
+            "id": "gudgeon_pin",
+            "word": "gudgeon pin"
+        },
+        {
+            "id": "guide_rail",
+            "word": "guide rail"
+        },
+        {
+            "id": "guide_rope",
+            "word": "guide rope"
+        },
+        {
+            "id": "guideway",
+            "word": "guideway"
+        },
+        {
+            "id": "handbrake",
+            "word": "handbrake"
+        },
+        {
+            "id": "hand_crank",
+            "word": "hand crank"
+        },
+        {
+            "id": "head_gasket",
+            "word": "head gasket"
+        },
+        {
+            "id": "headstock",
+            "word": "headstock"
+        },
+        {
+            "id": "heat_efficiency",
+            "word": "heat efficiency"
+        },
+        {
+            "id": "heat_engine",
+            "word": "heat engine"
+        },
+        {
+            "id": "heat_exchanger",
+            "word": "heat exchanger"
+        },
+        {
+            "id": "heat_pump",
+            "word": "heat pump"
+        },
+        {
+            "id": "heavy-lift",
+            "word": "heavy-lift"
+        },
+        {
+            "id": "hopper",
+            "word": "hopper"
+        },
+        {
+            "id": "horsepower",
+            "word": "horsepower"
+        },
+        {
+            "id": "hot_press",
+            "word": "hot press"
+        },
+        {
+            "id": "hub",
+            "word": "hub"
+        },
+        {
+            "id": "hydraulic",
+            "word": "hydraulic"
+        },
+        {
+            "id": "hydraulic_ram",
+            "word": "hydraulic ram"
+        },
+        {
+            "id": "hydraulics",
+            "word": "hydraulics"
+        },
+        {
+            "id": "hydrodynamics",
+            "word": "hydrodynamics"
+        },
+        {
+            "id": "hydromechanics",
+            "word": "hydromechanics"
+        },
+        {
+            "id": "hydrostatic",
+            "word": "hydrostatic"
+        },
+        {
+            "id": "hydrostatics",
+            "word": "hydrostatics"
+        },
+        {
+            "id": "hypoid",
+            "word": "hypoid"
+        },
+        {
+            "id": "idle_wheel",
+            "word": "idle wheel"
+        },
+        {
+            "id": "igniter",
+            "word": "igniter"
+        },
+        {
+            "id": "ignition",
+            "word": "ignition"
+        },
+        {
+            "id": "i.h.p.",
+            "word": "i.h.p."
+        },
+        {
+            "id": "impeller",
+            "word": "impeller"
+        },
+        {
+            "id": "inclined_plane",
+            "word": "inclined plane"
+        },
+        {
+            "id": "independent_suspension",
+            "word": "independent suspension"
+        },
+        {
+            "id": "indicated_horsepower",
+            "word": "indicated horsepower"
+        },
+        {
+            "id": "indicator_diagram",
+            "word": "indicator diagram"
+        },
+        {
+            "id": "industrial_engineering",
+            "word": "industrial engineering"
+        },
+        {
+            "id": "inertia_reel",
+            "word": "inertia reel"
+        },
+        {
+            "id": "infeed",
+            "word": "infeed"
+        },
+        {
+            "id": "injector",
+            "word": "injector"
+        },
+        {
+            "id": "in-line_engine",
+            "word": "in-line engine"
+        },
+        {
+            "id": "in_mesh",
+            "word": "in mesh"
+        },
+        {
+            "id": "intake_valve",
+            "word": "intake valve"
+        },
+        {
+            "id": "intercool",
+            "word": "intercool"
+        },
+        {
+            "id": "intercooler",
+            "word": "intercooler"
+        },
+        {
+            "id": "internal_combustion_engine",
+            "word": "internal combustion engine"
+        },
+        {
+            "id": "jack",
+            "word": "jack"
+        },
+        {
+            "id": "jack_plane",
+            "word": "jack plane"
+        },
+        {
+            "id": "jack_screw",
+            "word": "jack screw"
+        },
+        {
+            "id": "jack_shaft",
+            "word": "jack shaft"
+        },
+        {
+            "id": "jet_engine",
+            "word": "jet engine"
+        },
+        {
+            "id": "jigger",
+            "word": "jigger"
+        },
+        {
+            "id": "kangaroo_jack",
+            "word": "kangaroo jack"
+        },
+        {
+            "id": "keyway",
+            "word": "keyway"
+        },
+        {
+            "id": "kick-down",
+            "word": "kick-down"
+        },
+        {
+            "id": "kick-start",
+            "word": "kick-start"
+        },
+        {
+            "id": "kick-starter",
+            "word": "kick-starter"
+        },
+        {
+            "id": "kingbolt",
+            "word": "kingbolt"
+        },
+        {
+            "id": "kingpin",
+            "word": "kingpin"
+        },
+        {
+            "id": "knee_action",
+            "word": "knee action"
+        },
+        {
+            "id": "knitting_machine",
+            "word": "knitting machine"
+        },
+        {
+            "id": "knuckle_joint",
+            "word": "knuckle joint"
+        },
+        {
+            "id": "lantern_wheel",
+            "word": "lantern wheel"
+        },
+        {
+            "id": "lapping_machine",
+            "word": "lapping machine"
+        },
+        {
+            "id": "lathe",
+            "word": "lathe"
+        },
+        {
+            "id": "layshaft",
+            "word": "layshaft"
+        },
+        {
+            "id": "-le",
+            "word": "-le"
+        },
+        {
+            "id": "leaf_spring",
+            "word": "leaf spring"
+        },
+        {
+            "id": "levelling_screw",
+            "word": "levelling screw"
+        },
+        {
+            "id": "lever",
+            "word": "lever"
+        },
+        {
+            "id": "leverage",
+            "word": "leverage"
+        },
+        {
+            "id": "lift_pump",
+            "word": "lift pump"
+        },
+        {
+            "id": "limit_switch",
+            "word": "limit switch"
+        },
+        {
+            "id": "linkwork",
+            "word": "linkwork"
+        },
+        {
+            "id": "little_end",
+            "word": "little end"
+        },
+        {
+            "id": "load_factor",
+            "word": "load factor"
+        },
+        {
+            "id": "loading",
+            "word": "loading"
+        },
+        {
+            "id": "loading_shovel",
+            "word": "loading shovel"
+        },
+        {
+            "id": "locknut",
+            "word": "locknut"
+        },
+        {
+            "id": "lube",
+            "word": "lube"
+        },
+        {
+            "id": "lubricate",
+            "word": "lubricate"
+        },
+        {
+            "id": "lubricating_oil",
+            "word": "lubricating oil"
+        },
+        {
+            "id": "lubrication",
+            "word": "lubrication"
+        },
+        {
+            "id": "machinable",
+            "word": "machinable"
+        },
+        {
+            "id": "machine",
+            "word": "machine"
+        },
+        {
+            "id": "machine-driven",
+            "word": "machine-driven"
+        },
+        {
+            "id": "machinery",
+            "word": "machinery"
+        },
+        {
+            "id": "machine_shop",
+            "word": "machine shop"
+        },
+        {
+            "id": "machine_tool",
+            "word": "machine tool"
+        },
+        {
+            "id": "magneto",
+            "word": "magneto"
+        },
+        {
+            "id": "main_bearing",
+            "word": "main bearing"
+        },
+        {
+            "id": "mallee_roller",
+            "word": "mallee roller"
+        },
+        {
+            "id": "mandrel",
+            "word": "mandrel"
+        },
+        {
+            "id": "mechanical",
+            "word": "mechanical"
+        },
+        {
+            "id": "mechanical_advantage",
+            "word": "mechanical advantage"
+        },
+        {
+            "id": "mechanical_drawing",
+            "word": "mechanical drawing"
+        },
+        {
+            "id": "mechanical_engineering",
+            "word": "mechanical engineering"
+        },
+        {
+            "id": "mechanically",
+            "word": "mechanically"
+        },
+        {
+            "id": "mechanician",
+            "word": "mechanician"
+        },
+        {
+            "id": "mechanics",
+            "word": "mechanics"
+        },
+        {
+            "id": "mechanism",
+            "word": "mechanism"
+        },
+        {
+            "id": "mechano-",
+            "word": "mechano-"
+        },
+        {
+            "id": "mechatronics",
+            "word": "mechatronics"
+        },
+        {
+            "id": "milking_machine",
+            "word": "milking machine"
+        },
+        {
+            "id": "mill_wheel",
+            "word": "mill wheel"
+        },
+        {
+            "id": "mimeograph",
+            "word": "mimeograph"
+        },
+        {
+            "id": "misfire",
+            "word": "misfire"
+        },
+        {
+            "id": "mitre_wheel",
+            "word": "mitre wheel"
+        },
+        {
+            "id": "morse_taper",
+            "word": "morse taper"
+        },
+        {
+            "id": "motor",
+            "word": "motor"
+        },
+        {
+            "id": "motor_drive",
+            "word": "motor drive"
+        },
+        {
+            "id": "motor-driven",
+            "word": "motor-driven"
+        },
+        {
+            "id": "motorize",
+            "word": "motorize"
+        },
+        {
+            "id": "motor_oil",
+            "word": "motor oil"
+        },
+        {
+            "id": "multigrade",
+            "word": "multigrade"
+        },
+        {
+            "id": "multivalve",
+            "word": "multivalve"
+        },
+        {
+            "id": "needle_valve",
+            "word": "needle valve"
+        },
+        {
+            "id": "notchy",
+            "word": "notchy"
+        },
+        {
+            "id": "numerical_control",
+            "word": "numerical control"
+        },
+        {
+            "id": "nutation",
+            "word": "nutation"
+        },
+        {
+            "id": "ohc",
+            "word": "ohc"
+        },
+        {
+            "id": "ohv",
+            "word": "ohv"
+        },
+        {
+            "id": "oil_bath",
+            "word": "oil bath"
+        },
+        {
+            "id": "oil_burner",
+            "word": "oil burner"
+        },
+        {
+            "id": "oil_change",
+            "word": "oil change"
+        },
+        {
+            "id": "oil_engine",
+            "word": "oil engine"
+        },
+        {
+            "id": "oil_filter",
+            "word": "oil filter"
+        },
+        {
+            "id": "oil_gauge",
+            "word": "oil gauge"
+        },
+        {
+            "id": "oil_pan",
+            "word": "oil pan"
+        },
+        {
+            "id": "oil_pressure",
+            "word": "oil pressure"
+        },
+        {
+            "id": "one-lunger",
+            "word": "one-lunger"
+        },
+        {
+            "id": "o-ring",
+            "word": "o-ring"
+        },
+        {
+            "id": "oscillate",
+            "word": "oscillate"
+        },
+        {
+            "id": "otto%2C_nikolaus_august",
+            "word": "otto, nikolaus august"
+        },
+        {
+            "id": "outlet_valve",
+            "word": "outlet valve"
+        },
+        {
+            "id": "overhead_camshaft",
+            "word": "overhead camshaft"
+        },
+        {
+            "id": "overstress",
+            "word": "overstress"
+        },
+        {
+            "id": "parking_brake",
+            "word": "parking brake"
+        },
+        {
+            "id": "parsons%2C_sir_charles",
+            "word": "parsons, sir charles"
+        },
+        {
+            "id": "pawl",
+            "word": "pawl"
+        },
+        {
+            "id": "pedal",
+            "word": "pedal"
+        },
+        {
+            "id": "peristaltic_pump",
+            "word": "peristaltic pump"
+        },
+        {
+            "id": "permanent_set",
+            "word": "permanent set"
+        },
+        {
+            "id": "perpetual_motion",
+            "word": "perpetual motion"
+        },
+        {
+            "id": "petcock",
+            "word": "petcock"
+        },
+        {
+            "id": "phillips",
+            "word": "phillips"
+        },
+        {
+            "id": "pilot_hole",
+            "word": "pilot hole"
+        },
+        {
+            "id": "ping",
+            "word": "ping"
+        },
+        {
+            "id": "pinion",
+            "word": "pinion"
+        },
+        {
+            "id": "pink",
+            "word": "pink"
+        },
+        {
+            "id": "pintle",
+            "word": "pintle"
+        },
+        {
+            "id": "piston",
+            "word": "piston"
+        },
+        {
+            "id": "piston_engine",
+            "word": "piston engine"
+        },
+        {
+            "id": "piston_ring",
+            "word": "piston ring"
+        },
+        {
+            "id": "piston_rod",
+            "word": "piston rod"
+        },
+        {
+            "id": "pivot",
+            "word": "pivot"
+        },
+        {
+            "id": "pivoted",
+            "word": "pivoted"
+        },
+        {
+            "id": "plan_view",
+            "word": "plan view"
+        },
+        {
+            "id": "pneumatic",
+            "word": "pneumatic"
+        },
+        {
+            "id": "pneumatic_drill",
+            "word": "pneumatic drill"
+        },
+        {
+            "id": "power-driven",
+            "word": "power-driven"
+        },
+        {
+            "id": "powerhead",
+            "word": "powerhead"
+        },
+        {
+            "id": "power_shovel",
+            "word": "power shovel"
+        },
+        {
+            "id": "power_stroke",
+            "word": "power stroke"
+        },
+        {
+            "id": "power_take-off",
+            "word": "power take-off"
+        },
+        {
+            "id": "power_train",
+            "word": "power train"
+        },
+        {
+            "id": "pre-ignition",
+            "word": "pre-ignition"
+        },
+        {
+            "id": "preselector",
+            "word": "preselector"
+        },
+        {
+            "id": "pressure_gauge",
+            "word": "pressure gauge"
+        },
+        {
+            "id": "propeller_shaft",
+            "word": "propeller shaft"
+        },
+        {
+            "id": "pulley",
+            "word": "pulley"
+        },
+        {
+            "id": "pulley_block",
+            "word": "pulley block"
+        },
+        {
+            "id": "pultrude",
+            "word": "pultrude"
+        },
+        {
+            "id": "pump",
+            "word": "pump"
+        },
+        {
+            "id": "punch",
+            "word": "punch"
+        },
+        {
+            "id": "punch_press",
+            "word": "punch press"
+        },
+        {
+            "id": "pushrod",
+            "word": "pushrod"
+        },
+        {
+            "id": "put-put",
+            "word": "put-put"
+        },
+        {
+            "id": "putter",
+            "word": "putter"
+        },
+        {
+            "id": "radial_engine",
+            "word": "radial engine"
+        },
+        {
+            "id": "rag_bolt",
+            "word": "rag bolt"
+        },
+        {
+            "id": "ram_air",
+            "word": "ram air"
+        },
+        {
+            "id": "ratchet",
+            "word": "ratchet"
+        },
+        {
+            "id": "ream",
+            "word": "ream"
+        },
+        {
+            "id": "rebore",
+            "word": "rebore"
+        },
+        {
+            "id": "reciprocating_engine",
+            "word": "reciprocating engine"
+        },
+        {
+            "id": "recondition",
+            "word": "recondition"
+        },
+        {
+            "id": "reconditioned",
+            "word": "reconditioned"
+        },
+        {
+            "id": "recuperator",
+            "word": "recuperator"
+        },
+        {
+            "id": "reduction_gear",
+            "word": "reduction gear"
+        },
+        {
+            "id": "regenerative_braking",
+            "word": "regenerative braking"
+        },
+        {
+            "id": "retrofit",
+            "word": "retrofit"
+        },
+        {
+            "id": "rev",
+            "word": "rev"
+        },
+        {
+            "id": "rim_brake",
+            "word": "rim brake"
+        },
+        {
+            "id": "rocker_arm",
+            "word": "rocker arm"
+        },
+        {
+            "id": "roller",
+            "word": "roller"
+        },
+        {
+            "id": "roller_bearing",
+            "word": "roller bearing"
+        },
+        {
+            "id": "roll_feed",
+            "word": "roll feed"
+        },
+        {
+            "id": "rose_engine",
+            "word": "rose engine"
+        },
+        {
+            "id": "rotary",
+            "word": "rotary"
+        },
+        {
+            "id": "rotary_engine",
+            "word": "rotary engine"
+        },
+        {
+            "id": "rotator",
+            "word": "rotator"
+        },
+        {
+            "id": "running_gear",
+            "word": "running gear"
+        },
+        {
+            "id": "running_repairs",
+            "word": "running repairs"
+        },
+        {
+            "id": "running_rope",
+            "word": "running rope"
+        },
+        {
+            "id": "safety",
+            "word": "safety"
+        },
+        {
+            "id": "scale",
+            "word": "scale"
+        },
+        {
+            "id": "scissor_lift",
+            "word": "scissor lift"
+        },
+        {
+            "id": "scramjet",
+            "word": "scramjet"
+        },
+        {
+            "id": "screw_coupling",
+            "word": "screw coupling"
+        },
+        {
+            "id": "screw_gear",
+            "word": "screw gear"
+        },
+        {
+            "id": "screw_hook",
+            "word": "screw hook"
+        },
+        {
+            "id": "screw_jack",
+            "word": "screw jack"
+        },
+        {
+            "id": "screw_plate",
+            "word": "screw plate"
+        },
+        {
+            "id": "screw_tap",
+            "word": "screw tap"
+        },
+        {
+            "id": "screw_valve",
+            "word": "screw valve"
+        },
+        {
+            "id": "screw_worm",
+            "word": "screw worm"
+        },
+        {
+            "id": "scrub_roller",
+            "word": "scrub roller"
+        },
+        {
+            "id": "self-acting",
+            "word": "self-acting"
+        },
+        {
+            "id": "self-adjusting",
+            "word": "self-adjusting"
+        },
+        {
+            "id": "self-aligning",
+            "word": "self-aligning"
+        },
+        {
+            "id": "self-feeder",
+            "word": "self-feeder"
+        },
+        {
+            "id": "self-motion",
+            "word": "self-motion"
+        },
+        {
+            "id": "self-tapping",
+            "word": "self-tapping"
+        },
+        {
+            "id": "semi-automatic",
+            "word": "semi-automatic"
+        },
+        {
+            "id": "servomechanism",
+            "word": "servomechanism"
+        },
+        {
+            "id": "servomotor",
+            "word": "servomotor"
+        },
+        {
+            "id": "set_screw",
+            "word": "set screw"
+        },
+        {
+            "id": "shaft_drive",
+            "word": "shaft drive"
+        },
+        {
+            "id": "shaft_horsepower",
+            "word": "shaft horsepower"
+        },
+        {
+            "id": "shafting",
+            "word": "shafting"
+        },
+        {
+            "id": "sheave",
+            "word": "sheave"
+        },
+        {
+            "id": "shell_bit",
+            "word": "shell bit"
+        },
+        {
+            "id": "shim",
+            "word": "shim"
+        },
+        {
+            "id": "shock_absorber",
+            "word": "shock absorber"
+        },
+        {
+            "id": "shockie",
+            "word": "shockie"
+        },
+        {
+            "id": "s.h.p.",
+            "word": "s.h.p."
+        },
+        {
+            "id": "side_valve",
+            "word": "side valve"
+        },
+        {
+            "id": "simple_machine",
+            "word": "simple machine"
+        },
+        {
+            "id": "simulator",
+            "word": "simulator"
+        },
+        {
+            "id": "single-acting",
+            "word": "single-acting"
+        },
+        {
+            "id": "sipe",
+            "word": "sipe"
+        },
+        {
+            "id": "siphon",
+            "word": "siphon"
+        },
+        {
+            "id": "siren",
+            "word": "siren"
+        },
+        {
+            "id": "skew_gear",
+            "word": "skew gear"
+        },
+        {
+            "id": "sleeve_valve",
+            "word": "sleeve valve"
+        },
+        {
+            "id": "slide_valve",
+            "word": "slide valve"
+        },
+        {
+            "id": "slideway",
+            "word": "slideway"
+        },
+        {
+            "id": "small_end",
+            "word": "small end"
+        },
+        {
+            "id": "snap-action",
+            "word": "snap-action"
+        },
+        {
+            "id": "snubber",
+            "word": "snubber"
+        },
+        {
+            "id": "soleplate",
+            "word": "soleplate"
+        },
+        {
+            "id": "spare_part",
+            "word": "spare part"
+        },
+        {
+            "id": "spline",
+            "word": "spline"
+        },
+        {
+            "id": "sprag",
+            "word": "sprag"
+        },
+        {
+            "id": "spring_balance",
+            "word": "spring balance"
+        },
+        {
+            "id": "spring_lock",
+            "word": "spring lock"
+        },
+        {
+            "id": "sprocket",
+            "word": "sprocket"
+        },
+        {
+            "id": "sprue",
+            "word": "sprue"
+        },
+        {
+            "id": "spur_wheel",
+            "word": "spur wheel"
+        },
+        {
+            "id": "stationary_engine",
+            "word": "stationary engine"
+        },
+        {
+            "id": "stay_bar",
+            "word": "stay bar"
+        },
+        {
+            "id": "steam_boiler",
+            "word": "steam boiler"
+        },
+        {
+            "id": "steam_engine",
+            "word": "steam engine"
+        },
+        {
+            "id": "steam_gauge",
+            "word": "steam gauge"
+        },
+        {
+            "id": "steam_hammer",
+            "word": "steam hammer"
+        },
+        {
+            "id": "steam_heat",
+            "word": "steam heat"
+        },
+        {
+            "id": "steam_jacket",
+            "word": "steam jacket"
+        },
+        {
+            "id": "steam_power",
+            "word": "steam power"
+        },
+        {
+            "id": "steam-powered",
+            "word": "steam-powered"
+        },
+        {
+            "id": "steamroller",
+            "word": "steamroller"
+        },
+        {
+            "id": "steam_shovel",
+            "word": "steam shovel"
+        },
+        {
+            "id": "steam_turbine",
+            "word": "steam turbine"
+        },
+        {
+            "id": "steelyard",
+            "word": "steelyard"
+        },
+        {
+            "id": "steering",
+            "word": "steering"
+        },
+        {
+            "id": "stepper",
+            "word": "stepper"
+        },
+        {
+            "id": "stereolithography",
+            "word": "stereolithography"
+        },
+        {
+            "id": "stirling_engine",
+            "word": "stirling engine"
+        },
+        {
+            "id": "stirrup_pump",
+            "word": "stirrup pump"
+        },
+        {
+            "id": "stopcock",
+            "word": "stopcock"
+        },
+        {
+            "id": "stop_valve",
+            "word": "stop valve"
+        },
+        {
+            "id": "straight_edge",
+            "word": "straight edge"
+        },
+        {
+            "id": "straight-eight",
+            "word": "straight-eight"
+        },
+        {
+            "id": "straight-six",
+            "word": "straight-six"
+        },
+        {
+            "id": "strain_energy",
+            "word": "strain energy"
+        },
+        {
+            "id": "strain_gauge",
+            "word": "strain gauge"
+        },
+        {
+            "id": "strap",
+            "word": "strap"
+        },
+        {
+            "id": "strap_hinge",
+            "word": "strap hinge"
+        },
+        {
+            "id": "strapping",
+            "word": "strapping"
+        },
+        {
+            "id": "streamline",
+            "word": "streamline"
+        },
+        {
+            "id": "stress",
+            "word": "stress"
+        },
+        {
+            "id": "striker_plate",
+            "word": "striker plate"
+        },
+        {
+            "id": "strip_mill",
+            "word": "strip mill"
+        },
+        {
+            "id": "strut",
+            "word": "strut"
+        },
+        {
+            "id": "stub_axle",
+            "word": "stub axle"
+        },
+        {
+            "id": "stuffing_box",
+            "word": "stuffing box"
+        },
+        {
+            "id": "suction_pump",
+            "word": "suction pump"
+        },
+        {
+            "id": "sun-and-planet_gear",
+            "word": "sun-and-planet gear"
+        },
+        {
+            "id": "supercharge",
+            "word": "supercharge"
+        },
+        {
+            "id": "surge_tank",
+            "word": "surge tank"
+        },
+        {
+            "id": "swarf",
+            "word": "swarf"
+        },
+        {
+            "id": "swash_plate",
+            "word": "swash plate"
+        },
+        {
+            "id": "swept_volume",
+            "word": "swept volume"
+        },
+        {
+            "id": "swg",
+            "word": "swg"
+        },
+        {
+            "id": "swivel",
+            "word": "swivel"
+        },
+        {
+            "id": "sync",
+            "word": "sync"
+        },
+        {
+            "id": "synchromesh",
+            "word": "synchromesh"
+        },
+        {
+            "id": "tackle_block",
+            "word": "tackle block"
+        },
+        {
+            "id": "tackle_fall",
+            "word": "tackle fall"
+        },
+        {
+            "id": "tailstock",
+            "word": "tailstock"
+        },
+        {
+            "id": "tappet",
+            "word": "tappet"
+        },
+        {
+            "id": "technician",
+            "word": "technician"
+        },
+        {
+            "id": "technologist",
+            "word": "technologist"
+        },
+        {
+            "id": "template",
+            "word": "template"
+        },
+        {
+            "id": "tensile_strength",
+            "word": "tensile strength"
+        },
+        {
+            "id": "tenter",
+            "word": "tenter"
+        },
+        {
+            "id": "tenterhook",
+            "word": "tenterhook"
+        },
+        {
+            "id": "test_rig",
+            "word": "test rig"
+        },
+        {
+            "id": "thrust_bearing",
+            "word": "thrust bearing"
+        },
+        {
+            "id": "thrust_block",
+            "word": "thrust block"
+        },
+        {
+            "id": "tide_mill",
+            "word": "tide mill"
+        },
+        {
+            "id": "tie_rod",
+            "word": "tie rod"
+        },
+        {
+            "id": "time_lock",
+            "word": "time lock"
+        },
+        {
+            "id": "timer",
+            "word": "timer"
+        },
+        {
+            "id": "toe-in",
+            "word": "toe-in"
+        },
+        {
+            "id": "toe-out",
+            "word": "toe-out"
+        },
+        {
+            "id": "toolmaker",
+            "word": "toolmaker"
+        },
+        {
+            "id": "tool_post",
+            "word": "tool post"
+        },
+        {
+            "id": "top_dead_centre",
+            "word": "top dead centre"
+        },
+        {
+            "id": "torque",
+            "word": "torque"
+        },
+        {
+            "id": "torque_converter",
+            "word": "torque converter"
+        },
+        {
+            "id": "track_rod",
+            "word": "track rod"
+        },
+        {
+            "id": "traction",
+            "word": "traction"
+        },
+        {
+            "id": "traction_engine",
+            "word": "traction engine"
+        },
+        {
+            "id": "tractive",
+            "word": "tractive"
+        },
+        {
+            "id": "trailing_wheel",
+            "word": "trailing wheel"
+        },
+        {
+            "id": "tranny",
+            "word": "tranny"
+        },
+        {
+            "id": "transaxle",
+            "word": "transaxle"
+        },
+        {
+            "id": "traveller",
+            "word": "traveller"
+        },
+        {
+            "id": "travelling_crane",
+            "word": "travelling crane"
+        },
+        {
+            "id": "treadle",
+            "word": "treadle"
+        },
+        {
+            "id": "triaxial",
+            "word": "triaxial"
+        },
+        {
+            "id": "triblet",
+            "word": "triblet"
+        },
+        {
+            "id": "trip_hammer",
+            "word": "trip hammer"
+        },
+        {
+            "id": "trunnion",
+            "word": "trunnion"
+        },
+        {
+            "id": "ts",
+            "word": "ts"
+        },
+        {
+            "id": "tune-up",
+            "word": "tune-up"
+        },
+        {
+            "id": "turbine",
+            "word": "turbine"
+        },
+        {
+            "id": "turbo-",
+            "word": "turbo-"
+        },
+        {
+            "id": "turbocharge",
+            "word": "turbocharge"
+        },
+        {
+            "id": "turbocharger",
+            "word": "turbocharger"
+        },
+        {
+            "id": "turbo_diesel",
+            "word": "turbo diesel"
+        },
+        {
+            "id": "turbogenerator",
+            "word": "turbogenerator"
+        },
+        {
+            "id": "turboshaft",
+            "word": "turboshaft"
+        },
+        {
+            "id": "turnbuckle",
+            "word": "turnbuckle"
+        },
+        {
+            "id": "turner",
+            "word": "turner"
+        },
+        {
+            "id": "twin-cam",
+            "word": "twin-cam"
+        },
+        {
+            "id": "twin-engined",
+            "word": "twin-engined"
+        },
+        {
+            "id": "twist-grip",
+            "word": "twist-grip"
+        },
+        {
+            "id": "two-stroke",
+            "word": "two-stroke"
+        },
+        {
+            "id": "tyre_gauge",
+            "word": "tyre gauge"
+        },
+        {
+            "id": "unblown",
+            "word": "unblown"
+        },
+        {
+            "id": "under_load",
+            "word": "under load"
+        },
+        {
+            "id": "underpowered",
+            "word": "underpowered"
+        },
+        {
+            "id": "under_steam",
+            "word": "under steam"
+        },
+        {
+            "id": "uniflow",
+            "word": "uniflow"
+        },
+        {
+            "id": "uniplanar",
+            "word": "uniplanar"
+        },
+        {
+            "id": "universality",
+            "word": "universality"
+        },
+        {
+            "id": "universal_joint",
+            "word": "universal joint"
+        },
+        {
+            "id": "unpowered",
+            "word": "unpowered"
+        },
+        {
+            "id": "unsolder",
+            "word": "unsolder"
+        },
+        {
+            "id": "vacuum_brake",
+            "word": "vacuum brake"
+        },
+        {
+            "id": "vacuum_gauge",
+            "word": "vacuum gauge"
+        },
+        {
+            "id": "vacuum_pump",
+            "word": "vacuum pump"
+        },
+        {
+            "id": "valve",
+            "word": "valve"
+        },
+        {
+            "id": "valve_gear",
+            "word": "valve gear"
+        },
+        {
+            "id": "valve_head",
+            "word": "valve head"
+        },
+        {
+            "id": "vane",
+            "word": "vane"
+        },
+        {
+            "id": "velocimeter",
+            "word": "velocimeter"
+        },
+        {
+            "id": "vice",
+            "word": "vice"
+        },
+        {
+            "id": "volumetric_efficiency",
+            "word": "volumetric efficiency"
+        },
+        {
+            "id": "v-six",
+            "word": "v-six"
+        },
+        {
+            "id": "wankel_engine",
+            "word": "wankel engine"
+        },
+        {
+            "id": "warm_up",
+            "word": "warm up"
+        },
+        {
+            "id": "wastegate",
+            "word": "wastegate"
+        },
+        {
+            "id": "water-cooled",
+            "word": "water-cooled"
+        },
+        {
+            "id": "water_power",
+            "word": "water power"
+        },
+        {
+            "id": "water-tube_boiler",
+            "word": "water-tube boiler"
+        },
+        {
+            "id": "waterwheel",
+            "word": "waterwheel"
+        },
+        {
+            "id": "web_wheel",
+            "word": "web wheel"
+        },
+        {
+            "id": "weighing_machine",
+            "word": "weighing machine"
+        },
+        {
+            "id": "weld",
+            "word": "weld"
+        },
+        {
+            "id": "welder",
+            "word": "welder"
+        },
+        {
+            "id": "weldmesh",
+            "word": "weldmesh"
+        },
+        {
+            "id": "wheel",
+            "word": "wheel"
+        },
+        {
+            "id": "wheel_and_axle",
+            "word": "wheel and axle"
+        },
+        {
+            "id": "wheeled",
+            "word": "wheeled"
+        },
+        {
+            "id": "wheelwright",
+            "word": "wheelwright"
+        },
+        {
+            "id": "whipsaw",
+            "word": "whipsaw"
+        },
+        {
+            "id": "whitworth",
+            "word": "whitworth"
+        },
+        {
+            "id": "winch",
+            "word": "winch"
+        },
+        {
+            "id": "wind_down",
+            "word": "wind down"
+        },
+        {
+            "id": "winder",
+            "word": "winder"
+        },
+        {
+            "id": "winding_engine",
+            "word": "winding engine"
+        },
+        {
+            "id": "windlass",
+            "word": "windlass"
+        },
+        {
+            "id": "wind_machine",
+            "word": "wind machine"
+        },
+        {
+            "id": "wing_nut",
+            "word": "wing nut"
+        },
+        {
+            "id": "wire-draw",
+            "word": "wire-draw"
+        },
+        {
+            "id": "wire_wheel",
+            "word": "wire wheel"
+        },
+        {
+            "id": "woodruff_key",
+            "word": "woodruff key"
+        },
+        {
+            "id": "working_drawing",
+            "word": "working drawing"
+        },
+        {
+            "id": "worm_gear",
+            "word": "worm gear"
+        },
+        {
+            "id": "wormwheel",
+            "word": "wormwheel"
+        }
+    ]
+}

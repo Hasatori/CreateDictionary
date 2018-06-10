@@ -1,0 +1,2523 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 628
+    },
+    "results": [
+        {
+            "id": "abdominal_rib",
+            "word": "abdominal rib"
+        },
+        {
+            "id": "acanthodian",
+            "word": "acanthodian"
+        },
+        {
+            "id": "acritarch",
+            "word": "acritarch"
+        },
+        {
+            "id": "actinopterygian",
+            "word": "actinopterygian"
+        },
+        {
+            "id": "adapid",
+            "word": "adapid"
+        },
+        {
+            "id": "aegyptopithecus",
+            "word": "aegyptopithecus"
+        },
+        {
+            "id": "aetosaur",
+            "word": "aetosaur"
+        },
+        {
+            "id": "africanthropus",
+            "word": "africanthropus"
+        },
+        {
+            "id": "afropithecus",
+            "word": "afropithecus"
+        },
+        {
+            "id": "agassiz%2C_louis",
+            "word": "agassiz, louis"
+        },
+        {
+            "id": "alamosaurus",
+            "word": "alamosaurus"
+        },
+        {
+            "id": "alation",
+            "word": "alation"
+        },
+        {
+            "id": "alcyonite",
+            "word": "alcyonite"
+        },
+        {
+            "id": "aller%C3%B8d",
+            "word": "allerød"
+        },
+        {
+            "id": "allosaurus",
+            "word": "allosaurus"
+        },
+        {
+            "id": "alvarez%2C_luis_walter",
+            "word": "alvarez, luis walter"
+        },
+        {
+            "id": "amber",
+            "word": "amber"
+        },
+        {
+            "id": "ambulocetus",
+            "word": "ambulocetus"
+        },
+        {
+            "id": "ammonite",
+            "word": "ammonite"
+        },
+        {
+            "id": "ammonoid",
+            "word": "ammonoid"
+        },
+        {
+            "id": "andrewsarchus",
+            "word": "andrewsarchus"
+        },
+        {
+            "id": "ankylosaur",
+            "word": "ankylosaur"
+        },
+        {
+            "id": "anthracosaur",
+            "word": "anthracosaur"
+        },
+        {
+            "id": "anthracothere",
+            "word": "anthracothere"
+        },
+        {
+            "id": "apatosaurus",
+            "word": "apatosaurus"
+        },
+        {
+            "id": "apeman",
+            "word": "apeman"
+        },
+        {
+            "id": "archaeopteryx",
+            "word": "archaeopteryx"
+        },
+        {
+            "id": "archosaur",
+            "word": "archosaur"
+        },
+        {
+            "id": "ardipithecus",
+            "word": "ardipithecus"
+        },
+        {
+            "id": "arthrodiran",
+            "word": "arthrodiran"
+        },
+        {
+            "id": "arthrodire",
+            "word": "arthrodire"
+        },
+        {
+            "id": "australopith",
+            "word": "australopith"
+        },
+        {
+            "id": "australopithecine",
+            "word": "australopithecine"
+        },
+        {
+            "id": "australopithecus",
+            "word": "australopithecus"
+        },
+        {
+            "id": "bakker%2C_robert_t.",
+            "word": "bakker, robert t."
+        },
+        {
+            "id": "basilosaurus",
+            "word": "basilosaurus"
+        },
+        {
+            "id": "belemnite",
+            "word": "belemnite"
+        },
+        {
+            "id": "biochronology",
+            "word": "biochronology"
+        },
+        {
+            "id": "biogenicity",
+            "word": "biogenicity"
+        },
+        {
+            "id": "biogenous",
+            "word": "biogenous"
+        },
+        {
+            "id": "bioturbational",
+            "word": "bioturbational"
+        },
+        {
+            "id": "body_chamber",
+            "word": "body chamber"
+        },
+        {
+            "id": "body_whorl",
+            "word": "body whorl"
+        },
+        {
+            "id": "boxgrove_man",
+            "word": "boxgrove man"
+        },
+        {
+            "id": "brachiopod",
+            "word": "brachiopod"
+        },
+        {
+            "id": "brachiopoda",
+            "word": "brachiopoda"
+        },
+        {
+            "id": "brachiosaurid",
+            "word": "brachiosaurid"
+        },
+        {
+            "id": "brachiosaurus",
+            "word": "brachiosaurus"
+        },
+        {
+            "id": "brontothere",
+            "word": "brontothere"
+        },
+        {
+            "id": "buckland%2C_william",
+            "word": "buckland, william"
+        },
+        {
+            "id": "buffon%2C_comte_de",
+            "word": "buffon, comte de"
+        },
+        {
+            "id": "burgess_shale",
+            "word": "burgess shale"
+        },
+        {
+            "id": "calamites",
+            "word": "calamites"
+        },
+        {
+            "id": "calamitic",
+            "word": "calamitic"
+        },
+        {
+            "id": "cambrian_explosion",
+            "word": "cambrian explosion"
+        },
+        {
+            "id": "camerate",
+            "word": "camerate"
+        },
+        {
+            "id": "cameration",
+            "word": "cameration"
+        },
+        {
+            "id": "carboniferous",
+            "word": "carboniferous"
+        },
+        {
+            "id": "carnosaur",
+            "word": "carnosaur"
+        },
+        {
+            "id": "cave_bear",
+            "word": "cave bear"
+        },
+        {
+            "id": "celluliferous",
+            "word": "celluliferous"
+        },
+        {
+            "id": "cenozoic",
+            "word": "cenozoic"
+        },
+        {
+            "id": "ceratite",
+            "word": "ceratite"
+        },
+        {
+            "id": "ceratopsian",
+            "word": "ceratopsian"
+        },
+        {
+            "id": "chalicothere",
+            "word": "chalicothere"
+        },
+        {
+            "id": "chamber_cast",
+            "word": "chamber cast"
+        },
+        {
+            "id": "climactichnite",
+            "word": "climactichnite"
+        },
+        {
+            "id": "coelurosaur",
+            "word": "coelurosaur"
+        },
+        {
+            "id": "condylarth",
+            "word": "condylarth"
+        },
+        {
+            "id": "conodont",
+            "word": "conodont"
+        },
+        {
+            "id": "coprolite",
+            "word": "coprolite"
+        },
+        {
+            "id": "corallite",
+            "word": "corallite"
+        },
+        {
+            "id": "costellate",
+            "word": "costellate"
+        },
+        {
+            "id": "cotylosaur",
+            "word": "cotylosaur"
+        },
+        {
+            "id": "cotylosaurian",
+            "word": "cotylosaurian"
+        },
+        {
+            "id": "creodont",
+            "word": "creodont"
+        },
+        {
+            "id": "cretaceous",
+            "word": "cretaceous"
+        },
+        {
+            "id": "cretaceous%E2%80%93tertiary_boundary",
+            "word": "cretaceous–tertiary boundary"
+        },
+        {
+            "id": "cro-magnon",
+            "word": "cro-magnon"
+        },
+        {
+            "id": "cro-magnon_man",
+            "word": "cro-magnon man"
+        },
+        {
+            "id": "cromerian",
+            "word": "cromerian"
+        },
+        {
+            "id": "cryptodiran",
+            "word": "cryptodiran"
+        },
+        {
+            "id": "cryptodire",
+            "word": "cryptodire"
+        },
+        {
+            "id": "cryptodont",
+            "word": "cryptodont"
+        },
+        {
+            "id": "cuvier%2C_georges",
+            "word": "cuvier, georges"
+        },
+        {
+            "id": "cynodont",
+            "word": "cynodont"
+        },
+        {
+            "id": "dawn_man",
+            "word": "dawn man"
+        },
+        {
+            "id": "death_assemblage",
+            "word": "death assemblage"
+        },
+        {
+            "id": "deinonychosaur",
+            "word": "deinonychosaur"
+        },
+        {
+            "id": "deinonychus",
+            "word": "deinonychus"
+        },
+        {
+            "id": "deinotherium",
+            "word": "deinotherium"
+        },
+        {
+            "id": "dendroid",
+            "word": "dendroid"
+        },
+        {
+            "id": "denisovan",
+            "word": "denisovan"
+        },
+        {
+            "id": "derived_fossil",
+            "word": "derived fossil"
+        },
+        {
+            "id": "devensian",
+            "word": "devensian"
+        },
+        {
+            "id": "dictyoxylon",
+            "word": "dictyoxylon"
+        },
+        {
+            "id": "dicynodont",
+            "word": "dicynodont"
+        },
+        {
+            "id": "dicynodontian",
+            "word": "dicynodontian"
+        },
+        {
+            "id": "dilophosaurus",
+            "word": "dilophosaurus"
+        },
+        {
+            "id": "dimetrodon",
+            "word": "dimetrodon"
+        },
+        {
+            "id": "dino",
+            "word": "dino"
+        },
+        {
+            "id": "dinosaur",
+            "word": "dinosaur"
+        },
+        {
+            "id": "diplodocus",
+            "word": "diplodocus"
+        },
+        {
+            "id": "dire_wolf",
+            "word": "dire wolf"
+        },
+        {
+            "id": "donau",
+            "word": "donau"
+        },
+        {
+            "id": "dromaeosaurid",
+            "word": "dromaeosaurid"
+        },
+        {
+            "id": "dryopithecoid",
+            "word": "dryopithecoid"
+        },
+        {
+            "id": "dryopithecus",
+            "word": "dryopithecus"
+        },
+        {
+            "id": "duckbill",
+            "word": "duckbill"
+        },
+        {
+            "id": "ecozone",
+            "word": "ecozone"
+        },
+        {
+            "id": "edaphosaurus",
+            "word": "edaphosaurus"
+        },
+        {
+            "id": "ediacara",
+            "word": "ediacara"
+        },
+        {
+            "id": "ediacaran",
+            "word": "ediacaran"
+        },
+        {
+            "id": "ediacarian",
+            "word": "ediacarian"
+        },
+        {
+            "id": "eem",
+            "word": "eem"
+        },
+        {
+            "id": "eemian",
+            "word": "eemian"
+        },
+        {
+            "id": "elasmosaur",
+            "word": "elasmosaur"
+        },
+        {
+            "id": "elephant_bird",
+            "word": "elephant bird"
+        },
+        {
+            "id": "elster",
+            "word": "elster"
+        },
+        {
+            "id": "entelodont",
+            "word": "entelodont"
+        },
+        {
+            "id": "eoanthropus",
+            "word": "eoanthropus"
+        },
+        {
+            "id": "eocene",
+            "word": "eocene"
+        },
+        {
+            "id": "euryapsid",
+            "word": "euryapsid"
+        },
+        {
+            "id": "eurypterid",
+            "word": "eurypterid"
+        },
+        {
+            "id": "fabrosaurid",
+            "word": "fabrosaurid"
+        },
+        {
+            "id": "fabrosaurus",
+            "word": "fabrosaurus"
+        },
+        {
+            "id": "flandrian",
+            "word": "flandrian"
+        },
+        {
+            "id": "florisbad",
+            "word": "florisbad"
+        },
+        {
+            "id": "foram",
+            "word": "foram"
+        },
+        {
+            "id": "form_genus",
+            "word": "form genus"
+        },
+        {
+            "id": "fossette",
+            "word": "fossette"
+        },
+        {
+            "id": "fossil",
+            "word": "fossil"
+        },
+        {
+            "id": "fossilize",
+            "word": "fossilize"
+        },
+        {
+            "id": "fossil_record",
+            "word": "fossil record"
+        },
+        {
+            "id": "gallimimus",
+            "word": "gallimimus"
+        },
+        {
+            "id": "gastornis",
+            "word": "gastornis"
+        },
+        {
+            "id": "g%C3%BCnz",
+            "word": "günz"
+        },
+        {
+            "id": "geodized",
+            "word": "geodized"
+        },
+        {
+            "id": "giganotosaurus",
+            "word": "giganotosaurus"
+        },
+        {
+            "id": "gigantopithecus",
+            "word": "gigantopithecus"
+        },
+        {
+            "id": "globigerine",
+            "word": "globigerine"
+        },
+        {
+            "id": "globigerinid",
+            "word": "globigerinid"
+        },
+        {
+            "id": "glyptodont",
+            "word": "glyptodont"
+        },
+        {
+            "id": "goniatite",
+            "word": "goniatite"
+        },
+        {
+            "id": "gould%2C_stephen_jay",
+            "word": "gould, stephen jay"
+        },
+        {
+            "id": "graptolite",
+            "word": "graptolite"
+        },
+        {
+            "id": "ground_sloth",
+            "word": "ground sloth"
+        },
+        {
+            "id": "hadrosaur",
+            "word": "hadrosaur"
+        },
+        {
+            "id": "hadrosaurid",
+            "word": "hadrosaurid"
+        },
+        {
+            "id": "hadrosaurus",
+            "word": "hadrosaurus"
+        },
+        {
+            "id": "hercynian",
+            "word": "hercynian"
+        },
+        {
+            "id": "heterodontosaurid",
+            "word": "heterodontosaurid"
+        },
+        {
+            "id": "histometabasis",
+            "word": "histometabasis"
+        },
+        {
+            "id": "holocene",
+            "word": "holocene"
+        },
+        {
+            "id": "holsteinian",
+            "word": "holsteinian"
+        },
+        {
+            "id": "hominid",
+            "word": "hominid"
+        },
+        {
+            "id": "hominin",
+            "word": "hominin"
+        },
+        {
+            "id": "hominine",
+            "word": "hominine"
+        },
+        {
+            "id": "hominoid",
+            "word": "hominoid"
+        },
+        {
+            "id": "homo_erectus",
+            "word": "homo erectus"
+        },
+        {
+            "id": "homo_habilis",
+            "word": "homo habilis"
+        },
+        {
+            "id": "homo_sapiens",
+            "word": "homo sapiens"
+        },
+        {
+            "id": "honeycomb_coral",
+            "word": "honeycomb coral"
+        },
+        {
+            "id": "hoxnian",
+            "word": "hoxnian"
+        },
+        {
+            "id": "hyaenodon",
+            "word": "hyaenodon"
+        },
+        {
+            "id": "hypsilophodont",
+            "word": "hypsilophodont"
+        },
+        {
+            "id": "hyracotherium",
+            "word": "hyracotherium"
+        },
+        {
+            "id": "ichthyolite",
+            "word": "ichthyolite"
+        },
+        {
+            "id": "ichthyornis",
+            "word": "ichthyornis"
+        },
+        {
+            "id": "ichthyosaur",
+            "word": "ichthyosaur"
+        },
+        {
+            "id": "iguanodon",
+            "word": "iguanodon"
+        },
+        {
+            "id": "iguanodontid",
+            "word": "iguanodontid"
+        },
+        {
+            "id": "illinoian",
+            "word": "illinoian"
+        },
+        {
+            "id": "indricothere",
+            "word": "indricothere"
+        },
+        {
+            "id": "internarial",
+            "word": "internarial"
+        },
+        {
+            "id": "ipswichian",
+            "word": "ipswichian"
+        },
+        {
+            "id": "irish_elk",
+            "word": "irish elk"
+        },
+        {
+            "id": "java_man",
+            "word": "java man"
+        },
+        {
+            "id": "jurassic",
+            "word": "jurassic"
+        },
+        {
+            "id": "kanam",
+            "word": "kanam"
+        },
+        {
+            "id": "kenyanthropus",
+            "word": "kenyanthropus"
+        },
+        {
+            "id": "kenyapithecus",
+            "word": "kenyapithecus"
+        },
+        {
+            "id": "laetoli",
+            "word": "laetoli"
+        },
+        {
+            "id": "lambeosaur",
+            "word": "lambeosaur"
+        },
+        {
+            "id": "lambeosaurine",
+            "word": "lambeosaurine"
+        },
+        {
+            "id": "lambeosaurus",
+            "word": "lambeosaurus"
+        },
+        {
+            "id": "lepospondyl",
+            "word": "lepospondyl"
+        },
+        {
+            "id": "lewisian",
+            "word": "lewisian"
+        },
+        {
+            "id": "lias",
+            "word": "lias"
+        },
+        {
+            "id": "life_assemblage",
+            "word": "life assemblage"
+        },
+        {
+            "id": "-lite",
+            "word": "-lite"
+        },
+        {
+            "id": "lithographic_limestone",
+            "word": "lithographic limestone"
+        },
+        {
+            "id": "litoptern",
+            "word": "litoptern"
+        },
+        {
+            "id": "lobe-finned_fish",
+            "word": "lobe-finned fish"
+        },
+        {
+            "id": "longicone",
+            "word": "longicone"
+        },
+        {
+            "id": "longirostrate",
+            "word": "longirostrate"
+        },
+        {
+            "id": "longirostrine",
+            "word": "longirostrine"
+        },
+        {
+            "id": "lucy",
+            "word": "lucy"
+        },
+        {
+            "id": "machairodont",
+            "word": "machairodont"
+        },
+        {
+            "id": "machairodus",
+            "word": "machairodus"
+        },
+        {
+            "id": "macrauchene",
+            "word": "macrauchene"
+        },
+        {
+            "id": "macrauchenia",
+            "word": "macrauchenia"
+        },
+        {
+            "id": "macrochoanite",
+            "word": "macrochoanite"
+        },
+        {
+            "id": "macrochoanitic",
+            "word": "macrochoanitic"
+        },
+        {
+            "id": "macrofossil",
+            "word": "macrofossil"
+        },
+        {
+            "id": "macropleural",
+            "word": "macropleural"
+        },
+        {
+            "id": "macrotherium",
+            "word": "macrotherium"
+        },
+        {
+            "id": "maiasaur",
+            "word": "maiasaur"
+        },
+        {
+            "id": "maiasaura",
+            "word": "maiasaura"
+        },
+        {
+            "id": "mamenchisaur",
+            "word": "mamenchisaur"
+        },
+        {
+            "id": "mamenchisaurus",
+            "word": "mamenchisaurus"
+        },
+        {
+            "id": "mammoth",
+            "word": "mammoth"
+        },
+        {
+            "id": "mantell%2C_gideon_algernon",
+            "word": "mantell, gideon algernon"
+        },
+        {
+            "id": "mastodon",
+            "word": "mastodon"
+        },
+        {
+            "id": "mastodont",
+            "word": "mastodont"
+        },
+        {
+            "id": "megaceros",
+            "word": "megaceros"
+        },
+        {
+            "id": "megafossil",
+            "word": "megafossil"
+        },
+        {
+            "id": "megalonychid",
+            "word": "megalonychid"
+        },
+        {
+            "id": "megalonyx",
+            "word": "megalonyx"
+        },
+        {
+            "id": "megalosaurid",
+            "word": "megalosaurid"
+        },
+        {
+            "id": "megalosaurus",
+            "word": "megalosaurus"
+        },
+        {
+            "id": "megathere",
+            "word": "megathere"
+        },
+        {
+            "id": "megatherioid",
+            "word": "megatherioid"
+        },
+        {
+            "id": "megatherium",
+            "word": "megatherium"
+        },
+        {
+            "id": "melanorosaurid",
+            "word": "melanorosaurid"
+        },
+        {
+            "id": "menapian",
+            "word": "menapian"
+        },
+        {
+            "id": "mesohippus",
+            "word": "mesohippus"
+        },
+        {
+            "id": "mesosaur",
+            "word": "mesosaur"
+        },
+        {
+            "id": "mesostyle",
+            "word": "mesostyle"
+        },
+        {
+            "id": "mesosuchian",
+            "word": "mesosuchian"
+        },
+        {
+            "id": "mesotheca",
+            "word": "mesotheca"
+        },
+        {
+            "id": "mesotherium",
+            "word": "mesotherium"
+        },
+        {
+            "id": "mesozoic",
+            "word": "mesozoic"
+        },
+        {
+            "id": "miacid",
+            "word": "miacid"
+        },
+        {
+            "id": "microfossil",
+            "word": "microfossil"
+        },
+        {
+            "id": "micromorph",
+            "word": "micromorph"
+        },
+        {
+            "id": "micromorphic",
+            "word": "micromorphic"
+        },
+        {
+            "id": "microsaur",
+            "word": "microsaur"
+        },
+        {
+            "id": "microsaurian",
+            "word": "microsaurian"
+        },
+        {
+            "id": "miliolite",
+            "word": "miliolite"
+        },
+        {
+            "id": "miliolite_limestone",
+            "word": "miliolite limestone"
+        },
+        {
+            "id": "miliolitic",
+            "word": "miliolitic"
+        },
+        {
+            "id": "mindel",
+            "word": "mindel"
+        },
+        {
+            "id": "miocene",
+            "word": "miocene"
+        },
+        {
+            "id": "miohippus",
+            "word": "miohippus"
+        },
+        {
+            "id": "miospore",
+            "word": "miospore"
+        },
+        {
+            "id": "missing_link",
+            "word": "missing link"
+        },
+        {
+            "id": "missourium",
+            "word": "missourium"
+        },
+        {
+            "id": "modiolid",
+            "word": "modiolid"
+        },
+        {
+            "id": "moeritherium",
+            "word": "moeritherium"
+        },
+        {
+            "id": "monaxonic",
+            "word": "monaxonic"
+        },
+        {
+            "id": "monocolpate",
+            "word": "monocolpate"
+        },
+        {
+            "id": "monograptid",
+            "word": "monograptid"
+        },
+        {
+            "id": "monopleurid",
+            "word": "monopleurid"
+        },
+        {
+            "id": "monoporate",
+            "word": "monoporate"
+        },
+        {
+            "id": "monosulcate",
+            "word": "monosulcate"
+        },
+        {
+            "id": "monticuliporoid",
+            "word": "monticuliporoid"
+        },
+        {
+            "id": "mosasaur",
+            "word": "mosasaur"
+        },
+        {
+            "id": "mosasaurid",
+            "word": "mosasaurid"
+        },
+        {
+            "id": "mosasauroid",
+            "word": "mosasauroid"
+        },
+        {
+            "id": "mosasaurus",
+            "word": "mosasaurus"
+        },
+        {
+            "id": "multituberculate",
+            "word": "multituberculate"
+        },
+        {
+            "id": "muscites",
+            "word": "muscites"
+        },
+        {
+            "id": "muscle_scar",
+            "word": "muscle scar"
+        },
+        {
+            "id": "muttaburrasaurus",
+            "word": "muttaburrasaurus"
+        },
+        {
+            "id": "mylodon",
+            "word": "mylodon"
+        },
+        {
+            "id": "mylodont",
+            "word": "mylodont"
+        },
+        {
+            "id": "mylodontid",
+            "word": "mylodontid"
+        },
+        {
+            "id": "nannofossil",
+            "word": "nannofossil"
+        },
+        {
+            "id": "nariokotome",
+            "word": "nariokotome"
+        },
+        {
+            "id": "neanderthal",
+            "word": "neanderthal"
+        },
+        {
+            "id": "nema",
+            "word": "nema"
+        },
+        {
+            "id": "nematophorous",
+            "word": "nematophorous"
+        },
+        {
+            "id": "neogene",
+            "word": "neogene"
+        },
+        {
+            "id": "neognathous",
+            "word": "neognathous"
+        },
+        {
+            "id": "neurocentral",
+            "word": "neurocentral"
+        },
+        {
+            "id": "nimravid",
+            "word": "nimravid"
+        },
+        {
+            "id": "nodosarine",
+            "word": "nodosarine"
+        },
+        {
+            "id": "nodosaur",
+            "word": "nodosaur"
+        },
+        {
+            "id": "nodosaurid",
+            "word": "nodosaurid"
+        },
+        {
+            "id": "nodosaurus",
+            "word": "nodosaurus"
+        },
+        {
+            "id": "non-avian",
+            "word": "non-avian"
+        },
+        {
+            "id": "notalian",
+            "word": "notalian"
+        },
+        {
+            "id": "nothosaur",
+            "word": "nothosaur"
+        },
+        {
+            "id": "nothosaurus",
+            "word": "nothosaurus"
+        },
+        {
+            "id": "notothere",
+            "word": "notothere"
+        },
+        {
+            "id": "notoungulate",
+            "word": "notoungulate"
+        },
+        {
+            "id": "nuculoid",
+            "word": "nuculoid"
+        },
+        {
+            "id": "nummulite",
+            "word": "nummulite"
+        },
+        {
+            "id": "nummulitid",
+            "word": "nummulitid"
+        },
+        {
+            "id": "nutcracker_man",
+            "word": "nutcracker man"
+        },
+        {
+            "id": "olduvai_gorge",
+            "word": "olduvai gorge"
+        },
+        {
+            "id": "olenellid",
+            "word": "olenellid"
+        },
+        {
+            "id": "oligocene",
+            "word": "oligocene"
+        },
+        {
+            "id": "omomyid",
+            "word": "omomyid"
+        },
+        {
+            "id": "omomyine",
+            "word": "omomyine"
+        },
+        {
+            "id": "opabinia",
+            "word": "opabinia"
+        },
+        {
+            "id": "orbitoid",
+            "word": "orbitoid"
+        },
+        {
+            "id": "orbitoidal",
+            "word": "orbitoidal"
+        },
+        {
+            "id": "orbitoline",
+            "word": "orbitoline"
+        },
+        {
+            "id": "orbitolinid",
+            "word": "orbitolinid"
+        },
+        {
+            "id": "ordovician",
+            "word": "ordovician"
+        },
+        {
+            "id": "oreodon",
+            "word": "oreodon"
+        },
+        {
+            "id": "oreodont",
+            "word": "oreodont"
+        },
+        {
+            "id": "oreopithecus",
+            "word": "oreopithecus"
+        },
+        {
+            "id": "ornithichnite",
+            "word": "ornithichnite"
+        },
+        {
+            "id": "ornithischian",
+            "word": "ornithischian"
+        },
+        {
+            "id": "ornithoid",
+            "word": "ornithoid"
+        },
+        {
+            "id": "ornitholestes",
+            "word": "ornitholestes"
+        },
+        {
+            "id": "ornithomimid",
+            "word": "ornithomimid"
+        },
+        {
+            "id": "ornithomimus",
+            "word": "ornithomimus"
+        },
+        {
+            "id": "ornithopod",
+            "word": "ornithopod"
+        },
+        {
+            "id": "ornithurine",
+            "word": "ornithurine"
+        },
+        {
+            "id": "orohippus",
+            "word": "orohippus"
+        },
+        {
+            "id": "orrorin",
+            "word": "orrorin"
+        },
+        {
+            "id": "orthid",
+            "word": "orthid"
+        },
+        {
+            "id": "orthide",
+            "word": "orthide"
+        },
+        {
+            "id": "orthoceras",
+            "word": "orthoceras"
+        },
+        {
+            "id": "orthoceratite",
+            "word": "orthoceratite"
+        },
+        {
+            "id": "orthochoanite",
+            "word": "orthochoanite"
+        },
+        {
+            "id": "orthochoanitic",
+            "word": "orthochoanitic"
+        },
+        {
+            "id": "orthocone",
+            "word": "orthocone"
+        },
+        {
+            "id": "osteolepiform",
+            "word": "osteolepiform"
+        },
+        {
+            "id": "ostracoderm",
+            "word": "ostracoderm"
+        },
+        {
+            "id": "ostrich_dinosaur",
+            "word": "ostrich dinosaur"
+        },
+        {
+            "id": "ovibovine",
+            "word": "ovibovine"
+        },
+        {
+            "id": "oviraptor",
+            "word": "oviraptor"
+        },
+        {
+            "id": "oviraptorid",
+            "word": "oviraptorid"
+        },
+        {
+            "id": "oviraptorosaur",
+            "word": "oviraptorosaur"
+        },
+        {
+            "id": "owen%2C_sir_richard",
+            "word": "owen, sir richard"
+        },
+        {
+            "id": "oxfordian",
+            "word": "oxfordian"
+        },
+        {
+            "id": "pachycephalosaur",
+            "word": "pachycephalosaur"
+        },
+        {
+            "id": "pachycephalosaurid",
+            "word": "pachycephalosaurid"
+        },
+        {
+            "id": "pachycephalosaurus",
+            "word": "pachycephalosaurus"
+        },
+        {
+            "id": "pachydactylous",
+            "word": "pachydactylous"
+        },
+        {
+            "id": "pachydont",
+            "word": "pachydont"
+        },
+        {
+            "id": "pachyodont",
+            "word": "pachyodont"
+        },
+        {
+            "id": "palaechinoid",
+            "word": "palaechinoid"
+        },
+        {
+            "id": "palaeo-",
+            "word": "palaeo-"
+        },
+        {
+            "id": "palaeoanthropology",
+            "word": "palaeoanthropology"
+        },
+        {
+            "id": "palaeobiology",
+            "word": "palaeobiology"
+        },
+        {
+            "id": "palaeobotany",
+            "word": "palaeobotany"
+        },
+        {
+            "id": "palaeocene",
+            "word": "palaeocene"
+        },
+        {
+            "id": "palaeocommunity",
+            "word": "palaeocommunity"
+        },
+        {
+            "id": "palaeoecology",
+            "word": "palaeoecology"
+        },
+        {
+            "id": "palaeoenvironment",
+            "word": "palaeoenvironment"
+        },
+        {
+            "id": "palaeogene",
+            "word": "palaeogene"
+        },
+        {
+            "id": "palaeognathous",
+            "word": "palaeognathous"
+        },
+        {
+            "id": "palaeoherpetologist",
+            "word": "palaeoherpetologist"
+        },
+        {
+            "id": "palaeoherpetology",
+            "word": "palaeoherpetology"
+        },
+        {
+            "id": "palaeoichnologic",
+            "word": "palaeoichnologic"
+        },
+        {
+            "id": "palaeoichnological",
+            "word": "palaeoichnological"
+        },
+        {
+            "id": "palaeoichnology",
+            "word": "palaeoichnology"
+        },
+        {
+            "id": "palaeoichthyological",
+            "word": "palaeoichthyological"
+        },
+        {
+            "id": "palaeoichthyologist",
+            "word": "palaeoichthyologist"
+        },
+        {
+            "id": "palaeolatitudinal",
+            "word": "palaeolatitudinal"
+        },
+        {
+            "id": "palaeoniscid",
+            "word": "palaeoniscid"
+        },
+        {
+            "id": "palaeoniscoid",
+            "word": "palaeoniscoid"
+        },
+        {
+            "id": "palaeontology",
+            "word": "palaeontology"
+        },
+        {
+            "id": "palaeophis",
+            "word": "palaeophis"
+        },
+        {
+            "id": "palaeophytic",
+            "word": "palaeophytic"
+        },
+        {
+            "id": "palaeornithological",
+            "word": "palaeornithological"
+        },
+        {
+            "id": "palaeornithology",
+            "word": "palaeornithology"
+        },
+        {
+            "id": "palaeospecies",
+            "word": "palaeospecies"
+        },
+        {
+            "id": "palaeothere",
+            "word": "palaeothere"
+        },
+        {
+            "id": "palaeotherium",
+            "word": "palaeotherium"
+        },
+        {
+            "id": "palaeozoic",
+            "word": "palaeozoic"
+        },
+        {
+            "id": "palar",
+            "word": "palar"
+        },
+        {
+            "id": "palichnology",
+            "word": "palichnology"
+        },
+        {
+            "id": "paliform",
+            "word": "paliform"
+        },
+        {
+            "id": "palynomorph",
+            "word": "palynomorph"
+        },
+        {
+            "id": "pampean",
+            "word": "pampean"
+        },
+        {
+            "id": "pantothere",
+            "word": "pantothere"
+        },
+        {
+            "id": "pantotherian",
+            "word": "pantotherian"
+        },
+        {
+            "id": "paradoxidian",
+            "word": "paradoxidian"
+        },
+        {
+            "id": "paranthropus",
+            "word": "paranthropus"
+        },
+        {
+            "id": "parasaurolophus",
+            "word": "parasaurolophus"
+        },
+        {
+            "id": "pareiasaur",
+            "word": "pareiasaur"
+        },
+        {
+            "id": "pareiasaurian",
+            "word": "pareiasaurian"
+        },
+        {
+            "id": "pareiasaurus",
+            "word": "pareiasaurus"
+        },
+        {
+            "id": "pectinid",
+            "word": "pectinid"
+        },
+        {
+            "id": "pectinirhomb",
+            "word": "pectinirhomb"
+        },
+        {
+            "id": "peking_man",
+            "word": "peking man"
+        },
+        {
+            "id": "pelmatozoan",
+            "word": "pelmatozoan"
+        },
+        {
+            "id": "pelmatozoic",
+            "word": "pelmatozoic"
+        },
+        {
+            "id": "pelycosaur",
+            "word": "pelycosaur"
+        },
+        {
+            "id": "pelycosaurian",
+            "word": "pelycosaurian"
+        },
+        {
+            "id": "pentacrinite",
+            "word": "pentacrinite"
+        },
+        {
+            "id": "pentalophodont",
+            "word": "pentalophodont"
+        },
+        {
+            "id": "pentameroid",
+            "word": "pentameroid"
+        },
+        {
+            "id": "pentremite",
+            "word": "pentremite"
+        },
+        {
+            "id": "permian",
+            "word": "permian"
+        },
+        {
+            "id": "permineralize",
+            "word": "permineralize"
+        },
+        {
+            "id": "permo%E2%80%93triassic",
+            "word": "permo–triassic"
+        },
+        {
+            "id": "petaliform",
+            "word": "petaliform"
+        },
+        {
+            "id": "petalodont",
+            "word": "petalodont"
+        },
+        {
+            "id": "phacopid",
+            "word": "phacopid"
+        },
+        {
+            "id": "phanerozoic",
+            "word": "phanerozoic"
+        },
+        {
+            "id": "phialine",
+            "word": "phialine"
+        },
+        {
+            "id": "phytosaur",
+            "word": "phytosaur"
+        },
+        {
+            "id": "phytosaurian",
+            "word": "phytosaurian"
+        },
+        {
+            "id": "piltdown_man",
+            "word": "piltdown man"
+        },
+        {
+            "id": "pithecanthropus",
+            "word": "pithecanthropus"
+        },
+        {
+            "id": "placoderm",
+            "word": "placoderm"
+        },
+        {
+            "id": "placodont",
+            "word": "placodont"
+        },
+        {
+            "id": "planorbiform",
+            "word": "planorbiform"
+        },
+        {
+            "id": "planorboid",
+            "word": "planorboid"
+        },
+        {
+            "id": "planulate",
+            "word": "planulate"
+        },
+        {
+            "id": "plateosaur",
+            "word": "plateosaur"
+        },
+        {
+            "id": "plateosaurus",
+            "word": "plateosaurus"
+        },
+        {
+            "id": "platycrinid",
+            "word": "platycrinid"
+        },
+        {
+            "id": "platycrinoid",
+            "word": "platycrinoid"
+        },
+        {
+            "id": "platysomid",
+            "word": "platysomid"
+        },
+        {
+            "id": "pleistocene",
+            "word": "pleistocene"
+        },
+        {
+            "id": "plesiadapid",
+            "word": "plesiadapid"
+        },
+        {
+            "id": "plesiadapiform",
+            "word": "plesiadapiform"
+        },
+        {
+            "id": "plesiadapoid",
+            "word": "plesiadapoid"
+        },
+        {
+            "id": "plesianthropus",
+            "word": "plesianthropus"
+        },
+        {
+            "id": "plesiosaur",
+            "word": "plesiosaur"
+        },
+        {
+            "id": "plesiosaurian",
+            "word": "plesiosaurian"
+        },
+        {
+            "id": "plesiosauroid",
+            "word": "plesiosauroid"
+        },
+        {
+            "id": "plesiosaurus",
+            "word": "plesiosaurus"
+        },
+        {
+            "id": "pleuracanth",
+            "word": "pleuracanth"
+        },
+        {
+            "id": "pleurocentral",
+            "word": "pleurocentral"
+        },
+        {
+            "id": "pleurocentrum",
+            "word": "pleurocentrum"
+        },
+        {
+            "id": "pleurodiran",
+            "word": "pleurodiran"
+        },
+        {
+            "id": "pleurodire",
+            "word": "pleurodire"
+        },
+        {
+            "id": "pleurotomariid",
+            "word": "pleurotomariid"
+        },
+        {
+            "id": "pleurotomarioid",
+            "word": "pleurotomarioid"
+        },
+        {
+            "id": "plicidentine",
+            "word": "plicidentine"
+        },
+        {
+            "id": "pliocene",
+            "word": "pliocene"
+        },
+        {
+            "id": "plio%E2%80%93pleistocene",
+            "word": "plio–pleistocene"
+        },
+        {
+            "id": "pliohippus",
+            "word": "pliohippus"
+        },
+        {
+            "id": "pliolophus",
+            "word": "pliolophus"
+        },
+        {
+            "id": "pliopithecus",
+            "word": "pliopithecus"
+        },
+        {
+            "id": "pliosaur",
+            "word": "pliosaur"
+        },
+        {
+            "id": "pliosaurian",
+            "word": "pliosaurian"
+        },
+        {
+            "id": "pliosaurus",
+            "word": "pliosaurus"
+        },
+        {
+            "id": "pneu",
+            "word": "pneu"
+        },
+        {
+            "id": "polacanthus",
+            "word": "polacanthus"
+        },
+        {
+            "id": "pore_rhomb",
+            "word": "pore rhomb"
+        },
+        {
+            "id": "porite",
+            "word": "porite"
+        },
+        {
+            "id": "porites",
+            "word": "porites"
+        },
+        {
+            "id": "porpita",
+            "word": "porpita"
+        },
+        {
+            "id": "porpitid",
+            "word": "porpitid"
+        },
+        {
+            "id": "porpitoid",
+            "word": "porpitoid"
+        },
+        {
+            "id": "postnasal",
+            "word": "postnasal"
+        },
+        {
+            "id": "postpubic",
+            "word": "postpubic"
+        },
+        {
+            "id": "postpubis",
+            "word": "postpubis"
+        },
+        {
+            "id": "preboreal",
+            "word": "preboreal"
+        },
+        {
+            "id": "precambrian",
+            "word": "precambrian"
+        },
+        {
+            "id": "predentate",
+            "word": "predentate"
+        },
+        {
+            "id": "premedian",
+            "word": "premedian"
+        },
+        {
+            "id": "prenasal",
+            "word": "prenasal"
+        },
+        {
+            "id": "prepubis",
+            "word": "prepubis"
+        },
+        {
+            "id": "proavian",
+            "word": "proavian"
+        },
+        {
+            "id": "proavis",
+            "word": "proavis"
+        },
+        {
+            "id": "procline",
+            "word": "procline"
+        },
+        {
+            "id": "procolophonid",
+            "word": "procolophonid"
+        },
+        {
+            "id": "productid",
+            "word": "productid"
+        },
+        {
+            "id": "proganosaur",
+            "word": "proganosaur"
+        },
+        {
+            "id": "promammalian",
+            "word": "promammalian"
+        },
+        {
+            "id": "pro-ostracum",
+            "word": "pro-ostracum"
+        },
+        {
+            "id": "propalinal",
+            "word": "propalinal"
+        },
+        {
+            "id": "propliopithecus",
+            "word": "propliopithecus"
+        },
+        {
+            "id": "prosauropod",
+            "word": "prosauropod"
+        },
+        {
+            "id": "prosiphon",
+            "word": "prosiphon"
+        },
+        {
+            "id": "prosiphonate",
+            "word": "prosiphonate"
+        },
+        {
+            "id": "proterozoic",
+            "word": "proterozoic"
+        },
+        {
+            "id": "protheca",
+            "word": "protheca"
+        },
+        {
+            "id": "protichnite",
+            "word": "protichnite"
+        },
+        {
+            "id": "protobranch",
+            "word": "protobranch"
+        },
+        {
+            "id": "protoceratops",
+            "word": "protoceratops"
+        },
+        {
+            "id": "protohippus",
+            "word": "protohippus"
+        },
+        {
+            "id": "protorosaur",
+            "word": "protorosaur"
+        },
+        {
+            "id": "protorosaurian",
+            "word": "protorosaurian"
+        },
+        {
+            "id": "protorosaurus",
+            "word": "protorosaurus"
+        },
+        {
+            "id": "protothere",
+            "word": "protothere"
+        },
+        {
+            "id": "psammodont",
+            "word": "psammodont"
+        },
+        {
+            "id": "pseudocolumella",
+            "word": "pseudocolumella"
+        },
+        {
+            "id": "pseudocosta",
+            "word": "pseudocosta"
+        },
+        {
+            "id": "pseudocostate",
+            "word": "pseudocostate"
+        },
+        {
+            "id": "pseudodeltidium",
+            "word": "pseudodeltidium"
+        },
+        {
+            "id": "pseudoextinction",
+            "word": "pseudoextinction"
+        },
+        {
+            "id": "pseudoramose",
+            "word": "pseudoramose"
+        },
+        {
+            "id": "pseudosuchian",
+            "word": "pseudosuchian"
+        },
+        {
+            "id": "psittacosaur",
+            "word": "psittacosaur"
+        },
+        {
+            "id": "psittacosaurid",
+            "word": "psittacosaurid"
+        },
+        {
+            "id": "psittacosaurus",
+            "word": "psittacosaurus"
+        },
+        {
+            "id": "pteranodon",
+            "word": "pteranodon"
+        },
+        {
+            "id": "pteranodont",
+            "word": "pteranodont"
+        },
+        {
+            "id": "pteraspid",
+            "word": "pteraspid"
+        },
+        {
+            "id": "pteraspis",
+            "word": "pteraspis"
+        },
+        {
+            "id": "pterichthyid",
+            "word": "pterichthyid"
+        },
+        {
+            "id": "pterichthys",
+            "word": "pterichthys"
+        },
+        {
+            "id": "pteridosperm",
+            "word": "pteridosperm"
+        },
+        {
+            "id": "pteridospermous",
+            "word": "pteridospermous"
+        },
+        {
+            "id": "pterodactyl",
+            "word": "pterodactyl"
+        },
+        {
+            "id": "pterodactylian",
+            "word": "pterodactylian"
+        },
+        {
+            "id": "pterodactylid",
+            "word": "pterodactylid"
+        },
+        {
+            "id": "pterodactyloid",
+            "word": "pterodactyloid"
+        },
+        {
+            "id": "pterosaur",
+            "word": "pterosaur"
+        },
+        {
+            "id": "pterosaurian",
+            "word": "pterosaurian"
+        },
+        {
+            "id": "ptychodont",
+            "word": "ptychodont"
+        },
+        {
+            "id": "pupiform",
+            "word": "pupiform"
+        },
+        {
+            "id": "pupoid",
+            "word": "pupoid"
+        },
+        {
+            "id": "pycnodont",
+            "word": "pycnodont"
+        },
+        {
+            "id": "pycnodontoid",
+            "word": "pycnodontoid"
+        },
+        {
+            "id": "pyrothere",
+            "word": "pyrothere"
+        },
+        {
+            "id": "pythonomorph",
+            "word": "pythonomorph"
+        },
+        {
+            "id": "quetzalcoatlus",
+            "word": "quetzalcoatlus"
+        },
+        {
+            "id": "rachitomous",
+            "word": "rachitomous"
+        },
+        {
+            "id": "radiolite",
+            "word": "radiolite"
+        },
+        {
+            "id": "radiolitid",
+            "word": "radiolitid"
+        },
+        {
+            "id": "ramapithecus",
+            "word": "ramapithecus"
+        },
+        {
+            "id": "ramidus",
+            "word": "ramidus"
+        },
+        {
+            "id": "range_zone",
+            "word": "range zone"
+        },
+        {
+            "id": "ray-fin",
+            "word": "ray-fin"
+        },
+        {
+            "id": "ray-finned",
+            "word": "ray-finned"
+        },
+        {
+            "id": "reefal",
+            "word": "reefal"
+        },
+        {
+            "id": "remani%C3%A9",
+            "word": "remanié"
+        },
+        {
+            "id": "retral",
+            "word": "retral"
+        },
+        {
+            "id": "rhabdosome",
+            "word": "rhabdosome"
+        },
+        {
+            "id": "rhamphorhynchoid",
+            "word": "rhamphorhynchoid"
+        },
+        {
+            "id": "rhamphorhynchus",
+            "word": "rhamphorhynchus"
+        },
+        {
+            "id": "rhinocerotid",
+            "word": "rhinocerotid"
+        },
+        {
+            "id": "rhinocerotine",
+            "word": "rhinocerotine"
+        },
+        {
+            "id": "rhinocerotoid",
+            "word": "rhinocerotoid"
+        },
+        {
+            "id": "rhipidistian",
+            "word": "rhipidistian"
+        },
+        {
+            "id": "rhizodont",
+            "word": "rhizodont"
+        },
+        {
+            "id": "rhodesian_man",
+            "word": "rhodesian man"
+        },
+        {
+            "id": "rhodesian_skull",
+            "word": "rhodesian skull"
+        },
+        {
+            "id": "rhombifer",
+            "word": "rhombifer"
+        },
+        {
+            "id": "rhombiferan",
+            "word": "rhombiferan"
+        },
+        {
+            "id": "rhynchocephalian",
+            "word": "rhynchocephalian"
+        },
+        {
+            "id": "rhyncholite",
+            "word": "rhyncholite"
+        },
+        {
+            "id": "rhynchonellid",
+            "word": "rhynchonellid"
+        },
+        {
+            "id": "rhynchosaur",
+            "word": "rhynchosaur"
+        },
+        {
+            "id": "rhynchosaurian",
+            "word": "rhynchosaurian"
+        },
+        {
+            "id": "rhynchosaurus",
+            "word": "rhynchosaurus"
+        },
+        {
+            "id": "riss",
+            "word": "riss"
+        },
+        {
+            "id": "rosette_plate",
+            "word": "rosette plate"
+        },
+        {
+            "id": "rostral_bone",
+            "word": "rostral bone"
+        },
+        {
+            "id": "rotalian",
+            "word": "rotalian"
+        },
+        {
+            "id": "rotalid",
+            "word": "rotalid"
+        },
+        {
+            "id": "rotaliform",
+            "word": "rotaliform"
+        },
+        {
+            "id": "rotaliid",
+            "word": "rotaliid"
+        },
+        {
+            "id": "rotaliine",
+            "word": "rotaliine"
+        },
+        {
+            "id": "rotaline",
+            "word": "rotaline"
+        },
+        {
+            "id": "rudist",
+            "word": "rudist"
+        },
+        {
+            "id": "rudistae",
+            "word": "rudistae"
+        },
+        {
+            "id": "saale",
+            "word": "saale"
+        },
+        {
+            "id": "sabretooth",
+            "word": "sabretooth"
+        },
+        {
+            "id": "sahelanthropus",
+            "word": "sahelanthropus"
+        },
+        {
+            "id": "saldanha",
+            "word": "saldanha"
+        },
+        {
+            "id": "-saur",
+            "word": "-saur"
+        },
+        {
+            "id": "saurischian",
+            "word": "saurischian"
+        },
+        {
+            "id": "sauropod",
+            "word": "sauropod"
+        },
+        {
+            "id": "sauropodomorph",
+            "word": "sauropodomorph"
+        },
+        {
+            "id": "-saurus",
+            "word": "-saurus"
+        },
+        {
+            "id": "scandent",
+            "word": "scandent"
+        },
+        {
+            "id": "sedgwick%2C_adam",
+            "word": "sedgwick, adam"
+        },
+        {
+            "id": "seismosaurus",
+            "word": "seismosaurus"
+        },
+        {
+            "id": "silurian",
+            "word": "silurian"
+        },
+        {
+            "id": "sinanthropus",
+            "word": "sinanthropus"
+        },
+        {
+            "id": "sivapithecus",
+            "word": "sivapithecus"
+        },
+        {
+            "id": "smilodon",
+            "word": "smilodon"
+        },
+        {
+            "id": "solnhofen",
+            "word": "solnhofen"
+        },
+        {
+            "id": "spinosaurus",
+            "word": "spinosaurus"
+        },
+        {
+            "id": "spreite",
+            "word": "spreite"
+        },
+        {
+            "id": "stegosaur",
+            "word": "stegosaur"
+        },
+        {
+            "id": "steinheim",
+            "word": "steinheim"
+        },
+        {
+            "id": "stereospondyl",
+            "word": "stereospondyl"
+        },
+        {
+            "id": "stigmaria",
+            "word": "stigmaria"
+        },
+        {
+            "id": "stromatolite",
+            "word": "stromatolite"
+        },
+        {
+            "id": "stromatoporoid",
+            "word": "stromatoporoid"
+        },
+        {
+            "id": "struthiomimus",
+            "word": "struthiomimus"
+        },
+        {
+            "id": "supersaurus",
+            "word": "supersaurus"
+        },
+        {
+            "id": "supracoracoideus",
+            "word": "supracoracoideus"
+        },
+        {
+            "id": "swanscombe",
+            "word": "swanscombe"
+        },
+        {
+            "id": "synapsid",
+            "word": "synapsid"
+        },
+        {
+            "id": "taeniodont",
+            "word": "taeniodont"
+        },
+        {
+            "id": "taphonomy",
+            "word": "taphonomy"
+        },
+        {
+            "id": "taung",
+            "word": "taung"
+        },
+        {
+            "id": "taxocrinid",
+            "word": "taxocrinid"
+        },
+        {
+            "id": "taxocrinoid",
+            "word": "taxocrinoid"
+        },
+        {
+            "id": "taxodont",
+            "word": "taxodont"
+        },
+        {
+            "id": "telanthropus",
+            "word": "telanthropus"
+        },
+        {
+            "id": "teleodesmacean",
+            "word": "teleodesmacean"
+        },
+        {
+            "id": "teleodont",
+            "word": "teleodont"
+        },
+        {
+            "id": "teleosaur",
+            "word": "teleosaur"
+        },
+        {
+            "id": "teleosaurian",
+            "word": "teleosaurian"
+        },
+        {
+            "id": "teleosaurus",
+            "word": "teleosaurus"
+        },
+        {
+            "id": "tellinid",
+            "word": "tellinid"
+        },
+        {
+            "id": "temnospondyl",
+            "word": "temnospondyl"
+        },
+        {
+            "id": "terebratulid",
+            "word": "terebratulid"
+        },
+        {
+            "id": "tetrapodichnite",
+            "word": "tetrapodichnite"
+        },
+        {
+            "id": "thecodont",
+            "word": "thecodont"
+        },
+        {
+            "id": "therapsid",
+            "word": "therapsid"
+        },
+        {
+            "id": "theropod",
+            "word": "theropod"
+        },
+        {
+            "id": "torridonian",
+            "word": "torridonian"
+        },
+        {
+            "id": "trace_fossil",
+            "word": "trace fossil"
+        },
+        {
+            "id": "trachodon",
+            "word": "trachodon"
+        },
+        {
+            "id": "trachodont",
+            "word": "trachodont"
+        },
+        {
+            "id": "tragulid",
+            "word": "tragulid"
+        },
+        {
+            "id": "traguline",
+            "word": "traguline"
+        },
+        {
+            "id": "traguloid",
+            "word": "traguloid"
+        },
+        {
+            "id": "triassic",
+            "word": "triassic"
+        },
+        {
+            "id": "triceratops",
+            "word": "triceratops"
+        },
+        {
+            "id": "trilobita",
+            "word": "trilobita"
+        },
+        {
+            "id": "trilobitan",
+            "word": "trilobitan"
+        },
+        {
+            "id": "trilobite",
+            "word": "trilobite"
+        },
+        {
+            "id": "trilobitic",
+            "word": "trilobitic"
+        },
+        {
+            "id": "trinil",
+            "word": "trinil"
+        },
+        {
+            "id": "tyrannosaur",
+            "word": "tyrannosaur"
+        },
+        {
+            "id": "tyrannosaurid",
+            "word": "tyrannosaurid"
+        },
+        {
+            "id": "uintathere",
+            "word": "uintathere"
+        },
+        {
+            "id": "ultrasaurus",
+            "word": "ultrasaurus"
+        },
+        {
+            "id": "uniplicate",
+            "word": "uniplicate"
+        },
+        {
+            "id": "utahraptor",
+            "word": "utahraptor"
+        },
+        {
+            "id": "velociraptor",
+            "word": "velociraptor"
+        },
+        {
+            "id": "villafranchian",
+            "word": "villafranchian"
+        },
+        {
+            "id": "w%C3%BCrm",
+            "word": "würm"
+        },
+        {
+            "id": "wisconsin",
+            "word": "wisconsin"
+        },
+        {
+            "id": "wolstonian",
+            "word": "wolstonian"
+        },
+        {
+            "id": "woolly_mammoth",
+            "word": "woolly mammoth"
+        },
+        {
+            "id": "woolly_rhinoceros",
+            "word": "woolly rhinoceros"
+        },
+        {
+            "id": "zinjanthropus",
+            "word": "zinjanthropus"
+        }
+    ]
+}

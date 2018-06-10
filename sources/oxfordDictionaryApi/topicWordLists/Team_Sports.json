@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "offset": 0,
+        "limit": 5000,
+        "provider": "Oxford University Press",
+        "sourceLanguage": "en",
+        "total": 3
+    },
+    "results": [
+        {
+            "id": "ball_club",
+            "word": "ball club"
+        },
+        {
+            "id": "centreman",
+            "word": "centreman"
+        },
+        {
+            "id": "ultimate_frisbee",
+            "word": "ultimate frisbee"
+        }
+    ]
+}

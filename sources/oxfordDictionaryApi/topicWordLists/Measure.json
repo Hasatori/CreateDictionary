@@ -1,0 +1,1251 @@
+{
+    "results": [
+        {
+            "id": "absolute_unit",
+            "word": "absolute unit"
+        },
+        {
+            "id": "acre",
+            "word": "acre"
+        },
+        {
+            "id": "acre-foot",
+            "word": "acre-foot"
+        },
+        {
+            "id": "amp",
+            "word": "amp"
+        },
+        {
+            "id": "ampere",
+            "word": "ampere"
+        },
+        {
+            "id": "angstrom",
+            "word": "angstrom"
+        },
+        {
+            "id": "apothecaries%27_measure",
+            "word": "apothecaries' measure"
+        },
+        {
+            "id": "are",
+            "word": "are"
+        },
+        {
+            "id": "arpent",
+            "word": "arpent"
+        },
+        {
+            "id": "astronomical_unit",
+            "word": "astronomical unit"
+        },
+        {
+            "id": "atomic_mass_unit",
+            "word": "atomic mass unit"
+        },
+        {
+            "id": "atto-",
+            "word": "atto-"
+        },
+        {
+            "id": "bale",
+            "word": "bale"
+        },
+        {
+            "id": "bar",
+            "word": "bar"
+        },
+        {
+            "id": "barleycorn",
+            "word": "barleycorn"
+        },
+        {
+            "id": "barn",
+            "word": "barn"
+        },
+        {
+            "id": "base_unit",
+            "word": "base unit"
+        },
+        {
+            "id": "bath",
+            "word": "bath"
+        },
+        {
+            "id": "baud",
+            "word": "baud"
+        },
+        {
+            "id": "becquerel",
+            "word": "becquerel"
+        },
+        {
+            "id": "bigha",
+            "word": "bigha"
+        },
+        {
+            "id": "billyful",
+            "word": "billyful"
+        },
+        {
+            "id": "bit",
+            "word": "bit"
+        },
+        {
+            "id": "bl",
+            "word": "bl"
+        },
+        {
+            "id": "board_foot",
+            "word": "board foot"
+        },
+        {
+            "id": "brake_horsepower",
+            "word": "brake horsepower"
+        },
+        {
+            "id": "british_thermal_unit",
+            "word": "british thermal unit"
+        },
+        {
+            "id": "btu",
+            "word": "btu"
+        },
+        {
+            "id": "bu.",
+            "word": "bu."
+        },
+        {
+            "id": "bushel",
+            "word": "bushel"
+        },
+        {
+            "id": "byte",
+            "word": "byte"
+        },
+        {
+            "id": "c%2Fs",
+            "word": "c/s"
+        },
+        {
+            "id": "calorie",
+            "word": "calorie"
+        },
+        {
+            "id": "candela",
+            "word": "candela"
+        },
+        {
+            "id": "carat",
+            "word": "carat"
+        },
+        {
+            "id": "centi-",
+            "word": "centi-"
+        },
+        {
+            "id": "centigram",
+            "word": "centigram"
+        },
+        {
+            "id": "centilitre",
+            "word": "centilitre"
+        },
+        {
+            "id": "centimetre",
+            "word": "centimetre"
+        },
+        {
+            "id": "centimetre-gram-second_system",
+            "word": "centimetre-gram-second system"
+        },
+        {
+            "id": "cgs",
+            "word": "cgs"
+        },
+        {
+            "id": "coulomb",
+            "word": "coulomb"
+        },
+        {
+            "id": "c.p.",
+            "word": "c.p."
+        },
+        {
+            "id": "cps",
+            "word": "cps"
+        },
+        {
+            "id": "cran",
+            "word": "cran"
+        },
+        {
+            "id": "ct",
+            "word": "ct"
+        },
+        {
+            "id": "cu.",
+            "word": "cu."
+        },
+        {
+            "id": "cubit",
+            "word": "cubit"
+        },
+        {
+            "id": "curie",
+            "word": "curie"
+        },
+        {
+            "id": "cusec",
+            "word": "cusec"
+        },
+        {
+            "id": "da",
+            "word": "da"
+        },
+        {
+            "id": "dalton",
+            "word": "dalton"
+        },
+        {
+            "id": "debye",
+            "word": "debye"
+        },
+        {
+            "id": "deca-",
+            "word": "deca-"
+        },
+        {
+            "id": "decalitre",
+            "word": "decalitre"
+        },
+        {
+            "id": "decametre",
+            "word": "decametre"
+        },
+        {
+            "id": "deci-",
+            "word": "deci-"
+        },
+        {
+            "id": "decibel",
+            "word": "decibel"
+        },
+        {
+            "id": "decigram",
+            "word": "decigram"
+        },
+        {
+            "id": "decilitre",
+            "word": "decilitre"
+        },
+        {
+            "id": "decimetre",
+            "word": "decimetre"
+        },
+        {
+            "id": "denier",
+            "word": "denier"
+        },
+        {
+            "id": "dioptre",
+            "word": "dioptre"
+        },
+        {
+            "id": "dobson_unit",
+            "word": "dobson unit"
+        },
+        {
+            "id": "drachm",
+            "word": "drachm"
+        },
+        {
+            "id": "dry_measure",
+            "word": "dry measure"
+        },
+        {
+            "id": "dunam",
+            "word": "dunam"
+        },
+        {
+            "id": "dyne",
+            "word": "dyne"
+        },
+        {
+            "id": "electromagnetic_units",
+            "word": "electromagnetic units"
+        },
+        {
+            "id": "electronvolt",
+            "word": "electronvolt"
+        },
+        {
+            "id": "electrostatic_units",
+            "word": "electrostatic units"
+        },
+        {
+            "id": "ell",
+            "word": "ell"
+        },
+        {
+            "id": "em",
+            "word": "em"
+        },
+        {
+            "id": "en",
+            "word": "en"
+        },
+        {
+            "id": "end_standard",
+            "word": "end standard"
+        },
+        {
+            "id": "ephah",
+            "word": "ephah"
+        },
+        {
+            "id": "erg",
+            "word": "erg"
+        },
+        {
+            "id": "e.s.u.",
+            "word": "e.s.u."
+        },
+        {
+            "id": "farad",
+            "word": "farad"
+        },
+        {
+            "id": "faraday",
+            "word": "faraday"
+        },
+        {
+            "id": "fathom",
+            "word": "fathom"
+        },
+        {
+            "id": "femto-",
+            "word": "femto-"
+        },
+        {
+            "id": "femtosecond",
+            "word": "femtosecond"
+        },
+        {
+            "id": "fermi",
+            "word": "fermi"
+        },
+        {
+            "id": "firkin",
+            "word": "firkin"
+        },
+        {
+            "id": "fluid_ounce",
+            "word": "fluid ounce"
+        },
+        {
+            "id": "fluidram",
+            "word": "fluidram"
+        },
+        {
+            "id": "fm",
+            "word": "fm"
+        },
+        {
+            "id": "foot-pound",
+            "word": "foot-pound"
+        },
+        {
+            "id": "foot-pound-second_system",
+            "word": "foot-pound-second system"
+        },
+        {
+            "id": "foot_rule",
+            "word": "foot rule"
+        },
+        {
+            "id": "ft",
+            "word": "ft"
+        },
+        {
+            "id": "fundamental_unit",
+            "word": "fundamental unit"
+        },
+        {
+            "id": "fur.",
+            "word": "fur."
+        },
+        {
+            "id": "furlong",
+            "word": "furlong"
+        },
+        {
+            "id": "gal",
+            "word": "gal"
+        },
+        {
+            "id": "gal.",
+            "word": "gal."
+        },
+        {
+            "id": "gall.",
+            "word": "gall."
+        },
+        {
+            "id": "gallon",
+            "word": "gallon"
+        },
+        {
+            "id": "gauss",
+            "word": "gauss"
+        },
+        {
+            "id": "gbyte",
+            "word": "gbyte"
+        },
+        {
+            "id": "geographical_mile",
+            "word": "geographical mile"
+        },
+        {
+            "id": "gev",
+            "word": "gev"
+        },
+        {
+            "id": "gigaflop",
+            "word": "gigaflop"
+        },
+        {
+            "id": "gigahertz",
+            "word": "gigahertz"
+        },
+        {
+            "id": "gigaton",
+            "word": "gigaton"
+        },
+        {
+            "id": "gill",
+            "word": "gill"
+        },
+        {
+            "id": "gram",
+            "word": "gram"
+        },
+        {
+            "id": "gray",
+            "word": "gray"
+        },
+        {
+            "id": "gsm",
+            "word": "gsm"
+        },
+        {
+            "id": "gunter%27s_chain",
+            "word": "gunter's chain"
+        },
+        {
+            "id": "gw",
+            "word": "gw"
+        },
+        {
+            "id": "half-cup",
+            "word": "half-cup"
+        },
+        {
+            "id": "half-inch",
+            "word": "half-inch"
+        },
+        {
+            "id": "half-litre",
+            "word": "half-litre"
+        },
+        {
+            "id": "handspan",
+            "word": "handspan"
+        },
+        {
+            "id": "head_height",
+            "word": "head height"
+        },
+        {
+            "id": "hectare",
+            "word": "hectare"
+        },
+        {
+            "id": "hecto-",
+            "word": "hecto-"
+        },
+        {
+            "id": "hectogram",
+            "word": "hectogram"
+        },
+        {
+            "id": "hectolitre",
+            "word": "hectolitre"
+        },
+        {
+            "id": "hectometre",
+            "word": "hectometre"
+        },
+        {
+            "id": "henry",
+            "word": "henry"
+        },
+        {
+            "id": "hertz",
+            "word": "hertz"
+        },
+        {
+            "id": "hh.",
+            "word": "hh."
+        },
+        {
+            "id": "hin",
+            "word": "hin"
+        },
+        {
+            "id": "hogshead",
+            "word": "hogshead"
+        },
+        {
+            "id": "horsepower",
+            "word": "horsepower"
+        },
+        {
+            "id": "hundredweight",
+            "word": "hundredweight"
+        },
+        {
+            "id": "in.",
+            "word": "in."
+        },
+        {
+            "id": "inch",
+            "word": "inch"
+        },
+        {
+            "id": "international_system_of_units",
+            "word": "international system of units"
+        },
+        {
+            "id": "international_unit",
+            "word": "international unit"
+        },
+        {
+            "id": "iu",
+            "word": "iu"
+        },
+        {
+            "id": "joule",
+            "word": "joule"
+        },
+        {
+            "id": "k",
+            "word": "k"
+        },
+        {
+            "id": "kbps",
+            "word": "kbps"
+        },
+        {
+            "id": "kbyte",
+            "word": "kbyte"
+        },
+        {
+            "id": "kcal",
+            "word": "kcal"
+        },
+        {
+            "id": "kelvin",
+            "word": "kelvin"
+        },
+        {
+            "id": "kev",
+            "word": "kev"
+        },
+        {
+            "id": "kg",
+            "word": "kg"
+        },
+        {
+            "id": "kilderkin",
+            "word": "kilderkin"
+        },
+        {
+            "id": "kilo",
+            "word": "kilo"
+        },
+        {
+            "id": "kilo-",
+            "word": "kilo-"
+        },
+        {
+            "id": "kilobase",
+            "word": "kilobase"
+        },
+        {
+            "id": "kilobit",
+            "word": "kilobit"
+        },
+        {
+            "id": "kilocalorie",
+            "word": "kilocalorie"
+        },
+        {
+            "id": "kilocycle",
+            "word": "kilocycle"
+        },
+        {
+            "id": "kilogram",
+            "word": "kilogram"
+        },
+        {
+            "id": "kilohertz",
+            "word": "kilohertz"
+        },
+        {
+            "id": "kilojoule",
+            "word": "kilojoule"
+        },
+        {
+            "id": "kilolitre",
+            "word": "kilolitre"
+        },
+        {
+            "id": "kilometre",
+            "word": "kilometre"
+        },
+        {
+            "id": "kiloton",
+            "word": "kiloton"
+        },
+        {
+            "id": "kilovolt",
+            "word": "kilovolt"
+        },
+        {
+            "id": "kip",
+            "word": "kip"
+        },
+        {
+            "id": "klick",
+            "word": "klick"
+        },
+        {
+            "id": "kn.",
+            "word": "kn."
+        },
+        {
+            "id": "kph",
+            "word": "kph"
+        },
+        {
+            "id": "kt",
+            "word": "kt"
+        },
+        {
+            "id": "lambert",
+            "word": "lambert"
+        },
+        {
+            "id": "league",
+            "word": "league"
+        },
+        {
+            "id": "li",
+            "word": "li"
+        },
+        {
+            "id": "libra",
+            "word": "libra"
+        },
+        {
+            "id": "light_year",
+            "word": "light year"
+        },
+        {
+            "id": "liquid_measure",
+            "word": "liquid measure"
+        },
+        {
+            "id": "litre",
+            "word": "litre"
+        },
+        {
+            "id": "lumen",
+            "word": "lumen"
+        },
+        {
+            "id": "lux",
+            "word": "lux"
+        },
+        {
+            "id": "magneton",
+            "word": "magneton"
+        },
+        {
+            "id": "maxwell",
+            "word": "maxwell"
+        },
+        {
+            "id": "mbyte",
+            "word": "mbyte"
+        },
+        {
+            "id": "mc%2Fs",
+            "word": "mc/s"
+        },
+        {
+            "id": "mcg",
+            "word": "mcg"
+        },
+        {
+            "id": "mci",
+            "word": "mci"
+        },
+        {
+            "id": "measure",
+            "word": "measure"
+        },
+        {
+            "id": "measure_of_capacity",
+            "word": "measure of capacity"
+        },
+        {
+            "id": "measuring",
+            "word": "measuring"
+        },
+        {
+            "id": "megabyte",
+            "word": "megabyte"
+        },
+        {
+            "id": "megadeath",
+            "word": "megadeath"
+        },
+        {
+            "id": "megaflop",
+            "word": "megaflop"
+        },
+        {
+            "id": "megahertz",
+            "word": "megahertz"
+        },
+        {
+            "id": "megalitre",
+            "word": "megalitre"
+        },
+        {
+            "id": "megaton",
+            "word": "megaton"
+        },
+        {
+            "id": "megavolt",
+            "word": "megavolt"
+        },
+        {
+            "id": "megawatt",
+            "word": "megawatt"
+        },
+        {
+            "id": "megohm",
+            "word": "megohm"
+        },
+        {
+            "id": "metre",
+            "word": "metre"
+        },
+        {
+            "id": "metre-kilogram-second",
+            "word": "metre-kilogram-second"
+        },
+        {
+            "id": "metric",
+            "word": "metric"
+        },
+        {
+            "id": "metric_system",
+            "word": "metric system"
+        },
+        {
+            "id": "metric_ton",
+            "word": "metric ton"
+        },
+        {
+            "id": "mev",
+            "word": "mev"
+        },
+        {
+            "id": "mho",
+            "word": "mho"
+        },
+        {
+            "id": "mi.",
+            "word": "mi."
+        },
+        {
+            "id": "microfarad",
+            "word": "microfarad"
+        },
+        {
+            "id": "microgram",
+            "word": "microgram"
+        },
+        {
+            "id": "microlitre",
+            "word": "microlitre"
+        },
+        {
+            "id": "micrometre",
+            "word": "micrometre"
+        },
+        {
+            "id": "micron",
+            "word": "micron"
+        },
+        {
+            "id": "microsecond",
+            "word": "microsecond"
+        },
+        {
+            "id": "mil",
+            "word": "mil"
+        },
+        {
+            "id": "mile",
+            "word": "mile"
+        },
+        {
+            "id": "milli-",
+            "word": "milli-"
+        },
+        {
+            "id": "milliampere",
+            "word": "milliampere"
+        },
+        {
+            "id": "millibar",
+            "word": "millibar"
+        },
+        {
+            "id": "milligram",
+            "word": "milligram"
+        },
+        {
+            "id": "millilitre",
+            "word": "millilitre"
+        },
+        {
+            "id": "millimetre",
+            "word": "millimetre"
+        },
+        {
+            "id": "millisecond",
+            "word": "millisecond"
+        },
+        {
+            "id": "millivolt",
+            "word": "millivolt"
+        },
+        {
+            "id": "min.",
+            "word": "min."
+        },
+        {
+            "id": "mips",
+            "word": "mips"
+        },
+        {
+            "id": "ml",
+            "word": "ml"
+        },
+        {
+            "id": "mole",
+            "word": "mole"
+        },
+        {
+            "id": "morgen",
+            "word": "morgen"
+        },
+        {
+            "id": "mutchkin",
+            "word": "mutchkin"
+        },
+        {
+            "id": "mw",
+            "word": "mw"
+        },
+        {
+            "id": "n",
+            "word": "n"
+        },
+        {
+            "id": "nanogram",
+            "word": "nanogram"
+        },
+        {
+            "id": "nanometre",
+            "word": "nanometre"
+        },
+        {
+            "id": "nanomole",
+            "word": "nanomole"
+        },
+        {
+            "id": "nanosecond",
+            "word": "nanosecond"
+        },
+        {
+            "id": "nautical_mile",
+            "word": "nautical mile"
+        },
+        {
+            "id": "negawatt",
+            "word": "negawatt"
+        },
+        {
+            "id": "neper",
+            "word": "neper"
+        },
+        {
+            "id": "newton",
+            "word": "newton"
+        },
+        {
+            "id": "ng",
+            "word": "ng"
+        },
+        {
+            "id": "oersted",
+            "word": "oersted"
+        },
+        {
+            "id": "ohm",
+            "word": "ohm"
+        },
+        {
+            "id": "oka",
+            "word": "oka"
+        },
+        {
+            "id": "okta",
+            "word": "okta"
+        },
+        {
+            "id": "omer",
+            "word": "omer"
+        },
+        {
+            "id": "ounce",
+            "word": "ounce"
+        },
+        {
+            "id": "pace",
+            "word": "pace"
+        },
+        {
+            "id": "parsec",
+            "word": "parsec"
+        },
+        {
+            "id": "pascal",
+            "word": "pascal"
+        },
+        {
+            "id": "passenger_mile",
+            "word": "passenger mile"
+        },
+        {
+            "id": "peck",
+            "word": "peck"
+        },
+        {
+            "id": "pennyweight",
+            "word": "pennyweight"
+        },
+        {
+            "id": "percentage_point",
+            "word": "percentage point"
+        },
+        {
+            "id": "perch",
+            "word": "perch"
+        },
+        {
+            "id": "peta-",
+            "word": "peta-"
+        },
+        {
+            "id": "petaflop",
+            "word": "petaflop"
+        },
+        {
+            "id": "phon",
+            "word": "phon"
+        },
+        {
+            "id": "phot",
+            "word": "phot"
+        },
+        {
+            "id": "pico-",
+            "word": "pico-"
+        },
+        {
+            "id": "picosecond",
+            "word": "picosecond"
+        },
+        {
+            "id": "pint",
+            "word": "pint"
+        },
+        {
+            "id": "pinta",
+            "word": "pinta"
+        },
+        {
+            "id": "poise",
+            "word": "poise"
+        },
+        {
+            "id": "pottle",
+            "word": "pottle"
+        },
+        {
+            "id": "pound",
+            "word": "pound"
+        },
+        {
+            "id": "poundal",
+            "word": "poundal"
+        },
+        {
+            "id": "probit",
+            "word": "probit"
+        },
+        {
+            "id": "p.s.i.",
+            "word": "p.s.i."
+        },
+        {
+            "id": "qt",
+            "word": "qt"
+        },
+        {
+            "id": "quart",
+            "word": "quart"
+        },
+        {
+            "id": "quartern",
+            "word": "quartern"
+        },
+        {
+            "id": "queen%27s_chain",
+            "word": "queen's chain"
+        },
+        {
+            "id": "quintal",
+            "word": "quintal"
+        },
+        {
+            "id": "rad",
+            "word": "rad"
+        },
+        {
+            "id": "radian",
+            "word": "radian"
+        },
+        {
+            "id": "r%C3%A9aumur_scale",
+            "word": "réaumur scale"
+        },
+        {
+            "id": "rem",
+            "word": "rem"
+        },
+        {
+            "id": "reynolds_number",
+            "word": "reynolds number"
+        },
+        {
+            "id": "roentgen",
+            "word": "roentgen"
+        },
+        {
+            "id": "sea_mile",
+            "word": "sea mile"
+        },
+        {
+            "id": "sec.",
+            "word": "sec."
+        },
+        {
+            "id": "second",
+            "word": "second"
+        },
+        {
+            "id": "seer",
+            "word": "seer"
+        },
+        {
+            "id": "siemens",
+            "word": "siemens"
+        },
+        {
+            "id": "sievert",
+            "word": "sievert"
+        },
+        {
+            "id": "sone",
+            "word": "sone"
+        },
+        {
+            "id": "square_measure",
+            "word": "square measure"
+        },
+        {
+            "id": "st",
+            "word": "st"
+        },
+        {
+            "id": "steradian",
+            "word": "steradian"
+        },
+        {
+            "id": "stere",
+            "word": "stere"
+        },
+        {
+            "id": "stilb",
+            "word": "stilb"
+        },
+        {
+            "id": "stokes",
+            "word": "stokes"
+        },
+        {
+            "id": "svedberg",
+            "word": "svedberg"
+        },
+        {
+            "id": "t",
+            "word": "t"
+        },
+        {
+            "id": "teraflop",
+            "word": "teraflop"
+        },
+        {
+            "id": "terawatt",
+            "word": "terawatt"
+        },
+        {
+            "id": "tesla",
+            "word": "tesla"
+        },
+        {
+            "id": "therm",
+            "word": "therm"
+        },
+        {
+            "id": "thermal_unit",
+            "word": "thermal unit"
+        },
+        {
+            "id": "thou",
+            "word": "thou"
+        },
+        {
+            "id": "tog",
+            "word": "tog"
+        },
+        {
+            "id": "ton",
+            "word": "ton"
+        },
+        {
+            "id": "ton-mile",
+            "word": "ton-mile"
+        },
+        {
+            "id": "torr",
+            "word": "torr"
+        },
+        {
+            "id": "town_acre",
+            "word": "town acre"
+        },
+        {
+            "id": "train_mile",
+            "word": "train mile"
+        },
+        {
+            "id": "troy",
+            "word": "troy"
+        },
+        {
+            "id": "tsubo",
+            "word": "tsubo"
+        },
+        {
+            "id": "tw",
+            "word": "tw"
+        },
+        {
+            "id": "venti",
+            "word": "venti"
+        },
+        {
+            "id": "verst",
+            "word": "verst"
+        },
+        {
+            "id": "virgate",
+            "word": "virgate"
+        },
+        {
+            "id": "volt",
+            "word": "volt"
+        },
+        {
+            "id": "watt",
+            "word": "watt"
+        },
+        {
+            "id": "weber",
+            "word": "weber"
+        },
+        {
+            "id": "wey",
+            "word": "wey"
+        },
+        {
+            "id": "yard",
+            "word": "yard"
+        },
+        {
+            "id": "yocto-",
+            "word": "yocto-"
+        },
+        {
+            "id": "yotta-",
+            "word": "yotta-"
+        },
+        {
+            "id": "zepto-",
+            "word": "zepto-"
+        },
+        {
+            "id": "zetta-",
+            "word": "zetta-"
+        }
+    ],
+    "metadata": {
+        "limit": 5000,
+        "sourceLanguage": "en",
+        "total": 310,
+        "provider": "Oxford University Press",
+        "offset": 0
+    }
+}
