@@ -20,7 +20,7 @@ function buildHeader($title){
 
 function buildNavBar($heading){
    ?> 
-    <nav class="navbar navbar-inverse">
+    <nav class="navbar navbar-inverse navbar-collapse">
   <div class="container-fluid">
     <div class="navbar-header">
       <a class="navbar-brand" href="#">API zkoušení slovíček</a>
@@ -31,6 +31,7 @@ function buildNavBar($heading){
          <li id="upload"><a href="<?= BASE ?>upload.php">Náhávání</a></li>
          <li id="oxfordDicApi"><a href="<?= BASE ?>oxfordDicApi.php">Oxford API</a></li>
         <li id="translationApi"><a href="<?= BASE ?>translationApi.php">Překladač API</a></li>
+        <li id="datamuseApi"><a href="<?= BASE ?>datamuseApi.php">Datamuse API</a></li>
     </ul>
   </div>
 </nav>

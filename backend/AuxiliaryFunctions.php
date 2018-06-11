@@ -31,17 +31,20 @@ function vocExists($db, $val) {
     return count($result) === 1 ? true : false;
 }
 
-function insertNewVoc($db,$englishValue,$partOfSpeech,$type='word',$topic=null,$pronounction=null,$explanation=null,$category=null,$counting=null) {
-    $query = $db->prepare("INSERT INTO english (`english_value`,`type`,`topic`,`partOfSpeech`,`pronounciation`,`explanation`,`category`,`counting`)"
-        . " VALUES(:english_value,:type,:topic,:partOfSpeech,:pronounciation,:explanation,:category,:counting)");
+function insertNewVoc($db,$value,$type,$topic,$partOfSpeech,$pronounciation,$explanation,$examples,$synonyms,$english_group,$grammarCategory,$counting){
+    $query = $db->prepare("INSERT INTO english (`english_value`,`type`,`topic`,`partOfSpeech`,`pronounciation`,`explanation`,`examples`,`synonyms`,`english_group`,`grammarCategory`,`counting`)"
+        . " VALUES(:english_value,:type,:topic,:partOfSpeech,:pronounciation,:explanation,:examples,:synonyms,:english_group,:grammarCategory,:counting)");
     $query->execute([
-        ':english_value'=>$englishValue,
+        ':english_value'=>$value,
         ':type'=>$type,
         ':topic'=>$topic,
         ':partOfSpeech'=>$partOfSpeech,
-        ':pronounciation'=>$pronounction,
+        ':pronounciation'=>$pronounciation,
         ':explanation'=>$explanation,
-        ':category'=>$category,
+        ':examples'=>$examples,
+        ':synonyms'=>$synonyms,
+        ':english_group'=>$english_group,
+        ':grammarCategory'=>$grammarCategory,
         ':counting'=>$counting
 
     ]);
@@ -60,6 +63,14 @@ function insertExistingVoc($db,$language,$englishValue,$targetValue,$partOfSpeec
 
     ]);
 }
+function getVocabulary($db,$value){
+
+    $query = $db->prepare("SELECT * FROM english where english_value=:val LIMIT 1");
+    $query->execute([':val' => $value]);
+   return  $query->fetch(PDO::FETCH_ASSOC);
+
+}
+
 
 function checkLanguage($language) {
     switch ($language) {

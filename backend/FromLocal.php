@@ -1,5 +1,5 @@
 <?php
-function createFromLocal($category=null,$separator=null){
+function createFromLocal($english_group=null,$separator=null){
     $db = connectToDatabase();
 
     if ($db == null) {
@@ -7,7 +7,7 @@ function createFromLocal($category=null,$separator=null){
 
         return false;
     }
-$files= listDirectory("fromLocalDic/categories/".$category);
+$files= listDirectory("fromLocalDic/categories/".$english_group);
     $firstArray=array();
     $partOfSpeech=array();
     $type=array();
@@ -43,7 +43,7 @@ $files= listDirectory("fromLocalDic/categories/".$category);
                     array_push($firstArray,$words[0]);
                     array_push($secondArray,str_replace(array("\r", "\n"), ' ', $words[1]));
 
-                insertFromLocal($db,$words[0],$words[1],$countingVal,$partOfSpeechVal,$typeVal,$category);
+                insertFromLocal($db,$words[0],$words[1],$countingVal,$partOfSpeechVal,$typeVal,$english_group);
                 }else{
 
                     $secondArray[count($secondArray)-1]=$secondArray[count($secondArray)-1].str_replace(array("\r", "\n"), '', $words[0]);
@@ -94,30 +94,99 @@ function getTypeAndPartOfSpeech($value){
             return  array('','');
     }
 }
-function insertFromLocal($db,$value,$explanation,$counting,$partOfSpeech,$type,$category){
+function insertFromLocal($db,$value,$explanation,$counting,$partOfSpeech,$type,$english_group){
     if(vocExists($db,$value)){
-     updateExisting($db,$value,$explanation,$counting,$partOfSpeech,$type,$category);
+     updateExisting($db,$value,$explanation,$counting,$partOfSpeech,$type,$english_group);
     }else{
-         insertNewVoc($db,$value,$partOfSpeech,$type,null,null,$explanation,$category,$counting);
+         insertNewVoc($db,$value,$partOfSpeech,$type,null,null,$explanation,$english_group,$counting);
     }
 
 }
-function updateExisting($db,$value,$topic=null,$explanation,$counting,$partOfSpeech,$type,$category){
+function updateExisting($db,$value,$type,$topic,$partOfSpeech,$pronounciation,$explanation,$examples,$synonyms,$english_group,$grammarCategory,$counting){
+
+
+
     $query = $db->prepare("UPDATE english SET 
-                          explanation=:explanation,
-                          topic = :topic,
-                          counting=:counting,
-                          partOfSpeech=:partOfSpeech,
-                          type=:type,
-                          category=:category
-                          WHERE english_value=:english_value");
+                         type=:type,
+                         topic=:topic,
+                         partOfSpeech=:partOfSpeech,
+                         pronounciation=:pronounciation,
+                         explanation=:explanation,
+                         examples=:examples,
+                         synonyms=:synonyms,
+                         english_group=:english_group,
+                         grammarCategory=:grammarCategory,
+                         counting=:counting
+                        WHERE english_value=:english_value");
+var_dump($query);
    $query->execute([
-        ':explanation' => $explanation,
-        ':topic' => $topic,
-        ':counting' => $counting,
-        ':partOfSpeech' => $partOfSpeech,
-        ':type' => $type,
-        ':category' => $category,
-        ':english_value' => $value,
+       ':english_value'=>$value,
+       ':type'=>$type,
+       ':topic'=>$topic,
+       ':partOfSpeech'=>$partOfSpeech,
+       ':pronounciation'=>$pronounciation,
+       ':explanation'=>$explanation,
+       ':examples'=>$examples,
+       ':synonyms'=>$synonyms,
+       ':english_group'=>$english_group,
+       ':grammarCategory'=>$grammarCategory,
+       ':counting'=>$counting
     ]);
+
+}
+
+function uploadPronouncation(){
+  $json=json_decode(file_get_contents(__DIR__."/../sources/fromLocalDic/pronounciation/pronounciations.json"));
+
+global $allowed;
+    $allowed=false;
+
+foreach ($json as $vocabulary => $link){
+   if($allowed===true){
+   @file_put_contents(__DIR__. '/../sources/fromLocalDic/pronounciation/audioFiles/'.$vocabulary.'.mp3', @file_get_contents($link, 'r'));
+}
+if($vocabulary==="101"){
+
+    $allowed=true;
+}
+}
+}
+
+function uploadPhrasalVerbs(){
+    $db = connectToDatabase();
+
+    if ($db == null) {
+        $_SESSION['error'] = array(true, "Není spojení s databází");
+
+        return false;
+    }
+    if (($handle = fopen(__DIR__."/../sources/fromLocalDic/phrasalVerbs/phrasalVerbs.csv", "r")) !== FALSE) {
+        while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+if(vocExists($db,$data[0])){
+    $vocabulary=getVocabulary($db,$data[0]);
+
+
+    updateExisting(
+        $db,
+        $vocabulary['english_value'],
+        $vocabulary['type'],
+        $vocabulary['topic'],
+        $vocabulary['partOfSpeech'],
+        $vocabulary['pronounciation'],
+        $data[1],
+        $data[2],
+        $vocabulary['synonyms'],
+        $vocabulary['english_group'],
+        'phrasal verbs',
+        $vocabulary['counting']
+    );
+}else{
+  insertNewVoc($db,$data[0],'phrase',null,'verb',null,$data[1],$data[2],null,null,'phrasal verbs',null);
+
+}
+
+        }
+        fclose($handle);
+    }
+
 }

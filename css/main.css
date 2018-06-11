@@ -40,7 +40,7 @@ footer{
   color: white !important; }
 
 .mainContent {
-  min-height: 80vh;
+  min-height: 85vh;
   text-align: center; }
 
 .mainHeading {
@@ -58,6 +58,9 @@ footer{
   border-bottom: 1px solid #333333;
   margin-bottom: 2rem;
   padding-bottom: 1rem;
+}
+.localSection{
+  border-bottom: 1px solid #333333;
 }
 /*# sourceMappingURL=main.css.map */
 /*################### LOADER #########################*/
