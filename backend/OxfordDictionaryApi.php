@@ -2,7 +2,7 @@
 function uploadTopicLists(){
     $db = connectToDatabase();
 
-    if ($db == null) {
+    if ( $db == null) {
         $_SESSION['error'] = array(true, "Není spojení s databází");
 
         return false;
@@ -19,10 +19,10 @@ function uploadTopicLists(){
 
   foreach ($results as $value ){
 
-if(vocExists($db,$value['word'])){
-    updateExisting($db,$value['word'],$topic,null,null,null,'word',null);
+if(vocExists( $db,$value['word'])){
+    updateExisting( $db,$value['word'],$topic,null,null,null,'word',null);
 }else{
-    insertNewVoc($db,$value['word'],null,'word',$topic,null,null,null,null);
+    insertNewVoc( $db,$value['word'],null,'word',$topic,null,null,null,null);
 }
     }
     }
@@ -31,29 +31,8 @@ return true;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function processOxfordPost($post){
-    $type=$_POST['type'];
+function processOxfordPost(array $post){
+    $type=$post['type'];
 
     switch ($type){
         case "topicWordList":

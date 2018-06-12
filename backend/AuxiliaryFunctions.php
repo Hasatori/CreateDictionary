@@ -1,5 +1,5 @@
 <?php
-function listDirectory($dir) {
+function listDirectory(string $dir) {
 
     $result = array();
 
@@ -23,16 +23,19 @@ function listDirectory($dir) {
 }
 
 
-function vocExists($db, $val) {
+function vocExists(PDO $db,string  $val) {
 
-    $query = $db->prepare("SELECT * FROM english where english_value=:val");
+    $query = $db->prepare("SELECT * FROM vocabulary_english where english_value=:val");
     $query->execute([':val' => $val]);
     $result = $query->fetchAll(PDO::FETCH_ASSOC);
     return count($result) === 1 ? true : false;
 }
 
-function insertNewVoc($db,$value,$type,$topic,$partOfSpeech,$pronounciation,$explanation,$examples,$synonyms,$english_group,$grammarCategory,$counting){
-    $query = $db->prepare("INSERT INTO english (`english_value`,`type`,`topic`,`partOfSpeech`,`pronounciation`,`explanation`,`examples`,`synonyms`,`english_group`,`grammarCategory`,`counting`)"
+function insertNewVoc(PDO $db,string $value,string $type,string $topic,
+                      string $partOfSpeech,string $pronounciation,string $explanation,
+                      string $examples,string $synonyms,string $english_group,string $grammarCategory,string $counting){
+
+    $query = $db->prepare("INSERT INTO vocabulary_english (english_value,`type`,`topic`,`partOfSpeech`,`pronounciation`,`explanation`,`examples`,`synonyms`,`english_group`,`grammarCategory`,`counting`)"
         . " VALUES(:english_value,:type,:topic,:partOfSpeech,:pronounciation,:explanation,:examples,:synonyms,:english_group,:grammarCategory,:counting)");
     $query->execute([
         ':english_value'=>$value,
@@ -50,7 +53,7 @@ function insertNewVoc($db,$value,$type,$topic,$partOfSpeech,$pronounciation,$exp
     ]);
 }
 
-function insertExistingVoc($db,$language,$englishValue,$targetValue,$partOfSpeech,$synonyms) {
+function insertExistingVoc(PDO $db,string $language,string $englishValue,string $targetValue,string $partOfSpeech,string $synonyms) {
     $columnName=$language.'_value';
     $query = $db->prepare("INSERT INTO $language (`english_value`,`$columnName`"
         .               ",`partOfSpeech`,`synonyms`)"
@@ -63,16 +66,16 @@ function insertExistingVoc($db,$language,$englishValue,$targetValue,$partOfSpeec
 
     ]);
 }
-function getVocabulary($db,$value){
+function getVocabulary(PDO $db,string $value){
 
-    $query = $db->prepare("SELECT * FROM english where english_value=:val LIMIT 1");
+    $query = $db->prepare("SELECT * FROM vocabulary_english where english_value=:val LIMIT 1");
     $query->execute([':val' => $value]);
    return  $query->fetch(PDO::FETCH_ASSOC);
 
 }
 
 
-function checkLanguage($language) {
+function checkLanguage(bool $language) {
     switch ($language) {
         case "cs":
             return true;
@@ -90,21 +93,46 @@ function checkLanguage($language) {
     }
 }
 
-function getTableNameFromLanguageAbr($language){
+function getTableNameFromLanguageAbr(string $language){
     switch ($language) {
         case "cs":
-            return "czech";
+            return "vocabulary_czech";
         case "sk":
-            return "slovak";
+            return "vocabulary_slovak";
         case "de":
-            return "german";
+            return "vocabulary_german";
         case "ru":
-            return "russian";
+            return "vocabulary_russian";
         case "es":
-            return "spanish";
+            return "vocabulary_spanish";
         case "en":
-            return "english";
+            return "vocabulary_english";
         default :
-            return false;
+            return  false;
     }
+}
+
+function getFullPartOfSpeech(string $abbraviation){
+    switch ($abbraviation){
+        case "n":
+            return "noun";
+        case "v":
+            return 'verb';
+        case "adj":
+            return "adjective";
+        case "adv":
+            return "adverb";
+        case "pron":
+            return "pronoun";
+        case "prep":
+            return "preposition";
+        case "conj":
+            return "conjunction";
+        case "interj":
+            return "interjection";
+    }
+}
+
+function getPartsOfSpeechAbbreviations(){
+    return array('n','v','adj','adv','pron','prep','conj','interj');
 }

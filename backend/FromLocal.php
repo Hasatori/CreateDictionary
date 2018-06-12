@@ -1,8 +1,8 @@
 <?php
-function createFromLocal($english_group=null,$separator=null){
+function createFromLocal(string $english_group=null,string $separator=null){
     $db = connectToDatabase();
 
-    if ($db == null) {
+    if ( $db == null) {
         $_SESSION['error'] = array(true, "Není spojení s databází");
 
         return false;
@@ -43,7 +43,7 @@ $files= listDirectory("fromLocalDic/categories/".$english_group);
                     array_push($firstArray,$words[0]);
                     array_push($secondArray,str_replace(array("\r", "\n"), ' ', $words[1]));
 
-                insertFromLocal($db,$words[0],$words[1],$countingVal,$partOfSpeechVal,$typeVal,$english_group);
+                insertFromLocal( $db,$words[0],$words[1],$countingVal,$partOfSpeechVal,$typeVal,$english_group);
                 }else{
 
                     $secondArray[count($secondArray)-1]=$secondArray[count($secondArray)-1].str_replace(array("\r", "\n"), '', $words[0]);
@@ -64,14 +64,14 @@ $result = array($firstArray,$secondArray,$counting,$partOfSpeech,$type);
 return json_encode($result,true);
 }
 
-function getcountingType($value){
+function getcountingType(string $value){
 switch ($value){
     case '[C]':return "countable";
     case '[U]':return "uncountable";
     default: return '';
 }
 }
-function getTypeAndPartOfSpeech($value){
+function getTypeAndPartOfSpeech(string $value){
 
     switch (trim($value)){
         case 'n':
@@ -89,24 +89,21 @@ function getTypeAndPartOfSpeech($value){
         case 'adv':
             return array('word','adverb');
         case 'advp':
-            return array('prase','adverb');
+            return array('phrase','adverb');
         default:
             return  array('','');
     }
 }
-function insertFromLocal($db,$value,$explanation,$counting,$partOfSpeech,$type,$english_group){
-    if(vocExists($db,$value)){
+function insertFromLocal(PDO $db,$value,$explanation,$counting,$partOfSpeech,$type,$english_group){
+    if(vocExists( $db,$value)){
      updateExisting($db,$value,$explanation,$counting,$partOfSpeech,$type,$english_group);
     }else{
-         insertNewVoc($db,$value,$partOfSpeech,$type,null,null,$explanation,$english_group,$counting);
+         insertNewVoc( $db,$value,$partOfSpeech,$type,null,null,$explanation,$english_group,$counting);
     }
 
 }
-function updateExisting($db,$value,$type,$topic,$partOfSpeech,$pronounciation,$explanation,$examples,$synonyms,$english_group,$grammarCategory,$counting){
-
-
-
-    $query = $db->prepare("UPDATE english SET 
+function updateExisting(PDO $db,$value,$type,$topic,$partOfSpeech,$pronounciation,$explanation,$examples,$synonyms,$english_group,$grammarCategory,$counting){
+    $query = $db->prepare("UPDATE vocabulary_english SET 
                          type=:type,
                          topic=:topic,
                          partOfSpeech=:partOfSpeech,
@@ -155,15 +152,15 @@ if($vocabulary==="101"){
 function uploadPhrasalVerbs(){
     $db = connectToDatabase();
 
-    if ($db == null) {
+    if ( $db == null) {
         $_SESSION['error'] = array(true, "Není spojení s databází");
 
         return false;
     }
     if (($handle = fopen(__DIR__."/../sources/fromLocalDic/phrasalVerbs/phrasalVerbs.csv", "r")) !== FALSE) {
         while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-if(vocExists($db,$data[0])){
-    $vocabulary=getVocabulary($db,$data[0]);
+if(vocExists( $db,$data[0])){
+    $vocabulary=getVocabulary( $db,$data[0]);
 
 
     updateExisting(
@@ -181,7 +178,7 @@ if(vocExists($db,$data[0])){
         $vocabulary['counting']
     );
 }else{
-  insertNewVoc($db,$data[0],'phrase',null,'verb',null,$data[1],$data[2],null,null,'phrasal verbs',null);
+  insertNewVoc( $db,$data[0],'phrase',null,'verb',null,$data[1],$data[2],null,null,'phrasal verbs',null);
 
 }
 

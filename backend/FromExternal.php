@@ -1,6 +1,6 @@
 <?php
 
-function uploadDictionaryToDatabase($file,$language) {
+function uploadDictionaryToDatabase() {
     $db = connectToDatabase();
 
     if ($db == null) {
@@ -13,8 +13,8 @@ function uploadDictionaryToDatabase($file,$language) {
         while (($data = fgetcsv($handle, 0, "#")) !== FALSE) {
             if($row == 0){ $row++; continue; }
           try {
-                if (vocExists($db, $data[0])) {
-                    insertExistingVoc($db
+                if (vocExists( $db, $data[0])) {
+                    insertExistingVoc( $db
                             ,getTableNameFromLanguageAbr($language)
                             ,$data[0]
                             ,$data[1]
@@ -22,11 +22,11 @@ function uploadDictionaryToDatabase($file,$language) {
                             ,$data[3]);
                 }else{
                     $db ->beginTransaction();
-                    insertNewVoc($db
+                    insertNewVoc( $db
                             ,$data[0]
                             ,$data[2]
                             );
-                            insertExistingVoc($db
+                            insertExistingVoc( $db
                             ,getTableNameFromLanguageAbr($language)
                             ,$data[0]
                             ,$data[1]
