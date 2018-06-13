@@ -8,8 +8,8 @@ if(isset($_POST['type'])){
             datamuseGetVocabularies();
             break;
         case 'uploadVocabularies':
-            datamuseUploadVocabularies();
-            break;
+          echo  datamuseUploadVocabularies();
+            exit();
 
     }
 
@@ -24,7 +24,12 @@ buildNavBar("Datamuse API");
 
     <button class="btn btn-success" onclick="datamuseApiAction('uploadVocabularies')">Nahrát data</button>
 
+    <div class="form-group">
+        <label for="result">Výsledek</label>
+        <textarea class="form-control rounded-0" id="result" rows="8"></textarea>
     </div>
-</div>
+
+    </div>
+
 <?php
 buildFooter();

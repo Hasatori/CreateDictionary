@@ -1,189 +1,227 @@
 <?php
-function createFromLocal(string $english_group=null,string $separator=null){
+function uploadGroup(string $english_group = null, string $separator = null)
+{
     $db = connectToDatabase();
 
-    if ( $db == null) {
+    if ($db == null) {
         $_SESSION['error'] = array(true, "Není spojení s databází");
 
         return false;
     }
-$files= listDirectory("fromLocalDic/categories/".$english_group);
-    $firstArray=array();
-    $partOfSpeech=array();
-    $type=array();
-    $counting=array();
-    $secondArray=array();
-    $partsOfSpeech=array(" n ", " np ", " v ", " vp ", " adj ", ' adjp ', " adv ", " advp ",' pp ');
-    foreach ($files as $fileName){
-      //  $result=$result.PHP_EOL. '####################  START  ####################'.PHP_EOL;
-        $myfile = fopen(__DIR__."/../sources/fromLocalDic/categories/CAE/".$fileName, "r") or die("Unable to open file!");
+    $files = listDirectory("fromLocalDic/categories/" . $english_group);
+    $firstArray = array();
+    $partOfSpeech = array();
+    $type = array();
+    $counting = array();
+    $secondArray = array();
+    $partsOfSpeech = array(" n ", " np ", " v ", " vp ", " adj ", ' adjp ', " adv ", " advp ", ' pp ');
+    $db->beginTransaction();
+    try {
+    foreach ($files as $fileName) {
+        //  $result=$result.PHP_EOL. '####################  START  ####################'.PHP_EOL;
+        $myfile = fopen(__DIR__ . "/../sources/fromLocalDic/categories/CAE/" . $fileName, "r") or die("Unable to open file!");
 
-        $count=0;
+        $count = 0;
 
-        while(!feof($myfile)) {
+        while (!feof($myfile)) {
 
-            if($count>6) {
-                $line=fgets($myfile);
-                if(strpos($line,'Complete CAE')!==false){
+            if ($count > 6) {
+                $line = fgets($myfile);
+                if (strpos($line, 'Complete CAE') !== false) {
                     continue;
                 }
-                $words=preg_split('/'.$separator.'/',$line);
-                if(count($words)>1){
-                    preg_match('/\[.*\]/',$words[0],$countingType);
-                    preg_match('/( n )|( np )|( v )|( vp )|( adj )|( adjp )|( adv )|( advp )|( pp )/',$words[0],$partOfSpeechAndType);
-                    $countingVal=getcountingType(@$countingType[0]);
-                    $partOfSpeechVal=getTypeAndPartOfSpeech(@$partOfSpeechAndType[0])[1];
-                    $typeVal=getTypeAndPartOfSpeech(@$partOfSpeechAndType[0])[0];
-                    array_push($counting,$countingVal);
-                    array_push($partOfSpeech,$partOfSpeechVal);
-                    array_push($type,$typeVal);
-                    $words[0]=str_replace($partsOfSpeech,'',$words[0]);
-                    $words[0]=preg_replace('/\[.*\]/','',$words[0]);
-                    $words[0]=preg_replace('/\s[a-z]+\+[a-z]+\s/','',$words[0]);
-                    array_push($firstArray,$words[0]);
-                    array_push($secondArray,str_replace(array("\r", "\n"), ' ', $words[1]));
+                $words = preg_split('/' . $separator . '/', $line);
+                if (count($words) > 1) {
+                    preg_match('/\[.*\]/', $words[0], $countingType);
+                    preg_match('/( n )|( np )|( v )|( vp )|( adj )|( adjp )|( adv )|( advp )|( pp )/', $words[0], $partOfSpeechAndType);
+                    $countingVal = getcountingType(@$countingType[0]);
+                    $partOfSpeechVal = getTypeAndPartOfSpeech(@$partOfSpeechAndType[0])[1];
+                    $typeVal = getTypeAndPartOfSpeech(@$partOfSpeechAndType[0])[0];
+                    array_push($counting, $countingVal);
+                    array_push($partOfSpeech, $partOfSpeechVal);
+                    array_push($type, $typeVal);
+                    $words[0] = str_replace($partsOfSpeech, '', $words[0]);
+                    $words[0] = preg_replace('/\[.*\]/', '', $words[0]);
+                    $words[0] = preg_replace('/\s[a-z]+\+[a-z]+\s/', '', $words[0]);
+                    array_push($firstArray, $words[0]);
+                    array_push($secondArray, str_replace(array("\r", "\n"), ' ', $words[1]));
 
-                insertFromLocal( $db,$words[0],$words[1],$countingVal,$partOfSpeechVal,$typeVal,$english_group);
-                }else{
 
-                    $secondArray[count($secondArray)-1]=$secondArray[count($secondArray)-1].str_replace(array("\r", "\n"), '', $words[0]);
+                    if (vocExists($db, $words[0])) {
+                        $vocabulary = getVocabulary($db, $words[0]);
+                        updateExisting(
+                            $db,
+                            'english',
+                            $vocabulary['english_value'],
+                            $typeVal,
+                            $vocabulary['topic'],
+                            $partOfSpeechVal,
+                            $vocabulary['english_pronunciation'],
+                            $words[1],
+                            $vocabulary['english_examples'],
+                            $vocabulary['english_synonyms'],
+                            $english_group,
+                            $vocabulary['grammar_category'],
+                            $countingVal,
+                            $vocabulary['frequency'],
+                            $vocabulary['origin']
+                        );
+                    } else {
+                        insertNewVoc($db, 'english', $words[0], $typeVal, '', $partOfSpeechVal, '', $words[1],'', '', $english_group, '', $countingVal, '', 'original');
+
+                    }
+                } else {
+
+                    $secondArray[count($secondArray) - 1] = $secondArray[count($secondArray) - 1] . str_replace(array("\r", "\n"), '', $words[0]);
                 }
 
-            }else {
+            } else {
                 fgets($myfile);
-            }  $count++;
+            }
+            $count++;
         }
         fclose($myfile);
 
-       /** for ($i=0;$i<count($firstArray);$i++){
-            $result=$result. $firstArray[$i].$counting[$i].' '.$partOfSpeech[$i].' '.$type[$i].'='.$secondArray[$i].PHP_EOL;
-        }
-        $result=$result.PHP_EOL. '####################  STOP  ####################'.PHP_EOL; */
+        /** for ($i=0;$i<count($firstArray);$i++){
+         * $result=$result. $firstArray[$i].$counting[$i].' '.$partOfSpeech[$i].' '.$type[$i].'='.$secondArray[$i].PHP_EOL;
+         * }
+         * $result=$result.PHP_EOL. '####################  STOP  ####################'.PHP_EOL; */
     }
-$result = array($firstArray,$secondArray,$counting,$partOfSpeech,$type);
-return json_encode($result,true);
+    } catch (PDOException $message) {
+        $db->rollBack();
+        return PHP_EOL . $message . PHP_EOL;
+
+    }
+    if ($db->commit() === false) {
+        $db->rollBack();
+        return PHP_EOL . "Vložení hodnot se nezdařilo" . PHP_EOL;
+
+    }
+
+    return PHP_EOL . 'Hodnoty vloženy' . PHP_EOL;
+
 }
 
-function getcountingType(string $value){
-switch ($value){
-    case '[C]':return "countable";
-    case '[U]':return "uncountable";
-    default: return '';
-}
-}
-function getTypeAndPartOfSpeech(string $value){
+function insertFromLocal(PDO $db, $value, $explanation, $counting, $partOfSpeech, $type, $english_group)
+{
+    if (vocExists($db, $value)) {
+        updateExisting($db, $value, $explanation, $counting, $partOfSpeech, $type, $english_group);
+    } else {
+        insertNewVoc($db, $value, $partOfSpeech, $type, null, null, $explanation, $english_group, $counting);
+    }
 
-    switch (trim($value)){
-        case 'n':
-            return array('word','noun');
-        case 'np':
-            return array('phrase','noun');
-        case 'v':
-            return array('word','verb');
-        case 'vp':
-            return array('phrase','verb');
-        case 'adj':
-            return array('word','adjective');
-        case 'adjp':
-            return array('phrase','adjective');
-        case 'adv':
-            return array('word','adverb');
-        case 'advp':
-            return array('phrase','adverb');
+}
+
+function getcountingType(string $value=null)
+{
+    switch ($value) {
+        case '[C]':
+            return "countable";
+        case '[U]':
+            return "uncountable";
         default:
-            return  array('','');
+            return '';
     }
 }
-function insertFromLocal(PDO $db,$value,$explanation,$counting,$partOfSpeech,$type,$english_group){
-    if(vocExists( $db,$value)){
-     updateExisting($db,$value,$explanation,$counting,$partOfSpeech,$type,$english_group);
-    }else{
-         insertNewVoc( $db,$value,$partOfSpeech,$type,null,null,$explanation,$english_group,$counting);
+
+function getTypeAndPartOfSpeech(string $value=null)
+{
+
+    switch (trim($value)) {
+        case 'n':
+            return array('word', 'noun');
+        case 'np':
+            return array('phrase', 'noun');
+        case 'v':
+            return array('word', 'verb');
+        case 'vp':
+            return array('phrase', 'verb');
+        case 'adj':
+            return array('word', 'adjective');
+        case 'adjp':
+            return array('phrase', 'adjective');
+        case 'adv':
+            return array('word', 'adverb');
+        case 'advp':
+            return array('phrase', 'adverb');
+        default:
+            return array('', '');
     }
-
-}
-function updateExisting(PDO $db,$value,$type,$topic,$partOfSpeech,$pronounciation,$explanation,$examples,$synonyms,$english_group,$grammarCategory,$counting){
-    $query = $db->prepare("UPDATE vocabulary_english SET 
-                         type=:type,
-                         topic=:topic,
-                         partOfSpeech=:partOfSpeech,
-                         pronounciation=:pronounciation,
-                         explanation=:explanation,
-                         examples=:examples,
-                         synonyms=:synonyms,
-                         english_group=:english_group,
-                         grammarCategory=:grammarCategory,
-                         counting=:counting
-                        WHERE english_value=:english_value");
-var_dump($query);
-   $query->execute([
-       ':english_value'=>$value,
-       ':type'=>$type,
-       ':topic'=>$topic,
-       ':partOfSpeech'=>$partOfSpeech,
-       ':pronounciation'=>$pronounciation,
-       ':explanation'=>$explanation,
-       ':examples'=>$examples,
-       ':synonyms'=>$synonyms,
-       ':english_group'=>$english_group,
-       ':grammarCategory'=>$grammarCategory,
-       ':counting'=>$counting
-    ]);
-
 }
 
-function uploadPronouncation(){
-  $json=json_decode(file_get_contents(__DIR__."/../sources/fromLocalDic/pronounciation/pronounciations.json"));
 
-global $allowed;
-    $allowed=false;
+function uploadPronouncation()
+{
+    $json = json_decode(file_get_contents(__DIR__ . "/../sources/fromLocalDic/pronounciation/pronounciations.json"));
 
-foreach ($json as $vocabulary => $link){
-   if($allowed===true){
-   @file_put_contents(__DIR__. '/../sources/fromLocalDic/pronounciation/audioFiles/'.$vocabulary.'.mp3', @file_get_contents($link, 'r'));
-}
-if($vocabulary==="101"){
+    global $allowed;
+    $allowed = false;
 
-    $allowed=true;
-}
-}
+    foreach ($json as $vocabulary => $link) {
+        if ($allowed === true) {
+            @file_put_contents(__DIR__ . '/../sources/fromLocalDic/pronounciation/audioFiles/' . $vocabulary . '.mp3', @file_get_contents($link, 'r'));
+        }
+        if ($vocabulary === "101") {
+
+            $allowed = true;
+        }
+    }
 }
 
-function uploadPhrasalVerbs(){
+function uploadPhrasalVerbs()
+{
     $db = connectToDatabase();
 
-    if ( $db == null) {
+    if ($db == null) {
         $_SESSION['error'] = array(true, "Není spojení s databází");
 
         return false;
     }
-    if (($handle = fopen(__DIR__."/../sources/fromLocalDic/phrasalVerbs/phrasalVerbs.csv", "r")) !== FALSE) {
-        while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-if(vocExists( $db,$data[0])){
-    $vocabulary=getVocabulary( $db,$data[0]);
+    if (($handle = fopen(__DIR__ . "/../sources/fromLocalDic/phrasalVerbs/phrasalVerbs.csv", "r")) !== FALSE) {
 
+        $db->beginTransaction();
+        try {
+            while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
 
-    updateExisting(
-        $db,
-        $vocabulary['english_value'],
-        $vocabulary['type'],
-        $vocabulary['topic'],
-        $vocabulary['partOfSpeech'],
-        $vocabulary['pronounciation'],
-        $data[1],
-        $data[2],
-        $vocabulary['synonyms'],
-        $vocabulary['english_group'],
-        'phrasal verbs',
-        $vocabulary['counting']
-    );
-}else{
-  insertNewVoc( $db,$data[0],'phrase',null,'verb',null,$data[1],$data[2],null,null,'phrasal verbs',null);
+                if (vocExists($db, $data[0])) {
+                    $vocabulary = getVocabulary($db, $data[0]);
+                    updateExisting(
+                        $db,
+                        'english',
+                        $vocabulary['english_value'],
+                        $vocabulary['type'],
+                        $vocabulary['topic'],
+                        'verb',
+                        $vocabulary['english_pronunciation'],
+                        $data[1],
+                        $data[2],
+                        $vocabulary['english_synonyms'],
+                        $vocabulary['group_name'],
+                        'phrasal verbs',
+                        $vocabulary['english_counting'],
+                        $vocabulary['frequency'],
+                        $vocabulary['origin']
+                    );
+                } else {
+                    insertNewVoc($db, 'english', $data[0], 'phrase', '', 'verb', '', $data[1], $data[2], '', '', 'phrasal verbs', '', '', 'original');
 
-}
+                }
+
+            }
+        } catch (PDOException $message) {
+            $db->rollBack();
+            return PHP_EOL . $message . PHP_EOL;
 
         }
+        if ($db->commit() === false) {
+            $db->rollBack();
+            return PHP_EOL . "Vložení hodnot se nezdařilo" . PHP_EOL;
+
+        }
+
         fclose($handle);
+        return PHP_EOL . 'Hodnoty vloženy' . PHP_EOL;
+
     }
 
 }

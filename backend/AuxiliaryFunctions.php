@@ -23,36 +23,80 @@ function listDirectory(string $dir) {
 }
 
 
-function vocExists(PDO $db,string  $val) {
+function vocExists(PDO $db,string  $val=null) {
 
-    $query = $db->prepare("SELECT * FROM vocabulary_english where english_value=:val");
+    $query = $db->prepare("SELECT * FROM vocabulary_english where english_value=:val LIMIT 1");
     $query->execute([':val' => $val]);
     $result = $query->fetchAll(PDO::FETCH_ASSOC);
     return count($result) === 1 ? true : false;
 }
 
-function insertNewVoc(PDO $db,string $value,string $type,string $topic,
-                      string $partOfSpeech,string $pronounciation,string $explanation,
-                      string $examples,string $synonyms,string $english_group,string $grammarCategory,string $counting){
+function insertNewVoc(PDO $db,string $language,string $value,string $type,string $topic,
+                      string $partOfSpeech,string $pronunciation,string $explanation,
+                      string $examples,string $synonyms,string $groupName,string $grammarCategory,string $counting,string $frequency,string $origin){
+    if($language==='english') {
+        $query = $db->prepare("INSERT INTO vocabulary_english (english_value,type, topic, english_part_of_speech, english_pronunciation, english_explanation, english_examples, english_synonyms, group_name, grammar_category, english_counting, frequency,origin)"
+            . " VALUES(:value,:type,:topic,:partOfSpeech,:pronunciation,:explanation,:examples,:synonyms,:groupName,:grammarCategory,:counting,:frequency,:origin)");
+        $query->execute([
+            ':value' => $value,
+            ':type' => $type,
+            ':topic' => $topic,
+            ':partOfSpeech' => $partOfSpeech,
+            ':pronunciation' => $pronunciation,
+            ':explanation' => $explanation,
+            ':examples' => $examples,
+            ':synonyms' => $synonyms,
+            ':groupName' => $groupName,
+            ':grammarCategory' => $grammarCategory,
+            ':counting' => $counting,
+            ':frequency' => $frequency,
+            ':origin' => $origin
+        ]);
+    }else{
 
-    $query = $db->prepare("INSERT INTO vocabulary_english (english_value,`type`,`topic`,`partOfSpeech`,`pronounciation`,`explanation`,`examples`,`synonyms`,`english_group`,`grammarCategory`,`counting`)"
-        . " VALUES(:english_value,:type,:topic,:partOfSpeech,:pronounciation,:explanation,:examples,:synonyms,:english_group,:grammarCategory,:counting)");
-    $query->execute([
-        ':english_value'=>$value,
-        ':type'=>$type,
-        ':topic'=>$topic,
-        ':partOfSpeech'=>$partOfSpeech,
-        ':pronounciation'=>$pronounciation,
-        ':explanation'=>$explanation,
-        ':examples'=>$examples,
-        ':synonyms'=>$synonyms,
-        ':english_group'=>$english_group,
-        ':grammarCategory'=>$grammarCategory,
-        ':counting'=>$counting
 
-    ]);
+    }
 }
+function updateExisting(PDO $db,string $language,string $value,string $type,string $topic,
+                        string $partOfSpeech,string $pronunciation,string $explanation,
+                        string $examples,string $synonyms,string $groupName,string $grammarCategory,string $counting,string $frequency,string $origin){
+    if($language==='english') {
+    $query = $db->prepare("UPDATE vocabulary_english SET 
+                         type=:type,
+                         topic=:topic,
+                         english_part_of_speech=:partOfSpeech,
+                         english_pronunciation=:pronunciation,
+                         english_explanation=:explanation,
+                         english_examples=:examples,
+                         english_synonyms=:synonyms,
+                         group_name=:groupName,
+                         grammar_category=:grammarCategory,
+                         english_counting=:counting,
+                         frequency=:frequency,
+                         origin=:origin
+                        WHERE english_value=:value");
 
+        $query->execute([
+            ':value' => $value,
+            ':type' => $type,
+            ':topic' => $topic,
+            ':partOfSpeech' => $partOfSpeech,
+            ':pronunciation' => $pronunciation,
+            ':explanation' => $explanation,
+            ':examples' => $examples,
+            ':synonyms' => $synonyms,
+            ':groupName' => $groupName,
+            ':grammarCategory' => $grammarCategory,
+            ':counting' => $counting,
+            ':frequency' => $frequency,
+            ':origin' => $origin
+        ]);
+    }else{
+
+
+    }
+
+}
 function insertExistingVoc(PDO $db,string $language,string $englishValue,string $targetValue,string $partOfSpeech,string $synonyms) {
     $columnName=$language.'_value';
     $query = $db->prepare("INSERT INTO $language (`english_value`,`$columnName`"
@@ -135,4 +179,14 @@ function getFullPartOfSpeech(string $abbraviation){
 
 function getPartsOfSpeechAbbreviations(){
     return array('n','v','adj','adv','pron','prep','conj','interj');
+}
+
+function getVocabularies(PDO $db,string $language){
+    $tableName='vocabulary_'.$language;
+    $columnName=$language.'_value';
+
+    $query = $db->prepare("SELECT $columnName FROM $tableName");
+    $query->execute();
+    return $query->fetchAll();
+
 }

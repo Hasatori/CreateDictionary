@@ -1,97 +1,85 @@
 <?php
 require_once 'backend/Libraries.php';
-if (isset($_POST['startFromExternal']) && isset($_POST['resultFile']) && isset($_POST['sourceFile'])) {
-    $sourceFile = $_POST['sourceFile'];
-    $resultFile = $_POST['resultFile'];
-    if ($sourceFile == '') {
-        $error = json_encode(array(false, "Chybí zdrojový soubor"));
-        echo $error;
-        exit();
-    } else if ($resultFile == '') {
-        $error = json_encode(array(false, "Chybí cílový soubor"));
-        echo $error;
-        exit();
-    } else if ($_POST['startFromExternal'] == true) {
-        $fp = fopen(__DIR__ . '/sources/fromExternalDic/' . $resultFile, 'w');
-        $row = array('First_value', 'Second_value', 'Part_of_Speech', 'Synonyms');
-        fputcsv($fp, $row, '#');
-        fclose($fp);
-        $success = json_encode(true);
-        echo $success;
-        exit();
-    }
-}
+if (isset($_POST['start']) && isset($_POST['resultLanguage'])) {
+    $resultLanguage = $_POST['resultLanguage'];
+    $db = connectToDatabase();
 
-if (isset($_POST['result']) && isset($_POST['resultFile'])) {
-    $resultFile = $_POST['resultFile'];
-    $result = $_POST['result'];
-    
-    if ($resultFile == '') {
-        $_SESSION['error'] = "Chybí cílový soubor";
-        header("location:BASE");
-        exit();
-    } else {
-        $fp = fopen(__DIR__ . '/sources/fromExternalDic/' . $resultFile, 'a');
-            fputcsv($fp, $result, '#');
-  fclose($fp);
-        exit();
+    if ($db == null) {
+        echo json_encode(array(false, "Není spojení s databází"));
     }
+    $vocabularies = getVocabularies($db, 'english');
+    $path = __DIR__ . '/sources/fromExternalResults/' . $resultLanguage . '_result.txt';
+    $resultFile = file_put_contents($path, '');
+    echo  json_encode($vocabularies);
+    exit();
+    /*  //var_dump($vocabularies);
+      $path = __DIR__.'/sources/fromExternalResults/'.$resultLanguage.'_result.json';
+      $resultFile = file_put_contents($path,'[');
+
+      foreach ($vocabularies as $key=>$vocabulary){
+          $value = $vocabularies[$key][0];
+          @file_put_contents($path,@file_get_contents("https://dictionary.yandex.net/dicservice.json/lookupMultiple?ui=en&srv=tr-text&sid=b85e299c.5b0c66ee.b4b73bca&text=" . $value. "&dict=en-" . $resultLanguage . ".regular&flags=103",true).',',FILE_APPEND);
+      }
+
+      $resultFile = file_put_contents($path,']',FILE_APPEND);
+      echo 'Překlady do '.$resultLanguage.' provedeny';
+      exit();*/
 }
-if(isset($_POST['loadFile'])&& isset($_POST['firstLanguage'])&&isset($_POST['secondLanguage'])){
-   $loadFile = $_POST['loadFile'];
-    if ($loadFile == '') {
-        $_SESSION['error'] = "Chybí soubor k nahrání";
-        header("location:".BASE);
-        exit();
-    } else {
-    
-    }
-} 
-buildHeader("Externí služba");
-buildNavBar("Externí služba");
+if (isset($_POST['result']) && isset($_POST['resultLanguage'])) {
+    $resultLanguage = $_POST['resultLanguage'];
+    $path = __DIR__ . '/sources/fromExternalResults/' . $resultLanguage . '_result.txt';
+    @file_put_contents($path, serialize($_POST['result']).PHP_EOL, FILE_APPEND);
+    exit();
+}
+buildHeader("Yandex API");
+buildNavBar("Yandex API");
 ?>
-  
-   
-    <div class="container">
-        <label class="btn btn-default">
-            Zdroj: <input type="file" hidden id="sourceFile" >
-        </label>
-        <label class="btn btn-default">
-            Jazyk zdroje: <select class='selectpicker'>
-               <?php
-               $list= listDirectory('fromExternalDic');
-               foreach ($list as $fileName){
-                   echo '<option>'.$fileName.'</option>';
-               }
 
-                   ?>
+    <div class="row localSection">
+        <div class="container">
 
-            </select>
-        </label>
-        <label class="btn btn-default">
-            Uložit do souboru: <input type="file" hidden id="resultFile" >
-        </label>
-        <label class="btn btn-default">
-            Jazyk zdroje: <select class='selectpicker' id="sourceLanguage">
-                <option selected>en</option>
+            <label class="btn btn-default">
+                Překlad do: <select class='selectpicker' id="resultLanguage">
+                    <option value="cs">Čeština</option>
+                    <option value="de">Němčina</option>
+                    <option value="ru">Ruština</option>
+                    <option value="sl">Slovenština</option>
+                    <option value="es">Španělština</option>
 
-            </select>
-        </label>
-        <label class="btn btn-default">
-            Překlad do: <select class='selectpicker' id="resultLanguage">
+                </select>
+            </label>
 
-
-            </select>
-        </label>
-
-        <label class="btn btn-default">
-            Delay: <input type="number" id="delay" min="50" max="1000" value="50">
-        </label>
-                <br/>
-<br/>
-        <button class="btn btn-success" onclick="startFromExternal()">Začít</button>  <button class="btn btn-danger" onclick="document.location.reload();">Ukončit</button>
+            <label class="btn btn-default">
+                Delay: <input type="number" id="delay" min="50" max="1000" value="50">
+            </label>
+            <br/>
+            <br/>
+            <button class="btn btn-success" onclick="startFromExternal()">Začít</button>
+            <button class="btn btn-danger" onclick="document.location.reload();">Ukončit</button>
+        </div>
     </div>
+    <!--<div class="row localSection">
+          <div class="container">
+              <div class="form-group">
+                  <label for="result">Výsledek</label>
+                  <textarea class="form-control rounded-0" id="result" rows="8"></textarea>
+              </div>
+
+          </div>
+      </div>-->
+
+    <div class="row localSection">
+        <div class="container">
+
+            <div class="form-group">
+                <label for="result">Aktuální slovíčko</label>
+                <input type="text" value="" id="result" class="form-control" readonly>
+
+            </div>
+        </div>
+    </div>
+
 <?php
-    buildeProgressBar();
-    buildFooter();
+buildeProgressBar();
+buildFooter();
 

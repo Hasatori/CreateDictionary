@@ -10,6 +10,9 @@ buildNavBar("Oxford Dictionaries API");
 ?>
 
 <button class="btn btn-success" onclick="uploadOxfordApiWordLists()">Zkusit</button>
-<p id="result"></p>
+    <div class="form-group">
+        <label for="result">Výsledek</label>
+        <textarea class="form-control rounded-0" id="result" rows="8"></textarea>
+    </div>
 <?php
 buildFooter();

@@ -26,9 +26,9 @@ function buildNavBar($heading){
       <a class="navbar-brand" href="#">API zkoušení slovíček</a>
     </div>
     <ul class="nav navbar-nav">
-         <li id="index"><a href="<?= BASE ?>index.php">Externí služba</a></li>
+         <li id="index"><a href="<?= BASE ?>index.php">Yandex API</a></li>
          <li id="local"><a href="<?= BASE ?>local.php">Ze souboru</a></li>
-         <li id="upload"><a href="<?= BASE ?>upload.php">Náhávání</a></li>
+         <li id="upload"><a href="<?= BASE ?>upload.php">Náhrávání</a></li>
          <li id="oxfordDicApi"><a href="<?= BASE ?>oxfordDicApi.php">Oxford API</a></li>
         <li id="translationApi"><a href="<?= BASE ?>translationApi.php">Překladač API</a></li>
         <li id="datamuseApi"><a href="<?= BASE ?>datamuseApi.php">Datamuse API</a></li>

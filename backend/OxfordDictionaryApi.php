@@ -1,42 +1,78 @@
 <?php
-function uploadTopicLists(){
+function uploadTopicLists()
+{
     $db = connectToDatabase();
 
-    if ( $db == null) {
+    if ($db == null) {
         $_SESSION['error'] = array(true, "Není spojení s databází");
 
         return false;
     }
 
-    $topicLists=listDirectory("oxfordDictionaryApi/topicWordLists");
-    $path=__DIR__."/../sources/oxfordDictionaryApi/topicWordLists/";
+    $topicLists = listDirectory("oxfordDictionaryApi/topicWordLists");
+    $path = __DIR__ . "/../sources/oxfordDictionaryApi/topicWordLists/";
+    $db->beginTransaction();
+    try {
 
-    foreach ($topicLists as $topicList){
-    $file = file_get_contents($path.$topicList);
-    $json = json_decode($file,true);
-    $results = $json["results"];
-    $topic = str_replace('.json','',$topicList);
+        foreach ($topicLists as $topicList) {
+            $file = file_get_contents($path . $topicList);
+            $json = json_decode($file, true);
+            $results = $json["results"];
+            $topic = str_replace('.json', '', $topicList);
 
-  foreach ($results as $value ){
+            foreach ($results as $value) {
+                if (!isset($value['word'])) {
+                    continue;
+                }
+                if (vocExists($db, @$value['word'])) {
+                    $vocabulary = getVocabulary($db, $value['word']);
 
-if(vocExists( $db,$value['word'])){
-    updateExisting( $db,$value['word'],$topic,null,null,null,'word',null);
-}else{
-    insertNewVoc( $db,$value['word'],null,'word',$topic,null,null,null,null);
-}
+                    updateExisting(
+                        $db,
+                        'english',
+                        $vocabulary['english_value'],
+                        $vocabulary['type'],
+                        $topic,
+                        $vocabulary['english_part_of_speech'],
+                        $vocabulary['english_pronunciation'],
+                        $vocabulary['english_explanation'],
+                        $vocabulary['english_examples'],
+                        $vocabulary['english_synonyms'],
+                        $vocabulary['group_name'],
+                        $vocabulary['grammar_category'],
+                        $vocabulary['english_counting'],
+                        $vocabulary['frequency'],
+                        $vocabulary['origin']
+                    );
+                } else {
+                    insertNewVoc($db, 'english', $value['word'], 'word', '', '', '', '', '', '', '', '', '', '', 'original');
+
+                }
+
+
+            }
+        }
+    } catch (PDOException $message) {
+        $db->rollBack();
+        return PHP_EOL . $message . PHP_EOL;
+
     }
+    if ($db->commit() === false) {
+        $db->rollBack();
+        return PHP_EOL . "Vložení hodnot se nezdařilo" . PHP_EOL;
+
     }
-return true;
+    return PHP_EOL . "Hodnoty vloženy" . PHP_EOL;
 }
 
 
+function processOxfordPost(array $post)
+{
+    $type = $post['type'];
 
-function processOxfordPost(array $post){
-    $type=$post['type'];
-
-    switch ($type){
+    switch ($type) {
         case "topicWordList":
-uploadTopicLists();
+            uploadTopicLists();
             break;
 
     }
