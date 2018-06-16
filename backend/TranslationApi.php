@@ -12,9 +12,9 @@ function translate(string $fromLanguage,string $toLanguage,string $firstValue){
         $_SESSION['error'] = array(true, "Toto slovíčko neznáme");
         return false;
     }*/
-    $fromTable=getTableNameFromLanguageAbr($fromLanguage);
+    $fromTable=getFullLanguageFromAbr($fromLanguage);
     $fromColumnName=$fromTable.'_value';
-    $toTable=getTableNameFromLanguageAbr($toLanguage);
+    $toTable=getFullLanguageFromAbr($toLanguage);
     $toColumnName=$toTable.'_value';
     $englishValue= getEnglishValue( $db,$fromTable,$fromColumnName,$firstValue);
 

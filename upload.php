@@ -1,18 +1,9 @@
 <?php
 require_once 'backend/Libraries.php';
+
 if (isset($_POST['sourceFile'])) {
-    ini_set('memory_limit', '-1');
-    $fileContent = file_get_contents(__DIR__ . '/sources/fromExternalResults/' . $_POST['sourceFile']);
-    $vocabularies = explode(PHP_EOL, $fileContent);
-    foreach ($vocabularies as $vocabulary) {
-        $results = unserialize($vocabulary);
-if($results['text']==="home"){
-    echo var_dump($results);
-}
-
-
-    }
-exit();
+   echo  uploadTranslation($_POST["sourceFile"]);
+    exit();
 }
 
 buildHeader("Nahrávání slovníků");
@@ -45,8 +36,4 @@ buildNavBar("Nahrávání slovníků");
         </div>
     </div>
 <?php
-
-buildeProgressBar();
-
-
 buildFooter();

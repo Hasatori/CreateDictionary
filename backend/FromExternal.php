@@ -15,7 +15,7 @@ function uploadDictionaryToDatabase() {
           try {
                 if (vocExists( $db, $data[0])) {
                     insertExistingVoc( $db
-                            ,getTableNameFromLanguageAbr($language)
+                            ,getFullLanguageFromAbr($language)
                             ,$data[0]
                             ,$data[1]
                             ,$data[2]
@@ -27,7 +27,7 @@ function uploadDictionaryToDatabase() {
                             ,$data[2]
                             );
                             insertExistingVoc( $db
-                            ,getTableNameFromLanguageAbr($language)
+                            ,getFullLanguageFromAbr($language)
                             ,$data[0]
                             ,$data[1]
                             ,$data[2]

@@ -8,29 +8,26 @@ localStorage.setItem('count', -1);
 localStorage.setItem("result", []);
 
 function startFromExternal() {
-    // $('.loaderWrapper').attr("style", "display:block;");
+    $('.loaderWrapper').attr("style", "display:block;");
 
     var resultLanguageSelect = document.getElementById("resultLanguage");
     var resultLanguage = resultLanguageSelect.options[resultLanguageSelect.selectedIndex].value;
 
-    $.post(BASE + "/index.php", {
+        $.post(BASE + "/index.php", {
 
-            'start': true,
-            'resultLanguage': resultLanguage
+                'start': true,
+                'resultLanguage': resultLanguage
+            }, function (data, textStatus, jqXHR) {
 
+            }
+        ).done(function (data) {
+            /**  var data = JSON.parse(data);
+             delayedLoop(50, data, 0, resultLanguage);
+             */
 
-        }, function (data, textStatus, jqXHR) {
-
-        }
-    ).done(function (data) {
-        var data = JSON.parse(data);
-        delayedLoop(50, data, 0, resultLanguage);
-
-
-        /*   $('.loaderWrapper').attr("style", "display:none;");
-           $('#result').val(data);*/
-    });
-
+            $('.loaderWrapper').attr("style", "display:none;");
+            $('#result').val(data);
+        });
 
 }
 
@@ -109,11 +106,11 @@ function delayedLoop(delay, data, i, resultLanguage) {
 
         $("#progressBar").css('width', progress + '%').attr('aria-valuenow', progress);
         $("#progressNumber").text(Math.round(progress * 100) / 100 + "%");
-        while (count < 10) {
-            processVocabulary(data, i, resultLanguage);
-            i++;
-            count++;
-        }
+        //  while (count < 10) {
+        processVocabulary(data, i, resultLanguage);
+        i++;
+        /*   count++;
+       }*/
         if (i % durationOffset === 0) {
             var stop = performance.now();
             var start = localStorage.getItem('startFromExternal');
@@ -136,23 +133,23 @@ function delayedLoop(delay, data, i, resultLanguage) {
 }
 
 function setDuration(expectedDutation) {
- let hours,minutes,seconds,rest;
+    let hours, minutes, seconds, rest;
 
     if (expectedDutation < 1) {
         expectedDutation = Math.round(60 * expectedDutation * 100) / 100 + 'sekund';
 
     } else if (expectedDutation > 60) {
-         hours = expectedDutation / 60;
-         rest = hours % 1;
+        hours = expectedDutation / 60;
+        rest = hours % 1;
         hours = hours - rest + 'hodin';
-         minutes = Math.round((rest) * 60 * 100) / 100 + " minut";
+        minutes = Math.round((rest) * 60 * 100) / 100 + " minut";
         expectedDutation = hours + ' ' + minutes;
     } else {
-         minutes=Math.round(expectedDutation * 100) / 100 ;
-         rest= minutes % 1;
-         minutes=minutes-rest;
-         seconds=Math.ceil(Math.round((rest)*60*100)/100);
-        expectedDutation = minutes+ ' minut a '+seconds+' sekund';
+        minutes = Math.round(expectedDutation * 100) / 100;
+        rest = minutes % 1;
+        minutes = minutes - rest;
+        seconds = Math.ceil(Math.round((rest) * 60 * 100) / 100);
+        expectedDutation = minutes + ' minut a ' + seconds + ' sekund';
     }
     $("#estimatedDuration").text("Předpokládáná doba trvání: " + expectedDutation);
 

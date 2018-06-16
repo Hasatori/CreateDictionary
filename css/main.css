@@ -24,6 +24,7 @@ footer{
   min-height: 2rem; }
 
 .navbar li {
+  background-color: #3B5998;
   border-right: 0.1rem solid #333333;
   border-left: 0.1rem solid #333333; }
 
@@ -32,6 +33,7 @@ footer{
   transition: all 0.5s; }
 
 .navbar li a:hover, .navbar-brand:hover {
+  background-color: #3B5998;
   color: white !important;
   transition: all 0.5s; }
 
