@@ -2,18 +2,14 @@
 function uploadTopicLists()
 {
     $db = connectToDatabase();
-
     if ($db == null) {
         $_SESSION['error'] = array(true, "Není spojení s databází");
-
         return false;
     }
-
     $topicLists = listDirectory("oxfordDictionaryApi/topicWordLists");
     $path = __DIR__ . "/../sources/oxfordDictionaryApi/topicWordLists/";
     $db->beginTransaction();
     try {
-
         foreach ($topicLists as $topicList) {
             $file = file_get_contents($path . $topicList);
             $json = json_decode($file, true);
@@ -26,27 +22,30 @@ function uploadTopicLists()
                 }
                 if (vocExists($db, @$value['word'])) {
                     $vocabulary = getVocabulary($db, $value['word']);
-
+                    $englishValue = $vocabulary['english_value'];
+                    if (substr($value['word'], 0, 1) === '-') {
+                        $englishValue = substr($value['word'], 1);
+                    };
                     updateExisting(
                         $db,
                         'english',
-                        $vocabulary['english_value'],
+                        $englishValue,
                         $vocabulary['type'],
                         $topic,
+                        $vocabulary['english_gender'],
                         $vocabulary['english_part_of_speech'],
                         $vocabulary['english_pronunciation'],
                         $vocabulary['english_explanation'],
                         $vocabulary['english_examples'],
-                        $vocabulary['english_synonyms'],
                         $vocabulary['group_name'],
                         $vocabulary['grammar_category'],
                         $vocabulary['english_counting'],
                         $vocabulary['frequency'],
                         $vocabulary['origin']
                     );
-                } else {
-                    insertNewVoc($db, 'english', $value['word'], 'word', '', '', '', '', '', '', '', '', '', '', 'original');
 
+                } else {
+                    insertNewVoc($db, 'english', $value['word'], '', 'word', $topic, '', '', '', '', '', '', '', '', '', 'original');
                 }
 
 
@@ -55,7 +54,6 @@ function uploadTopicLists()
     } catch (PDOException $message) {
         $db->rollBack();
         return PHP_EOL . $message . PHP_EOL;
-
     }
     if ($db->commit() === false) {
         $db->rollBack();

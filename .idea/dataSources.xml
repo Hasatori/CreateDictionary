@@ -4,7 +4,6 @@
     <data-source source="LOCAL" name="hrao01@localhost" uuid="36a18ef3-6a4c-4f98-ac8b-75bdd9acd65f">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
-      <configured-by-url>true</configured-by-url>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/hrao01</jdbc-url>
       <driver-properties>

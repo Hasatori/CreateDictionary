@@ -8,4 +8,5 @@ require_once "FromLocal.php";
 require_once "OxfordDictionaryApi.php";
 require_once "TranslationApi.php";
 require_once "DatamuseApi.php";
+require_once "GlosbeApi.php";
 require_once "UploadTranslations.php";

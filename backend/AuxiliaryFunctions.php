@@ -28,6 +28,13 @@ function vocExists(PDO $db, string $val = null)
     return count($result) === 1 ? true : false;
 }
 
+function synonymExists(PDO $db, string $val = null){
+    $query = $db->prepare("SELECT * FROM vocabulary_english_synonyms where english_value=:val LIMIT 1");
+    $query->execute([':val' => $val]);
+    $result = $query->fetchAll(PDO::FETCH_ASSOC);
+    return count($result) === 1 ? true : false;
+}
+
 function insertNewVoc(PDO $db, string $language, string $value, string $translationValue = null, string $type = null, string $topic = null, string $gender = null,
                       string $partOfSpeech = null, string $pronunciation = null, string $explanation = null,
                       string $examples = null, string $groupName = null, string $grammarCategory = null, string $counting = null, string $frequency = null, string $origin = null)
@@ -84,14 +91,38 @@ function insertNewVoc(PDO $db, string $language, string $value, string $translat
     }
 }
 
-function insertNewSynonym(PDO $db, string $language, $value, $synonym, $gender, $partOfSpeech)
+function insertNewSynonym(PDO $db, string $language, $value, $synonym, $gender, $partOfSpeech,$frequency=null)
 {
-    $tableName = 'vocabulary_' . $language . '_synonyms';
-    $valueColumn = $language . '_value';
-    $genderColumn = $language . '_gender';
-    $partOfSpeechColumn = $language . '_part_of_speech';
+    if ($language === 'english') {
+        $query = $db->prepare("INSERT INTO vocabulary_english_synonyms (
+                   english_value,
+                    synonym,
+                    english_gender,
+                    english_part_of_speech,
+                    frequency
+                    )
+                    VALUES(
+                    :value,
+                    :synonym,
+                    :gender,
+                    :partOfSpeech,
+                    :frequency
+                    )");
+        $query->execute([
+            ':value' => $value,
+            ':synonym' => $synonym,
+            ':gender' => $gender,
+            ':partOfSpeech' => $partOfSpeech,
+            ':frequency' => $frequency
+        ]);
+    } else {
 
-    $query = $db->prepare("INSERT INTO $tableName (
+        $tableName = 'vocabulary_' . $language . '_synonyms';
+        $valueColumn = $language . '_value';
+        $genderColumn = $language . '_gender';
+        $partOfSpeechColumn = $language . '_part_of_speech';
+
+        $query = $db->prepare("INSERT INTO $tableName (
                    $valueColumn,
                     synonym,
                     $genderColumn,
@@ -104,29 +135,31 @@ function insertNewSynonym(PDO $db, string $language, $value, $synonym, $gender, 
                     :partOfSpeech
                     )");
 
-    $query->execute([
-        ':value' => $value,
-        ':synonym' => $synonym,
-        ':gender' => $gender,
-        ':partOfSpeech' => $partOfSpeech
-    ]);
+        $query->execute([
+            ':value' => $value,
+            ':synonym' => $synonym,
+            ':gender' => $gender,
+            ':partOfSpeech' => $partOfSpeech
+        ]);
+    }
 }
 
 
 function updateExisting(PDO $db, string $language, string $value, string $type, string $topic, string $gender,
                         string $partOfSpeech, string $pronunciation, string $explanation,
-                        string $examples, string $synonyms, string $groupName, string $grammarCategory, string $counting, string $frequency, string $origin)
+                        string $examples, string $groupName, string $grammarCategory, string $counting, string $frequency, string $origin)
 {
+
     if ($language === 'english') {
+
         $query = $db->prepare("UPDATE vocabulary_english SET 
                          type=:type,
                          topic=:topic,
-                         gender=:gender,
+                         english_gender=:gender,
                          english_part_of_speech=:partOfSpeech,
                          english_pronunciation=:pronunciation,
                          english_explanation=:explanation,
                          english_examples=:examples,
-                         english_synonyms=:synonyms,
                          group_name=:groupName,
                          grammar_category=:grammarCategory,
                          english_counting=:counting,
@@ -143,7 +176,6 @@ function updateExisting(PDO $db, string $language, string $value, string $type, 
             ':pronunciation' => $pronunciation,
             ':explanation' => $explanation,
             ':examples' => $examples,
-            ':synonyms' => $synonyms,
             ':groupName' => $groupName,
             ':grammarCategory' => $grammarCategory,
             ':counting' => $counting,
@@ -257,7 +289,26 @@ function getVocabularies(PDO $db, string $language)
     return $query->fetchAll();
 
 }
+function getAllSynonyms(PDO $db, string $language)
+{
+    $tableName = 'vocabulary_' . $language.'_synonyms';
+    $columnName = $language . '_value';
 
+    $query = $db->prepare("SELECT $columnName FROM $tableName");
+    $query->execute();
+    return $query->fetchAll();
+
+}
+function getAllVocabularies(PDO $db, string $language)
+{
+    $tableName = 'vocabulary_' . $language;
+    $columnName = $language . '_value';
+
+    $query = $db->prepare("SELECT $columnName FROM $tableName");
+    $query->execute();
+    return $query->fetchAll();
+
+}
 function getGenderTranlation(string $gender = null, string $resultLanguage = null)
 {
     switch ($resultLanguage) {
@@ -282,15 +333,15 @@ function getGenderTranlation(string $gender = null, string $resultLanguage = nul
             }
             break;
         case 'ru':
-        switch ($gender) {
-            case 'masculine':
-                return 'мужской';
-            case 'feminine':
-                return 'женский';
-            case 'neuter':
-                return 'среднего рода';
-        }
-        break;
+            switch ($gender) {
+                case 'masculine':
+                    return 'мужской';
+                case 'feminine':
+                    return 'женский';
+                case 'neuter':
+                    return 'среднего рода';
+            }
+            break;
         case 'es':
             switch ($gender) {
                 case 'masculine':

@@ -107,7 +107,7 @@ function datamuseUploadVocabularies()
             );
         } catch (PDOException $message) {
             if ($message->errorInfo[1] == 1062) {
-               continue;
+                continue;
             } else {
                 $db->rollBack();
 
@@ -126,3 +126,66 @@ function datamuseUploadVocabularies()
     return PHP_EOL . 'Hodnoty vloženy' . PHP_EOL;
 
 }
+
+function uploadSynonyms()
+{
+    $db = connectToDatabase();
+    if ($db == null) {
+        $_SESSION['error'] = array(true, "Není spojení s databází");
+        return false;
+    }
+    //  $resultPath = __DIR__ . '/../sources/datamuseApi/english_synonyms.json';
+    //file_put_contents($resultPath, '');
+    $vocabularies = getVocabularies($db, 'english');
+
+    $limit = 200000;
+    $count = 0;
+    $allowed = false;
+    // error_reporting(0);
+
+    //$db->beginTransaction();
+    foreach ($vocabularies as $vocabulary) {
+        try {
+            $value = $vocabulary['english_value'];
+            if (trim($value) === 'parade') {
+                $allowed = true;
+            }
+            if ($allowed) {
+
+                $sourcePath = 'https://api.datamuse.com/words?rel_syn=' . $value . '&md=pf';
+                try {
+                    $synonyms = json_decode(@file_get_contents($sourcePath), true);
+                    /* if ($synonyms !== '[]' && $synonyms != '') {
+                         file_put_contents($resultPath, $synonyms . ',' . PHP_EOL, FILE_APPEND);
+                     }*/
+                    if (!empty($synonyms)) {
+                        foreach ($synonyms as $synonym) {
+                            $synonymValue = @$synonym['word'];
+                            $tags = @$synonym['tags'];
+                            $frequency = @substr($tags[count($tags) - 1], 2);
+                            $partOfSpeech = @getFullPartOfSpeech($tags[0]);
+                            insertNewSynonym($db, 'english', $value, $synonymValue, '', $partOfSpeech, $frequency);
+                        }
+                    }
+
+                } catch (Error $exception) {
+                    continue;
+                }
+            }
+            $count++;
+        } catch (PDOException $message) {
+            continue;
+        }
+    }
+//    if ($db->commit() === false) {
+//        $db->rollBack();
+//        return PHP_EOL . "Vložení hodnot se nezdařilo" . PHP_EOL;
+//
+//    }
+    return PHP_EOL . "Hodnoty vloženy" . PHP_EOL;
+
+    /* $content = file_get_contents($resultPath);
+     $result = substr($content, 0, strlen($content) - 3);
+     file_put_contents($resultPath, '[' . $result . ']');*/
+}
+

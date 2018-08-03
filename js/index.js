@@ -228,7 +228,7 @@ function uploadOxfordApiWordLists() {
  ******************************************************************************************/
 function datamuseApiAction(type) {
     $('.loaderWrapper').attr("style", "display:block;");
-    $.post(BASE + "/DatamuseApi.php", {
+    $.post(BASE + "/datamuseApi.php", {
 
 
             'type': type,
@@ -263,7 +263,20 @@ function uploadExternalResults() {
     ).done(function (data) {
         $('.loaderWrapper').attr("style", "display:none;");
         $('#result').val(data);
-    });
+    });}
+    /*******************************************************************************************
+     ************************************** GLOSBE API  **************************************
+     ******************************************************************************************/
+    function glosbeApiAction(type) {
+        $('.loaderWrapper').attr("style", "display:block;");
+        $.post(BASE + "/glosbeApi.php", {
+                'type': type,
+            }, function (data, textStatus, jqXHR) {
 
+            }
+        ).done(function (data) {
+            $('.loaderWrapper').attr("style", "display:none;");
+            $('#result').val(data);
 
-}
+        });
+    }

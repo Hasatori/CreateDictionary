@@ -5,10 +5,11 @@ if(isset($_POST['fromLanguage'])&& isset($_POST['toLanguage'])&&isset($_POST['fi
     $fL=$_POST['fromLanguage'];
     $tL=$_POST['toLanguage'];
     $fV=$_POST['firstValue'];
-    $translation =translate($fL,$tL,$fV);
+    $result =translate($fL,$tL,$fV);
 }else{
     $fL='en';
     $tL='cs';
+    $synonyms=null;
 }
 
 
@@ -64,16 +65,20 @@ buildNavBar("Překladač API");
         <h4 class="text-left">Překlad</h4>
         <p  id="translation" class="text-info text-left" >
             <?php
-            if (isset($translation))
-            echo trim($translation[0]);
+            if (isset($result))
+            echo trim($result[0]);
             ?>
 
         </p>
-        <h4  class="text-left">Synonyma</h4>
+        <h4  class="text-left">Synonyma a příbuzná slova</h4>
         <p  id="synonyms" class="text-info text-left" >
             <?php
-            if (isset($translation))
-                echo trim($translation[1]);
+            if (isset($result))
+             $synonyms = $result[1];
+            foreach ($synonyms as $synonym){
+                $language = getFullLanguageFromAbr($tL);
+                echo $synonym['synonym'].' '.$synonym[$language.'_gender'].' '.$synonym[$language.'_part_of_speech'].'</br>';
+            }
             ?>
 
 
