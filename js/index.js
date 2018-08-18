@@ -280,3 +280,28 @@ function uploadExternalResults() {
 
         });
     }
+
+$(document).ready(function () {
+
+    console.log(localStorage.getItem("searchVal"));
+   document.getElementById("searchField").value=localStorage.getItem("searchVal");
+   searchCategory();
+});
+
+
+/*******************************************************************************************
+ ************************************** SLOVNÍK.CZ API  **************************************
+ ******************************************************************************************/
+function slovnikCZAction(type) {
+    $('.loaderWrapper').attr("style", "display:block;");
+    $.post(BASE + "/slovnikCZ.php", {
+            'type': type,
+        }, function (data, textStatus, jqXHR) {
+
+        }
+    ).done(function (data) {
+        $('.loaderWrapper').attr("style", "display:none;");
+        $('#result').val(data);
+
+    });
+}

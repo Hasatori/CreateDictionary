@@ -9,8 +9,7 @@ function uploadTranslation(string $sourceFile)
     ini_set('memory_limit', '-1');
     $language = explode("_", $sourceFile)[0];
     $jsonFileContent = json_decode(file_get_contents(__DIR__ . '/../sources/fromExternalResults/' . $sourceFile), true);
-    $limit = 50;
-    $count = 0;
+
     $db->beginTransaction();
 
     foreach ($jsonFileContent as $item) {

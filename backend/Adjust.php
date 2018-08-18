@@ -1,5 +1,5 @@
 <?php
-/*
+
 require_once 'AuxiliaryFunctions.php';
 ini_set('memory_limit', '-1');
 $files = listDirectory("/../sources/fromExternalResults");
@@ -15,7 +15,7 @@ foreach ($files as $file) {
         }
     }
     $result = implode(PHP_EOL, $rows);
-    file_put_contents(__DIR__ . "/../sources/fromExternalResults/" . 'new_' .$file,$result);
+    file_put_contents(__DIR__ . "/../sources/fromExternalResults/" .$file,$result);
 }
-echo "DONE";*/
-echo "CURRENTLY NOT AVAILABLE";
+echo "DONE";
+//echo "CURRENTLY NOT AVAILABLE";

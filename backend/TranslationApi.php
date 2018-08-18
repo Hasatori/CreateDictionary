@@ -16,18 +16,22 @@ function translate(string $fromLanguage, string $toLanguage, string $firstValue)
     $fromLanguage = getFullLanguageFromAbr($fromLanguage);
     $toLanguage = getFullLanguageFromAbr($toLanguage);
     $fromTable = 'vocabulary_' . $fromLanguage;
-        $fromColumnName = $fromLanguage . '_value';
+    $fromColumnName = $fromLanguage . '_value';
     $toTable = 'vocabulary_' . $toLanguage;
-        $toColumnName = $toLanguage . '_value';
+    $toColumnName = $toLanguage . '_value';
     $englishValue = getEnglishValue($db, $fromTable, $fromColumnName, $firstValue);
 
     $query = $db->prepare("SELECT $toColumnName FROM $fromTable join $toTable using(english_value)
-    where english_value=:englishValue LIMIT 1");
+    where english_value=:englishValue");
     $query->execute([':englishValue' => $englishValue]);
-    $translation = $query->fetch()[0];
-    $synonyms = getSynonyms($db, $toLanguage, $translation);
-    return array($translation, $synonyms);
+    $translations = $query->fetchAll();
+    //var_dump($translations);
+    $synonyms = array();
+    foreach ($translations as $translation) {
+        $synonyms = array_merge($synonyms, getSynonyms($db, $toLanguage, $translation[$toLanguage . "_value"]));
 
+    }
+    return array($translations[0][$toLanguage . "_value"], $synonyms, getOtherTranslations($db, $fromLanguage, $toLanguage, $translations[0][$toLanguage . "_value"]));
 }
 
 function getEnglishValue(PDO $db, string $fromTable, string $fromColumnName, string $firstValue)
@@ -41,11 +45,22 @@ function getEnglishValue(PDO $db, string $fromTable, string $fromColumnName, str
 function getSynonyms(PDO $db, string $language, $value)
 {
     $tableName = 'vocabulary_' . $language . '_synonyms';
-    $columnName = $language.'_value';
+    $columnName = $language . '_value';
     $query = $db->prepare("SELECT * FROM $tableName where $columnName=:value ");
     $query->execute([':value' => $value]);
     return $query->fetchAll(PDO::FETCH_ASSOC);
 
+}
+
+function getOtherTranslations(PDO $db, string $fromLanguage, string $toLanguage, $value)
+{
+    $valueColumn = $fromLanguage . "_value";
+    $tableName = 'vocabulary_' . $toLanguage;
+    $columnName = $toLanguage . '_value';
+
+    $query = $db->prepare("SELECT $valueColumn FROM $tableName where $columnName=:value ");
+    $query->execute([':value' => $value]);
+    return $query->fetchAll(PDO::FETCH_ASSOC);
 }
 
 

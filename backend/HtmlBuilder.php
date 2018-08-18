@@ -35,6 +35,8 @@ function buildNavBar($heading){
         <li id="translationApi"><a href="<?= BASE ?>translationApi.php">Překladač API</a></li>
         <li id="datamuseApi"><a href="<?= BASE ?>datamuseApi.php">Datamuse API</a></li>
         <li id="glosbeApi"><a href="<?= BASE ?>glosbeApi.php">Glosbe API</a></li>
+        <!--<li id="categories"><a href="<?= BASE ?>categories.php">Categories</a></li>-->
+        <li id="slovnikCZ"><a href="<?= BASE ?>slovnikCZ.php">Slovník.cz API</a></li>
     </ul>
   </div>
 </nav>

@@ -19,17 +19,28 @@ function listDirectory(string $dir)
 }
 
 
-function vocExists(PDO $db, string $val = null)
+function vocExists(PDO $db, string $val = null, string $language = null)
 {
-
-    $query = $db->prepare("SELECT * FROM vocabulary_english where english_value=:val LIMIT 1");
+    $tableName = 'vocabulary_' . $language;
+    $columnName = $language . '_value';
+    if ($language == null) {
+        $tableName = 'vocabulary_english';
+        $columnName = 'english_value';
+    }
+    $query = $db->prepare("SELECT * FROM $tableName where $columnName=:val LIMIT 1");
     $query->execute([':val' => $val]);
     $result = $query->fetchAll(PDO::FETCH_ASSOC);
     return count($result) === 1 ? true : false;
 }
 
-function synonymExists(PDO $db, string $val = null){
-    $query = $db->prepare("SELECT * FROM vocabulary_english_synonyms where english_value=:val LIMIT 1");
+function synonymExists(PDO $db, string $val = null, $language = null)
+{
+    $tableName = 'vocabulary_' . $language . "_synonyms";
+    if ($language == null) {
+        $tableName = 'vocabulary_english';
+
+    }
+    $query = $db->prepare("SELECT * FROM $tableName where synonym=:val LIMIT 1");
     $query->execute([':val' => $val]);
     $result = $query->fetchAll(PDO::FETCH_ASSOC);
     return count($result) === 1 ? true : false;
@@ -91,7 +102,7 @@ function insertNewVoc(PDO $db, string $language, string $value, string $translat
     }
 }
 
-function insertNewSynonym(PDO $db, string $language, $value, $synonym, $gender, $partOfSpeech,$frequency=null)
+function insertNewSynonym(PDO $db, string $language, $value, $synonym, $gender, $partOfSpeech, $frequency = null)
 {
     if ($language === 'english') {
         $query = $db->prepare("INSERT INTO vocabulary_english_synonyms (
@@ -121,7 +132,6 @@ function insertNewSynonym(PDO $db, string $language, $value, $synonym, $gender, 
         $valueColumn = $language . '_value';
         $genderColumn = $language . '_gender';
         $partOfSpeechColumn = $language . '_part_of_speech';
-
         $query = $db->prepare("INSERT INTO $tableName (
                    $valueColumn,
                     synonym,
@@ -184,7 +194,6 @@ function updateExisting(PDO $db, string $language, string $value, string $type, 
         ]);
     } else {
 
-
     }
 }
 
@@ -203,10 +212,15 @@ function insertExistingVoc(PDO $db, string $language, string $englishValue, stri
     ]);
 }
 
-function getVocabulary(PDO $db, string $value)
+function getVocabulary(PDO $db, string $value, $language = null)
 {
-
-    $query = $db->prepare("SELECT * FROM vocabulary_english where english_value=:val LIMIT 1");
+    $tableName = 'vocabulary_' . $language;
+    $columnName = $language . '_value';
+    if ($language == null) {
+        $tableName = 'vocabulary_english';
+        $columnName = 'english_value';
+    }
+    $query = $db->prepare("SELECT * FROM $tableName where $columnName=:val LIMIT 1");
     $query->execute([':val' => $value]);
     return $query->fetch(PDO::FETCH_ASSOC);
 
@@ -289,9 +303,10 @@ function getVocabularies(PDO $db, string $language)
     return $query->fetchAll();
 
 }
+
 function getAllSynonyms(PDO $db, string $language)
 {
-    $tableName = 'vocabulary_' . $language.'_synonyms';
+    $tableName = 'vocabulary_' . $language . '_synonyms';
     $columnName = $language . '_value';
 
     $query = $db->prepare("SELECT $columnName FROM $tableName");
@@ -299,6 +314,7 @@ function getAllSynonyms(PDO $db, string $language)
     return $query->fetchAll();
 
 }
+
 function getAllVocabularies(PDO $db, string $language)
 {
     $tableName = 'vocabulary_' . $language;
@@ -309,6 +325,7 @@ function getAllVocabularies(PDO $db, string $language)
     return $query->fetchAll();
 
 }
+
 function getGenderTranlation(string $gender = null, string $resultLanguage = null)
 {
     switch ($resultLanguage) {
